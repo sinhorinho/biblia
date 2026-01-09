@@ -1,0 +1,89 @@
+/* biblia/css/style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+nav label {
+    font-weight: bold;
+}
+
+nav select {
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+main h2 {
+    color: #0056b3;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+main p {
+    margin-bottom: 1em;
+}
+
+/* Basic styling for markdown converted elements */
+main ul, main ol {
+    margin-left: 20px;
+    margin-bottom: 1em;
+}
+
+main blockquote {
+    border-left: 4px solid #ccc;
+    padding-left: 10px;
+    color: #666;
+    font-style: italic;
+    margin-bottom: 1em;
+}
+
+main pre {
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 4px;
+    overflow-x: auto;
+    margin-bottom: 1em;
+}
+
+main code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #eee;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
