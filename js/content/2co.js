@@ -1,20 +1,1099 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['2co'] = {
-  "1": "<h1>2 Coríntios - Capítulo 1</h1>\n<p><strong>1</strong> Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo, à igreja de Deus, que está em Corinto, com todos os santos que estão em toda a Acaia.</p>\n<p><strong>2</strong> Graça a vós e paz da parte de Deus nosso Pai, e da do Senhor Jesus Cristo.</p>\n<p><strong>3</strong> Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação;</p>\n<p><strong>4</strong> Que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus.</p>\n<p><strong>5</strong> Porque, como as aflições de Cristo são abundantes em nós, assim também é abundante a nossa consolação por meio de Cristo.</p>\n<p><strong>6</strong> Mas, se somos atribulados, é para vossa consolação e salvação; ou, se somos consolados, para vossa consolação e salvação é, a qual se opera suportando com paciência as mesmas aflições que nós também padecemos;</p>\n<p><strong>7</strong> E a nossa esperança acerca de vós é firme, sabendo que, como sois participantes das aflições, assim o sereis também da consolação.</p>\n<p><strong>8</strong> Porque não queremos, irmãos, que ignoreis a nossa tribulação que nos sobreveio na Ásia, pois que fomos sobremaneira agravados mais do que podíamos suportar, de modo tal que até da vida desesperamos.</p>\n<p><strong>9</strong> Mas já em nós mesmos tínhamos a sentença de morte, para que não confiássemos em nós, mas em Deus, que ressuscita os mortos;</p>\n<p><strong>10</strong> O qual nos livrou de tão grande morte, e livra; em quem esperamos que também nos livrará ainda,</p>\n<p><strong>11</strong> Ajudando-nos também vós com orações por nós, para que pelo benefício, que por muitas pessoas nos foi feito, por muitas também sejam dadas graças a nosso respeito.</p>\n<p><strong>12</strong> Porque a nossa glória é esta: o testemunho da nossa consciência, de que com simplicidade e sinceridade de Deus, não com sabedoria carnal, mas na graça de Deus, temos vivido no mundo, e de modo particular convosco.</p>\n<p><strong>13</strong> Porque nenhumas outras coisas vos escrevemos, senão as que já sabeis ou também reconheceis; e espero que também até ao fim as reconhecereis.</p>\n<p><strong>14</strong> Como também já em parte reconhecestes em nós, que somos a vossa glória, como também vós sereis a nossa no dia do Senhor Jesus.</p>\n<p><strong>15</strong> E com esta confiança quis primeiro ir ter convosco, para que tivésseis uma segunda graça;</p>\n<p><strong>16</strong> E por vós passar à Macedônia, e da Macedônia ir outra vez ter convosco, e ser guiado por vós à Judeia.</p>\n<p><strong>17</strong> E, deliberando isto, usei porventura de leviandade? Ou o que delibero, o delibero segundo a carne, para que haja em mim sim, sim, e não, não?</p>\n<p><strong>18</strong> Antes, como Deus é fiel, a nossa palavra para convosco não foi sim e não.</p>\n<p><strong>19</strong> Porque o Filho de Deus, Jesus Cristo, que entre vós foi pregado por nós, isto é, por mim, Silvano e Timóteo, não foi sim e não; mas nele houve sim.</p>\n<p><strong>20</strong> Porque todas quantas promessas há de Deus, são nele sim, e por ele o Amém, para glória de Deus por nós.</p>\n<p><strong>21</strong> Mas o que nos confirma convosco em Cristo, e o que nos ungiu, é Deus,</p>\n<p><strong>22</strong> O qual também nos selou e deu o penhor do Espírito em nossos corações.</p>\n<p><strong>23</strong> Invoco, porém, a Deus por testemunha sobre a minha alma, que para vos poupar não tenho até agora ido a Corinto;</p>\n<p><strong>24</strong> Não que tenhamos domínio sobre a vossa fé, mas porque somos cooperadores de vosso gozo; porque pela fé estais em pé.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">2 Coríntios 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "2": "<h1>2 Coríntios - Capítulo 2</h1>\n<p><strong>1</strong> Mas deliberei isto comigo mesmo: não ir mais ter convosco em tristeza.</p>\n<p><strong>2</strong> Porque, se eu vos entristeço, quem é que me alegrará, senão aquele que por mim foi contristado?</p>\n<p><strong>3</strong> E escrevi-vos isto mesmo, para que, quando lá for, não tenha tristeza da parte dos que deveriam alegrar-me; confiando em vós todos, que a minha alegria é a de todos vós.</p>\n<p><strong>4</strong> Porque em muita tribulação e angústia do coração vos escrevi, com muitas lágrimas, não para que vos entristecêsseis, mas para que conhecêsseis o amor que abundantemente vos tenho.</p>\n<p><strong>5</strong> Porque, se alguém me contristou, não me contristou a mim senão em parte, para vos não sobrecarregar a vós todos.</p>\n<p><strong>6</strong> Basta-lhe ao tal esta repreensão feita por muitos.</p>\n<p><strong>7</strong> De maneira que pelo contrário deveis antes perdoar-lhe e consolá-lo, para que o tal não seja de modo algum devorado de demasiada tristeza.</p>\n<p><strong>8</strong> Por isso vos rogo que confirmeis para com ele o vosso amor.</p>\n<p><strong>9</strong> E para isso vos escrevi também, para por esta prova saber se sois obedientes em tudo.</p>\n<p><strong>10</strong> E a quem perdoardes alguma coisa, também eu; porque se eu também perdoei alguma coisa, a quem a perdoei por amor de vós o fiz na presença de Cristo; para que não sejamos sobrepujados por Satanás;</p>\n<p><strong>11</strong> Porque não ignoramos os seus ardis.</p>\n<p><strong>12</strong> Ora, quando cheguei a Trôade para pregar o evangelho de Cristo, e abrindo-se-me uma porta no Senhor,</p>\n<p><strong>13</strong> Não tive descanso no meu espírito, porque não achei ali meu irmão Tito; mas, despedindo-me deles, parti para a Macedônia.</p>\n<p><strong>14</strong> E graças a Deus, que sempre nos faz triunfar em Cristo, e por meio de nós manifesta em todo o lugar a fragrância do seu conhecimento.</p>\n<p><strong>15</strong> Porque para Deus somos o bom perfume de Cristo, nos que se salvam e nos que se perdem.</p>\n<p><strong>16</strong> Para estes certamente cheiro de morte para morte; mas para aqueles cheiro de vida para vida. E para estas coisas quem é idôneo?</p>\n<p><strong>17</strong> Porque nós não somos, como muitos, que ganham falsificando a palavra de Deus, antes a falamos em Cristo com sinceridade, antes como de Deus na presença de Deus.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- 2 Coríntios 1</a> | <a href=\"capitulo_3.md\">2 Coríntios 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "3": "<h1>2 Coríntios - Capítulo 3</h1>\n<p><strong>1</strong> Porventura começamos outra vez a louvar-nos a nós mesmos? Ou necessitamos, como alguns, de cartas de recomendação para vós, ou de recomendação de vós?</p>\n<p><strong>2</strong> Vós sois a nossa carta, escrita em nossos corações, conhecida e lida por todos os homens.</p>\n<p><strong>3</strong> Porque já é manifesto que vós sois a carta de Cristo, ministrada por nós, e escrita, não com tinta, mas com o Espírito do Deus vivo, não em tábuas de pedra, mas nas tábuas de carne do coração.</p>\n<p><strong>4</strong> E é por Cristo que temos tal confiança em Deus;</p>\n<p><strong>5</strong> Não que sejamos capazes, por nós, de pensar alguma coisa, como de nós mesmos; mas a nossa capacidade vem de Deus,</p>\n<p><strong>6</strong> O qual nos fez também capazes de ser ministros de um novo testamento, não da letra, mas do espírito; porque a letra mata e o espírito vivifica.</p>\n<p><strong>7</strong> E, se o ministério da morte, gravado com letras em pedras, veio em glória, de maneira que os filhos de Israel não podiam fitar os olhos na face de Moisés, por causa da glória do seu rosto, a qual era transitória,</p>\n<p><strong>8</strong> Como não será de maior glória o ministério do Espírito?</p>\n<p><strong>9</strong> Porque, se o ministério da condenação foi glorioso, muito mais excederá em glória o ministério da justiça.</p>\n<p><strong>10</strong> Porque também o que foi glorificado nesta parte não foi glorificado, por causa desta excelente glória.</p>\n<p><strong>11</strong> Porque, se o que era transitório foi para glória, muito mais é em glória o que permanece.</p>\n<p><strong>12</strong> Tendo, pois, tal esperança, usamos de muita ousadia no falar.</p>\n<p><strong>13</strong> E não somos como Moisés, que punha um véu sobre a sua face, para que os filhos de Israel não olhassem firmemente para o fim daquilo que era transitório.</p>\n<p><strong>14</strong> Mas os seus sentidos foram endurecidos; porque até hoje o mesmo véu está por levantar na lição do velho testamento, o qual foi por Cristo abolido;</p>\n<p><strong>15</strong> E até hoje, quando é lido Moisés, o véu está posto sobre o coração deles.</p>\n<p><strong>16</strong> Mas, quando se converterem ao Senhor, então o véu se tirará.</p>\n<p><strong>17</strong> Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.</p>\n<p><strong>18</strong> Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- 2 Coríntios 2</a> | <a href=\"capitulo_4.md\">2 Coríntios 4 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "4": "<h1>2 Coríntios - Capítulo 4</h1>\n<p><strong>1</strong> Por isso, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos;</p>\n<p><strong>2</strong> Antes, rejeitamos as coisas que por vergonha se ocultam, não andando com astúcia nem falsificando a palavra de Deus; e assim nos recomendamos à consciência de todo o homem, na presença de Deus, pela manifestação da verdade.</p>\n<p><strong>3</strong> Mas, se ainda o nosso evangelho está encoberto, para os que se perdem está encoberto.</p>\n<p><strong>4</strong> Nos quais o deus deste século cegou os entendimentos dos incrédulos, para que lhes não resplandeça a luz do evangelho da glória de Cristo, que é a imagem de Deus.</p>\n<p><strong>5</strong> Porque não nos pregamos a nós mesmos, mas a Cristo Jesus, o Senhor; e nós mesmos somos vossos servos por amor de Jesus.</p>\n<p><strong>6</strong> Porque Deus, que disse que das trevas resplandecesse a luz, é quem resplandeceu em nossos corações, para iluminação do conhecimento da glória de Deus, na face de Jesus Cristo.</p>\n<p><strong>7</strong> Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós.</p>\n<p><strong>8</strong> Em tudo somos atribulados, mas não angustiados; perplexos, mas não desanimados.</p>\n<p><strong>9</strong> Perseguidos, mas não desamparados; abatidos, mas não destruídos;</p>\n<p><strong>10</strong> Trazendo sempre por toda a parte a mortificação do Senhor Jesus no corpo, para que a vida de Jesus se manifeste também no nosso corpo;</p>\n<p><strong>11</strong> E assim nós, que vivemos, estamos sempre entregues à morte por amor de Jesus, para que a vida de Jesus se manifeste também na nossa carne mortal.</p>\n<p><strong>12</strong> De maneira que em nós opera a morte, mas em vós a vida.</p>\n<p><strong>13</strong> E temos, portanto, o mesmo espírito de fé, como está escrito: Cri, por isso falei; nós cremos também, por isso também falamos.</p>\n<p><strong>14</strong> Sabendo que o que ressuscitou o Senhor Jesus nos ressuscitará também por Jesus, e nos apresentará convosco.</p>\n<p><strong>15</strong> Porque tudo isto é por amor de vós, para que a graça, multiplicada por meio de muitos, faça abundar a ação de graças para glória de Deus.</p>\n<p><strong>16</strong> Por isso não desfalecemos; mas, ainda que o nosso homem exterior se corrompa, o interior, contudo, se renova de dia em dia.</p>\n<p><strong>17</strong> Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente;</p>\n<p><strong>18</strong> Não atentando nós nas coisas que se veem, mas nas que se não veem; porque as que se veem são temporais, e as que se não veem são eternas.</p>\n<hr>\n<p><a href=\"capitulo_3.md\">&lt;- 2 Coríntios 3</a> | <a href=\"capitulo_5.md\">2 Coríntios 5 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "5": "<h1>2 Coríntios - Capítulo 5</h1>\n<p><strong>1</strong> Porque sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, temos de Deus um edifício, uma casa não feita por mãos, eterna, nos céus.</p>\n<p><strong>2</strong> E por isso também gememos, desejando ser revestidos da nossa habitação, que é do céu;</p>\n<p><strong>3</strong> Se, todavia, estando vestidos, não formos achados nus.</p>\n<p><strong>4</strong> Porque também nós, os que estamos neste tabernáculo, gememos carregados; não porque queremos ser despidos, mas revestidos, para que o mortal seja absorvido pela vida.</p>\n<p><strong>5</strong> Ora, quem para isto mesmo nos preparou foi Deus, o qual nos deu também o penhor do Espírito.</p>\n<p><strong>6</strong> Por isso estamos sempre de bom ânimo, sabendo que, enquanto estamos no corpo, vivemos ausentes do Senhor</p>\n<p><strong>7</strong> (Porque andamos por fé, e não por vista).</p>\n<p><strong>8</strong> Mas temos confiança e desejamos antes deixar este corpo, para habitar com o Senhor.</p>\n<p><strong>9</strong> Pois que muito desejamos também ser-lhe agradáveis, quer presentes, quer ausentes.</p>\n<p><strong>10</strong> Porque todos devemos comparecer ante o tribunal de Cristo, para que cada um receba segundo o que tiver feito por meio do corpo, ou bem, ou mal.</p>\n<p><strong>11</strong> Assim que, sabendo o temor que se deve ao Senhor, persuadimos os homens à fé, mas somos manifestos a Deus; e espero que nas vossas consciências sejamos também manifestos.</p>\n<p><strong>12</strong> Porque não nos recomendamos outra vez a vós; mas damo-vos ocasião de vos gloriardes de nós, para que tenhais que responder aos que se gloriam na aparência e não no coração.</p>\n<p><strong>13</strong> Porque, se enlouquecemos, é para Deus; e, se conservamos o juízo, é para vós.</p>\n<p><strong>14</strong> Porque o amor de Cristo nos constrange, julgando nós assim: que, se um morreu por todos, logo todos morreram.</p>\n<p><strong>15</strong> E ele morreu por todos, para que os que vivem não vivam mais para si, mas para aquele que por eles morreu e ressuscitou.</p>\n<p><strong>16</strong> Assim que daqui por diante a ninguém conhecemos segundo a carne, e, ainda que também tenhamos conhecido Cristo segundo a carne, contudo agora já não o conhecemos deste modo.</p>\n<p><strong>17</strong> Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo.</p>\n<p><strong>18</strong> E tudo isto provém de Deus, que nos reconciliou consigo mesmo por Jesus Cristo, e nos deu o ministério da reconciliação;</p>\n<p><strong>19</strong> Isto é, Deus estava em Cristo reconciliando consigo o mundo, não lhes imputando os seus pecados; e pôs em nós a palavra da reconciliação.</p>\n<p><strong>20</strong> De sorte que somos embaixadores da parte de Cristo, como se Deus por nós rogasse. Rogamo-vos, pois, da parte de Cristo, que vos reconcilieis com Deus.</p>\n<p><strong>21</strong> Àquele que não conheceu pecado, o fez pecado por nós; para que nele fôssemos feitos justiça de Deus.</p>\n<hr>\n<p><a href=\"capitulo_4.md\">&lt;- 2 Coríntios 4</a> | <a href=\"capitulo_6.md\">2 Coríntios 6 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "6": "<h1>2 Coríntios - Capítulo 6</h1>\n<p><strong>1</strong> E nós, cooperando também com ele, vos exortamos a que não recebais a graça de Deus em vão</p>\n<p><strong>2</strong> (Porque diz: Ouvi-te em tempo aceitável e socorri-te no dia da salvação; eis aqui agora o tempo aceitável, eis aqui agora o dia da salvação).</p>\n<p><strong>3</strong> Não dando nós escândalo em coisa alguma, para que o nosso ministério não seja censurado;</p>\n<p><strong>4</strong> Antes, como ministros de Deus, tornando-nos recomendáveis em tudo; na muita paciência, nas aflições, nas necessidades, nas angústias,</p>\n<p><strong>5</strong> Nos açoites, nas prisões, nos tumultos, nos trabalhos, nas vigílias, nos jejuns,</p>\n<p><strong>6</strong> Na pureza, no conhecimento, na longanimidade, na benignidade, no Espírito Santo, no amor não fingido,</p>\n<p><strong>7</strong> Na palavra da verdade, no poder de Deus, pelas armas da justiça, à direita e à esquerda,</p>\n<p><strong>8</strong> Por honra e por desonra, por infâmia e por boa fama; como enganadores, e sendo verdadeiros;</p>\n<p><strong>9</strong> Como desconhecidos, mas sendo bem conhecidos; como morrendo, e eis que vivemos; como castigados, e não mortos;</p>\n<p><strong>10</strong> Como contristados, mas sempre alegres; como pobres, mas enriquecendo a muitos; como nada tendo, e possuindo tudo.</p>\n<p><strong>11</strong> Ó coríntios, a nossa boca está aberta para vós, o nosso coração está dilatado.</p>\n<p><strong>12</strong> Não estais estreitados em nós; mas estais estreitados nos vossos próprios afetos.</p>\n<p><strong>13</strong> Ora, em recompensa disto, (falo como a filhos) dilatai-vos também vós.</p>\n<p><strong>14</strong> Não vos prendais a um jugo desigual com os infiéis; porque, que sociedade tem a justiça com a injustiça? E que comunhão tem a luz com as trevas?</p>\n<p><strong>15</strong> E que concórdia há entre Cristo e Belial? Ou que parte tem o fiel com o infiel?</p>\n<p><strong>16</strong> E que consenso tem o templo de Deus com os ídolos? Porque vós sois o templo do Deus vivente, como Deus disse: Neles habitarei, e entre eles andarei; e eu serei o seu Deus e eles serão o meu povo.</p>\n<p><strong>17</strong> Por isso saí do meio deles, e apartai-vos, diz o Senhor; e não toqueis nada imundo, e eu vos receberei;</p>\n<p><strong>18</strong> E eu serei para vós Pai, e vós sereis para mim filhos e filhas, diz o Senhor Todo-Poderoso.</p>\n<hr>\n<p><a href=\"capitulo_5.md\">&lt;- 2 Coríntios 5</a> | <a href=\"capitulo_7.md\">2 Coríntios 7 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "7": "<h1>2 Coríntios - Capítulo 7</h1>\n<p><strong>1</strong> Ora, amados, pois que temos tais promessas, purifiquemo-nos de toda a imundícia da carne e do espírito, aperfeiçoando a santificação no temor de Deus.</p>\n<p><strong>2</strong> Recebei-nos em vossos corações; a ninguém agravamos, a ninguém corrompemos, de ninguém buscamos o nosso proveito.</p>\n<p><strong>3</strong> Não digo isto para vossa condenação; pois já antes tinha dito que estais em nossos corações para juntamente morrer e viver.</p>\n<p><strong>4</strong> Grande é a ousadia da minha fala para convosco, e grande a minha glória a respeito de vós; estou cheio de consolação; transbordo de gozo em todas as nossas tribulações.</p>\n<p><strong>5</strong> Porque, mesmo quando chegamos à Macedônia, a nossa carne não teve repouso algum; antes em tudo fomos atribulados: por fora combates, temores por dentro.</p>\n<p><strong>6</strong> Mas Deus, que consola os abatidos, nos consolou com a vinda de Tito.</p>\n<p><strong>7</strong> E não somente com a sua vinda, mas também pela consolação com que foi consolado por vós, contando-nos as vossas saudades, o vosso choro, o vosso zelo por mim, de maneira que muito me regozijei.</p>\n<p><strong>8</strong> Porquanto, ainda que vos contristei com a minha carta, não me arrependo, embora já me tivesse arrependido por ver que aquela carta vos contristou, ainda que por pouco tempo.</p>\n<p><strong>9</strong> Agora folgo, não porque fostes contristados, mas porque fostes contristados para arrependimento; pois fostes contristados segundo Deus; de maneira que por nós não padecestes dano em coisa alguma.</p>\n<p><strong>10</strong> Porque a tristeza segundo Deus opera arrependimento para a salvação, da qual ninguém se arrepende; mas a tristeza do mundo opera a morte.</p>\n<p><strong>11</strong> Porque, quanto cuidado não produziu isto mesmo em vós que, segundo Deus, fostes contristados! Que apologia, que indignação, que temor, que saudades, que zelo, que vingança! Em tudo mostrastes estar puros neste negócio.</p>\n<p><strong>12</strong> Portanto, ainda que vos escrevi, não foi por causa do que fez o agravo, nem por causa do que sofreu o agravo, mas para que o vosso grande cuidado por nós fosse manifesto diante de Deus.</p>\n<p><strong>13</strong> Por isso fomos consolados pela vossa consolação, e muito mais nos alegramos pela alegria de Tito, porque o seu espírito foi recreado por vós todos.</p>\n<p><strong>14</strong> Porque, se nalguma coisa me gloriei de vós para com ele, não fiquei envergonhado; mas, como vos dissemos tudo com verdade, também a nossa glória para com Tito se achou verdadeira.</p>\n<p><strong>15</strong> E o seu entranhável afeto para convosco é mais abundante, lembrando-se da obediência de vós todos, e de como o recebestes com temor e tremor.</p>\n<p><strong>16</strong> Regozijo-me de em tudo poder confiar em vós.</p>\n<hr>\n<p><a href=\"capitulo_6.md\">&lt;- 2 Coríntios 6</a> | <a href=\"capitulo_8.md\">2 Coríntios 8 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "8": "<h1>2 Coríntios - Capítulo 8</h1>\n<p><strong>1</strong> Também, irmãos, vos fazemos conhecer a graça de Deus dada às igrejas da Macedônia;</p>\n<p><strong>2</strong> Como em muita prova de tribulação houve abundância do seu gozo, e como a sua profunda pobreza abundou em riquezas da sua generosidade.</p>\n<p><strong>3</strong> Porque, segundo o seu poder (o que eu mesmo testifico) e ainda acima do seu poder, deram voluntariamente.</p>\n<p><strong>4</strong> Pedindo-nos com muitos rogos que aceitássemos a graça e a comunicação deste serviço, que se fazia para com os santos.</p>\n<p><strong>5</strong> E não somente fizeram como nós esperávamos, mas a si mesmos se deram primeiramente ao Senhor, e depois a nós, pela vontade de Deus.</p>\n<p><strong>6</strong> De maneira que exortamos a Tito que, assim como antes tinha começado, assim também acabasse esta graça entre vós.</p>\n<p><strong>7</strong> Portanto, assim como em tudo abundais em fé, e em palavra, e em conhecimento, e em toda a diligência, e em vosso amor para conosco, assim também abundeis nesta graça.</p>\n<p><strong>8</strong> Não digo isto como quem manda, mas para provar, pela diligência dos outros, a sinceridade de vosso amor.</p>\n<p><strong>9</strong> Porque já sabeis a graça de nosso Senhor Jesus Cristo que, sendo rico, por amor de vós se fez pobre; para que pela sua pobreza enriquecêsseis.</p>\n<p><strong>10</strong> E nisto dou o meu parecer; pois isto convém a vós que, desde o ano passado, começastes; e não foi só praticar, mas também querer.</p>\n<p><strong>11</strong> Agora, porém, completai também o já começado, para que, assim como houve a prontidão de vontade, haja também o cumprimento, segundo o que tendes.</p>\n<p><strong>12</strong> Porque, se há prontidão de vontade, será aceita segundo o que qualquer tem, e não segundo o que não tem.</p>\n<p><strong>13</strong> Mas, não digo isto para que os outros tenham alívio, e vós opressão,</p>\n<p><strong>14</strong> Mas para igualdade; neste tempo presente, a vossa abundância supra a falta dos outros, para que também a sua abundância supra a vossa falta, e haja igualdade;</p>\n<p><strong>15</strong> Como está escrito: O que muito colheu não teve demais; e o que pouco, não teve de menos.</p>\n<p><strong>16</strong> Mas, graças a Deus, que pôs a mesma solicitude por vós no coração de Tito;</p>\n<p><strong>17</strong> Pois aceitou a exortação, e muito diligente partiu voluntariamente para vós.</p>\n<p><strong>18</strong> E com ele enviamos aquele irmão cujo louvor no evangelho está espalhado em todas as igrejas.</p>\n<p><strong>19</strong> E não só isto, mas foi também escolhido pelas igrejas para companheiro da nossa viagem, nesta graça que por nós é ministrada para glória do mesmo Senhor, e prontidão do vosso ânimo;</p>\n<p><strong>20</strong> Evitando isto, que alguém nos vitupere por esta abundância, que por nós é ministrada;</p>\n<p><strong>21</strong> Pois procuramos o que é honesto, não só diante do Senhor, mas também diante dos homens.</p>\n<p><strong>22</strong> Com eles enviamos também outro nosso irmão, o qual muitas vezes, e em muitas coisas, já experimentamos ser diligente, e agora muito mais diligente ainda pela muita confiança que em vós tem.</p>\n<p><strong>23</strong> Quanto a Tito, é meu companheiro, e cooperador para convosco; quanto a nossos irmãos, são embaixadores das igrejas e glória de Cristo.</p>\n<p><strong>24</strong> Portanto, mostrai para com eles, e perante a face das igrejas, a prova do vosso amor, e da nossa glória acerca de vós.</p>\n<hr>\n<p><a href=\"capitulo_7.md\">&lt;- 2 Coríntios 7</a> | <a href=\"capitulo_9.md\">2 Coríntios 9 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "9": "<h1>2 Coríntios - Capítulo 9</h1>\n<p><strong>1</strong> Quanto à administração que se faz a favor dos santos, não necessito escrever-vos;</p>\n<p><strong>2</strong> Porque bem sei a prontidão do vosso ânimo, da qual me glorio de vós para com os macedônios; que a Acaia está pronta desde o ano passado; e o vosso zelo tem estimulado muitos.</p>\n<p><strong>3</strong> Mas enviei estes irmãos, para que a nossa glória, acerca de vós, não seja vã nesta parte; para que (como já disse) possais estar prontos,</p>\n<p><strong>4</strong> A fim de, se acaso os macedônios vierem comigo, e vos acharem desapercebidos, não nos envergonharmos nós (para não dizermos vós) deste firme fundamento de glória.</p>\n<p><strong>5</strong> Portanto, tive por coisa necessária exortar estes irmãos, para que primeiro fossem ter convosco, e preparassem de antemão a vossa bênção, já antes anunciada, para que esteja pronta como bênção, e não como avareza.</p>\n<p><strong>6</strong> E digo isto: Que o que semeia pouco, pouco também ceifará; e o que semeia em abundância, em abundância ceifará.</p>\n<p><strong>7</strong> Cada um contribua segundo propôs no seu coração; não com tristeza, ou por necessidade; porque Deus ama ao que dá com alegria.</p>\n<p><strong>8</strong> E Deus é poderoso para fazer abundar em vós toda a graça, a fim de que tendo sempre, em tudo, toda a suficiência, abundeis em toda a boa obra;</p>\n<p><strong>9</strong> Conforme está escrito: Espalhou, deu aos pobres; a sua justiça permanece para sempre.</p>\n<p><strong>10</strong> Ora, aquele que dá a semente ao que semeia, também vos dê pão para comer, e multiplique a vossa sementeira, e aumente os frutos da vossa justiça;</p>\n<p><strong>11</strong> Para que em tudo enriqueçais para toda a beneficência, a qual faz que por nós se deem graças a Deus.</p>\n<p><strong>12</strong> Porque a administração deste serviço, não só supre as necessidades dos santos, mas também é abundante em muitas graças, que se dão a Deus.</p>\n<p><strong>13</strong> Visto como, na prova desta administração, glorificam a Deus pela submissão, que confessais quanto ao evangelho de Cristo, e pela liberalidade de vossos dons para com eles, e para com todos;</p>\n<p><strong>14</strong> E pela sua oração por vós, tendo de vós saudades, por causa da excelente graça de Deus que em vós há.</p>\n<p><strong>15</strong> Graças a Deus, pois, pelo seu dom inefável.</p>\n<hr>\n<p><a href=\"capitulo_8.md\">&lt;- 2 Coríntios 8</a> | <a href=\"capitulo_10.md\">2 Coríntios 10 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "10": "<h1>2 Coríntios - Capítulo 10</h1>\n<p><strong>1</strong> Além disto, eu, Paulo, vos rogo, pela mansidão e benignidade de Cristo, eu que, na verdade, quando presente entre vós, sou humilde, mas ausente, ousado para convosco;</p>\n<p><strong>2</strong> Rogo-vos, pois, que, quando estiver presente, não me veja obrigado a usar com confiança da ousadia que espero ter com alguns, que nos julgam, como se andássemos segundo a carne.</p>\n<p><strong>3</strong> Porque, andando na carne, não militamos segundo a carne.</p>\n<p><strong>4</strong> Porque as armas da nossa milícia não são carnais, mas sim poderosas em Deus para destruição das fortalezas;</p>\n<p><strong>5</strong> Destruindo argumentos, e toda a altivez que se levanta contra o conhecimento de Deus, e levando cativo todo o entendimento à obediência de Cristo;</p>\n<p><strong>6</strong> E estando prontos para vingar toda a desobediência, quando for cumprida a vossa obediência.</p>\n<p><strong>7</strong> Olhais para as coisas segundo a aparência? Se alguém confia de si mesmo que é de Cristo, pense outra vez isto consigo, que, assim como ele é de Cristo, também nós de Cristo somos.</p>\n<p><strong>8</strong> Porque, ainda que eu me glorie mais alguma coisa do nosso poder, o qual o Senhor nos deu para edificação, e não para vossa destruição, não me envergonharei.</p>\n<p><strong>9</strong> Para que não pareça como se quisera intimidar-vos por cartas.</p>\n<p><strong>10</strong> Porque as suas cartas, dizem, são graves e fortes, mas a presença do corpo é fraca, e a palavra desprezível.</p>\n<p><strong>11</strong> Pense o tal isto, que, quais somos na palavra por cartas, estando ausentes, tais seremos também por obra, estando presentes.</p>\n<p><strong>12</strong> Porque não ousamos classificar-nos, ou comparar-nos com alguns, que se louvam a si mesmos; mas estes que se medem a si mesmos, e se comparam consigo mesmos, estão sem entendimento.</p>\n<p><strong>13</strong> Porém, não nos gloriaremos fora da medida, mas conforme a reta medida que Deus nos deu, para chegarmos até vós;</p>\n<p><strong>14</strong> Porque não nos estendemos além do que convém, como se não houvéssemos de chegar até vós, pois já chegamos também até vós no evangelho de Cristo,</p>\n<p><strong>15</strong> Não nos gloriando fora da medida nos trabalhos alheios; antes tendo esperança de que, crescendo a vossa fé, seremos abundantemente engrandecidos entre vós, conforme a nossa regra,</p>\n<p><strong>16</strong> Para anunciar o evangelho nos lugares que estão além de vós e não em campo de outro, para não nos gloriarmos no que estava já preparado.</p>\n<p><strong>17</strong> Aquele, porém, que se gloria, glorie-se no Senhor.</p>\n<p><strong>18</strong> Porque não é aprovado quem a si mesmo se louva, mas, sim, aquele a quem o Senhor louva.</p>\n<hr>\n<p><a href=\"capitulo_9.md\">&lt;- 2 Coríntios 9</a> | <a href=\"capitulo_11.md\">2 Coríntios 11 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "11": "<h1>2 Coríntios - Capítulo 11</h1>\n<p><strong>1</strong> Quisera eu me suportásseis um pouco na minha loucura! Suportai-me, porém, ainda.</p>\n<p><strong>2</strong> Porque estou zeloso de vós com zelo de Deus; porque vos tenho preparado para vos apresentar como uma virgem pura a um marido, a saber, a Cristo.</p>\n<p><strong>3</strong> Mas temo que, assim como a serpente enganou Eva com a sua astúcia, assim também sejam de alguma sorte corrompidos os vossos sentidos, e se apartem da simplicidade que há em Cristo.</p>\n<p><strong>4</strong> Porque, se alguém vindo pregar-vos outro Jesus que nós não temos pregado, ou se recebeis outro espírito que não recebestes, ou outro evangelho que não abraçastes, com razão o sofreríeis.</p>\n<p><strong>5</strong> Porque penso que em nada fui inferior aos mais excelentes apóstolos.</p>\n<p><strong>6</strong> E, se sou rude na palavra, não o sou contudo no conhecimento; mas já em todas as coisas nos temos feito conhecer totalmente entre vós.</p>\n<p><strong>7</strong> Pequei, porventura, humilhando-me a mim mesmo, para que vós fôsseis exaltados, porque de graça vos anunciei o evangelho de Deus?</p>\n<p><strong>8</strong> Outras igrejas despojei eu para vos servir, recebendo delas salário; e quando estava presente convosco, e tinha necessidade, a ninguém fui pesado.</p>\n<p><strong>9</strong> Porque os irmãos que vieram da Macedônia supriram a minha necessidade; e em tudo me guardei de vos ser pesado, e ainda me guardarei.</p>\n<p><strong>10</strong> Como a verdade de Cristo está em mim, esta glória não me será impedida nas regiões da Acaia.</p>\n<p><strong>11</strong> Por quê? Porque não vos amo? Deus o sabe.</p>\n<p><strong>12</strong> Mas o que eu faço o farei, para cortar ocasião aos que buscam ocasião, a fim de que, naquilo em que se gloriam, sejam achados assim como nós.</p>\n<p><strong>13</strong> Porque tais falsos apóstolos são obreiros fraudulentos, transfigurando-se em apóstolos de Cristo.</p>\n<p><strong>14</strong> E não é maravilha, porque o próprio Satanás se transfigura em anjo de luz.</p>\n<p><strong>15</strong> Não é muito, pois, que os seus ministros se transfigurem em ministros da justiça; o fim dos quais será conforme as suas obras.</p>\n<p><strong>16</strong> Outra vez digo: Ninguém me julgue ser insensato, ou então recebei-me como insensato, para que também me glorie um pouco.</p>\n<p><strong>17</strong> O que digo, não o digo segundo o Senhor, mas como por loucura, nesta confiança de gloriar-me.</p>\n<p><strong>18</strong> Pois que muitos se gloriam segundo a carne, eu também me gloriarei.</p>\n<p><strong>19</strong> Porque, sendo vós sensatos, de boa mente tolerais os insensatos.</p>\n<p><strong>20</strong> Pois sois sofredores, se alguém vos põe em servidão, se alguém vos devora, se alguém vos apanha, se alguém se exalta, se alguém vos fere no rosto.</p>\n<p><strong>21</strong> Envergonhado o digo, como se nós fôssemos fracos, mas no que qualquer tem ousadia (com insensatez falo) também eu tenho ousadia.</p>\n<p><strong>22</strong> São hebreus? Também eu. São israelitas? Também eu. São descendência de Abraão? Também eu.</p>\n<p><strong>23</strong> São ministros de Cristo? (Falo como fora de mim) Eu ainda mais: em trabalhos, muito mais; em açoites, mais do que eles; em prisões, muito mais; em perigo de morte, muitas vezes.</p>\n<p><strong>24</strong> Recebi dos judeus cinco quarentenas de açoites menos um.</p>\n<p><strong>25</strong> Três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes sofri naufrágio, uma noite e um dia passei no abismo;</p>\n<p><strong>26</strong> Em viagens muitas vezes, em perigos de rios, em perigos de salteadores, em perigos dos da minha nação, em perigos dos gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre os falsos irmãos;</p>\n<p><strong>27</strong> Em trabalhos e fadiga, em vigílias muitas vezes, em fome e sede, em jejum muitas vezes, em frio e nudez.</p>\n<p><strong>28</strong> Além das coisas exteriores, me oprime cada dia o cuidado de todas as igrejas.</p>\n<p><strong>29</strong> Quem enfraquece, que eu também não enfraqueça? Quem se escandaliza, que eu me não abrase?</p>\n<p><strong>30</strong> Se convém gloriar-me, gloriar-me-ei no que diz respeito à minha fraqueza.</p>\n<p><strong>31</strong> O Deus e Pai de nosso Senhor Jesus Cristo, que é eternamente bendito, sabe que não minto.</p>\n<p><strong>32</strong> Em Damasco, o que governava sob o rei Aretas pôs guardas às portas da cidade dos damascenos, querendo me prender.</p>\n<p><strong>33</strong> E fui descido num cesto por uma janela da muralha; e assim escapei das suas mãos.</p>\n<hr>\n<p><a href=\"capitulo_10.md\">&lt;- 2 Coríntios 10</a> | <a href=\"capitulo_12.md\">2 Coríntios 12 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "12": "<h1>2 Coríntios - Capítulo 12</h1>\n<p><strong>1</strong> Em verdade que não convém gloriar-me; mas passarei às visões e revelações do Senhor.</p>\n<p><strong>2</strong> Conheço um homem em Cristo que há catorze anos (se no corpo, não sei, se fora do corpo, não sei; Deus o sabe) foi arrebatado ao terceiro céu.</p>\n<p><strong>3</strong> E sei que o tal homem (se no corpo, se fora do corpo, não sei; Deus o sabe)</p>\n<p><strong>4</strong> Foi arrebatado ao paraíso; e ouviu palavras inefáveis, que ao homem não é lícito falar.</p>\n<p><strong>5</strong> De alguém assim me gloriarei eu, mas de mim mesmo não me gloriarei, senão nas minhas fraquezas.</p>\n<p><strong>6</strong> Porque, se quiser gloriar-me, não serei néscio, porque direi a verdade; mas deixo isto, para que ninguém cuide de mim mais do que em mim vê ou de mim ouve.</p>\n<p><strong>7</strong> E, para que não me exaltasse pela excelência das revelações, foi-me dado um espinho na carne, a saber, um mensageiro de Satanás para me esbofetear, a fim de não me exaltar.</p>\n<p><strong>8</strong> Acerca do qual três vezes orei ao Senhor para que se desviasse de mim.</p>\n<p><strong>9</strong> E disse-me: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. De boa vontade, pois, me gloriarei nas minhas fraquezas, para que em mim habite o poder de Cristo.</p>\n<p><strong>10</strong> Por isso sinto prazer nas fraquezas, nas injúrias, nas necessidades, nas perseguições, nas angústias por amor de Cristo. Porque quando estou fraco então sou forte.</p>\n<p><strong>11</strong> Fui néscio em gloriar-me; vós me constrangestes. Porque eu devia ter sido louvado por vós, visto que em nada fui inferior aos mais excelentes apóstolos, ainda que nada sou.</p>\n<p><strong>12</strong> Os sinais do meu apostolado foram manifestados entre vós com toda a paciência, por sinais, prodígios e maravilhas.</p>\n<p><strong>13</strong> Pois, em que tendes vós sido inferiores às outras igrejas, a não ser que eu mesmo vos não fui pesado? Perdoai-me este agravo.</p>\n<p><strong>14</strong> Eis aqui estou pronto para pela terceira vez ir ter convosco, e não vos serei pesado, pois que não busco o que é vosso, mas sim a vós: porque não devem os filhos entesourar para os pais, mas os pais para os filhos.</p>\n<p><strong>15</strong> Eu de muito boa vontade gastarei, e me deixarei gastar pelas vossas almas, ainda que, amando-vos cada vez mais, seja menos amado.</p>\n<p><strong>16</strong> Mas seja assim; eu não vos fui pesado mas, sendo astuto, vos tomei com dolo.</p>\n<p><strong>17</strong> Porventura aproveitei-me de vós por algum daqueles que vos enviei?</p>\n<p><strong>18</strong> Roguei a Tito, e enviei com ele um irmão. Porventura Tito se aproveitou de vós? Não andamos porventura no mesmo espírito? Não sobre as mesmas pisadas?</p>\n<p><strong>19</strong> Cuidais que ainda nos desculpamos convosco? Falamos em Cristo perante Deus, e tudo isto, ó amados, para vossa edificação.</p>\n<p><strong>20</strong> Porque receio que, quando chegar, não vos ache como eu quereria, e eu seja achado de vós como não quereríeis; que de alguma maneira haja pendências, invejas, iras, porfias, difamações, intrigas, orgulhos, tumultos;</p>\n<p><strong>21</strong> Que, quando for outra vez, o meu Deus me humilhe para convosco, e chore por muitos daqueles que dantes pecaram, e não se arrependeram da imundícia, e fornicação, e desonestidade que cometeram.</p>\n<hr>\n<p><a href=\"capitulo_11.md\">&lt;- 2 Coríntios 11</a> | <a href=\"capitulo_13.md\">2 Coríntios 13 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n",
-  "13": "<h1>2 Coríntios - Capítulo 13</h1>\n<p><strong>1</strong> É esta a terceira vez que vou ter convosco. Por boca de duas ou três testemunhas será confirmada toda a palavra.</p>\n<p><strong>2</strong> Já anteriormente o disse, e de antemão digo como estando presente uma segunda vez; mas agora, estando ausente, o escrevo aos que antes pecaram e a todos os mais, que, se outra vez for, não lhes pouparei;</p>\n<p><strong>3</strong> Visto que buscais uma prova de Cristo que fala em mim, o qual não é fraco para convosco, antes é poderoso entre vós.</p>\n<p><strong>4</strong> Porque, ainda que foi crucificado por fraqueza, vive, contudo, pelo poder de Deus. Porque nós também somos fracos nele, mas viveremos com ele pelo poder de Deus em vós.</p>\n<p><strong>5</strong> Examinai-vos a vós mesmos, se permaneceis na fé; provai-vos a vós mesmos. Ou não sabeis quanto a vós mesmos, que Jesus Cristo está em vós? Se não é que já estais reprovados.</p>\n<p><strong>6</strong> Mas espero que entendereis que nós não somos reprovados.</p>\n<p><strong>7</strong> Ora, eu rogo a Deus que não façais mal algum, não para que sejamos achados aprovados, mas para que vós façais o bem, embora nós sejamos como reprovados.</p>\n<p><strong>8</strong> Porque nada podemos contra a verdade, senão pela verdade.</p>\n<p><strong>9</strong> Porque nos regozijamos de estar fracos, quando vós estais fortes; e o que desejamos é a vossa perfeição.</p>\n<p><strong>10</strong> Portanto, escrevo estas coisas estando ausente, para que, estando presente, não use de rigor, segundo o poder que o Senhor me deu para edificação, e não para destruição.</p>\n<p><strong>11</strong> Quanto ao mais, irmãos, regozijai-vos, sede perfeitos, sede consolados, sede de um mesmo parecer, vivei em paz; e o Deus de amor e de paz será convosco.</p>\n<p><strong>12</strong> Saudai-vos uns aos outros com ósculo santo.</p>\n<p><strong>13</strong> Todos os santos vos saúdam.</p>\n<p><strong>14</strong> A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo seja com todos vós. Amém.</p>\n<hr>\n<p><a href=\"capitulo_12.md\">&lt;- 2 Coríntios 12</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['2co'] = {
+  "book": "2co",
+  "name": "2 Coríntios",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo, à igreja de Deus, que está em Corinto, com todos os santos que estão em toda a Acaia."
+        },
+        {
+          "verse": 2,
+          "text": "Graça a vós e paz da parte de Deus nosso Pai, e da do Senhor Jesus Cristo."
+        },
+        {
+          "verse": 3,
+          "text": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação;"
+        },
+        {
+          "verse": 4,
+          "text": "Que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus."
+        },
+        {
+          "verse": 5,
+          "text": "Porque, como as aflições de Cristo são abundantes em nós, assim também é abundante a nossa consolação por meio de Cristo."
+        },
+        {
+          "verse": 6,
+          "text": "Mas, se somos atribulados, é para vossa consolação e salvação; ou, se somos consolados, para vossa consolação e salvação é, a qual se opera suportando com paciência as mesmas aflições que nós também padecemos;"
+        },
+        {
+          "verse": 7,
+          "text": "E a nossa esperança acerca de vós é firme, sabendo que, como sois participantes das aflições, assim o sereis também da consolação."
+        },
+        {
+          "verse": 8,
+          "text": "Porque não queremos, irmãos, que ignoreis a nossa tribulação que nos sobreveio na Ásia, pois que fomos sobremaneira agravados mais do que podíamos suportar, de modo tal que até da vida desesperamos."
+        },
+        {
+          "verse": 9,
+          "text": "Mas já em nós mesmos tínhamos a sentença de morte, para que não confiássemos em nós, mas em Deus, que ressuscita os mortos;"
+        },
+        {
+          "verse": 10,
+          "text": "O qual nos livrou de tão grande morte, e livra; em quem esperamos que também nos livrará ainda,"
+        },
+        {
+          "verse": 11,
+          "text": "Ajudando-nos também vós com orações por nós, para que pelo benefício, que por muitas pessoas nos foi feito, por muitas também sejam dadas graças a nosso respeito."
+        },
+        {
+          "verse": 12,
+          "text": "Porque a nossa glória é esta: o testemunho da nossa consciência, de que com simplicidade e sinceridade de Deus, não com sabedoria carnal, mas na graça de Deus, temos vivido no mundo, e de modo particular convosco."
+        },
+        {
+          "verse": 13,
+          "text": "Porque nenhumas outras coisas vos escrevemos, senão as que já sabeis ou também reconheceis; e espero que também até ao fim as reconhecereis."
+        },
+        {
+          "verse": 14,
+          "text": "Como também já em parte reconhecestes em nós, que somos a vossa glória, como também vós sereis a nossa no dia do Senhor Jesus."
+        },
+        {
+          "verse": 15,
+          "text": "E com esta confiança quis primeiro ir ter convosco, para que tivésseis uma segunda graça;"
+        },
+        {
+          "verse": 16,
+          "text": "E por vós passar à Macedônia, e da Macedônia ir outra vez ter convosco, e ser guiado por vós à Judeia."
+        },
+        {
+          "verse": 17,
+          "text": "E, deliberando isto, usei porventura de leviandade? Ou o que delibero, o delibero segundo a carne, para que haja em mim sim, sim, e não, não?"
+        },
+        {
+          "verse": 18,
+          "text": "Antes, como Deus é fiel, a nossa palavra para convosco não foi sim e não."
+        },
+        {
+          "verse": 19,
+          "text": "Porque o Filho de Deus, Jesus Cristo, que entre vós foi pregado por nós, isto é, por mim, Silvano e Timóteo, não foi sim e não; mas nele houve sim."
+        },
+        {
+          "verse": 20,
+          "text": "Porque todas quantas promessas há de Deus, são nele sim, e por ele o Amém, para glória de Deus por nós."
+        },
+        {
+          "verse": 21,
+          "text": "Mas o que nos confirma convosco em Cristo, e o que nos ungiu, é Deus,"
+        },
+        {
+          "verse": 22,
+          "text": "O qual também nos selou e deu o penhor do Espírito em nossos corações."
+        },
+        {
+          "verse": 23,
+          "text": "Invoco, porém, a Deus por testemunha sobre a minha alma, que para vos poupar não tenho até agora ido a Corinto;"
+        },
+        {
+          "verse": 24,
+          "text": "Não que tenhamos domínio sobre a vossa fé, mas porque somos cooperadores de vosso gozo; porque pela fé estais em pé."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Mas deliberei isto comigo mesmo: não ir mais ter convosco em tristeza."
+        },
+        {
+          "verse": 2,
+          "text": "Porque, se eu vos entristeço, quem é que me alegrará, senão aquele que por mim foi contristado?"
+        },
+        {
+          "verse": 3,
+          "text": "E escrevi-vos isto mesmo, para que, quando lá for, não tenha tristeza da parte dos que deveriam alegrar-me; confiando em vós todos, que a minha alegria é a de todos vós."
+        },
+        {
+          "verse": 4,
+          "text": "Porque em muita tribulação e angústia do coração vos escrevi, com muitas lágrimas, não para que vos entristecêsseis, mas para que conhecêsseis o amor que abundantemente vos tenho."
+        },
+        {
+          "verse": 5,
+          "text": "Porque, se alguém me contristou, não me contristou a mim senão em parte, para vos não sobrecarregar a vós todos."
+        },
+        {
+          "verse": 6,
+          "text": "Basta-lhe ao tal esta repreensão feita por muitos."
+        },
+        {
+          "verse": 7,
+          "text": "De maneira que pelo contrário deveis antes perdoar-lhe e consolá-lo, para que o tal não seja de modo algum devorado de demasiada tristeza."
+        },
+        {
+          "verse": 8,
+          "text": "Por isso vos rogo que confirmeis para com ele o vosso amor."
+        },
+        {
+          "verse": 9,
+          "text": "E para isso vos escrevi também, para por esta prova saber se sois obedientes em tudo."
+        },
+        {
+          "verse": 10,
+          "text": "E a quem perdoardes alguma coisa, também eu; porque se eu também perdoei alguma coisa, a quem a perdoei por amor de vós o fiz na presença de Cristo; para que não sejamos sobrepujados por Satanás;"
+        },
+        {
+          "verse": 11,
+          "text": "Porque não ignoramos os seus ardis."
+        },
+        {
+          "verse": 12,
+          "text": "Ora, quando cheguei a Trôade para pregar o evangelho de Cristo, e abrindo-se-me uma porta no Senhor,"
+        },
+        {
+          "verse": 13,
+          "text": "Não tive descanso no meu espírito, porque não achei ali meu irmão Tito; mas, despedindo-me deles, parti para a Macedônia."
+        },
+        {
+          "verse": 14,
+          "text": "E graças a Deus, que sempre nos faz triunfar em Cristo, e por meio de nós manifesta em todo o lugar a fragrância do seu conhecimento."
+        },
+        {
+          "verse": 15,
+          "text": "Porque para Deus somos o bom perfume de Cristo, nos que se salvam e nos que se perdem."
+        },
+        {
+          "verse": 16,
+          "text": "Para estes certamente cheiro de morte para morte; mas para aqueles cheiro de vida para vida. E para estas coisas quem é idôneo?"
+        },
+        {
+          "verse": 17,
+          "text": "Porque nós não somos, como muitos, que ganham falsificando a palavra de Deus, antes a falamos em Cristo com sinceridade, antes como de Deus na presença de Deus."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Porventura começamos outra vez a louvar-nos a nós mesmos? Ou necessitamos, como alguns, de cartas de recomendação para vós, ou de recomendação de vós?"
+        },
+        {
+          "verse": 2,
+          "text": "Vós sois a nossa carta, escrita em nossos corações, conhecida e lida por todos os homens."
+        },
+        {
+          "verse": 3,
+          "text": "Porque já é manifesto que vós sois a carta de Cristo, ministrada por nós, e escrita, não com tinta, mas com o Espírito do Deus vivo, não em tábuas de pedra, mas nas tábuas de carne do coração."
+        },
+        {
+          "verse": 4,
+          "text": "E é por Cristo que temos tal confiança em Deus;"
+        },
+        {
+          "verse": 5,
+          "text": "Não que sejamos capazes, por nós, de pensar alguma coisa, como de nós mesmos; mas a nossa capacidade vem de Deus,"
+        },
+        {
+          "verse": 6,
+          "text": "O qual nos fez também capazes de ser ministros de um novo testamento, não da letra, mas do espírito; porque a letra mata e o espírito vivifica."
+        },
+        {
+          "verse": 7,
+          "text": "E, se o ministério da morte, gravado com letras em pedras, veio em glória, de maneira que os filhos de Israel não podiam fitar os olhos na face de Moisés, por causa da glória do seu rosto, a qual era transitória,"
+        },
+        {
+          "verse": 8,
+          "text": "Como não será de maior glória o ministério do Espírito?"
+        },
+        {
+          "verse": 9,
+          "text": "Porque, se o ministério da condenação foi glorioso, muito mais excederá em glória o ministério da justiça."
+        },
+        {
+          "verse": 10,
+          "text": "Porque também o que foi glorificado nesta parte não foi glorificado, por causa desta excelente glória."
+        },
+        {
+          "verse": 11,
+          "text": "Porque, se o que era transitório foi para glória, muito mais é em glória o que permanece."
+        },
+        {
+          "verse": 12,
+          "text": "Tendo, pois, tal esperança, usamos de muita ousadia no falar."
+        },
+        {
+          "verse": 13,
+          "text": "E não somos como Moisés, que punha um véu sobre a sua face, para que os filhos de Israel não olhassem firmemente para o fim daquilo que era transitório."
+        },
+        {
+          "verse": 14,
+          "text": "Mas os seus sentidos foram endurecidos; porque até hoje o mesmo véu está por levantar na lição do velho testamento, o qual foi por Cristo abolido;"
+        },
+        {
+          "verse": 15,
+          "text": "E até hoje, quando é lido Moisés, o véu está posto sobre o coração deles."
+        },
+        {
+          "verse": 16,
+          "text": "Mas, quando se converterem ao Senhor, então o véu se tirará."
+        },
+        {
+          "verse": 17,
+          "text": "Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade."
+        },
+        {
+          "verse": 18,
+          "text": "Mas todos nós, com rosto descoberto, refletindo como um espelho a glória do Senhor, somos transformados de glória em glória na mesma imagem, como pelo Espírito do Senhor."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Por isso, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos;"
+        },
+        {
+          "verse": 2,
+          "text": "Antes, rejeitamos as coisas que por vergonha se ocultam, não andando com astúcia nem falsificando a palavra de Deus; e assim nos recomendamos à consciência de todo o homem, na presença de Deus, pela manifestação da verdade."
+        },
+        {
+          "verse": 3,
+          "text": "Mas, se ainda o nosso evangelho está encoberto, para os que se perdem está encoberto."
+        },
+        {
+          "verse": 4,
+          "text": "Nos quais o deus deste século cegou os entendimentos dos incrédulos, para que lhes não resplandeça a luz do evangelho da glória de Cristo, que é a imagem de Deus."
+        },
+        {
+          "verse": 5,
+          "text": "Porque não nos pregamos a nós mesmos, mas a Cristo Jesus, o Senhor; e nós mesmos somos vossos servos por amor de Jesus."
+        },
+        {
+          "verse": 6,
+          "text": "Porque Deus, que disse que das trevas resplandecesse a luz, é quem resplandeceu em nossos corações, para iluminação do conhecimento da glória de Deus, na face de Jesus Cristo."
+        },
+        {
+          "verse": 7,
+          "text": "Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós."
+        },
+        {
+          "verse": 8,
+          "text": "Em tudo somos atribulados, mas não angustiados; perplexos, mas não desanimados."
+        },
+        {
+          "verse": 9,
+          "text": "Perseguidos, mas não desamparados; abatidos, mas não destruídos;"
+        },
+        {
+          "verse": 10,
+          "text": "Trazendo sempre por toda a parte a mortificação do Senhor Jesus no corpo, para que a vida de Jesus se manifeste também no nosso corpo;"
+        },
+        {
+          "verse": 11,
+          "text": "E assim nós, que vivemos, estamos sempre entregues à morte por amor de Jesus, para que a vida de Jesus se manifeste também na nossa carne mortal."
+        },
+        {
+          "verse": 12,
+          "text": "De maneira que em nós opera a morte, mas em vós a vida."
+        },
+        {
+          "verse": 13,
+          "text": "E temos, portanto, o mesmo espírito de fé, como está escrito: Cri, por isso falei; nós cremos também, por isso também falamos."
+        },
+        {
+          "verse": 14,
+          "text": "Sabendo que o que ressuscitou o Senhor Jesus nos ressuscitará também por Jesus, e nos apresentará convosco."
+        },
+        {
+          "verse": 15,
+          "text": "Porque tudo isto é por amor de vós, para que a graça, multiplicada por meio de muitos, faça abundar a ação de graças para glória de Deus."
+        },
+        {
+          "verse": 16,
+          "text": "Por isso não desfalecemos; mas, ainda que o nosso homem exterior se corrompa, o interior, contudo, se renova de dia em dia."
+        },
+        {
+          "verse": 17,
+          "text": "Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente;"
+        },
+        {
+          "verse": 18,
+          "text": "Não atentando nós nas coisas que se veem, mas nas que se não veem; porque as que se veem são temporais, e as que se não veem são eternas."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Porque sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, temos de Deus um edifício, uma casa não feita por mãos, eterna, nos céus."
+        },
+        {
+          "verse": 2,
+          "text": "E por isso também gememos, desejando ser revestidos da nossa habitação, que é do céu;"
+        },
+        {
+          "verse": 3,
+          "text": "Se, todavia, estando vestidos, não formos achados nus."
+        },
+        {
+          "verse": 4,
+          "text": "Porque também nós, os que estamos neste tabernáculo, gememos carregados; não porque queremos ser despidos, mas revestidos, para que o mortal seja absorvido pela vida."
+        },
+        {
+          "verse": 5,
+          "text": "Ora, quem para isto mesmo nos preparou foi Deus, o qual nos deu também o penhor do Espírito."
+        },
+        {
+          "verse": 6,
+          "text": "Por isso estamos sempre de bom ânimo, sabendo que, enquanto estamos no corpo, vivemos ausentes do Senhor"
+        },
+        {
+          "verse": 7,
+          "text": "(Porque andamos por fé, e não por vista)."
+        },
+        {
+          "verse": 8,
+          "text": "Mas temos confiança e desejamos antes deixar este corpo, para habitar com o Senhor."
+        },
+        {
+          "verse": 9,
+          "text": "Pois que muito desejamos também ser-lhe agradáveis, quer presentes, quer ausentes."
+        },
+        {
+          "verse": 10,
+          "text": "Porque todos devemos comparecer ante o tribunal de Cristo, para que cada um receba segundo o que tiver feito por meio do corpo, ou bem, ou mal."
+        },
+        {
+          "verse": 11,
+          "text": "Assim que, sabendo o temor que se deve ao Senhor, persuadimos os homens à fé, mas somos manifestos a Deus; e espero que nas vossas consciências sejamos também manifestos."
+        },
+        {
+          "verse": 12,
+          "text": "Porque não nos recomendamos outra vez a vós; mas damo-vos ocasião de vos gloriardes de nós, para que tenhais que responder aos que se gloriam na aparência e não no coração."
+        },
+        {
+          "verse": 13,
+          "text": "Porque, se enlouquecemos, é para Deus; e, se conservamos o juízo, é para vós."
+        },
+        {
+          "verse": 14,
+          "text": "Porque o amor de Cristo nos constrange, julgando nós assim: que, se um morreu por todos, logo todos morreram."
+        },
+        {
+          "verse": 15,
+          "text": "E ele morreu por todos, para que os que vivem não vivam mais para si, mas para aquele que por eles morreu e ressuscitou."
+        },
+        {
+          "verse": 16,
+          "text": "Assim que daqui por diante a ninguém conhecemos segundo a carne, e, ainda que também tenhamos conhecido Cristo segundo a carne, contudo agora já não o conhecemos deste modo."
+        },
+        {
+          "verse": 17,
+          "text": "Assim que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo."
+        },
+        {
+          "verse": 18,
+          "text": "E tudo isto provém de Deus, que nos reconciliou consigo mesmo por Jesus Cristo, e nos deu o ministério da reconciliação;"
+        },
+        {
+          "verse": 19,
+          "text": "Isto é, Deus estava em Cristo reconciliando consigo o mundo, não lhes imputando os seus pecados; e pôs em nós a palavra da reconciliação."
+        },
+        {
+          "verse": 20,
+          "text": "De sorte que somos embaixadores da parte de Cristo, como se Deus por nós rogasse. Rogamo-vos, pois, da parte de Cristo, que vos reconcilieis com Deus."
+        },
+        {
+          "verse": 21,
+          "text": "Àquele que não conheceu pecado, o fez pecado por nós; para que nele fôssemos feitos justiça de Deus."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E nós, cooperando também com ele, vos exortamos a que não recebais a graça de Deus em vão"
+        },
+        {
+          "verse": 2,
+          "text": "(Porque diz: Ouvi-te em tempo aceitável e socorri-te no dia da salvação; eis aqui agora o tempo aceitável, eis aqui agora o dia da salvação)."
+        },
+        {
+          "verse": 3,
+          "text": "Não dando nós escândalo em coisa alguma, para que o nosso ministério não seja censurado;"
+        },
+        {
+          "verse": 4,
+          "text": "Antes, como ministros de Deus, tornando-nos recomendáveis em tudo; na muita paciência, nas aflições, nas necessidades, nas angústias,"
+        },
+        {
+          "verse": 5,
+          "text": "Nos açoites, nas prisões, nos tumultos, nos trabalhos, nas vigílias, nos jejuns,"
+        },
+        {
+          "verse": 6,
+          "text": "Na pureza, no conhecimento, na longanimidade, na benignidade, no Espírito Santo, no amor não fingido,"
+        },
+        {
+          "verse": 7,
+          "text": "Na palavra da verdade, no poder de Deus, pelas armas da justiça, à direita e à esquerda,"
+        },
+        {
+          "verse": 8,
+          "text": "Por honra e por desonra, por infâmia e por boa fama; como enganadores, e sendo verdadeiros;"
+        },
+        {
+          "verse": 9,
+          "text": "Como desconhecidos, mas sendo bem conhecidos; como morrendo, e eis que vivemos; como castigados, e não mortos;"
+        },
+        {
+          "verse": 10,
+          "text": "Como contristados, mas sempre alegres; como pobres, mas enriquecendo a muitos; como nada tendo, e possuindo tudo."
+        },
+        {
+          "verse": 11,
+          "text": "Ó coríntios, a nossa boca está aberta para vós, o nosso coração está dilatado."
+        },
+        {
+          "verse": 12,
+          "text": "Não estais estreitados em nós; mas estais estreitados nos vossos próprios afetos."
+        },
+        {
+          "verse": 13,
+          "text": "Ora, em recompensa disto, (falo como a filhos) dilatai-vos também vós."
+        },
+        {
+          "verse": 14,
+          "text": "Não vos prendais a um jugo desigual com os infiéis; porque, que sociedade tem a justiça com a injustiça? E que comunhão tem a luz com as trevas?"
+        },
+        {
+          "verse": 15,
+          "text": "E que concórdia há entre Cristo e Belial? Ou que parte tem o fiel com o infiel?"
+        },
+        {
+          "verse": 16,
+          "text": "E que consenso tem o templo de Deus com os ídolos? Porque vós sois o templo do Deus vivente, como Deus disse: Neles habitarei, e entre eles andarei; e eu serei o seu Deus e eles serão o meu povo."
+        },
+        {
+          "verse": 17,
+          "text": "Por isso saí do meio deles, e apartai-vos, diz o Senhor; e não toqueis nada imundo, e eu vos receberei;"
+        },
+        {
+          "verse": 18,
+          "text": "E eu serei para vós Pai, e vós sereis para mim filhos e filhas, diz o Senhor Todo-Poderoso."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ora, amados, pois que temos tais promessas, purifiquemo-nos de toda a imundícia da carne e do espírito, aperfeiçoando a santificação no temor de Deus."
+        },
+        {
+          "verse": 2,
+          "text": "Recebei-nos em vossos corações; a ninguém agravamos, a ninguém corrompemos, de ninguém buscamos o nosso proveito."
+        },
+        {
+          "verse": 3,
+          "text": "Não digo isto para vossa condenação; pois já antes tinha dito que estais em nossos corações para juntamente morrer e viver."
+        },
+        {
+          "verse": 4,
+          "text": "Grande é a ousadia da minha fala para convosco, e grande a minha glória a respeito de vós; estou cheio de consolação; transbordo de gozo em todas as nossas tribulações."
+        },
+        {
+          "verse": 5,
+          "text": "Porque, mesmo quando chegamos à Macedônia, a nossa carne não teve repouso algum; antes em tudo fomos atribulados: por fora combates, temores por dentro."
+        },
+        {
+          "verse": 6,
+          "text": "Mas Deus, que consola os abatidos, nos consolou com a vinda de Tito."
+        },
+        {
+          "verse": 7,
+          "text": "E não somente com a sua vinda, mas também pela consolação com que foi consolado por vós, contando-nos as vossas saudades, o vosso choro, o vosso zelo por mim, de maneira que muito me regozijei."
+        },
+        {
+          "verse": 8,
+          "text": "Porquanto, ainda que vos contristei com a minha carta, não me arrependo, embora já me tivesse arrependido por ver que aquela carta vos contristou, ainda que por pouco tempo."
+        },
+        {
+          "verse": 9,
+          "text": "Agora folgo, não porque fostes contristados, mas porque fostes contristados para arrependimento; pois fostes contristados segundo Deus; de maneira que por nós não padecestes dano em coisa alguma."
+        },
+        {
+          "verse": 10,
+          "text": "Porque a tristeza segundo Deus opera arrependimento para a salvação, da qual ninguém se arrepende; mas a tristeza do mundo opera a morte."
+        },
+        {
+          "verse": 11,
+          "text": "Porque, quanto cuidado não produziu isto mesmo em vós que, segundo Deus, fostes contristados! Que apologia, que indignação, que temor, que saudades, que zelo, que vingança! Em tudo mostrastes estar puros neste negócio."
+        },
+        {
+          "verse": 12,
+          "text": "Portanto, ainda que vos escrevi, não foi por causa do que fez o agravo, nem por causa do que sofreu o agravo, mas para que o vosso grande cuidado por nós fosse manifesto diante de Deus."
+        },
+        {
+          "verse": 13,
+          "text": "Por isso fomos consolados pela vossa consolação, e muito mais nos alegramos pela alegria de Tito, porque o seu espírito foi recreado por vós todos."
+        },
+        {
+          "verse": 14,
+          "text": "Porque, se nalguma coisa me gloriei de vós para com ele, não fiquei envergonhado; mas, como vos dissemos tudo com verdade, também a nossa glória para com Tito se achou verdadeira."
+        },
+        {
+          "verse": 15,
+          "text": "E o seu entranhável afeto para convosco é mais abundante, lembrando-se da obediência de vós todos, e de como o recebestes com temor e tremor."
+        },
+        {
+          "verse": 16,
+          "text": "Regozijo-me de em tudo poder confiar em vós."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Também, irmãos, vos fazemos conhecer a graça de Deus dada às igrejas da Macedônia;"
+        },
+        {
+          "verse": 2,
+          "text": "Como em muita prova de tribulação houve abundância do seu gozo, e como a sua profunda pobreza abundou em riquezas da sua generosidade."
+        },
+        {
+          "verse": 3,
+          "text": "Porque, segundo o seu poder (o que eu mesmo testifico) e ainda acima do seu poder, deram voluntariamente."
+        },
+        {
+          "verse": 4,
+          "text": "Pedindo-nos com muitos rogos que aceitássemos a graça e a comunicação deste serviço, que se fazia para com os santos."
+        },
+        {
+          "verse": 5,
+          "text": "E não somente fizeram como nós esperávamos, mas a si mesmos se deram primeiramente ao Senhor, e depois a nós, pela vontade de Deus."
+        },
+        {
+          "verse": 6,
+          "text": "De maneira que exortamos a Tito que, assim como antes tinha começado, assim também acabasse esta graça entre vós."
+        },
+        {
+          "verse": 7,
+          "text": "Portanto, assim como em tudo abundais em fé, e em palavra, e em conhecimento, e em toda a diligência, e em vosso amor para conosco, assim também abundeis nesta graça."
+        },
+        {
+          "verse": 8,
+          "text": "Não digo isto como quem manda, mas para provar, pela diligência dos outros, a sinceridade de vosso amor."
+        },
+        {
+          "verse": 9,
+          "text": "Porque já sabeis a graça de nosso Senhor Jesus Cristo que, sendo rico, por amor de vós se fez pobre; para que pela sua pobreza enriquecêsseis."
+        },
+        {
+          "verse": 10,
+          "text": "E nisto dou o meu parecer; pois isto convém a vós que, desde o ano passado, começastes; e não foi só praticar, mas também querer."
+        },
+        {
+          "verse": 11,
+          "text": "Agora, porém, completai também o já começado, para que, assim como houve a prontidão de vontade, haja também o cumprimento, segundo o que tendes."
+        },
+        {
+          "verse": 12,
+          "text": "Porque, se há prontidão de vontade, será aceita segundo o que qualquer tem, e não segundo o que não tem."
+        },
+        {
+          "verse": 13,
+          "text": "Mas, não digo isto para que os outros tenham alívio, e vós opressão,"
+        },
+        {
+          "verse": 14,
+          "text": "Mas para igualdade; neste tempo presente, a vossa abundância supra a falta dos outros, para que também a sua abundância supra a vossa falta, e haja igualdade;"
+        },
+        {
+          "verse": 15,
+          "text": "Como está escrito: O que muito colheu não teve demais; e o que pouco, não teve de menos."
+        },
+        {
+          "verse": 16,
+          "text": "Mas, graças a Deus, que pôs a mesma solicitude por vós no coração de Tito;"
+        },
+        {
+          "verse": 17,
+          "text": "Pois aceitou a exortação, e muito diligente partiu voluntariamente para vós."
+        },
+        {
+          "verse": 18,
+          "text": "E com ele enviamos aquele irmão cujo louvor no evangelho está espalhado em todas as igrejas."
+        },
+        {
+          "verse": 19,
+          "text": "E não só isto, mas foi também escolhido pelas igrejas para companheiro da nossa viagem, nesta graça que por nós é ministrada para glória do mesmo Senhor, e prontidão do vosso ânimo;"
+        },
+        {
+          "verse": 20,
+          "text": "Evitando isto, que alguém nos vitupere por esta abundância, que por nós é ministrada;"
+        },
+        {
+          "verse": 21,
+          "text": "Pois procuramos o que é honesto, não só diante do Senhor, mas também diante dos homens."
+        },
+        {
+          "verse": 22,
+          "text": "Com eles enviamos também outro nosso irmão, o qual muitas vezes, e em muitas coisas, já experimentamos ser diligente, e agora muito mais diligente ainda pela muita confiança que em vós tem."
+        },
+        {
+          "verse": 23,
+          "text": "Quanto a Tito, é meu companheiro, e cooperador para convosco; quanto a nossos irmãos, são embaixadores das igrejas e glória de Cristo."
+        },
+        {
+          "verse": 24,
+          "text": "Portanto, mostrai para com eles, e perante a face das igrejas, a prova do vosso amor, e da nossa glória acerca de vós."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Quanto à administração que se faz a favor dos santos, não necessito escrever-vos;"
+        },
+        {
+          "verse": 2,
+          "text": "Porque bem sei a prontidão do vosso ânimo, da qual me glorio de vós para com os macedônios; que a Acaia está pronta desde o ano passado; e o vosso zelo tem estimulado muitos."
+        },
+        {
+          "verse": 3,
+          "text": "Mas enviei estes irmãos, para que a nossa glória, acerca de vós, não seja vã nesta parte; para que (como já disse) possais estar prontos,"
+        },
+        {
+          "verse": 4,
+          "text": "A fim de, se acaso os macedônios vierem comigo, e vos acharem desapercebidos, não nos envergonharmos nós (para não dizermos vós) deste firme fundamento de glória."
+        },
+        {
+          "verse": 5,
+          "text": "Portanto, tive por coisa necessária exortar estes irmãos, para que primeiro fossem ter convosco, e preparassem de antemão a vossa bênção, já antes anunciada, para que esteja pronta como bênção, e não como avareza."
+        },
+        {
+          "verse": 6,
+          "text": "E digo isto: Que o que semeia pouco, pouco também ceifará; e o que semeia em abundância, em abundância ceifará."
+        },
+        {
+          "verse": 7,
+          "text": "Cada um contribua segundo propôs no seu coração; não com tristeza, ou por necessidade; porque Deus ama ao que dá com alegria."
+        },
+        {
+          "verse": 8,
+          "text": "E Deus é poderoso para fazer abundar em vós toda a graça, a fim de que tendo sempre, em tudo, toda a suficiência, abundeis em toda a boa obra;"
+        },
+        {
+          "verse": 9,
+          "text": "Conforme está escrito: Espalhou, deu aos pobres; a sua justiça permanece para sempre."
+        },
+        {
+          "verse": 10,
+          "text": "Ora, aquele que dá a semente ao que semeia, também vos dê pão para comer, e multiplique a vossa sementeira, e aumente os frutos da vossa justiça;"
+        },
+        {
+          "verse": 11,
+          "text": "Para que em tudo enriqueçais para toda a beneficência, a qual faz que por nós se deem graças a Deus."
+        },
+        {
+          "verse": 12,
+          "text": "Porque a administração deste serviço, não só supre as necessidades dos santos, mas também é abundante em muitas graças, que se dão a Deus."
+        },
+        {
+          "verse": 13,
+          "text": "Visto como, na prova desta administração, glorificam a Deus pela submissão, que confessais quanto ao evangelho de Cristo, e pela liberalidade de vossos dons para com eles, e para com todos;"
+        },
+        {
+          "verse": 14,
+          "text": "E pela sua oração por vós, tendo de vós saudades, por causa da excelente graça de Deus que em vós há."
+        },
+        {
+          "verse": 15,
+          "text": "Graças a Deus, pois, pelo seu dom inefável."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Além disto, eu, Paulo, vos rogo, pela mansidão e benignidade de Cristo, eu que, na verdade, quando presente entre vós, sou humilde, mas ausente, ousado para convosco;"
+        },
+        {
+          "verse": 2,
+          "text": "Rogo-vos, pois, que, quando estiver presente, não me veja obrigado a usar com confiança da ousadia que espero ter com alguns, que nos julgam, como se andássemos segundo a carne."
+        },
+        {
+          "verse": 3,
+          "text": "Porque, andando na carne, não militamos segundo a carne."
+        },
+        {
+          "verse": 4,
+          "text": "Porque as armas da nossa milícia não são carnais, mas sim poderosas em Deus para destruição das fortalezas;"
+        },
+        {
+          "verse": 5,
+          "text": "Destruindo argumentos, e toda a altivez que se levanta contra o conhecimento de Deus, e levando cativo todo o entendimento à obediência de Cristo;"
+        },
+        {
+          "verse": 6,
+          "text": "E estando prontos para vingar toda a desobediência, quando for cumprida a vossa obediência."
+        },
+        {
+          "verse": 7,
+          "text": "Olhais para as coisas segundo a aparência? Se alguém confia de si mesmo que é de Cristo, pense outra vez isto consigo, que, assim como ele é de Cristo, também nós de Cristo somos."
+        },
+        {
+          "verse": 8,
+          "text": "Porque, ainda que eu me glorie mais alguma coisa do nosso poder, o qual o Senhor nos deu para edificação, e não para vossa destruição, não me envergonharei."
+        },
+        {
+          "verse": 9,
+          "text": "Para que não pareça como se quisera intimidar-vos por cartas."
+        },
+        {
+          "verse": 10,
+          "text": "Porque as suas cartas, dizem, são graves e fortes, mas a presença do corpo é fraca, e a palavra desprezível."
+        },
+        {
+          "verse": 11,
+          "text": "Pense o tal isto, que, quais somos na palavra por cartas, estando ausentes, tais seremos também por obra, estando presentes."
+        },
+        {
+          "verse": 12,
+          "text": "Porque não ousamos classificar-nos, ou comparar-nos com alguns, que se louvam a si mesmos; mas estes que se medem a si mesmos, e se comparam consigo mesmos, estão sem entendimento."
+        },
+        {
+          "verse": 13,
+          "text": "Porém, não nos gloriaremos fora da medida, mas conforme a reta medida que Deus nos deu, para chegarmos até vós;"
+        },
+        {
+          "verse": 14,
+          "text": "Porque não nos estendemos além do que convém, como se não houvéssemos de chegar até vós, pois já chegamos também até vós no evangelho de Cristo,"
+        },
+        {
+          "verse": 15,
+          "text": "Não nos gloriando fora da medida nos trabalhos alheios; antes tendo esperança de que, crescendo a vossa fé, seremos abundantemente engrandecidos entre vós, conforme a nossa regra,"
+        },
+        {
+          "verse": 16,
+          "text": "Para anunciar o evangelho nos lugares que estão além de vós e não em campo de outro, para não nos gloriarmos no que estava já preparado."
+        },
+        {
+          "verse": 17,
+          "text": "Aquele, porém, que se gloria, glorie-se no Senhor."
+        },
+        {
+          "verse": 18,
+          "text": "Porque não é aprovado quem a si mesmo se louva, mas, sim, aquele a quem o Senhor louva."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Quisera eu me suportásseis um pouco na minha loucura! Suportai-me, porém, ainda."
+        },
+        {
+          "verse": 2,
+          "text": "Porque estou zeloso de vós com zelo de Deus; porque vos tenho preparado para vos apresentar como uma virgem pura a um marido, a saber, a Cristo."
+        },
+        {
+          "verse": 3,
+          "text": "Mas temo que, assim como a serpente enganou Eva com a sua astúcia, assim também sejam de alguma sorte corrompidos os vossos sentidos, e se apartem da simplicidade que há em Cristo."
+        },
+        {
+          "verse": 4,
+          "text": "Porque, se alguém vindo pregar-vos outro Jesus que nós não temos pregado, ou se recebeis outro espírito que não recebestes, ou outro evangelho que não abraçastes, com razão o sofreríeis."
+        },
+        {
+          "verse": 5,
+          "text": "Porque penso que em nada fui inferior aos mais excelentes apóstolos."
+        },
+        {
+          "verse": 6,
+          "text": "E, se sou rude na palavra, não o sou contudo no conhecimento; mas já em todas as coisas nos temos feito conhecer totalmente entre vós."
+        },
+        {
+          "verse": 7,
+          "text": "Pequei, porventura, humilhando-me a mim mesmo, para que vós fôsseis exaltados, porque de graça vos anunciei o evangelho de Deus?"
+        },
+        {
+          "verse": 8,
+          "text": "Outras igrejas despojei eu para vos servir, recebendo delas salário; e quando estava presente convosco, e tinha necessidade, a ninguém fui pesado."
+        },
+        {
+          "verse": 9,
+          "text": "Porque os irmãos que vieram da Macedônia supriram a minha necessidade; e em tudo me guardei de vos ser pesado, e ainda me guardarei."
+        },
+        {
+          "verse": 10,
+          "text": "Como a verdade de Cristo está em mim, esta glória não me será impedida nas regiões da Acaia."
+        },
+        {
+          "verse": 11,
+          "text": "Por quê? Porque não vos amo? Deus o sabe."
+        },
+        {
+          "verse": 12,
+          "text": "Mas o que eu faço o farei, para cortar ocasião aos que buscam ocasião, a fim de que, naquilo em que se gloriam, sejam achados assim como nós."
+        },
+        {
+          "verse": 13,
+          "text": "Porque tais falsos apóstolos são obreiros fraudulentos, transfigurando-se em apóstolos de Cristo."
+        },
+        {
+          "verse": 14,
+          "text": "E não é maravilha, porque o próprio Satanás se transfigura em anjo de luz."
+        },
+        {
+          "verse": 15,
+          "text": "Não é muito, pois, que os seus ministros se transfigurem em ministros da justiça; o fim dos quais será conforme as suas obras."
+        },
+        {
+          "verse": 16,
+          "text": "Outra vez digo: Ninguém me julgue ser insensato, ou então recebei-me como insensato, para que também me glorie um pouco."
+        },
+        {
+          "verse": 17,
+          "text": "O que digo, não o digo segundo o Senhor, mas como por loucura, nesta confiança de gloriar-me."
+        },
+        {
+          "verse": 18,
+          "text": "Pois que muitos se gloriam segundo a carne, eu também me gloriarei."
+        },
+        {
+          "verse": 19,
+          "text": "Porque, sendo vós sensatos, de boa mente tolerais os insensatos."
+        },
+        {
+          "verse": 20,
+          "text": "Pois sois sofredores, se alguém vos põe em servidão, se alguém vos devora, se alguém vos apanha, se alguém se exalta, se alguém vos fere no rosto."
+        },
+        {
+          "verse": 21,
+          "text": "Envergonhado o digo, como se nós fôssemos fracos, mas no que qualquer tem ousadia (com insensatez falo) também eu tenho ousadia."
+        },
+        {
+          "verse": 22,
+          "text": "São hebreus? Também eu. São israelitas? Também eu. São descendência de Abraão? Também eu."
+        },
+        {
+          "verse": 23,
+          "text": "São ministros de Cristo? (Falo como fora de mim) Eu ainda mais: em trabalhos, muito mais; em açoites, mais do que eles; em prisões, muito mais; em perigo de morte, muitas vezes."
+        },
+        {
+          "verse": 24,
+          "text": "Recebi dos judeus cinco quarentenas de açoites menos um."
+        },
+        {
+          "verse": 25,
+          "text": "Três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes sofri naufrágio, uma noite e um dia passei no abismo;"
+        },
+        {
+          "verse": 26,
+          "text": "Em viagens muitas vezes, em perigos de rios, em perigos de salteadores, em perigos dos da minha nação, em perigos dos gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre os falsos irmãos;"
+        },
+        {
+          "verse": 27,
+          "text": "Em trabalhos e fadiga, em vigílias muitas vezes, em fome e sede, em jejum muitas vezes, em frio e nudez."
+        },
+        {
+          "verse": 28,
+          "text": "Além das coisas exteriores, me oprime cada dia o cuidado de todas as igrejas."
+        },
+        {
+          "verse": 29,
+          "text": "Quem enfraquece, que eu também não enfraqueça? Quem se escandaliza, que eu me não abrase?"
+        },
+        {
+          "verse": 30,
+          "text": "Se convém gloriar-me, gloriar-me-ei no que diz respeito à minha fraqueza."
+        },
+        {
+          "verse": 31,
+          "text": "O Deus e Pai de nosso Senhor Jesus Cristo, que é eternamente bendito, sabe que não minto."
+        },
+        {
+          "verse": 32,
+          "text": "Em Damasco, o que governava sob o rei Aretas pôs guardas às portas da cidade dos damascenos, querendo me prender."
+        },
+        {
+          "verse": 33,
+          "text": "E fui descido num cesto por uma janela da muralha; e assim escapei das suas mãos."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Em verdade que não convém gloriar-me; mas passarei às visões e revelações do Senhor."
+        },
+        {
+          "verse": 2,
+          "text": "Conheço um homem em Cristo que há catorze anos (se no corpo, não sei, se fora do corpo, não sei; Deus o sabe) foi arrebatado ao terceiro céu."
+        },
+        {
+          "verse": 3,
+          "text": "E sei que o tal homem (se no corpo, se fora do corpo, não sei; Deus o sabe)"
+        },
+        {
+          "verse": 4,
+          "text": "Foi arrebatado ao paraíso; e ouviu palavras inefáveis, que ao homem não é lícito falar."
+        },
+        {
+          "verse": 5,
+          "text": "De alguém assim me gloriarei eu, mas de mim mesmo não me gloriarei, senão nas minhas fraquezas."
+        },
+        {
+          "verse": 6,
+          "text": "Porque, se quiser gloriar-me, não serei néscio, porque direi a verdade; mas deixo isto, para que ninguém cuide de mim mais do que em mim vê ou de mim ouve."
+        },
+        {
+          "verse": 7,
+          "text": "E, para que não me exaltasse pela excelência das revelações, foi-me dado um espinho na carne, a saber, um mensageiro de Satanás para me esbofetear, a fim de não me exaltar."
+        },
+        {
+          "verse": 8,
+          "text": "Acerca do qual três vezes orei ao Senhor para que se desviasse de mim."
+        },
+        {
+          "verse": 9,
+          "text": "E disse-me: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. De boa vontade, pois, me gloriarei nas minhas fraquezas, para que em mim habite o poder de Cristo."
+        },
+        {
+          "verse": 10,
+          "text": "Por isso sinto prazer nas fraquezas, nas injúrias, nas necessidades, nas perseguições, nas angústias por amor de Cristo. Porque quando estou fraco então sou forte."
+        },
+        {
+          "verse": 11,
+          "text": "Fui néscio em gloriar-me; vós me constrangestes. Porque eu devia ter sido louvado por vós, visto que em nada fui inferior aos mais excelentes apóstolos, ainda que nada sou."
+        },
+        {
+          "verse": 12,
+          "text": "Os sinais do meu apostolado foram manifestados entre vós com toda a paciência, por sinais, prodígios e maravilhas."
+        },
+        {
+          "verse": 13,
+          "text": "Pois, em que tendes vós sido inferiores às outras igrejas, a não ser que eu mesmo vos não fui pesado? Perdoai-me este agravo."
+        },
+        {
+          "verse": 14,
+          "text": "Eis aqui estou pronto para pela terceira vez ir ter convosco, e não vos serei pesado, pois que não busco o que é vosso, mas sim a vós: porque não devem os filhos entesourar para os pais, mas os pais para os filhos."
+        },
+        {
+          "verse": 15,
+          "text": "Eu de muito boa vontade gastarei, e me deixarei gastar pelas vossas almas, ainda que, amando-vos cada vez mais, seja menos amado."
+        },
+        {
+          "verse": 16,
+          "text": "Mas seja assim; eu não vos fui pesado mas, sendo astuto, vos tomei com dolo."
+        },
+        {
+          "verse": 17,
+          "text": "Porventura aproveitei-me de vós por algum daqueles que vos enviei?"
+        },
+        {
+          "verse": 18,
+          "text": "Roguei a Tito, e enviei com ele um irmão. Porventura Tito se aproveitou de vós? Não andamos porventura no mesmo espírito? Não sobre as mesmas pisadas?"
+        },
+        {
+          "verse": 19,
+          "text": "Cuidais que ainda nos desculpamos convosco? Falamos em Cristo perante Deus, e tudo isto, ó amados, para vossa edificação."
+        },
+        {
+          "verse": 20,
+          "text": "Porque receio que, quando chegar, não vos ache como eu quereria, e eu seja achado de vós como não quereríeis; que de alguma maneira haja pendências, invejas, iras, porfias, difamações, intrigas, orgulhos, tumultos;"
+        },
+        {
+          "verse": 21,
+          "text": "Que, quando for outra vez, o meu Deus me humilhe para convosco, e chore por muitos daqueles que dantes pecaram, e não se arrependeram da imundícia, e fornicação, e desonestidade que cometeram."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "É esta a terceira vez que vou ter convosco. Por boca de duas ou três testemunhas será confirmada toda a palavra."
+        },
+        {
+          "verse": 2,
+          "text": "Já anteriormente o disse, e de antemão digo como estando presente uma segunda vez; mas agora, estando ausente, o escrevo aos que antes pecaram e a todos os mais, que, se outra vez for, não lhes pouparei;"
+        },
+        {
+          "verse": 3,
+          "text": "Visto que buscais uma prova de Cristo que fala em mim, o qual não é fraco para convosco, antes é poderoso entre vós."
+        },
+        {
+          "verse": 4,
+          "text": "Porque, ainda que foi crucificado por fraqueza, vive, contudo, pelo poder de Deus. Porque nós também somos fracos nele, mas viveremos com ele pelo poder de Deus em vós."
+        },
+        {
+          "verse": 5,
+          "text": "Examinai-vos a vós mesmos, se permaneceis na fé; provai-vos a vós mesmos. Ou não sabeis quanto a vós mesmos, que Jesus Cristo está em vós? Se não é que já estais reprovados."
+        },
+        {
+          "verse": 6,
+          "text": "Mas espero que entendereis que nós não somos reprovados."
+        },
+        {
+          "verse": 7,
+          "text": "Ora, eu rogo a Deus que não façais mal algum, não para que sejamos achados aprovados, mas para que vós façais o bem, embora nós sejamos como reprovados."
+        },
+        {
+          "verse": 8,
+          "text": "Porque nada podemos contra a verdade, senão pela verdade."
+        },
+        {
+          "verse": 9,
+          "text": "Porque nos regozijamos de estar fracos, quando vós estais fortes; e o que desejamos é a vossa perfeição."
+        },
+        {
+          "verse": 10,
+          "text": "Portanto, escrevo estas coisas estando ausente, para que, estando presente, não use de rigor, segundo o poder que o Senhor me deu para edificação, e não para destruição."
+        },
+        {
+          "verse": 11,
+          "text": "Quanto ao mais, irmãos, regozijai-vos, sede perfeitos, sede consolados, sede de um mesmo parecer, vivei em paz; e o Deus de amor e de paz será convosco."
+        },
+        {
+          "verse": 12,
+          "text": "Saudai-vos uns aos outros com ósculo santo."
+        },
+        {
+          "verse": 13,
+          "text": "Todos os santos vos saúdam."
+        },
+        {
+          "verse": 14,
+          "text": "A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo seja com todos vós. Amém."
+        }
+      ]
+    }
+  ]
 };
-            

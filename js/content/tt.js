@@ -1,10 +1,205 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['tt'] = {
-  "1": "<h1>Tito - Capítulo 1</h1>\n<p><strong>1</strong> Paulo, servo de Deus, e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus, e o conhecimento da verdade, que é segundo a piedade,</p>\n<p><strong>2</strong> Em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos dos séculos;</p>\n<p><strong>3</strong> Mas a seu tempo manifestou a sua palavra pela pregação que me foi confiada segundo o mandamento de Deus, nosso Salvador;</p>\n<p><strong>4</strong> A Tito, meu verdadeiro filho, segundo a fé comum: Graça, misericórdia, e paz da parte de Deus Pai, e da do Senhor Jesus Cristo, nosso Salvador.</p>\n<p><strong>5</strong> Por esta causa te deixei em Creta, para que pusesses em boa ordem as coisas que ainda restam, e de cidade em cidade estabelecesses presbíteros, como já te mandei:</p>\n<p><strong>6</strong> Aquele que for irrepreensível, marido de uma mulher, que tenha filhos fiéis, que não possam ser acusados de dissolução nem são desobedientes.</p>\n<p><strong>7</strong> Porque é necessário que o bispo seja irrepreensível, como mordomo da casa de Deus, não soberbo, nem iracundo, nem dado ao vinho, nem espancador, nem cobiçoso de torpe ganância;</p>\n<p><strong>8</strong> Mas dado à hospitalidade, amigo do bem, moderado, justo, santo, temperante;</p>\n<p><strong>9</strong> Retendo firme a fiel palavra, que é conforme a doutrina, para que seja poderoso, tanto para admoestar com a sã doutrina, como para convencer os contradizentes.</p>\n<p><strong>10</strong> Porque há muitos desordenados, faladores, vãos e enganadores, principalmente os da circuncisão,</p>\n<p><strong>11</strong> Aos quais convém tapar a boca; homens que transtornam casas inteiras ensinando o que não convém, por torpe ganância.</p>\n<p><strong>12</strong> Um deles, seu próprio profeta, disse: Os cretenses são sempre mentirosos, bestas ruins, ventres preguiçosos.</p>\n<p><strong>13</strong> Este testemunho é verdadeiro. Portanto, repreende-os severamente, para que sejam sãos na fé.</p>\n<p><strong>14</strong> Não dando ouvidos às fábulas judaicas, nem aos mandamentos de homens que se desviam da verdade.</p>\n<p><strong>15</strong> Todas as coisas são puras para os puros, mas nada é puro para os contaminados e infiéis; antes o seu entendimento e consciência estão contaminados.</p>\n<p><strong>16</strong> Confessam que conhecem a Deus, mas negam-no com as obras, sendo abomináveis, e desobedientes, e reprovados para toda a boa obra.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">Tito 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a></p>\n",
-  "2": "<h1>Tito - Capítulo 2</h1>\n<p><strong>1</strong> Tu, porém, fala o que convém à sã doutrina.</p>\n<p><strong>2</strong> Os velhos, que sejam sóbrios, graves, prudentes, sãos na fé, no amor, e na paciência;</p>\n<p><strong>3</strong> As mulheres idosas, semelhantemente, que sejam sérias no seu viver, como convém a santas, não caluniadoras, não dadas a muito vinho, mestras no bem;</p>\n<p><strong>4</strong> Para que ensinem as mulheres novas a serem prudentes, a amarem seus maridos, a amarem seus filhos,</p>\n<p><strong>5</strong> A serem moderadas, puras, boas donas de casa, sujeitas a seus maridos, a fim de que a palavra de Deus não seja blasfemada.</p>\n<p><strong>6</strong> Exorta semelhantemente os jovens a que sejam moderados.</p>\n<p><strong>7</strong> Em tudo te dá por exemplo de boas obras; na doutrina mostra incorrupção, gravidade, sinceridade,</p>\n<p><strong>8</strong> Linguagem sã e irrepreensível, para que o adversário se envergonhe, não tendo nenhum mal que dizer de vós.</p>\n<p><strong>9</strong> Exorta os servos a que se sujeitem a seus senhores, e em tudo agradem, não contradizendo,</p>\n<p><strong>10</strong> Não defraudando, antes mostrando toda a boa lealdade, para que em tudo sejam ornamento da doutrina de Deus, nosso Salvador.</p>\n<p><strong>11</strong> Porque a graça salvadora de Deus se há manifestado a todos os homens,</p>\n<p><strong>12</strong> Ensinando-nos que, renunciando à impiedade e às concupiscências mundanas, vivamos neste presente século sóbria, e justa, e piamente,</p>\n<p><strong>13</strong> Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Salvador Jesus Cristo;</p>\n<p><strong>14</strong> O qual se deu a si mesmo por nós para nos remir de toda a iniquidade, e purificar para si um povo seu especial, zeloso de boas obras.</p>\n<p><strong>15</strong> Fala disto, e exorta e repreende com toda a autoridade. Ninguém te despreze.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- Tito 1</a> | <a href=\"capitulo_3.md\">Tito 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a></p>\n",
-  "3": "<h1>Tito - Capítulo 3</h1>\n<p><strong>1</strong> Admoesta-os a que se sujeitem aos principados e autoridades, que lhes obedeçam, e estejam preparados para toda a boa obra;</p>\n<p><strong>2</strong> Que a ninguém infamem, nem sejam contenciosos, mas modestos, mostrando toda a mansidão para com todos os homens.</p>\n<p><strong>3</strong> Porque também nós éramos noutro tempo insensatos, desobedientes, extraviados, servindo a várias concupiscências e deleites, vivendo em malícia e inveja, odiosos, odiando-nos uns aos outros.</p>\n<p><strong>4</strong> Mas quando apareceu a benignidade e amor de Deus, nosso Salvador, para com os homens,</p>\n<p><strong>5</strong> Não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo,</p>\n<p><strong>6</strong> Que abundantemente ele derramou sobre nós por Jesus Cristo nosso Salvador;</p>\n<p><strong>7</strong> Para que, sendo justificados pela sua graça, sejamos feitos herdeiros segundo a esperança da vida eterna.</p>\n<p><strong>8</strong> Fiel é a palavra, e isto quero que deveras afirmes, para que os que creem em Deus procurem aplicar-se às boas obras; estas coisas são boas e proveitosas aos homens.</p>\n<p><strong>9</strong> Mas não entres em questões loucas, genealogias e contendas, e nos debates acerca da lei; porque são coisas inúteis e vãs.</p>\n<p><strong>10</strong> Ao homem herege, depois de uma e outra admoestação, evita-o,</p>\n<p><strong>11</strong> Sabendo que esse tal está pervertido, e peca, estando já em si mesmo condenado.</p>\n<p><strong>12</strong> Quando te enviar Ártemas, ou Tíquico, procura vir ter comigo a Nicópolis; porque deliberei invernar ali.</p>\n<p><strong>13</strong> Acompanha com muito cuidado Zenas, doutor da lei, e Apolo, para que nada lhes falte.</p>\n<p><strong>14</strong> E os nossos aprendam também a aplicar-se às boas obras, nas coisas necessárias, para que não sejam infrutuosos.</p>\n<p><strong>15</strong> Saúdam-te todos os que estão comigo. Saúda tu os que nos amam na fé. A graça seja com vós todos. Amém.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- Tito 2</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['tt'] = {
+  "book": "tt",
+  "name": "Tito",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Paulo, servo de Deus, e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus, e o conhecimento da verdade, que é segundo a piedade,"
+        },
+        {
+          "verse": 2,
+          "text": "Em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos dos séculos;"
+        },
+        {
+          "verse": 3,
+          "text": "Mas a seu tempo manifestou a sua palavra pela pregação que me foi confiada segundo o mandamento de Deus, nosso Salvador;"
+        },
+        {
+          "verse": 4,
+          "text": "A Tito, meu verdadeiro filho, segundo a fé comum: Graça, misericórdia, e paz da parte de Deus Pai, e da do Senhor Jesus Cristo, nosso Salvador."
+        },
+        {
+          "verse": 5,
+          "text": "Por esta causa te deixei em Creta, para que pusesses em boa ordem as coisas que ainda restam, e de cidade em cidade estabelecesses presbíteros, como já te mandei:"
+        },
+        {
+          "verse": 6,
+          "text": "Aquele que for irrepreensível, marido de uma mulher, que tenha filhos fiéis, que não possam ser acusados de dissolução nem são desobedientes."
+        },
+        {
+          "verse": 7,
+          "text": "Porque é necessário que o bispo seja irrepreensível, como mordomo da casa de Deus, não soberbo, nem iracundo, nem dado ao vinho, nem espancador, nem cobiçoso de torpe ganância;"
+        },
+        {
+          "verse": 8,
+          "text": "Mas dado à hospitalidade, amigo do bem, moderado, justo, santo, temperante;"
+        },
+        {
+          "verse": 9,
+          "text": "Retendo firme a fiel palavra, que é conforme a doutrina, para que seja poderoso, tanto para admoestar com a sã doutrina, como para convencer os contradizentes."
+        },
+        {
+          "verse": 10,
+          "text": "Porque há muitos desordenados, faladores, vãos e enganadores, principalmente os da circuncisão,"
+        },
+        {
+          "verse": 11,
+          "text": "Aos quais convém tapar a boca; homens que transtornam casas inteiras ensinando o que não convém, por torpe ganância."
+        },
+        {
+          "verse": 12,
+          "text": "Um deles, seu próprio profeta, disse: Os cretenses são sempre mentirosos, bestas ruins, ventres preguiçosos."
+        },
+        {
+          "verse": 13,
+          "text": "Este testemunho é verdadeiro. Portanto, repreende-os severamente, para que sejam sãos na fé."
+        },
+        {
+          "verse": 14,
+          "text": "Não dando ouvidos às fábulas judaicas, nem aos mandamentos de homens que se desviam da verdade."
+        },
+        {
+          "verse": 15,
+          "text": "Todas as coisas são puras para os puros, mas nada é puro para os contaminados e infiéis; antes o seu entendimento e consciência estão contaminados."
+        },
+        {
+          "verse": 16,
+          "text": "Confessam que conhecem a Deus, mas negam-no com as obras, sendo abomináveis, e desobedientes, e reprovados para toda a boa obra."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Tu, porém, fala o que convém à sã doutrina."
+        },
+        {
+          "verse": 2,
+          "text": "Os velhos, que sejam sóbrios, graves, prudentes, sãos na fé, no amor, e na paciência;"
+        },
+        {
+          "verse": 3,
+          "text": "As mulheres idosas, semelhantemente, que sejam sérias no seu viver, como convém a santas, não caluniadoras, não dadas a muito vinho, mestras no bem;"
+        },
+        {
+          "verse": 4,
+          "text": "Para que ensinem as mulheres novas a serem prudentes, a amarem seus maridos, a amarem seus filhos,"
+        },
+        {
+          "verse": 5,
+          "text": "A serem moderadas, puras, boas donas de casa, sujeitas a seus maridos, a fim de que a palavra de Deus não seja blasfemada."
+        },
+        {
+          "verse": 6,
+          "text": "Exorta semelhantemente os jovens a que sejam moderados."
+        },
+        {
+          "verse": 7,
+          "text": "Em tudo te dá por exemplo de boas obras; na doutrina mostra incorrupção, gravidade, sinceridade,"
+        },
+        {
+          "verse": 8,
+          "text": "Linguagem sã e irrepreensível, para que o adversário se envergonhe, não tendo nenhum mal que dizer de vós."
+        },
+        {
+          "verse": 9,
+          "text": "Exorta os servos a que se sujeitem a seus senhores, e em tudo agradem, não contradizendo,"
+        },
+        {
+          "verse": 10,
+          "text": "Não defraudando, antes mostrando toda a boa lealdade, para que em tudo sejam ornamento da doutrina de Deus, nosso Salvador."
+        },
+        {
+          "verse": 11,
+          "text": "Porque a graça salvadora de Deus se há manifestado a todos os homens,"
+        },
+        {
+          "verse": 12,
+          "text": "Ensinando-nos que, renunciando à impiedade e às concupiscências mundanas, vivamos neste presente século sóbria, e justa, e piamente,"
+        },
+        {
+          "verse": 13,
+          "text": "Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Salvador Jesus Cristo;"
+        },
+        {
+          "verse": 14,
+          "text": "O qual se deu a si mesmo por nós para nos remir de toda a iniquidade, e purificar para si um povo seu especial, zeloso de boas obras."
+        },
+        {
+          "verse": 15,
+          "text": "Fala disto, e exorta e repreende com toda a autoridade. Ninguém te despreze."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Admoesta-os a que se sujeitem aos principados e autoridades, que lhes obedeçam, e estejam preparados para toda a boa obra;"
+        },
+        {
+          "verse": 2,
+          "text": "Que a ninguém infamem, nem sejam contenciosos, mas modestos, mostrando toda a mansidão para com todos os homens."
+        },
+        {
+          "verse": 3,
+          "text": "Porque também nós éramos noutro tempo insensatos, desobedientes, extraviados, servindo a várias concupiscências e deleites, vivendo em malícia e inveja, odiosos, odiando-nos uns aos outros."
+        },
+        {
+          "verse": 4,
+          "text": "Mas quando apareceu a benignidade e amor de Deus, nosso Salvador, para com os homens,"
+        },
+        {
+          "verse": 5,
+          "text": "Não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo,"
+        },
+        {
+          "verse": 6,
+          "text": "Que abundantemente ele derramou sobre nós por Jesus Cristo nosso Salvador;"
+        },
+        {
+          "verse": 7,
+          "text": "Para que, sendo justificados pela sua graça, sejamos feitos herdeiros segundo a esperança da vida eterna."
+        },
+        {
+          "verse": 8,
+          "text": "Fiel é a palavra, e isto quero que deveras afirmes, para que os que creem em Deus procurem aplicar-se às boas obras; estas coisas são boas e proveitosas aos homens."
+        },
+        {
+          "verse": 9,
+          "text": "Mas não entres em questões loucas, genealogias e contendas, e nos debates acerca da lei; porque são coisas inúteis e vãs."
+        },
+        {
+          "verse": 10,
+          "text": "Ao homem herege, depois de uma e outra admoestação, evita-o,"
+        },
+        {
+          "verse": 11,
+          "text": "Sabendo que esse tal está pervertido, e peca, estando já em si mesmo condenado."
+        },
+        {
+          "verse": 12,
+          "text": "Quando te enviar Ártemas, ou Tíquico, procura vir ter comigo a Nicópolis; porque deliberei invernar ali."
+        },
+        {
+          "verse": 13,
+          "text": "Acompanha com muito cuidado Zenas, doutor da lei, e Apolo, para que nada lhes falte."
+        },
+        {
+          "verse": 14,
+          "text": "E os nossos aprendam também a aplicar-se às boas obras, nas coisas necessárias, para que não sejam infrutuosos."
+        },
+        {
+          "verse": 15,
+          "text": "Saúdam-te todos os que estão comigo. Saúda tu os que nos amam na fé. A graça seja com vós todos. Amém."
+        }
+      ]
+    }
+  ]
 };
-            

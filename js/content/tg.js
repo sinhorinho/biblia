@@ -1,12 +1,463 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['tg'] = {
-  "1": "<h1>Tiago - Capítulo 1</h1>\n<p><strong>1</strong> Tiago, servo de Deus, e do Senhor Jesus Cristo, às doze tribos que andam dispersas, saúde.</p>\n<p><strong>2</strong> Meus irmãos, tende grande alegria quando enfrentardes várias tentações;</p>\n<p><strong>3</strong> Sabendo que a prova da vossa fé opera a paciência.</p>\n<p><strong>4</strong> Tenha, porém, a paciência a sua obra perfeita, para que sejais perfeitos e completos, sem faltar em coisa alguma.</p>\n<p><strong>5</strong> E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e o não lança em rosto, e ser-lhe-á dada.</p>\n<p><strong>6</strong> Peça-a, porém, com fé, em nada duvidando; porque o que duvida é semelhante à onda do mar, que é levada pelo vento, e lançada de uma para outra parte.</p>\n<p><strong>7</strong> Não pense tal homem que receberá do Senhor alguma coisa.</p>\n<p><strong>8</strong> O homem de ânimo dobre é inconstante em todos os seus caminhos.</p>\n<p><strong>9</strong> Mas glorie-se o irmão abatido na sua exaltação,</p>\n<p><strong>10</strong> E o rico em seu abatimento; porque ele passará como a flor da erva.</p>\n<p><strong>11</strong> Porque sai o sol com ardor, e a erva seca, e a sua flor cai, e a formosa aparência do seu aspecto perece; assim se murchará também o rico em seus caminhos.</p>\n<p><strong>12</strong> Bem-aventurado o homem que suporta a tentação; porque, quando for provado, receberá a coroa da vida, a qual o Senhor tem prometido aos que o amam.</p>\n<p><strong>13</strong> Ninguém, sendo tentado, diga: De Deus sou tentado; porque Deus não pode ser tentado pelo mal, e a ninguém tenta.</p>\n<p><strong>14</strong> Mas cada um é tentado, quando atraído e engodado pela sua própria concupiscência.</p>\n<p><strong>15</strong> Depois, havendo a concupiscência concebido, dá à luz o pecado; e o pecado, sendo consumado, gera a morte.</p>\n<p><strong>16</strong> Não erreis, meus amados irmãos.</p>\n<p><strong>17</strong> Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação.</p>\n<p><strong>18</strong> Segundo a sua vontade, ele nos gerou pela palavra da verdade, para que fôssemos como primícias das suas criaturas.</p>\n<p><strong>19</strong> Portanto, meus amados irmãos, todo o homem seja pronto para ouvir, tardio para falar, tardio para se irar.</p>\n<p><strong>20</strong> Porque a ira do homem não opera a justiça de Deus.</p>\n<p><strong>21</strong> Por isso, rejeitando toda a imundícia e superfluidade de malícia, recebei com mansidão a palavra em vós enxertada, a qual pode salvar as vossas almas.</p>\n<p><strong>22</strong> E sede cumpridores da palavra, e não somente ouvintes, enganando-vos a vós mesmos.</p>\n<p><strong>23</strong> Porque, se alguém é ouvinte da palavra, e não cumpridor, é semelhante ao homem que contempla ao espelho o seu rosto natural;</p>\n<p><strong>24</strong> Porque se contempla a si mesmo, e vai-se, e logo se esquece de como era.</p>\n<p><strong>25</strong> Aquele, porém, que atenta bem para a lei perfeita da liberdade, e nisso persevera, não sendo ouvinte esquecidiço, mas fazedor da obra, este tal será bem-aventurado no seu feito.</p>\n<p><strong>26</strong> Se alguém entre vós cuida ser religioso, e não refreia a sua língua, antes engana o seu coração, a religião desse é vã.</p>\n<p><strong>27</strong> A religião pura e imaculada para com Deus e Pai, é esta: Visitar os órfãos e as viúvas nas suas tribulações, e guardar-se incontaminado do mundo.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">Tiago 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "2": "<h1>Tiago - Capítulo 2</h1>\n<p><strong>1</strong> Meus irmãos, não tenhais a fé de nosso Senhor Jesus Cristo, Senhor da glória, em acepção de pessoas.</p>\n<p><strong>2</strong> Porque, se no vosso ajuntamento entrar algum homem com anel de ouro no dedo, com trajes preciosos, e entrar também algum pobre com sórdido traje,</p>\n<p><strong>3</strong> E atentardes para o que traz o traje precioso, e lhe disserdes: Assenta-te tu aqui num lugar de honra, e disserdes ao pobre: Tu, fica aí em pé, ou assenta-te abaixo do meu estrado,</p>\n<p><strong>4</strong> Porventura não fizestes distinção entre vós mesmos, e não vos fizestes juízes de maus pensamentos?</p>\n<p><strong>5</strong> Ouvi, meus amados irmãos: Porventura não escolheu Deus aos pobres deste mundo para serem ricos na fé, e herdeiros do reino que prometeu aos que o amam?</p>\n<p><strong>6</strong> Mas vós desonrastes o pobre. Porventura não vos oprimem os ricos, e não vos arrastam aos tribunais?</p>\n<p><strong>7</strong> Porventura não blasfemam eles o bom nome que sobre vós foi invocado?</p>\n<p><strong>8</strong> Todavia, se cumprirdes, conforme a Escritura, a lei real: Amarás a teu próximo como a ti mesmo, bem fazeis.</p>\n<p><strong>9</strong> Mas, se fazeis acepção de pessoas, cometeis pecado, e sois condenados pela lei como transgressores.</p>\n<p><strong>10</strong> Porque qualquer que guardar toda a lei, e tropeçar em um só ponto, tornou-se culpado de todos.</p>\n<p><strong>11</strong> Porque aquele que disse: Não cometerás adultério, também disse: Não matarás. Se tu pois não cometeres adultério, mas matares, estás feito transgressor da lei.</p>\n<p><strong>12</strong> Assim falai, e assim procedei, como devendo ser julgados pela lei da liberdade.</p>\n<p><strong>13</strong> Porque o juízo será sem misericórdia sobre aquele que não fez misericórdia; e a misericórdia triunfa do juízo.</p>\n<p><strong>14</strong> Meus irmãos, que aproveita se alguém disser que tem fé, e não tiver as obras? Porventura a fé pode salvá-lo?</p>\n<p><strong>15</strong> E, se o irmão ou a irmã estiverem nus, e tiverem falta de mantimento cotidiano,</p>\n<p><strong>16</strong> E algum de vós lhes disser: Ide em paz, aquentai-vos, e fartai-vos; e não lhes derdes as coisas necessárias para o corpo, que proveito virá daí?</p>\n<p><strong>17</strong> Assim também a fé, se não tiver as obras, é morta em si mesma.</p>\n<p><strong>18</strong> Mas dirá alguém: Tu tens a fé, e eu tenho as obras; mostra-me a tua fé sem as tuas obras, e eu te mostrarei a minha fé pelas minhas obras.</p>\n<p><strong>19</strong> Tu crês que há um só Deus; fazes bem. Também os demônios o creem, e estremecem.</p>\n<p><strong>20</strong> Mas, ó homem vão, queres tu saber que a fé sem as obras é morta?</p>\n<p><strong>21</strong> Porventura o nosso pai Abraão não foi justificado pelas obras, quando ofereceu sobre o altar o seu filho Isaque?</p>\n<p><strong>22</strong> Bem vês que a fé cooperou com as suas obras, e que pelas obras a fé foi aperfeiçoada.</p>\n<p><strong>23</strong> E cumpriu-se a Escritura, que diz: E creu Abraão em Deus, e foi-lhe isso imputado como justiça, e foi chamado o amigo de Deus.</p>\n<p><strong>24</strong> Vedes então que o homem é justificado pelas obras, e não somente pela fé.</p>\n<p><strong>25</strong> E de igual modo Raabe, a meretriz, não foi também justificada pelas obras, quando recolheu os emissários, e os despediu por outro caminho?</p>\n<p><strong>26</strong> Porque, assim como o corpo sem o espírito está morto, assim também a fé sem obras é morta.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- Tiago 1</a> | <a href=\"capitulo_3.md\">Tiago 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "3": "<h1>Tiago - Capítulo 3</h1>\n<p><strong>1</strong> Meus irmãos, muitos de vós não sejam mestres, sabendo que receberemos mais duro juízo.</p>\n<p><strong>2</strong> Porque todos tropeçamos em muitas coisas. Se alguém não tropeça em palavra, o tal é perfeito, e poderoso para também refrear todo o corpo.</p>\n<p><strong>3</strong> Ora, nós pomos freio nas bocas dos cavalos, para que nos obedeçam; e conseguimos dirigir todo o seu corpo.</p>\n<p><strong>4</strong> Vede também as naus que, sendo tão grandes, e levadas de impetuosos ventos, se viram com um bem pequeno leme para onde quer a vontade daquele que as governa.</p>\n<p><strong>5</strong> Assim também a língua é um pequeno membro, e gloria-se de grandes coisas. Vede quão grande bosque um pequeno fogo incendeia.</p>\n<p><strong>6</strong> A língua também é um fogo; como mundo de iniquidade, a língua está posta entre os nossos membros, e contamina todo o corpo, e inflama o curso da natureza, e é inflamada pelo inferno.</p>\n<p><strong>7</strong> Porque toda a natureza, tanto de bestas feras como de aves, tanto de répteis como de animais do mar, se amansa e foi domada pela natureza humana;</p>\n<p><strong>8</strong> Mas nenhum homem pode domar a língua. É um mal que não se pode refrear; está cheia de peçonha mortal.</p>\n<p><strong>9</strong> Com ela bendizemos a Deus e Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus.</p>\n<p><strong>10</strong> De uma mesma boca procede bênção e maldição. Meus irmãos, não convém que isto se faça assim.</p>\n<p><strong>11</strong> Porventura deita alguma fonte de um mesmo manancial água doce e água amargosa?</p>\n<p><strong>12</strong> Meus irmãos, pode também a figueira produzir azeitonas, ou a videira figos? Assim tampouco pode uma fonte dar água salgada e doce.</p>\n<p><strong>13</strong> Quem dentre vós é sábio e entendido? Mostre pelo seu bom trato as suas obras em mansidão de sabedoria.</p>\n<p><strong>14</strong> Mas, se tendes amarga inveja, e sentimento contencioso em vosso coração, não vos glorieis, nem mintais contra a verdade.</p>\n<p><strong>15</strong> Essa não é a sabedoria que vem do alto, mas é terrena, animal e diabólica.</p>\n<p><strong>16</strong> Porque onde há inveja e espírito contencioso aí há perturbação e toda a obra perversa.</p>\n<p><strong>17</strong> Mas a sabedoria que do alto vem é, primeiramente pura, depois pacífica, moderada, tratável, cheia de misericórdia e de bons frutos, sem parcialidade, e sem hipocrisia.</p>\n<p><strong>18</strong> Ora, o fruto da justiça semeia-se na paz, para os que exercitam a paz.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- Tiago 2</a> | <a href=\"capitulo_4.md\">Tiago 4 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "4": "<h1>Tiago - Capítulo 4</h1>\n<p><strong>1</strong> De onde vêm as guerras e pelejas entre vós? Porventura não vêm disto, a saber, dos vossos deleites, que nos vossos membros guerreiam?</p>\n<p><strong>2</strong> Cobiçais, e nada tendes; matais, e sois invejosos, e nada podeis alcançar; combateis e guerreais, e nada tendes, porque não pedis.</p>\n<p><strong>3</strong> Pedis, e não recebeis, porque pedis mal, para o gastardes em vossos deleites.</p>\n<p><strong>4</strong> Adúlteros e adúlteras, não sabeis vós que a amizade do mundo é inimizade contra Deus? Portanto, qualquer que quiser ser amigo do mundo constitui-se inimigo de Deus.</p>\n<p><strong>5</strong> Ou cuidais vós que em vão diz a Escritura: O Espírito que em nós habita tem ciúmes?</p>\n<p><strong>6</strong> Antes, ele dá maior graça. Portanto diz: Deus resiste aos soberbos, mas dá graça aos humildes.</p>\n<p><strong>7</strong> Sujeitai-vos, pois, a Deus, resisti ao diabo, e ele fugirá de vós.</p>\n<p><strong>8</strong> Chegai-vos a Deus, e ele se chegará a vós. Limpai as mãos, pecadores; e, vós de duplo ânimo, purificai os corações.</p>\n<p><strong>9</strong> Senti as vossas misérias, e lamentai e chorai; converta-se o vosso riso em pranto, e o vosso gozo em tristeza.</p>\n<p><strong>10</strong> Humilhai-vos perante o Senhor, e ele vos exaltará.</p>\n<p><strong>11</strong> Irmãos, não faleis mal uns dos outros. Quem fala mal de um irmão, e julga a seu irmão, fala mal da lei, e julga a lei; e, se tu julgas a lei, já não és observador da lei, mas juiz.</p>\n<p><strong>12</strong> Há só um legislador que pode salvar e destruir. Tu, porém, quem és, que julgas a outro?</p>\n<p><strong>13</strong> Eia agora vós, que dizeis: Hoje, ou amanhã, iremos a tal cidade, e lá passaremos um ano, e contrataremos, e ganharemos;</p>\n<p><strong>14</strong> Digo-vos que não sabeis o que acontecerá amanhã. Porque, que é a vossa vida? É um vapor que aparece por um pouco, e depois se desvanece.</p>\n<p><strong>15</strong> Em lugar do que devíeis dizer: Se o Senhor quiser, e se vivermos, faremos isto ou aquilo.</p>\n<p><strong>16</strong> Mas agora vos gloriais em vossas presunções; toda a glória tal como esta é maligna.</p>\n<p><strong>17</strong> Aquele, pois, que sabe fazer o bem e não o faz, comete pecado.</p>\n<hr>\n<p><a href=\"capitulo_3.md\">&lt;- Tiago 3</a> | <a href=\"capitulo_5.md\">Tiago 5 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "5": "<h1>Tiago - Capítulo 5</h1>\n<p><strong>1</strong> Eia, pois, agora vós, ricos, chorai e pranteai, por vossas misérias, que sobre vós hão de vir.</p>\n<p><strong>2</strong> As vossas riquezas estão apodrecidas, e as vossas vestes estão comidas de traça.</p>\n<p><strong>3</strong> O vosso ouro e a vossa prata se enferrujaram; e a sua ferrugem dará testemunho contra vós, e comerá como fogo a vossa carne. Entesourastes para os últimos dias.</p>\n<p><strong>4</strong> Eis que o salário dos trabalhadores que ceifaram as vossas terras, e que por vós foi diminuído, clama; e os clamores dos que ceifaram entraram nos ouvidos do Senhor dos exércitos.</p>\n<p><strong>5</strong> Deliciosamente vivestes sobre a terra, e vos deleitastes; cevastes os vossos corações, como num dia de matança.</p>\n<p><strong>6</strong> Condenastes e matastes o justo; ele não vos resistiu.</p>\n<p><strong>7</strong> Sede pois, irmãos, pacientes até à vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba a chuva temporã e serôdia.</p>\n<p><strong>8</strong> Sede vós também pacientes, fortalecei os vossos corações; porque já a vinda do Senhor está próxima.</p>\n<p><strong>9</strong> Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o juiz está à porta.</p>\n<p><strong>10</strong> Meus irmãos, tomai por exemplo de aflição e paciência os profetas que falaram em nome do Senhor.</p>\n<p><strong>11</strong> Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó, e vistes o fim que o Senhor lhe deu; porque o Senhor é muito misericordioso e piedoso.</p>\n<p><strong>12</strong> Mas, sobretudo, meus irmãos, não jureis, nem pelo céu, nem pela terra, nem façais qualquer outro juramento; mas que a vossa palavra seja sim, sim, e não, não; para que não caiais em condenação.</p>\n<p><strong>13</strong> Está alguém entre vós aflito? Ore. Está alguém contente? Cante louvores.</p>\n<p><strong>14</strong> Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor;</p>\n<p><strong>15</strong> E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados.</p>\n<p><strong>16</strong> Confessai as vossas culpas uns aos outros, e orai uns pelos outros, para que sareis. A oração do justo pode muito em seus efeitos.</p>\n<p><strong>17</strong> Elias era homem sujeito às mesmas paixões que nós e, orando, pediu que não chovesse e, por três anos e seis meses, não choveu sobre a terra.</p>\n<p><strong>18</strong> E orou outra vez, e o céu deu chuva, e a terra produziu o seu fruto.</p>\n<p><strong>19</strong> Irmãos, se algum dentre vós se tem desviado da verdade, e alguém o converter,</p>\n<p><strong>20</strong> Saiba que aquele que converter um pecador do erro do seu caminho, salvará da morte uma alma, e cobrirá uma multidão de pecados.</p>\n<hr>\n<p><a href=\"capitulo_4.md\">&lt;- Tiago 4</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['tg'] = {
+  "book": "tg",
+  "name": "Tiago",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Tiago, servo de Deus, e do Senhor Jesus Cristo, às doze tribos que andam dispersas, saúde."
+        },
+        {
+          "verse": 2,
+          "text": "Meus irmãos, tende grande alegria quando enfrentardes várias tentações;"
+        },
+        {
+          "verse": 3,
+          "text": "Sabendo que a prova da vossa fé opera a paciência."
+        },
+        {
+          "verse": 4,
+          "text": "Tenha, porém, a paciência a sua obra perfeita, para que sejais perfeitos e completos, sem faltar em coisa alguma."
+        },
+        {
+          "verse": 5,
+          "text": "E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e o não lança em rosto, e ser-lhe-á dada."
+        },
+        {
+          "verse": 6,
+          "text": "Peça-a, porém, com fé, em nada duvidando; porque o que duvida é semelhante à onda do mar, que é levada pelo vento, e lançada de uma para outra parte."
+        },
+        {
+          "verse": 7,
+          "text": "Não pense tal homem que receberá do Senhor alguma coisa."
+        },
+        {
+          "verse": 8,
+          "text": "O homem de ânimo dobre é inconstante em todos os seus caminhos."
+        },
+        {
+          "verse": 9,
+          "text": "Mas glorie-se o irmão abatido na sua exaltação,"
+        },
+        {
+          "verse": 10,
+          "text": "E o rico em seu abatimento; porque ele passará como a flor da erva."
+        },
+        {
+          "verse": 11,
+          "text": "Porque sai o sol com ardor, e a erva seca, e a sua flor cai, e a formosa aparência do seu aspecto perece; assim se murchará também o rico em seus caminhos."
+        },
+        {
+          "verse": 12,
+          "text": "Bem-aventurado o homem que suporta a tentação; porque, quando for provado, receberá a coroa da vida, a qual o Senhor tem prometido aos que o amam."
+        },
+        {
+          "verse": 13,
+          "text": "Ninguém, sendo tentado, diga: De Deus sou tentado; porque Deus não pode ser tentado pelo mal, e a ninguém tenta."
+        },
+        {
+          "verse": 14,
+          "text": "Mas cada um é tentado, quando atraído e engodado pela sua própria concupiscência."
+        },
+        {
+          "verse": 15,
+          "text": "Depois, havendo a concupiscência concebido, dá à luz o pecado; e o pecado, sendo consumado, gera a morte."
+        },
+        {
+          "verse": 16,
+          "text": "Não erreis, meus amados irmãos."
+        },
+        {
+          "verse": 17,
+          "text": "Toda a boa dádiva e todo o dom perfeito vem do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."
+        },
+        {
+          "verse": 18,
+          "text": "Segundo a sua vontade, ele nos gerou pela palavra da verdade, para que fôssemos como primícias das suas criaturas."
+        },
+        {
+          "verse": 19,
+          "text": "Portanto, meus amados irmãos, todo o homem seja pronto para ouvir, tardio para falar, tardio para se irar."
+        },
+        {
+          "verse": 20,
+          "text": "Porque a ira do homem não opera a justiça de Deus."
+        },
+        {
+          "verse": 21,
+          "text": "Por isso, rejeitando toda a imundícia e superfluidade de malícia, recebei com mansidão a palavra em vós enxertada, a qual pode salvar as vossas almas."
+        },
+        {
+          "verse": 22,
+          "text": "E sede cumpridores da palavra, e não somente ouvintes, enganando-vos a vós mesmos."
+        },
+        {
+          "verse": 23,
+          "text": "Porque, se alguém é ouvinte da palavra, e não cumpridor, é semelhante ao homem que contempla ao espelho o seu rosto natural;"
+        },
+        {
+          "verse": 24,
+          "text": "Porque se contempla a si mesmo, e vai-se, e logo se esquece de como era."
+        },
+        {
+          "verse": 25,
+          "text": "Aquele, porém, que atenta bem para a lei perfeita da liberdade, e nisso persevera, não sendo ouvinte esquecidiço, mas fazedor da obra, este tal será bem-aventurado no seu feito."
+        },
+        {
+          "verse": 26,
+          "text": "Se alguém entre vós cuida ser religioso, e não refreia a sua língua, antes engana o seu coração, a religião desse é vã."
+        },
+        {
+          "verse": 27,
+          "text": "A religião pura e imaculada para com Deus e Pai, é esta: Visitar os órfãos e as viúvas nas suas tribulações, e guardar-se incontaminado do mundo."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Meus irmãos, não tenhais a fé de nosso Senhor Jesus Cristo, Senhor da glória, em acepção de pessoas."
+        },
+        {
+          "verse": 2,
+          "text": "Porque, se no vosso ajuntamento entrar algum homem com anel de ouro no dedo, com trajes preciosos, e entrar também algum pobre com sórdido traje,"
+        },
+        {
+          "verse": 3,
+          "text": "E atentardes para o que traz o traje precioso, e lhe disserdes: Assenta-te tu aqui num lugar de honra, e disserdes ao pobre: Tu, fica aí em pé, ou assenta-te abaixo do meu estrado,"
+        },
+        {
+          "verse": 4,
+          "text": "Porventura não fizestes distinção entre vós mesmos, e não vos fizestes juízes de maus pensamentos?"
+        },
+        {
+          "verse": 5,
+          "text": "Ouvi, meus amados irmãos: Porventura não escolheu Deus aos pobres deste mundo para serem ricos na fé, e herdeiros do reino que prometeu aos que o amam?"
+        },
+        {
+          "verse": 6,
+          "text": "Mas vós desonrastes o pobre. Porventura não vos oprimem os ricos, e não vos arrastam aos tribunais?"
+        },
+        {
+          "verse": 7,
+          "text": "Porventura não blasfemam eles o bom nome que sobre vós foi invocado?"
+        },
+        {
+          "verse": 8,
+          "text": "Todavia, se cumprirdes, conforme a Escritura, a lei real: Amarás a teu próximo como a ti mesmo, bem fazeis."
+        },
+        {
+          "verse": 9,
+          "text": "Mas, se fazeis acepção de pessoas, cometeis pecado, e sois condenados pela lei como transgressores."
+        },
+        {
+          "verse": 10,
+          "text": "Porque qualquer que guardar toda a lei, e tropeçar em um só ponto, tornou-se culpado de todos."
+        },
+        {
+          "verse": 11,
+          "text": "Porque aquele que disse: Não cometerás adultério, também disse: Não matarás. Se tu pois não cometeres adultério, mas matares, estás feito transgressor da lei."
+        },
+        {
+          "verse": 12,
+          "text": "Assim falai, e assim procedei, como devendo ser julgados pela lei da liberdade."
+        },
+        {
+          "verse": 13,
+          "text": "Porque o juízo será sem misericórdia sobre aquele que não fez misericórdia; e a misericórdia triunfa do juízo."
+        },
+        {
+          "verse": 14,
+          "text": "Meus irmãos, que aproveita se alguém disser que tem fé, e não tiver as obras? Porventura a fé pode salvá-lo?"
+        },
+        {
+          "verse": 15,
+          "text": "E, se o irmão ou a irmã estiverem nus, e tiverem falta de mantimento cotidiano,"
+        },
+        {
+          "verse": 16,
+          "text": "E algum de vós lhes disser: Ide em paz, aquentai-vos, e fartai-vos; e não lhes derdes as coisas necessárias para o corpo, que proveito virá daí?"
+        },
+        {
+          "verse": 17,
+          "text": "Assim também a fé, se não tiver as obras, é morta em si mesma."
+        },
+        {
+          "verse": 18,
+          "text": "Mas dirá alguém: Tu tens a fé, e eu tenho as obras; mostra-me a tua fé sem as tuas obras, e eu te mostrarei a minha fé pelas minhas obras."
+        },
+        {
+          "verse": 19,
+          "text": "Tu crês que há um só Deus; fazes bem. Também os demônios o creem, e estremecem."
+        },
+        {
+          "verse": 20,
+          "text": "Mas, ó homem vão, queres tu saber que a fé sem as obras é morta?"
+        },
+        {
+          "verse": 21,
+          "text": "Porventura o nosso pai Abraão não foi justificado pelas obras, quando ofereceu sobre o altar o seu filho Isaque?"
+        },
+        {
+          "verse": 22,
+          "text": "Bem vês que a fé cooperou com as suas obras, e que pelas obras a fé foi aperfeiçoada."
+        },
+        {
+          "verse": 23,
+          "text": "E cumpriu-se a Escritura, que diz: E creu Abraão em Deus, e foi-lhe isso imputado como justiça, e foi chamado o amigo de Deus."
+        },
+        {
+          "verse": 24,
+          "text": "Vedes então que o homem é justificado pelas obras, e não somente pela fé."
+        },
+        {
+          "verse": 25,
+          "text": "E de igual modo Raabe, a meretriz, não foi também justificada pelas obras, quando recolheu os emissários, e os despediu por outro caminho?"
+        },
+        {
+          "verse": 26,
+          "text": "Porque, assim como o corpo sem o espírito está morto, assim também a fé sem obras é morta."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Meus irmãos, muitos de vós não sejam mestres, sabendo que receberemos mais duro juízo."
+        },
+        {
+          "verse": 2,
+          "text": "Porque todos tropeçamos em muitas coisas. Se alguém não tropeça em palavra, o tal é perfeito, e poderoso para também refrear todo o corpo."
+        },
+        {
+          "verse": 3,
+          "text": "Ora, nós pomos freio nas bocas dos cavalos, para que nos obedeçam; e conseguimos dirigir todo o seu corpo."
+        },
+        {
+          "verse": 4,
+          "text": "Vede também as naus que, sendo tão grandes, e levadas de impetuosos ventos, se viram com um bem pequeno leme para onde quer a vontade daquele que as governa."
+        },
+        {
+          "verse": 5,
+          "text": "Assim também a língua é um pequeno membro, e gloria-se de grandes coisas. Vede quão grande bosque um pequeno fogo incendeia."
+        },
+        {
+          "verse": 6,
+          "text": "A língua também é um fogo; como mundo de iniquidade, a língua está posta entre os nossos membros, e contamina todo o corpo, e inflama o curso da natureza, e é inflamada pelo inferno."
+        },
+        {
+          "verse": 7,
+          "text": "Porque toda a natureza, tanto de bestas feras como de aves, tanto de répteis como de animais do mar, se amansa e foi domada pela natureza humana;"
+        },
+        {
+          "verse": 8,
+          "text": "Mas nenhum homem pode domar a língua. É um mal que não se pode refrear; está cheia de peçonha mortal."
+        },
+        {
+          "verse": 9,
+          "text": "Com ela bendizemos a Deus e Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus."
+        },
+        {
+          "verse": 10,
+          "text": "De uma mesma boca procede bênção e maldição. Meus irmãos, não convém que isto se faça assim."
+        },
+        {
+          "verse": 11,
+          "text": "Porventura deita alguma fonte de um mesmo manancial água doce e água amargosa?"
+        },
+        {
+          "verse": 12,
+          "text": "Meus irmãos, pode também a figueira produzir azeitonas, ou a videira figos? Assim tampouco pode uma fonte dar água salgada e doce."
+        },
+        {
+          "verse": 13,
+          "text": "Quem dentre vós é sábio e entendido? Mostre pelo seu bom trato as suas obras em mansidão de sabedoria."
+        },
+        {
+          "verse": 14,
+          "text": "Mas, se tendes amarga inveja, e sentimento contencioso em vosso coração, não vos glorieis, nem mintais contra a verdade."
+        },
+        {
+          "verse": 15,
+          "text": "Essa não é a sabedoria que vem do alto, mas é terrena, animal e diabólica."
+        },
+        {
+          "verse": 16,
+          "text": "Porque onde há inveja e espírito contencioso aí há perturbação e toda a obra perversa."
+        },
+        {
+          "verse": 17,
+          "text": "Mas a sabedoria que do alto vem é, primeiramente pura, depois pacífica, moderada, tratável, cheia de misericórdia e de bons frutos, sem parcialidade, e sem hipocrisia."
+        },
+        {
+          "verse": 18,
+          "text": "Ora, o fruto da justiça semeia-se na paz, para os que exercitam a paz."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "De onde vêm as guerras e pelejas entre vós? Porventura não vêm disto, a saber, dos vossos deleites, que nos vossos membros guerreiam?"
+        },
+        {
+          "verse": 2,
+          "text": "Cobiçais, e nada tendes; matais, e sois invejosos, e nada podeis alcançar; combateis e guerreais, e nada tendes, porque não pedis."
+        },
+        {
+          "verse": 3,
+          "text": "Pedis, e não recebeis, porque pedis mal, para o gastardes em vossos deleites."
+        },
+        {
+          "verse": 4,
+          "text": "Adúlteros e adúlteras, não sabeis vós que a amizade do mundo é inimizade contra Deus? Portanto, qualquer que quiser ser amigo do mundo constitui-se inimigo de Deus."
+        },
+        {
+          "verse": 5,
+          "text": "Ou cuidais vós que em vão diz a Escritura: O Espírito que em nós habita tem ciúmes?"
+        },
+        {
+          "verse": 6,
+          "text": "Antes, ele dá maior graça. Portanto diz: Deus resiste aos soberbos, mas dá graça aos humildes."
+        },
+        {
+          "verse": 7,
+          "text": "Sujeitai-vos, pois, a Deus, resisti ao diabo, e ele fugirá de vós."
+        },
+        {
+          "verse": 8,
+          "text": "Chegai-vos a Deus, e ele se chegará a vós. Limpai as mãos, pecadores; e, vós de duplo ânimo, purificai os corações."
+        },
+        {
+          "verse": 9,
+          "text": "Senti as vossas misérias, e lamentai e chorai; converta-se o vosso riso em pranto, e o vosso gozo em tristeza."
+        },
+        {
+          "verse": 10,
+          "text": "Humilhai-vos perante o Senhor, e ele vos exaltará."
+        },
+        {
+          "verse": 11,
+          "text": "Irmãos, não faleis mal uns dos outros. Quem fala mal de um irmão, e julga a seu irmão, fala mal da lei, e julga a lei; e, se tu julgas a lei, já não és observador da lei, mas juiz."
+        },
+        {
+          "verse": 12,
+          "text": "Há só um legislador que pode salvar e destruir. Tu, porém, quem és, que julgas a outro?"
+        },
+        {
+          "verse": 13,
+          "text": "Eia agora vós, que dizeis: Hoje, ou amanhã, iremos a tal cidade, e lá passaremos um ano, e contrataremos, e ganharemos;"
+        },
+        {
+          "verse": 14,
+          "text": "Digo-vos que não sabeis o que acontecerá amanhã. Porque, que é a vossa vida? É um vapor que aparece por um pouco, e depois se desvanece."
+        },
+        {
+          "verse": 15,
+          "text": "Em lugar do que devíeis dizer: Se o Senhor quiser, e se vivermos, faremos isto ou aquilo."
+        },
+        {
+          "verse": 16,
+          "text": "Mas agora vos gloriais em vossas presunções; toda a glória tal como esta é maligna."
+        },
+        {
+          "verse": 17,
+          "text": "Aquele, pois, que sabe fazer o bem e não o faz, comete pecado."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Eia, pois, agora vós, ricos, chorai e pranteai, por vossas misérias, que sobre vós hão de vir."
+        },
+        {
+          "verse": 2,
+          "text": "As vossas riquezas estão apodrecidas, e as vossas vestes estão comidas de traça."
+        },
+        {
+          "verse": 3,
+          "text": "O vosso ouro e a vossa prata se enferrujaram; e a sua ferrugem dará testemunho contra vós, e comerá como fogo a vossa carne. Entesourastes para os últimos dias."
+        },
+        {
+          "verse": 4,
+          "text": "Eis que o salário dos trabalhadores que ceifaram as vossas terras, e que por vós foi diminuído, clama; e os clamores dos que ceifaram entraram nos ouvidos do Senhor dos exércitos."
+        },
+        {
+          "verse": 5,
+          "text": "Deliciosamente vivestes sobre a terra, e vos deleitastes; cevastes os vossos corações, como num dia de matança."
+        },
+        {
+          "verse": 6,
+          "text": "Condenastes e matastes o justo; ele não vos resistiu."
+        },
+        {
+          "verse": 7,
+          "text": "Sede pois, irmãos, pacientes até à vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba a chuva temporã e serôdia."
+        },
+        {
+          "verse": 8,
+          "text": "Sede vós também pacientes, fortalecei os vossos corações; porque já a vinda do Senhor está próxima."
+        },
+        {
+          "verse": 9,
+          "text": "Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o juiz está à porta."
+        },
+        {
+          "verse": 10,
+          "text": "Meus irmãos, tomai por exemplo de aflição e paciência os profetas que falaram em nome do Senhor."
+        },
+        {
+          "verse": 11,
+          "text": "Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó, e vistes o fim que o Senhor lhe deu; porque o Senhor é muito misericordioso e piedoso."
+        },
+        {
+          "verse": 12,
+          "text": "Mas, sobretudo, meus irmãos, não jureis, nem pelo céu, nem pela terra, nem façais qualquer outro juramento; mas que a vossa palavra seja sim, sim, e não, não; para que não caiais em condenação."
+        },
+        {
+          "verse": 13,
+          "text": "Está alguém entre vós aflito? Ore. Está alguém contente? Cante louvores."
+        },
+        {
+          "verse": 14,
+          "text": "Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor;"
+        },
+        {
+          "verse": 15,
+          "text": "E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados."
+        },
+        {
+          "verse": 16,
+          "text": "Confessai as vossas culpas uns aos outros, e orai uns pelos outros, para que sareis. A oração do justo pode muito em seus efeitos."
+        },
+        {
+          "verse": 17,
+          "text": "Elias era homem sujeito às mesmas paixões que nós e, orando, pediu que não chovesse e, por três anos e seis meses, não choveu sobre a terra."
+        },
+        {
+          "verse": 18,
+          "text": "E orou outra vez, e o céu deu chuva, e a terra produziu o seu fruto."
+        },
+        {
+          "verse": 19,
+          "text": "Irmãos, se algum dentre vós se tem desviado da verdade, e alguém o converter,"
+        },
+        {
+          "verse": 20,
+          "text": "Saiba que aquele que converter um pecador do erro do seu caminho, salvará da morte uma alma, e cobrirá uma multidão de pecados."
+        }
+      ]
+    }
+  ]
 };
-            
