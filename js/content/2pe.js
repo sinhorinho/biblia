@@ -1,10 +1,265 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['2pe'] = {
-  "1": "<h1>2 Pedro - Capítulo 1</h1>\n<p><strong>1</strong> Simão Pedro, servo e apóstolo de Jesus Cristo, aos que conosco alcançaram fé igualmente preciosa pela justiça do nosso Deus e Salvador Jesus Cristo:</p>\n<p><strong>2</strong> Graça e paz vos sejam multiplicadas, pelo conhecimento de Deus, e de Jesus nosso Senhor;</p>\n<p><strong>3</strong> Visto como o seu divino poder nos deu tudo o que diz respeito à vida e piedade, pelo conhecimento daquele que nos chamou pela sua glória e virtude;</p>\n<p><strong>4</strong> Pelas quais ele nos tem dado grandíssimas e preciosas promessas, para que por elas fiqueis participantes da natureza divina, havendo escapado da corrupção, que pela concupiscência há no mundo.</p>\n<p><strong>5</strong> E vós também, pondo nisto mesmo toda a diligência, acrescentai à vossa fé a virtude, e à virtude o conhecimento,</p>\n<p><strong>6</strong> E ao conhecimento a temperança, e à temperança a paciência, e à paciência a piedade,</p>\n<p><strong>7</strong> E à piedade o amor fraternal, e ao amor fraternal o amor.</p>\n<p><strong>8</strong> Porque, se em vós houver e abundarem estas coisas, não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo.</p>\n<p><strong>9</strong> Pois aquele em quem não há estas coisas é cego, nada vendo ao longe, havendo-se esquecido da purificação dos seus antigos pecados.</p>\n<p><strong>10</strong> Portanto, irmãos, procurai fazer cada vez mais firme a vossa vocação e eleição; porque, fazendo isto, nunca jamais tropeçareis.</p>\n<p><strong>11</strong> Porque assim vos será amplamente concedida a entrada no reino eterno de nosso Senhor e Salvador Jesus Cristo.</p>\n<p><strong>12</strong> Por isso não deixarei de exortar-vos sempre acerca destas coisas, ainda que bem as saibais, e estejais confirmados na presente verdade.</p>\n<p><strong>13</strong> E tenho por justo, enquanto estiver neste tabernáculo, despertar-vos com admoestações,</p>\n<p><strong>14</strong> Sabendo que brevemente hei de deixar este meu tabernáculo, como também nosso Senhor Jesus Cristo já me tem revelado.</p>\n<p><strong>15</strong> Mas também eu procurarei em toda a ocasião que depois da minha morte tenhais lembrança destas coisas.</p>\n<p><strong>16</strong> Porque não vos fizemos saber o poder e a vinda de nosso Senhor Jesus Cristo, seguindo fábulas astuciosamente compostas; mas nós mesmos vimos a sua majestade.</p>\n<p><strong>17</strong> Porquanto ele recebeu de Deus Pai honra e glória, quando da magnífica glória lhe foi dirigida a seguinte voz: Este é o meu Filho amado, em quem me tenho comprazido.</p>\n<p><strong>18</strong> E ouvimos esta voz dirigida do céu, estando nós com ele no monte santo;</p>\n<p><strong>19</strong> E temos, mui firme, a palavra dos profetas, à qual bem fazeis em estar atentos, como a uma luz que ilumina em lugar escuro, até que o dia amanheça, e a estrela da alva apareça em vossos corações.</p>\n<p><strong>20</strong> Sabendo primeiramente isto: Que nenhuma profecia da Escritura é de particular interpretação.</p>\n<p><strong>21</strong> Porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">2 Pedro 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a></p>\n",
-  "2": "<h1>2 Pedro - Capítulo 2</h1>\n<p><strong>1</strong> E também houve entre o povo falsos profetas, como entre vós haverá também falsos doutores, que introduzirão encobertamente heresias de perdição, e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina perdição.</p>\n<p><strong>2</strong> E muitos seguirão as suas dissoluções, pelos quais será blasfemado o caminho da verdade.</p>\n<p><strong>3</strong> E por avareza farão de vós negócio com palavras fingidas; sobre os quais já de largo tempo não será tardia a sentença, e a sua perdição não dormita.</p>\n<p><strong>4</strong> Porque, se Deus não poupou aos anjos que pecaram, mas, havendo-os lançado no inferno, os entregou às cadeias da escuridão, ficando reservados para o juízo;</p>\n<p><strong>5</strong> E não perdoou ao mundo antigo, mas guardou a Noé, a oitava pessoa, o pregador da justiça, ao trazer o dilúvio sobre o mundo dos ímpios;</p>\n<p><strong>6</strong> E condenou à destruição as cidades de Sodoma e Gomorra, reduzindo-as a cinza, e pondo-as para exemplo aos que vivessem impiamente;</p>\n<p><strong>7</strong> E livrou o justo Ló, enfadado da vida dissoluta dos homens abomináveis</p>\n<p><strong>8</strong> (Porque este justo, habitando entre eles, afligia todos os dias a sua alma justa, vendo e ouvindo sobre as suas obras injustas);</p>\n<p><strong>9</strong> Assim, sabe o Senhor livrar da tentação os piedosos, e reservar os injustos para o dia do juízo, para serem castigados;</p>\n<p><strong>10</strong> Mas principalmente aqueles que segundo a carne andam em concupiscências de imundícia, e desprezam as autoridades; atrevidos, obstinados, não receando blasfemar das dignidades;</p>\n<p><strong>11</strong> Enquanto os anjos, sendo maiores em força e poder, não pronunciam contra eles juízo blasfemo diante do Senhor.</p>\n<p><strong>12</strong> Mas estes, como animais irracionais, que seguem a natureza, feitos para serem presos e mortos, blasfemando do que não entendem, perecerão na sua corrupção,</p>\n<p><strong>13</strong> Recebendo o galardão da injustiça; pois que tais homens têm prazer nos deleites cotidianos; manchas são eles e máculas, deleitando-se em seus enganos, quando se banqueteiam convosco;</p>\n<p><strong>14</strong> Tendo os olhos cheios de adultério, e não cessando de pecar, engodando as almas inconstantes, tendo o coração exercitado na avareza, filhos de maldição;</p>\n<p><strong>15</strong> Os quais, deixando o caminho direito, erraram seguindo o caminho de Balaão, filho de Beor, que amou o prêmio da injustiça;</p>\n<p><strong>16</strong> Mas teve a repreensão da sua transgressão; o mudo jumento, falando com voz humana, impediu a loucura do profeta.</p>\n<p><strong>17</strong> Estes são fontes sem água, nuvens levadas pela força do vento, para os quais a escuridão das trevas eternamente se reserva.</p>\n<p><strong>18</strong> Porque, falando coisas mui arrogantes de vaidades, engodam com as concupiscências da carne, e com dissoluções, aqueles que se estavam afastando dos que andam em erro,</p>\n<p><strong>19</strong> Prometendo-lhes liberdade, sendo eles mesmos servos da corrupção. Porque de quem alguém é vencido, do tal faz-se também servo.</p>\n<p><strong>20</strong> Porquanto se, depois de terem escapado das corrupções do mundo, pelo conhecimento do Senhor e Salvador Jesus Cristo, forem outra vez envolvidos nelas e vencidos, tornou-se-lhes o último estado pior do que o primeiro.</p>\n<p><strong>21</strong> Porque melhor lhes fora não conhecerem o caminho da justiça, do que, conhecendo-o, desviarem-se do santo mandamento que lhes fora dado;</p>\n<p><strong>22</strong> Deste modo sobreveio-lhes o que por um verdadeiro provérbio se diz: O cão voltou ao seu próprio vômito, e a porca lavada ao espojadouro de lama.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- 2 Pedro 1</a> | <a href=\"capitulo_3.md\">2 Pedro 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a></p>\n",
-  "3": "<h1>2 Pedro - Capítulo 3</h1>\n<p><strong>1</strong> Amados, escrevo-vos agora esta segunda carta, em ambas as quais desperto com exortação o vosso ânimo sincero;</p>\n<p><strong>2</strong> Para que vos lembreis das palavras que primeiramente foram ditas pelos santos profetas, e do nosso mandamento, os apóstolos do Senhor e Salvador.</p>\n<p><strong>3</strong> Sabendo primeiro isto, que nos últimos dias virão escarnecedores, andando segundo as suas próprias concupiscências,</p>\n<p><strong>4</strong> E dizendo: Onde está a promessa da sua vinda? Porque desde que os pais dormiram, todas as coisas permanecem como desde o princípio da criação.</p>\n<p><strong>5</strong> Eles voluntariamente ignoram isto, que pela palavra de Deus já desde a antiguidade existiram os céus, e a terra, que foi tirada da água e no meio da água subsiste.</p>\n<p><strong>6</strong> Pelas quais coisas pereceu o mundo de então, coberto com as águas do dilúvio,</p>\n<p><strong>7</strong> Mas os céus e a terra que agora existem pela mesma palavra se reservam como tesouro, e se guardam para o fogo, até o dia do juízo, e da perdição dos homens ímpios.</p>\n<p><strong>8</strong> Mas, amados, não ignoreis uma coisa, que um dia para o Senhor é como mil anos, e mil anos como um dia.</p>\n<p><strong>9</strong> O Senhor não retarda a sua promessa, ainda que alguns a têm por tardia; mas é longânimo para conosco, não querendo que alguns se percam, senão que todos venham a arrepender-se.</p>\n<p><strong>10</strong> Mas o dia do Senhor virá como o ladrão de noite; no qual os céus passarão com grande estrondo, e os elementos, ardendo, se desfarão, e a terra, e as obras que nela há, se queimarão.</p>\n<p><strong>11</strong> Havendo, pois, de perecer todas estas coisas, que pessoas vos convém ser em santo trato, e piedade,</p>\n<p><strong>12</strong> Aguardando, e apressando-vos para a vinda do dia de Deus, em que os céus, em fogo se desfarão, e os elementos, ardendo, se fundirão?</p>\n<p><strong>13</strong> Mas nós, segundo a sua promessa, aguardamos novos céus e nova terra, em que habita a justiça.</p>\n<p><strong>14</strong> Por isso, amados, aguardando estas coisas, procurai que dele sejais achados imaculados e irrepreensíveis em paz.</p>\n<p><strong>15</strong> E tende por salvação a longanimidade de nosso Senhor; como também o nosso amado irmão Paulo vos escreveu, segundo a sabedoria que lhe foi dada;</p>\n<p><strong>16</strong> Falando disto, como em todas as suas epístolas, entre as quais há pontos difíceis de entender, que os indoutos e inconstantes torcem, e igualmente as outras Escrituras, para sua própria perdição.</p>\n<p><strong>17</strong> Vós, portanto, amados, sabendo isto de antemão, guardai-vos de que, pelo engano dos homens abomináveis, sejais juntamente arrebatados, e descaiais da vossa firmeza;</p>\n<p><strong>18</strong> Antes crescei na graça e conhecimento de nosso Senhor e Salvador, Jesus Cristo. A ele seja a glória, assim agora, como no dia da eternidade. Amém.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- 2 Pedro 2</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['2pe'] = {
+  "book": "2pe",
+  "name": "2 Pedro",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Simão Pedro, servo e apóstolo de Jesus Cristo, aos que conosco alcançaram fé igualmente preciosa pela justiça do nosso Deus e Salvador Jesus Cristo:"
+        },
+        {
+          "verse": 2,
+          "text": "Graça e paz vos sejam multiplicadas, pelo conhecimento de Deus, e de Jesus nosso Senhor;"
+        },
+        {
+          "verse": 3,
+          "text": "Visto como o seu divino poder nos deu tudo o que diz respeito à vida e piedade, pelo conhecimento daquele que nos chamou pela sua glória e virtude;"
+        },
+        {
+          "verse": 4,
+          "text": "Pelas quais ele nos tem dado grandíssimas e preciosas promessas, para que por elas fiqueis participantes da natureza divina, havendo escapado da corrupção, que pela concupiscência há no mundo."
+        },
+        {
+          "verse": 5,
+          "text": "E vós também, pondo nisto mesmo toda a diligência, acrescentai à vossa fé a virtude, e à virtude o conhecimento,"
+        },
+        {
+          "verse": 6,
+          "text": "E ao conhecimento a temperança, e à temperança a paciência, e à paciência a piedade,"
+        },
+        {
+          "verse": 7,
+          "text": "E à piedade o amor fraternal, e ao amor fraternal o amor."
+        },
+        {
+          "verse": 8,
+          "text": "Porque, se em vós houver e abundarem estas coisas, não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo."
+        },
+        {
+          "verse": 9,
+          "text": "Pois aquele em quem não há estas coisas é cego, nada vendo ao longe, havendo-se esquecido da purificação dos seus antigos pecados."
+        },
+        {
+          "verse": 10,
+          "text": "Portanto, irmãos, procurai fazer cada vez mais firme a vossa vocação e eleição; porque, fazendo isto, nunca jamais tropeçareis."
+        },
+        {
+          "verse": 11,
+          "text": "Porque assim vos será amplamente concedida a entrada no reino eterno de nosso Senhor e Salvador Jesus Cristo."
+        },
+        {
+          "verse": 12,
+          "text": "Por isso não deixarei de exortar-vos sempre acerca destas coisas, ainda que bem as saibais, e estejais confirmados na presente verdade."
+        },
+        {
+          "verse": 13,
+          "text": "E tenho por justo, enquanto estiver neste tabernáculo, despertar-vos com admoestações,"
+        },
+        {
+          "verse": 14,
+          "text": "Sabendo que brevemente hei de deixar este meu tabernáculo, como também nosso Senhor Jesus Cristo já me tem revelado."
+        },
+        {
+          "verse": 15,
+          "text": "Mas também eu procurarei em toda a ocasião que depois da minha morte tenhais lembrança destas coisas."
+        },
+        {
+          "verse": 16,
+          "text": "Porque não vos fizemos saber o poder e a vinda de nosso Senhor Jesus Cristo, seguindo fábulas astuciosamente compostas; mas nós mesmos vimos a sua majestade."
+        },
+        {
+          "verse": 17,
+          "text": "Porquanto ele recebeu de Deus Pai honra e glória, quando da magnífica glória lhe foi dirigida a seguinte voz: Este é o meu Filho amado, em quem me tenho comprazido."
+        },
+        {
+          "verse": 18,
+          "text": "E ouvimos esta voz dirigida do céu, estando nós com ele no monte santo;"
+        },
+        {
+          "verse": 19,
+          "text": "E temos, mui firme, a palavra dos profetas, à qual bem fazeis em estar atentos, como a uma luz que ilumina em lugar escuro, até que o dia amanheça, e a estrela da alva apareça em vossos corações."
+        },
+        {
+          "verse": 20,
+          "text": "Sabendo primeiramente isto: Que nenhuma profecia da Escritura é de particular interpretação."
+        },
+        {
+          "verse": 21,
+          "text": "Porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E também houve entre o povo falsos profetas, como entre vós haverá também falsos doutores, que introduzirão encobertamente heresias de perdição, e negarão o Senhor que os resgatou, trazendo sobre si mesmos repentina perdição."
+        },
+        {
+          "verse": 2,
+          "text": "E muitos seguirão as suas dissoluções, pelos quais será blasfemado o caminho da verdade."
+        },
+        {
+          "verse": 3,
+          "text": "E por avareza farão de vós negócio com palavras fingidas; sobre os quais já de largo tempo não será tardia a sentença, e a sua perdição não dormita."
+        },
+        {
+          "verse": 4,
+          "text": "Porque, se Deus não poupou aos anjos que pecaram, mas, havendo-os lançado no inferno, os entregou às cadeias da escuridão, ficando reservados para o juízo;"
+        },
+        {
+          "verse": 5,
+          "text": "E não perdoou ao mundo antigo, mas guardou a Noé, a oitava pessoa, o pregador da justiça, ao trazer o dilúvio sobre o mundo dos ímpios;"
+        },
+        {
+          "verse": 6,
+          "text": "E condenou à destruição as cidades de Sodoma e Gomorra, reduzindo-as a cinza, e pondo-as para exemplo aos que vivessem impiamente;"
+        },
+        {
+          "verse": 7,
+          "text": "E livrou o justo Ló, enfadado da vida dissoluta dos homens abomináveis"
+        },
+        {
+          "verse": 8,
+          "text": "(Porque este justo, habitando entre eles, afligia todos os dias a sua alma justa, vendo e ouvindo sobre as suas obras injustas);"
+        },
+        {
+          "verse": 9,
+          "text": "Assim, sabe o Senhor livrar da tentação os piedosos, e reservar os injustos para o dia do juízo, para serem castigados;"
+        },
+        {
+          "verse": 10,
+          "text": "Mas principalmente aqueles que segundo a carne andam em concupiscências de imundícia, e desprezam as autoridades; atrevidos, obstinados, não receando blasfemar das dignidades;"
+        },
+        {
+          "verse": 11,
+          "text": "Enquanto os anjos, sendo maiores em força e poder, não pronunciam contra eles juízo blasfemo diante do Senhor."
+        },
+        {
+          "verse": 12,
+          "text": "Mas estes, como animais irracionais, que seguem a natureza, feitos para serem presos e mortos, blasfemando do que não entendem, perecerão na sua corrupção,"
+        },
+        {
+          "verse": 13,
+          "text": "Recebendo o galardão da injustiça; pois que tais homens têm prazer nos deleites cotidianos; manchas são eles e máculas, deleitando-se em seus enganos, quando se banqueteiam convosco;"
+        },
+        {
+          "verse": 14,
+          "text": "Tendo os olhos cheios de adultério, e não cessando de pecar, engodando as almas inconstantes, tendo o coração exercitado na avareza, filhos de maldição;"
+        },
+        {
+          "verse": 15,
+          "text": "Os quais, deixando o caminho direito, erraram seguindo o caminho de Balaão, filho de Beor, que amou o prêmio da injustiça;"
+        },
+        {
+          "verse": 16,
+          "text": "Mas teve a repreensão da sua transgressão; o mudo jumento, falando com voz humana, impediu a loucura do profeta."
+        },
+        {
+          "verse": 17,
+          "text": "Estes são fontes sem água, nuvens levadas pela força do vento, para os quais a escuridão das trevas eternamente se reserva."
+        },
+        {
+          "verse": 18,
+          "text": "Porque, falando coisas mui arrogantes de vaidades, engodam com as concupiscências da carne, e com dissoluções, aqueles que se estavam afastando dos que andam em erro,"
+        },
+        {
+          "verse": 19,
+          "text": "Prometendo-lhes liberdade, sendo eles mesmos servos da corrupção. Porque de quem alguém é vencido, do tal faz-se também servo."
+        },
+        {
+          "verse": 20,
+          "text": "Porquanto se, depois de terem escapado das corrupções do mundo, pelo conhecimento do Senhor e Salvador Jesus Cristo, forem outra vez envolvidos nelas e vencidos, tornou-se-lhes o último estado pior do que o primeiro."
+        },
+        {
+          "verse": 21,
+          "text": "Porque melhor lhes fora não conhecerem o caminho da justiça, do que, conhecendo-o, desviarem-se do santo mandamento que lhes fora dado;"
+        },
+        {
+          "verse": 22,
+          "text": "Deste modo sobreveio-lhes o que por um verdadeiro provérbio se diz: O cão voltou ao seu próprio vômito, e a porca lavada ao espojadouro de lama."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Amados, escrevo-vos agora esta segunda carta, em ambas as quais desperto com exortação o vosso ânimo sincero;"
+        },
+        {
+          "verse": 2,
+          "text": "Para que vos lembreis das palavras que primeiramente foram ditas pelos santos profetas, e do nosso mandamento, os apóstolos do Senhor e Salvador."
+        },
+        {
+          "verse": 3,
+          "text": "Sabendo primeiro isto, que nos últimos dias virão escarnecedores, andando segundo as suas próprias concupiscências,"
+        },
+        {
+          "verse": 4,
+          "text": "E dizendo: Onde está a promessa da sua vinda? Porque desde que os pais dormiram, todas as coisas permanecem como desde o princípio da criação."
+        },
+        {
+          "verse": 5,
+          "text": "Eles voluntariamente ignoram isto, que pela palavra de Deus já desde a antiguidade existiram os céus, e a terra, que foi tirada da água e no meio da água subsiste."
+        },
+        {
+          "verse": 6,
+          "text": "Pelas quais coisas pereceu o mundo de então, coberto com as águas do dilúvio,"
+        },
+        {
+          "verse": 7,
+          "text": "Mas os céus e a terra que agora existem pela mesma palavra se reservam como tesouro, e se guardam para o fogo, até o dia do juízo, e da perdição dos homens ímpios."
+        },
+        {
+          "verse": 8,
+          "text": "Mas, amados, não ignoreis uma coisa, que um dia para o Senhor é como mil anos, e mil anos como um dia."
+        },
+        {
+          "verse": 9,
+          "text": "O Senhor não retarda a sua promessa, ainda que alguns a têm por tardia; mas é longânimo para conosco, não querendo que alguns se percam, senão que todos venham a arrepender-se."
+        },
+        {
+          "verse": 10,
+          "text": "Mas o dia do Senhor virá como o ladrão de noite; no qual os céus passarão com grande estrondo, e os elementos, ardendo, se desfarão, e a terra, e as obras que nela há, se queimarão."
+        },
+        {
+          "verse": 11,
+          "text": "Havendo, pois, de perecer todas estas coisas, que pessoas vos convém ser em santo trato, e piedade,"
+        },
+        {
+          "verse": 12,
+          "text": "Aguardando, e apressando-vos para a vinda do dia de Deus, em que os céus, em fogo se desfarão, e os elementos, ardendo, se fundirão?"
+        },
+        {
+          "verse": 13,
+          "text": "Mas nós, segundo a sua promessa, aguardamos novos céus e nova terra, em que habita a justiça."
+        },
+        {
+          "verse": 14,
+          "text": "Por isso, amados, aguardando estas coisas, procurai que dele sejais achados imaculados e irrepreensíveis em paz."
+        },
+        {
+          "verse": 15,
+          "text": "E tende por salvação a longanimidade de nosso Senhor; como também o nosso amado irmão Paulo vos escreveu, segundo a sabedoria que lhe foi dada;"
+        },
+        {
+          "verse": 16,
+          "text": "Falando disto, como em todas as suas epístolas, entre as quais há pontos difíceis de entender, que os indoutos e inconstantes torcem, e igualmente as outras Escrituras, para sua própria perdição."
+        },
+        {
+          "verse": 17,
+          "text": "Vós, portanto, amados, sabendo isto de antemão, guardai-vos de que, pelo engano dos homens abomináveis, sejais juntamente arrebatados, e descaiais da vossa firmeza;"
+        },
+        {
+          "verse": 18,
+          "text": "Antes crescei na graça e conhecimento de nosso Senhor e Salvador, Jesus Cristo. A ele seja a glória, assim agora, como no dia da eternidade. Amém."
+        }
+      ]
+    }
+  ]
 };
-            

@@ -1,11 +1,406 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['cl'] = {
-  "1": "<h1>Colossenses - Capítulo 1</h1>\n<p><strong>1</strong> Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo,</p>\n<p><strong>2</strong> Aos santos e irmãos fiéis em Cristo, que estão em Colossos: Graça a vós, e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo.</p>\n<p><strong>3</strong> Graças damos ao Deus e Pai de nosso Senhor Jesus Cristo, orando sempre por vós,</p>\n<p><strong>4</strong> Porquanto ouvimos da vossa fé em Cristo Jesus, e do amor que tendes para com todos os santos;</p>\n<p><strong>5</strong> Por causa da esperança que vos está reservada nos céus, da qual já antes ouvistes pela palavra da verdade do evangelho,</p>\n<p><strong>6</strong> Que já chegou a vós, como também está em todo o mundo; e já vai frutificando, como também entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade;</p>\n<p><strong>7</strong> Como aprendestes de Epafras, nosso amado conservo, que para vós é um fiel ministro de Cristo,</p>\n<p><strong>8</strong> O qual nos declarou também o vosso amor no Espírito.</p>\n<p><strong>9</strong> Por esta razão, nós também, desde o dia em que o ouvimos, não cessamos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda a sabedoria e inteligência espiritual;</p>\n<p><strong>10</strong> Para que possais andar dignamente diante do Senhor, agradando-lhe em tudo, frutificando em toda a boa obra, e crescendo no conhecimento de Deus;</p>\n<p><strong>11</strong> Fortalecidos em todo o poder, segundo a força da sua glória, em toda a paciência, e longanimidade com gozo;</p>\n<p><strong>12</strong> Dando graças ao Pai que nos fez idôneos para participar da herança dos santos na luz;</p>\n<p><strong>13</strong> O qual nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor;</p>\n<p><strong>14</strong> Em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados;</p>\n<p><strong>15</strong> O qual é imagem do Deus invisível, o primogênito de toda a criação;</p>\n<p><strong>16</strong> Porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades. Tudo foi criado por ele e para ele.</p>\n<p><strong>17</strong> E ele é antes de todas as coisas, e todas as coisas subsistem por ele.</p>\n<p><strong>18</strong> E ele é a cabeça do corpo, da igreja; é o princípio e o primogênito dentre os mortos, para que em tudo tenha a preeminência.</p>\n<p><strong>19</strong> Porque foi do agrado do Pai que toda a plenitude nele habitasse,</p>\n<p><strong>20</strong> E que, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, tanto as que estão na terra, como as que estão nos céus.</p>\n<p><strong>21</strong> A vós também, que noutro tempo éreis estranhos, e inimigos no entendimento pelas vossas obras más, agora contudo vos reconciliou</p>\n<p><strong>22</strong> No corpo da sua carne, pela morte, para perante ele vos apresentar santos, e irrepreensíveis, e inculpáveis,</p>\n<p><strong>23</strong> Se, na verdade, permanecerdes fundados e firmes na fé, e não vos moverdes da esperança do evangelho que tendes ouvido, o qual foi pregado a toda criatura que há debaixo do céu, e do qual eu, Paulo, estou feito ministro.</p>\n<p><strong>24</strong> Regozijo-me agora no que padeço por vós, e na minha carne cumpro o resto das aflições de Cristo, pelo seu corpo, que é a igreja;</p>\n<p><strong>25</strong> Da qual eu estou feito ministro segundo a dispensação de Deus, que me foi concedida para convosco, para cumprir a palavra de Deus;</p>\n<p><strong>26</strong> O mistério que esteve oculto desde todos os séculos, e em todas as gerações, e que agora foi manifesto aos seus santos;</p>\n<p><strong>27</strong> Aos quais Deus quis fazer conhecer quais são as riquezas da glória deste mistério entre os gentios, que é Cristo em vós, esperança da glória;</p>\n<p><strong>28</strong> A quem anunciamos, admoestando a todo o homem, e ensinando a todo o homem em toda a sabedoria; para que apresentemos todo o homem perfeito em Cristo Jesus;</p>\n<p><strong>29</strong> E para isto também trabalho, combatendo segundo a sua eficácia, que opera em mim poderosamente.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">Colossenses 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a></p>\n",
-  "2": "<h1>Colossenses - Capítulo 2</h1>\n<p><strong>1</strong> Porque quero que saibais quão grande combate tenho por vós, e pelos que estão em Laodiceia, e por quantos não viram o meu rosto em carne;</p>\n<p><strong>2</strong> Para que os seus corações sejam consolados, e estejam unidos em amor, e em todas as riquezas da plena certeza da inteligência, para conhecimento do mistério de Deus e Pai, e de Cristo,</p>\n<p><strong>3</strong> Em quem estão escondidos todos os tesouros da sabedoria e do conhecimento.</p>\n<p><strong>4</strong> E digo isto, para que ninguém vos engane com palavras persuasivas.</p>\n<p><strong>5</strong> Porque, ainda que esteja ausente quanto ao corpo, contudo, em espírito estou convosco, regozijando-me e vendo a vossa ordem e a firmeza da vossa fé em Cristo.</p>\n<p><strong>6</strong> Como, pois, recebestes o Senhor Jesus Cristo, assim também andai nele,</p>\n<p><strong>7</strong> Enraizados e edificados nele, e confirmados na fé, assim como fostes ensinados, nela abundando em ação de graças.</p>\n<p><strong>8</strong> Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo;</p>\n<p><strong>9</strong> Porque nele habita corporalmente toda a plenitude da divindade;</p>\n<p><strong>10</strong> E estais perfeitos nele, que é a cabeça de todo o principado e potestade;</p>\n<p><strong>11</strong> No qual também estais circuncidados com a circuncisão não feita por mão no despojo do corpo dos pecados da carne, pela circuncisão de Cristo;</p>\n<p><strong>12</strong> Sepultados com ele no batismo, nele também ressuscitastes pela fé no poder de Deus, que o ressuscitou dentre os mortos.</p>\n<p><strong>13</strong> E, quando vós estáveis mortos nos pecados, e na incircuncisão da vossa carne, vos vivificou juntamente com ele, perdoando-vos todas as ofensas,</p>\n<p><strong>14</strong> Havendo riscado a cédula que era contra nós nas suas ordenanças, a qual de alguma maneira nos era contrária, e a tirou do meio de nós, cravando-a na cruz.</p>\n<p><strong>15</strong> E, despojando os principados e potestades, os expôs publicamente e deles triunfou em si mesmo.</p>\n<p><strong>16</strong> Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados,</p>\n<p><strong>17</strong> Que são sombras das coisas futuras, mas o corpo é de Cristo.</p>\n<p><strong>18</strong> Ninguém vos domine a seu arbítrio com pretexto de humildade e culto dos anjos, envolvendo-se em coisas que não viu; estando em vão inchado na sua carnal compreensão,</p>\n<p><strong>19</strong> E não ligado à cabeça, da qual todo o corpo, provido e organizado pelas juntas e ligaduras, vai crescendo em aumento de Deus.</p>\n<p><strong>20</strong> Se, pois, estais mortos com Cristo quanto aos rudimentos do mundo, por que vos carregam ainda de ordenanças, como se vivêsseis no mundo, tais como:</p>\n<p><strong>21</strong> Não toques, não proves, não manuseies?</p>\n<p><strong>22</strong> As quais coisas todas perecem pelo uso, segundo os preceitos e doutrinas dos homens;</p>\n<p><strong>23</strong> As quais têm, na verdade, alguma aparência de sabedoria, em devoção voluntária, humildade, e em disciplina do corpo, mas não são de valor algum senão para a satisfação da carne.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- Colossenses 1</a> | <a href=\"capitulo_3.md\">Colossenses 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a></p>\n",
-  "3": "<h1>Colossenses - Capítulo 3</h1>\n<p><strong>1</strong> Portanto, se já ressuscitastes com Cristo, buscai as coisas que são de cima, onde Cristo está assentado à destra de Deus.</p>\n<p><strong>2</strong> Pensai nas coisas que são de cima, e não nas que são da terra;</p>\n<p><strong>3</strong> Porque já estais mortos, e a vossa vida está escondida com Cristo em Deus.</p>\n<p><strong>4</strong> Quando Cristo, que é a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória.</p>\n<p><strong>5</strong> Mortificai, pois, os vossos membros, que estão sobre a terra: a fornicação, a impureza, a afeição desordenada, a vil concupiscência, e a avareza, que é idolatria;</p>\n<p><strong>6</strong> Pelas quais coisas vem a ira de Deus sobre os filhos da desobediência;</p>\n<p><strong>7</strong> Nas quais, também, em outro tempo andastes, quando vivíeis nelas.</p>\n<p><strong>8</strong> Mas agora, despojai-vos também de tudo: da ira, da cólera, da malícia, da maledicência, das palavras torpes da vossa boca.</p>\n<p><strong>9</strong> Não mintais uns aos outros, pois que já vos despistes do velho homem com os seus feitos,</p>\n<p><strong>10</strong> E vos vestistes do novo, que se renova para o conhecimento, segundo a imagem daquele que o criou;</p>\n<p><strong>11</strong> Onde não há grego, nem judeu, circuncisão, nem incircuncisão, bárbaro, cita, servo ou livre; mas Cristo é tudo, e em todos.</p>\n<p><strong>12</strong> Revesti-vos, pois, como eleitos de Deus, santos e amados, de entranhas de misericórdia, de benignidade, humildade, mansidão, longanimidade;</p>\n<p><strong>13</strong> Suportando-vos uns aos outros, e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também.</p>\n<p><strong>14</strong> E, sobre tudo isto, revesti-vos de amor, que é o vínculo da perfeição.</p>\n<p><strong>15</strong> E a paz de Deus, para a qual também fostes chamados em um corpo, domine em vossos corações; e sede agradecidos.</p>\n<p><strong>16</strong> A palavra de Cristo habite em vós abundantemente, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros, com salmos, hinos e cânticos espirituais, cantando ao Senhor com graça em vosso coração.</p>\n<p><strong>17</strong> E, quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai.</p>\n<p><strong>18</strong> Vós, mulheres, estai sujeitas a vossos próprios maridos, como convém no Senhor.</p>\n<p><strong>19</strong> Vós, maridos, amai a vossas esposas, e não vos irriteis contra elas.</p>\n<p><strong>20</strong> Vós, filhos, obedecei em tudo a vossos pais, porque isto é agradável ao Senhor.</p>\n<p><strong>21</strong> Vós, pais, não irriteis a vossos filhos, para que não percam o ânimo.</p>\n<p><strong>22</strong> Vós, servos, obedecei em tudo a vossos senhores segundo a carne, não servindo só na aparência, como para agradar aos homens, mas em simplicidade de coração, temendo a Deus.</p>\n<p><strong>23</strong> E tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor, e não aos homens,</p>\n<p><strong>24</strong> Sabendo que recebereis do Senhor o galardão da herança, porque a Cristo, o Senhor, servis.</p>\n<p><strong>25</strong> Mas quem fizer agravo receberá o agravo que fizer; pois não há acepção de pessoas.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- Colossenses 2</a> | <a href=\"capitulo_4.md\">Colossenses 4 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a></p>\n",
-  "4": "<h1>Colossenses - Capítulo 4</h1>\n<p><strong>1</strong> Vós, senhores, fazei o que for de justiça e equidade a vossos servos, sabendo que também tendes um Senhor nos céus.</p>\n<p><strong>2</strong> Perseverai em oração, velando nela com ação de graças;</p>\n<p><strong>3</strong> Orando também juntamente por nós, para que Deus nos abra a porta da palavra, a fim de falarmos do mistério de Cristo, pelo qual estou também preso;</p>\n<p><strong>4</strong> Para que o manifeste, como me convém falar.</p>\n<p><strong>5</strong> Andai com sabedoria para com os que estão de fora, remindo o tempo.</p>\n<p><strong>6</strong> A vossa palavra seja sempre agradável, temperada com sal, para que saibais como vos convém responder a cada um.</p>\n<p><strong>7</strong> Tíquico, irmão amado e fiel ministro, e conservo no Senhor, vos fará saber o meu estado;</p>\n<p><strong>8</strong> O qual vos enviei para o mesmo fim, para que saiba do vosso estado e console os vossos corações;</p>\n<p><strong>9</strong> Juntamente com Onésimo, amado e fiel irmão, que é dos vossos; eles vos farão saber tudo o que por aqui se passa.</p>\n<p><strong>10</strong> Aristarco, que está preso comigo, vos saúda, e Marcos, o sobrinho de Barnabé, acerca do qual já recebestes mandamentos; se ele for ter convosco, recebei-o;</p>\n<p><strong>11</strong> E Jesus, chamado Justo; os quais são da circuncisão; são estes unicamente os meus cooperadores no reino de Deus; e para mim têm sido consolação.</p>\n<p><strong>12</strong> Saúda-vos Epafras, que é dos vossos, servo de Cristo, combatendo sempre por vós em orações, para que vos conserveis firmes, perfeitos e consumados em toda a vontade de Deus.</p>\n<p><strong>13</strong> Pois eu lhe dou testemunho de que tem grande zelo por vós, e pelos que estão em Laodiceia, e pelos que estão em Hierápolis.</p>\n<p><strong>14</strong> Saúda-vos Lucas, o médico amado, e Demas.</p>\n<p><strong>15</strong> Saudai aos irmãos que estão em Laodiceia e a Ninfa e à igreja que está em sua casa.</p>\n<p><strong>16</strong> E, quando esta epístola tiver sido lida entre vós, fazei que também seja lida na igreja dos laodicenses, e a que veio de Laodiceia lede-a vós também.</p>\n<p><strong>17</strong> E dizei a Arquipo: Atenta para o ministério que recebeste no Senhor, para que o cumpras.</p>\n<p><strong>18</strong> Saudação de minha mão, de Paulo. Lembrai-vos das minhas prisões. A graça seja convosco. Amém.</p>\n<hr>\n<p><a href=\"capitulo_3.md\">&lt;- Colossenses 3</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['cl'] = {
+  "book": "cl",
+  "name": "Colossenses",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo,"
+        },
+        {
+          "verse": 2,
+          "text": "Aos santos e irmãos fiéis em Cristo, que estão em Colossos: Graça a vós, e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo."
+        },
+        {
+          "verse": 3,
+          "text": "Graças damos ao Deus e Pai de nosso Senhor Jesus Cristo, orando sempre por vós,"
+        },
+        {
+          "verse": 4,
+          "text": "Porquanto ouvimos da vossa fé em Cristo Jesus, e do amor que tendes para com todos os santos;"
+        },
+        {
+          "verse": 5,
+          "text": "Por causa da esperança que vos está reservada nos céus, da qual já antes ouvistes pela palavra da verdade do evangelho,"
+        },
+        {
+          "verse": 6,
+          "text": "Que já chegou a vós, como também está em todo o mundo; e já vai frutificando, como também entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade;"
+        },
+        {
+          "verse": 7,
+          "text": "Como aprendestes de Epafras, nosso amado conservo, que para vós é um fiel ministro de Cristo,"
+        },
+        {
+          "verse": 8,
+          "text": "O qual nos declarou também o vosso amor no Espírito."
+        },
+        {
+          "verse": 9,
+          "text": "Por esta razão, nós também, desde o dia em que o ouvimos, não cessamos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda a sabedoria e inteligência espiritual;"
+        },
+        {
+          "verse": 10,
+          "text": "Para que possais andar dignamente diante do Senhor, agradando-lhe em tudo, frutificando em toda a boa obra, e crescendo no conhecimento de Deus;"
+        },
+        {
+          "verse": 11,
+          "text": "Fortalecidos em todo o poder, segundo a força da sua glória, em toda a paciência, e longanimidade com gozo;"
+        },
+        {
+          "verse": 12,
+          "text": "Dando graças ao Pai que nos fez idôneos para participar da herança dos santos na luz;"
+        },
+        {
+          "verse": 13,
+          "text": "O qual nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor;"
+        },
+        {
+          "verse": 14,
+          "text": "Em quem temos a redenção pelo seu sangue, a saber, a remissão dos pecados;"
+        },
+        {
+          "verse": 15,
+          "text": "O qual é imagem do Deus invisível, o primogênito de toda a criação;"
+        },
+        {
+          "verse": 16,
+          "text": "Porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades. Tudo foi criado por ele e para ele."
+        },
+        {
+          "verse": 17,
+          "text": "E ele é antes de todas as coisas, e todas as coisas subsistem por ele."
+        },
+        {
+          "verse": 18,
+          "text": "E ele é a cabeça do corpo, da igreja; é o princípio e o primogênito dentre os mortos, para que em tudo tenha a preeminência."
+        },
+        {
+          "verse": 19,
+          "text": "Porque foi do agrado do Pai que toda a plenitude nele habitasse,"
+        },
+        {
+          "verse": 20,
+          "text": "E que, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, tanto as que estão na terra, como as que estão nos céus."
+        },
+        {
+          "verse": 21,
+          "text": "A vós também, que noutro tempo éreis estranhos, e inimigos no entendimento pelas vossas obras más, agora contudo vos reconciliou"
+        },
+        {
+          "verse": 22,
+          "text": "No corpo da sua carne, pela morte, para perante ele vos apresentar santos, e irrepreensíveis, e inculpáveis,"
+        },
+        {
+          "verse": 23,
+          "text": "Se, na verdade, permanecerdes fundados e firmes na fé, e não vos moverdes da esperança do evangelho que tendes ouvido, o qual foi pregado a toda criatura que há debaixo do céu, e do qual eu, Paulo, estou feito ministro."
+        },
+        {
+          "verse": 24,
+          "text": "Regozijo-me agora no que padeço por vós, e na minha carne cumpro o resto das aflições de Cristo, pelo seu corpo, que é a igreja;"
+        },
+        {
+          "verse": 25,
+          "text": "Da qual eu estou feito ministro segundo a dispensação de Deus, que me foi concedida para convosco, para cumprir a palavra de Deus;"
+        },
+        {
+          "verse": 26,
+          "text": "O mistério que esteve oculto desde todos os séculos, e em todas as gerações, e que agora foi manifesto aos seus santos;"
+        },
+        {
+          "verse": 27,
+          "text": "Aos quais Deus quis fazer conhecer quais são as riquezas da glória deste mistério entre os gentios, que é Cristo em vós, esperança da glória;"
+        },
+        {
+          "verse": 28,
+          "text": "A quem anunciamos, admoestando a todo o homem, e ensinando a todo o homem em toda a sabedoria; para que apresentemos todo o homem perfeito em Cristo Jesus;"
+        },
+        {
+          "verse": 29,
+          "text": "E para isto também trabalho, combatendo segundo a sua eficácia, que opera em mim poderosamente."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Porque quero que saibais quão grande combate tenho por vós, e pelos que estão em Laodiceia, e por quantos não viram o meu rosto em carne;"
+        },
+        {
+          "verse": 2,
+          "text": "Para que os seus corações sejam consolados, e estejam unidos em amor, e em todas as riquezas da plena certeza da inteligência, para conhecimento do mistério de Deus e Pai, e de Cristo,"
+        },
+        {
+          "verse": 3,
+          "text": "Em quem estão escondidos todos os tesouros da sabedoria e do conhecimento."
+        },
+        {
+          "verse": 4,
+          "text": "E digo isto, para que ninguém vos engane com palavras persuasivas."
+        },
+        {
+          "verse": 5,
+          "text": "Porque, ainda que esteja ausente quanto ao corpo, contudo, em espírito estou convosco, regozijando-me e vendo a vossa ordem e a firmeza da vossa fé em Cristo."
+        },
+        {
+          "verse": 6,
+          "text": "Como, pois, recebestes o Senhor Jesus Cristo, assim também andai nele,"
+        },
+        {
+          "verse": 7,
+          "text": "Enraizados e edificados nele, e confirmados na fé, assim como fostes ensinados, nela abundando em ação de graças."
+        },
+        {
+          "verse": 8,
+          "text": "Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo;"
+        },
+        {
+          "verse": 9,
+          "text": "Porque nele habita corporalmente toda a plenitude da divindade;"
+        },
+        {
+          "verse": 10,
+          "text": "E estais perfeitos nele, que é a cabeça de todo o principado e potestade;"
+        },
+        {
+          "verse": 11,
+          "text": "No qual também estais circuncidados com a circuncisão não feita por mão no despojo do corpo dos pecados da carne, pela circuncisão de Cristo;"
+        },
+        {
+          "verse": 12,
+          "text": "Sepultados com ele no batismo, nele também ressuscitastes pela fé no poder de Deus, que o ressuscitou dentre os mortos."
+        },
+        {
+          "verse": 13,
+          "text": "E, quando vós estáveis mortos nos pecados, e na incircuncisão da vossa carne, vos vivificou juntamente com ele, perdoando-vos todas as ofensas,"
+        },
+        {
+          "verse": 14,
+          "text": "Havendo riscado a cédula que era contra nós nas suas ordenanças, a qual de alguma maneira nos era contrária, e a tirou do meio de nós, cravando-a na cruz."
+        },
+        {
+          "verse": 15,
+          "text": "E, despojando os principados e potestades, os expôs publicamente e deles triunfou em si mesmo."
+        },
+        {
+          "verse": 16,
+          "text": "Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados,"
+        },
+        {
+          "verse": 17,
+          "text": "Que são sombras das coisas futuras, mas o corpo é de Cristo."
+        },
+        {
+          "verse": 18,
+          "text": "Ninguém vos domine a seu arbítrio com pretexto de humildade e culto dos anjos, envolvendo-se em coisas que não viu; estando em vão inchado na sua carnal compreensão,"
+        },
+        {
+          "verse": 19,
+          "text": "E não ligado à cabeça, da qual todo o corpo, provido e organizado pelas juntas e ligaduras, vai crescendo em aumento de Deus."
+        },
+        {
+          "verse": 20,
+          "text": "Se, pois, estais mortos com Cristo quanto aos rudimentos do mundo, por que vos carregam ainda de ordenanças, como se vivêsseis no mundo, tais como:"
+        },
+        {
+          "verse": 21,
+          "text": "Não toques, não proves, não manuseies?"
+        },
+        {
+          "verse": 22,
+          "text": "As quais coisas todas perecem pelo uso, segundo os preceitos e doutrinas dos homens;"
+        },
+        {
+          "verse": 23,
+          "text": "As quais têm, na verdade, alguma aparência de sabedoria, em devoção voluntária, humildade, e em disciplina do corpo, mas não são de valor algum senão para a satisfação da carne."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Portanto, se já ressuscitastes com Cristo, buscai as coisas que são de cima, onde Cristo está assentado à destra de Deus."
+        },
+        {
+          "verse": 2,
+          "text": "Pensai nas coisas que são de cima, e não nas que são da terra;"
+        },
+        {
+          "verse": 3,
+          "text": "Porque já estais mortos, e a vossa vida está escondida com Cristo em Deus."
+        },
+        {
+          "verse": 4,
+          "text": "Quando Cristo, que é a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória."
+        },
+        {
+          "verse": 5,
+          "text": "Mortificai, pois, os vossos membros, que estão sobre a terra: a fornicação, a impureza, a afeição desordenada, a vil concupiscência, e a avareza, que é idolatria;"
+        },
+        {
+          "verse": 6,
+          "text": "Pelas quais coisas vem a ira de Deus sobre os filhos da desobediência;"
+        },
+        {
+          "verse": 7,
+          "text": "Nas quais, também, em outro tempo andastes, quando vivíeis nelas."
+        },
+        {
+          "verse": 8,
+          "text": "Mas agora, despojai-vos também de tudo: da ira, da cólera, da malícia, da maledicência, das palavras torpes da vossa boca."
+        },
+        {
+          "verse": 9,
+          "text": "Não mintais uns aos outros, pois que já vos despistes do velho homem com os seus feitos,"
+        },
+        {
+          "verse": 10,
+          "text": "E vos vestistes do novo, que se renova para o conhecimento, segundo a imagem daquele que o criou;"
+        },
+        {
+          "verse": 11,
+          "text": "Onde não há grego, nem judeu, circuncisão, nem incircuncisão, bárbaro, cita, servo ou livre; mas Cristo é tudo, e em todos."
+        },
+        {
+          "verse": 12,
+          "text": "Revesti-vos, pois, como eleitos de Deus, santos e amados, de entranhas de misericórdia, de benignidade, humildade, mansidão, longanimidade;"
+        },
+        {
+          "verse": 13,
+          "text": "Suportando-vos uns aos outros, e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também."
+        },
+        {
+          "verse": 14,
+          "text": "E, sobre tudo isto, revesti-vos de amor, que é o vínculo da perfeição."
+        },
+        {
+          "verse": 15,
+          "text": "E a paz de Deus, para a qual também fostes chamados em um corpo, domine em vossos corações; e sede agradecidos."
+        },
+        {
+          "verse": 16,
+          "text": "A palavra de Cristo habite em vós abundantemente, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros, com salmos, hinos e cânticos espirituais, cantando ao Senhor com graça em vosso coração."
+        },
+        {
+          "verse": 17,
+          "text": "E, quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai."
+        },
+        {
+          "verse": 18,
+          "text": "Vós, mulheres, estai sujeitas a vossos próprios maridos, como convém no Senhor."
+        },
+        {
+          "verse": 19,
+          "text": "Vós, maridos, amai a vossas esposas, e não vos irriteis contra elas."
+        },
+        {
+          "verse": 20,
+          "text": "Vós, filhos, obedecei em tudo a vossos pais, porque isto é agradável ao Senhor."
+        },
+        {
+          "verse": 21,
+          "text": "Vós, pais, não irriteis a vossos filhos, para que não percam o ânimo."
+        },
+        {
+          "verse": 22,
+          "text": "Vós, servos, obedecei em tudo a vossos senhores segundo a carne, não servindo só na aparência, como para agradar aos homens, mas em simplicidade de coração, temendo a Deus."
+        },
+        {
+          "verse": 23,
+          "text": "E tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor, e não aos homens,"
+        },
+        {
+          "verse": 24,
+          "text": "Sabendo que recebereis do Senhor o galardão da herança, porque a Cristo, o Senhor, servis."
+        },
+        {
+          "verse": 25,
+          "text": "Mas quem fizer agravo receberá o agravo que fizer; pois não há acepção de pessoas."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Vós, senhores, fazei o que for de justiça e equidade a vossos servos, sabendo que também tendes um Senhor nos céus."
+        },
+        {
+          "verse": 2,
+          "text": "Perseverai em oração, velando nela com ação de graças;"
+        },
+        {
+          "verse": 3,
+          "text": "Orando também juntamente por nós, para que Deus nos abra a porta da palavra, a fim de falarmos do mistério de Cristo, pelo qual estou também preso;"
+        },
+        {
+          "verse": 4,
+          "text": "Para que o manifeste, como me convém falar."
+        },
+        {
+          "verse": 5,
+          "text": "Andai com sabedoria para com os que estão de fora, remindo o tempo."
+        },
+        {
+          "verse": 6,
+          "text": "A vossa palavra seja sempre agradável, temperada com sal, para que saibais como vos convém responder a cada um."
+        },
+        {
+          "verse": 7,
+          "text": "Tíquico, irmão amado e fiel ministro, e conservo no Senhor, vos fará saber o meu estado;"
+        },
+        {
+          "verse": 8,
+          "text": "O qual vos enviei para o mesmo fim, para que saiba do vosso estado e console os vossos corações;"
+        },
+        {
+          "verse": 9,
+          "text": "Juntamente com Onésimo, amado e fiel irmão, que é dos vossos; eles vos farão saber tudo o que por aqui se passa."
+        },
+        {
+          "verse": 10,
+          "text": "Aristarco, que está preso comigo, vos saúda, e Marcos, o sobrinho de Barnabé, acerca do qual já recebestes mandamentos; se ele for ter convosco, recebei-o;"
+        },
+        {
+          "verse": 11,
+          "text": "E Jesus, chamado Justo; os quais são da circuncisão; são estes unicamente os meus cooperadores no reino de Deus; e para mim têm sido consolação."
+        },
+        {
+          "verse": 12,
+          "text": "Saúda-vos Epafras, que é dos vossos, servo de Cristo, combatendo sempre por vós em orações, para que vos conserveis firmes, perfeitos e consumados em toda a vontade de Deus."
+        },
+        {
+          "verse": 13,
+          "text": "Pois eu lhe dou testemunho de que tem grande zelo por vós, e pelos que estão em Laodiceia, e pelos que estão em Hierápolis."
+        },
+        {
+          "verse": 14,
+          "text": "Saúda-vos Lucas, o médico amado, e Demas."
+        },
+        {
+          "verse": 15,
+          "text": "Saudai aos irmãos que estão em Laodiceia e a Ninfa e à igreja que está em sua casa."
+        },
+        {
+          "verse": 16,
+          "text": "E, quando esta epístola tiver sido lida entre vós, fazei que também seja lida na igreja dos laodicenses, e a que veio de Laodiceia lede-a vós também."
+        },
+        {
+          "verse": 17,
+          "text": "E dizei a Arquipo: Atenta para o ministério que recebeste no Senhor, para que o cumpras."
+        },
+        {
+          "verse": 18,
+          "text": "Saudação de minha mão, de Paulo. Lembrai-vos das minhas prisões. A graça seja convosco. Amém."
+        }
+      ]
+    }
+  ]
 };
-            

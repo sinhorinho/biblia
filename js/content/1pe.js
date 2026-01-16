@@ -1,12 +1,451 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['1pe'] = {
-  "1": "<h1>1 Pedro - Capítulo 1</h1>\n<p><strong>1</strong> Pedro, apóstolo de Jesus Cristo, aos estrangeiros dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia;</p>\n<p><strong>2</strong> Eleitos segundo a presciência de Deus Pai, em santificação do Espírito, para a obediência e aspersão do sangue de Jesus Cristo: Graça e paz vos sejam multiplicadas.</p>\n<p><strong>3</strong> Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo que, segundo a sua grande misericórdia, nos gerou de novo para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos,</p>\n<p><strong>4</strong> Para uma herança incorruptível, incontaminável, e que não se pode murchar, guardada nos céus para vós,</p>\n<p><strong>5</strong> Que mediante a fé estais guardados no poder de Deus para a salvação, já prestes para se revelar no último tempo,</p>\n<p><strong>6</strong> Em que vós grandemente vos alegrais, ainda que agora importa, sendo necessário, que estejais por um pouco contristados com várias tentações,</p>\n<p><strong>7</strong> Para que a prova da vossa fé, muito mais preciosa do que o ouro que perece e é provado pelo fogo, se ache em louvor, e honra, e glória, na revelação de Jesus Cristo;</p>\n<p><strong>8</strong> Ao qual, não o havendo visto, amais; no qual, não o vendo agora, mas crendo, vos alegrais com gozo indescritível e glorioso;</p>\n<p><strong>9</strong> Alcançando o fim da vossa fé, a salvação das vossas almas.</p>\n<p><strong>10</strong> Da qual salvação inquiriram e trataram diligentemente os profetas que profetizaram da graça que vos foi dada,</p>\n<p><strong>11</strong> Indagando que tempo ou que ocasião de tempo o Espírito de Cristo, que estava neles, indicava, anteriormente testificando os sofrimentos que a Cristo haviam de vir, e a glória que se lhes havia de seguir.</p>\n<p><strong>12</strong> Aos quais foi revelado que, não para si mesmos, mas para nós, eles ministravam estas coisas que agora vos foram anunciadas por aqueles que, pelo Espírito Santo enviado do céu, vos pregaram o evangelho; para as quais coisas os anjos desejam bem atentar.</p>\n<p><strong>13</strong> Portanto, cingindo os lombos do vosso entendimento, sede sóbrios, e esperai inteiramente na graça que se vos ofereceu na revelação de Jesus Cristo;</p>\n<p><strong>14</strong> Como filhos obedientes, não vos conformando com as concupiscências que antes havia em vossa ignorância;</p>\n<p><strong>15</strong> Mas, como é santo aquele que vos chamou, sede vós também santos em toda a vossa maneira de viver;</p>\n<p><strong>16</strong> Porquanto está escrito: Sede santos, porque eu sou santo.</p>\n<p><strong>17</strong> E, se invocais por Pai aquele que, sem acepção de pessoas, julga segundo a obra de cada um, andai em temor, durante o tempo da vossa peregrinação,</p>\n<p><strong>18</strong> Sabendo que não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que por tradição recebestes dos vossos pais,</p>\n<p><strong>19</strong> Mas com o precioso sangue de Cristo, como de um cordeiro imaculado e incontaminado,</p>\n<p><strong>20</strong> O qual, na verdade, em outro tempo foi conhecido, ainda antes da fundação do mundo, mas manifestado nestes últimos tempos por amor de vós;</p>\n<p><strong>21</strong> E por ele credes em Deus, que o ressuscitou dentre os mortos, e lhe deu glória, para que a vossa fé e esperança estivessem em Deus;</p>\n<p><strong>22</strong> Purificando as vossas almas pelo Espírito na obediência à verdade, para o amor fraternal, não fingido; amai-vos ardentemente uns aos outros com um coração puro;</p>\n<p><strong>23</strong> Sendo de novo gerados, não de semente corruptível, mas da incorruptível, pela palavra de Deus, viva, e que permanece para sempre.</p>\n<p><strong>24</strong> Porque toda a carne é como a erva, e toda a glória do homem como a flor da erva. Secou-se a erva, e caiu a sua flor;</p>\n<p><strong>25</strong> Mas a palavra do Senhor permanece para sempre. E esta é a palavra que entre vós foi evangelizada.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">1 Pedro 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "2": "<h1>1 Pedro - Capítulo 2</h1>\n<p><strong>1</strong> Deixando, pois, toda a malícia, e todo o engano, e fingimentos, e invejas, e todas as murmurações,</p>\n<p><strong>2</strong> Desejai afetuosamente, como meninos novamente nascidos, o leite racional, não falsificado, para que por ele vades crescendo;</p>\n<p><strong>3</strong> Se é que já provastes que o Senhor é benigno;</p>\n<p><strong>4</strong> E, chegando-vos para ele, pedra viva, reprovada, na verdade, pelos homens, mas para com Deus eleita e preciosa,</p>\n<p><strong>5</strong> Vós também, como pedras vivas, sois edificados casa espiritual e sacerdócio santo, para oferecer sacrifícios espirituais agradáveis a Deus por Jesus Cristo.</p>\n<p><strong>6</strong> Por isso também na Escritura se contém: Eis que ponho em Sião a pedra principal da esquina, eleita e preciosa; e quem nela crer não será confundido.</p>\n<p><strong>7</strong> E assim para vós, os que credes, é preciosa, mas, para os rebeldes, a pedra que os edificadores reprovaram, essa foi a principal da esquina,</p>\n<p><strong>8</strong> E uma pedra de tropeço e rocha de escândalo, para aqueles que tropeçam na palavra, sendo desobedientes; para o que também foram destinados.</p>\n<p><strong>9</strong> Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz;</p>\n<p><strong>10</strong> Vós, que em outro tempo não éreis povo, mas agora sois povo de Deus; que não tínheis alcançado misericórdia, mas agora alcançastes misericórdia.</p>\n<p><strong>11</strong> Amados, peço-vos, como a peregrinos e forasteiros, que vos abstenhais das concupiscências carnais, que combatem contra a alma;</p>\n<p><strong>12</strong> Tendo o vosso viver honesto entre os gentios; para que, naquilo em que falam mal de vós, como de malfeitores, glorifiquem a Deus no dia da visitação, pelas boas obras que em vós observem.</p>\n<p><strong>13</strong> Sujeitai-vos, pois, a toda a ordenação humana por amor do Senhor; quer ao rei, como superior;</p>\n<p><strong>14</strong> Quer aos governadores, como por ele enviados para castigo dos malfeitores, e para louvor dos que fazem o bem.</p>\n<p><strong>15</strong> Porque assim é a vontade de Deus, que, fazendo bem, tapeis a boca à ignorância dos homens insensatos;</p>\n<p><strong>16</strong> Como livres, e não tendo a liberdade por cobertura da malícia, mas como servos de Deus.</p>\n<p><strong>17</strong> Honrai a todos. Amai a fraternidade. Temei a Deus. Honrai ao rei.</p>\n<p><strong>18</strong> Vós, servos, sujeitai-vos com todo o temor aos senhores, não somente aos bons e humanos, mas também aos maus.</p>\n<p><strong>19</strong> Porque é coisa agradável, que alguém, por causa da consciência para com Deus, sofra agravos, padecendo injustamente.</p>\n<p><strong>20</strong> Porque, que glória será essa, se, pecando, sois esbofeteados e sofreis? Mas se, fazendo o bem, sois afligidos e o sofreis, isso é agradável a Deus.</p>\n<p><strong>21</strong> Porque para isto sois chamados; pois também Cristo padeceu por nós, deixando-nos o exemplo, para que sigais as suas pisadas.</p>\n<p><strong>22</strong> O qual não cometeu pecado, nem na sua boca se achou engano.</p>\n<p><strong>23</strong> O qual, quando o injuriavam, não injuriava, e quando padecia não ameaçava, mas entregava-se àquele que julga justamente;</p>\n<p><strong>24</strong> Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados.</p>\n<p><strong>25</strong> Porque éreis como ovelhas desgarradas; mas agora tendes voltado ao Pastor e Bispo das vossas almas.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- 1 Pedro 1</a> | <a href=\"capitulo_3.md\">1 Pedro 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "3": "<h1>1 Pedro - Capítulo 3</h1>\n<p><strong>1</strong> Semelhantemente, vós, mulheres, sede sujeitas aos vossos próprios maridos; para que também, se alguns não obedecem à palavra, pelo porte de suas mulheres sejam ganhos sem palavra;</p>\n<p><strong>2</strong> Considerando a vossa vida casta, em temor.</p>\n<p><strong>3</strong> O enfeite delas não seja o exterior, no frisado dos cabelos, no uso de joias de ouro, na compostura dos vestidos;</p>\n<p><strong>4</strong> Mas o homem encoberto no coração; no incorruptível traje de um espírito manso e quieto, que é precioso diante de Deus.</p>\n<p><strong>5</strong> Porque assim se adornavam também antigamente as santas mulheres que esperavam em Deus, e estavam sujeitas aos seus próprios maridos;</p>\n<p><strong>6</strong> Como Sara obedecia a Abraão, chamando-lhe senhor; da qual vós sois filhas, fazendo o bem, e não temendo nenhum espanto.</p>\n<p><strong>7</strong> Igualmente vós, maridos, coabitai com elas com entendimento, dando honra à mulher, como vaso mais fraco; como sendo vós os seus co-herdeiros da graça da vida; para que não sejam impedidas as vossas orações.</p>\n<p><strong>8</strong> E, finalmente, sede todos de um mesmo sentimento, compassivos, amando os irmãos, entranhavelmente misericordiosos e afáveis.</p>\n<p><strong>9</strong> Não tornando mal por mal, ou injúria por injúria; antes, pelo contrário, bendizendo; sabendo que para isto fostes chamados, para que por herança alcanceis a bênção.</p>\n<p><strong>10</strong> Porque quem quer amar a vida, e ver os dias bons, refreie a sua língua do mal, e os seus lábios não falem engano.</p>\n<p><strong>11</strong> Aparte-se do mal, e faça o bem; busque a paz, e siga-a.</p>\n<p><strong>12</strong> Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos atentos às suas orações; mas o rosto do Senhor é contra os que fazem o mal.</p>\n<p><strong>13</strong> E qual é aquele que vos fará mal, se fordes seguidores do bem?</p>\n<p><strong>14</strong> Mas também, se padecerdes por amor da justiça, sois bem-aventurados. E não temais com medo deles, nem vos turbeis;</p>\n<p><strong>15</strong> Antes, santificai ao Senhor Deus em vossos corações; e estai sempre preparados para responder com mansidão e temor a qualquer que vos pedir a razão da esperança que há em vós,</p>\n<p><strong>16</strong> Tendo uma boa consciência, para que, naquilo em que falam mal de vós, como de malfeitores, fiquem confundidos os que blasfemam da vossa boa conduta em Cristo.</p>\n<p><strong>17</strong> Porque melhor é que padeçais fazendo bem (se a vontade de Deus assim o quer), do que fazendo mal.</p>\n<p><strong>18</strong> Porque também Cristo padeceu uma vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; mortificado, na verdade, na carne, mas vivificado pelo Espírito;</p>\n<p><strong>19</strong> No qual também foi, e pregou aos espíritos em prisão;</p>\n<p><strong>20</strong> Os quais noutro tempo foram rebeldes, quando a longanimidade de Deus esperava nos dias de Noé, enquanto se preparava a arca; na qual poucas (isto é, oito) almas se salvaram pela água;</p>\n<p><strong>21</strong> Que também, como uma verdadeira figura, agora vos salva, o batismo, não do despojamento da imundícia da carne, mas da indagação de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo;</p>\n<p><strong>22</strong> O qual está à destra de Deus, tendo subido ao céu, havendo-se-lhe sujeitado os anjos, e as autoridades, e as potências.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- 1 Pedro 2</a> | <a href=\"capitulo_4.md\">1 Pedro 4 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "4": "<h1>1 Pedro - Capítulo 4</h1>\n<p><strong>1</strong> Ora, pois, já que Cristo padeceu por nós na carne, armai-vos também vós com este mesmo pensamento, que aquele que padeceu na carne já cessou do pecado;</p>\n<p><strong>2</strong> Para que, no tempo que vos resta na carne, não vivais mais segundo as concupiscências dos homens, mas segundo a vontade de Deus.</p>\n<p><strong>3</strong> Porque nos basta que no tempo passado da vida fizéssemos a vontade dos gentios, andando em dissoluções, concupiscências, embriaguezes, glutonarias, bebedices e abomináveis idolatrias;</p>\n<p><strong>4</strong> E acham estranho não correrdes com eles no mesmo desenfreamento de dissolução, blasfemando de vós.</p>\n<p><strong>5</strong> Os quais hão de dar conta ao que está preparado para julgar os vivos e os mortos.</p>\n<p><strong>6</strong> Porque por isto foi pregado o evangelho também aos mortos, para que, na verdade, fossem julgados segundo os homens na carne, mas vivessem segundo Deus em espírito;</p>\n<p><strong>7</strong> E já está próximo o fim de todas as coisas; portanto sede sóbrios e vigiai em oração.</p>\n<p><strong>8</strong> Mas, sobretudo, tende ardente amor uns para com os outros; porque o amor cobrirá a multidão de pecados.</p>\n<p><strong>9</strong> Sendo hospitaleiros uns para com os outros, sem murmurações,</p>\n<p><strong>10</strong> Cada um administre aos outros o dom como o recebeu, como bons mordomos da multiforme graça de Deus.</p>\n<p><strong>11</strong> Se alguém falar, fale segundo as palavras de Deus; se alguém administrar, administre segundo o poder que Deus dá; para que em tudo Deus seja glorificado por Jesus Cristo, a quem pertence a glória e poder para todo o sempre. Amém.</p>\n<p><strong>12</strong> Amados, não estranheis a ardente prova que vem sobre vós para vos tentar, como se coisa estranha vos acontecesse;</p>\n<p><strong>13</strong> Mas alegrai-vos no fato de serdes participantes das aflições de Cristo, para que também na revelação da sua glória vos regozijeis e alegreis.</p>\n<p><strong>14</strong> Se pelo nome de Cristo sois vituperados, bem-aventurados sois, porque sobre vós repousa o Espírito da glória e de Deus; quanto a eles, é ele, sim, blasfemado, mas quanto a vós, é glorificado.</p>\n<p><strong>15</strong> Que nenhum de vós padeça como homicida, ou ladrão, ou malfeitor, ou como o que se entremete em negócios alheios;</p>\n<p><strong>16</strong> Mas, se padece como cristão, não se envergonhe, antes glorifique a Deus nesta parte.</p>\n<p><strong>17</strong> Porque já é tempo que comece o julgamento pela casa de Deus; e, se primeiro começa por nós, qual será o fim daqueles que são desobedientes ao evangelho de Deus?</p>\n<p><strong>18</strong> E, se o justo apenas se salva, onde aparecerá o ímpio e o pecador?</p>\n<p><strong>19</strong> Portanto também os que padecem segundo a vontade de Deus encomendem-lhe as suas almas, como ao fiel Criador, fazendo o bem.</p>\n<hr>\n<p><a href=\"capitulo_3.md\">&lt;- 1 Pedro 3</a> | <a href=\"capitulo_5.md\">1 Pedro 5 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "5": "<h1>1 Pedro - Capítulo 5</h1>\n<p><strong>1</strong> Aos presbíteros, que estão entre vós, admoesto eu, que sou também presbítero com eles, e testemunha das aflições de Cristo, e participante da glória que se há de revelar:</p>\n<p><strong>2</strong> Apascentai o rebanho de Deus, que está entre vós, tendo cuidado dele, não por força, mas voluntariamente; nem por torpe ganância, mas de ânimo pronto;</p>\n<p><strong>3</strong> Nem como tendo domínio sobre a herança de Deus, mas servindo de exemplo ao rebanho.</p>\n<p><strong>4</strong> E, quando aparecer o Sumo Pastor, alcançareis a incorruptível coroa da glória.</p>\n<p><strong>5</strong> Semelhantemente vós jovens, sede sujeitos aos anciãos; e sede todos sujeitos uns aos outros, e revesti-vos de humildade, porque Deus resiste aos soberbos, mas dá graça aos humildes.</p>\n<p><strong>6</strong> Humilhai-vos, pois, debaixo da potente mão de Deus, para que a seu tempo vos exalte;</p>\n<p><strong>7</strong> Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.</p>\n<p><strong>8</strong> Sede sóbrios; vigiai; porque o diabo, vosso adversário, anda em derredor, como leão bramando, buscando a quem possa tragar;</p>\n<p><strong>9</strong> Ao qual resisti firmes na fé, sabendo que as mesmas aflições se cumprem entre os vossos irmãos no mundo.</p>\n<p><strong>10</strong> E o Deus de toda a graça, que em Cristo Jesus nos chamou à sua eterna glória, depois de havermos padecido um pouco, ele mesmo vos aperfeiçoe, confirme, fortifique e estabeleça.</p>\n<p><strong>11</strong> A ele seja a glória e o poderio para todo o sempre. Amém.</p>\n<p><strong>12</strong> Por Silvano, vosso fiel irmão, como cuido, escrevi brevemente, exortando e testificando que esta é a verdadeira graça de Deus, na qual estais firmes.</p>\n<p><strong>13</strong> A vossa coeleita em Babilônia vos saúda, e meu filho Marcos.</p>\n<p><strong>14</strong> Saudai-vos uns aos outros com ósculo de amor. Paz seja com todos vós que estais em Cristo Jesus. Amém.</p>\n<hr>\n<p><a href=\"capitulo_4.md\">&lt;- 1 Pedro 4</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['1pe'] = {
+  "book": "1pe",
+  "name": "1 Pedro",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Pedro, apóstolo de Jesus Cristo, aos estrangeiros dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia;"
+        },
+        {
+          "verse": 2,
+          "text": "Eleitos segundo a presciência de Deus Pai, em santificação do Espírito, para a obediência e aspersão do sangue de Jesus Cristo: Graça e paz vos sejam multiplicadas."
+        },
+        {
+          "verse": 3,
+          "text": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo que, segundo a sua grande misericórdia, nos gerou de novo para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos,"
+        },
+        {
+          "verse": 4,
+          "text": "Para uma herança incorruptível, incontaminável, e que não se pode murchar, guardada nos céus para vós,"
+        },
+        {
+          "verse": 5,
+          "text": "Que mediante a fé estais guardados no poder de Deus para a salvação, já prestes para se revelar no último tempo,"
+        },
+        {
+          "verse": 6,
+          "text": "Em que vós grandemente vos alegrais, ainda que agora importa, sendo necessário, que estejais por um pouco contristados com várias tentações,"
+        },
+        {
+          "verse": 7,
+          "text": "Para que a prova da vossa fé, muito mais preciosa do que o ouro que perece e é provado pelo fogo, se ache em louvor, e honra, e glória, na revelação de Jesus Cristo;"
+        },
+        {
+          "verse": 8,
+          "text": "Ao qual, não o havendo visto, amais; no qual, não o vendo agora, mas crendo, vos alegrais com gozo indescritível e glorioso;"
+        },
+        {
+          "verse": 9,
+          "text": "Alcançando o fim da vossa fé, a salvação das vossas almas."
+        },
+        {
+          "verse": 10,
+          "text": "Da qual salvação inquiriram e trataram diligentemente os profetas que profetizaram da graça que vos foi dada,"
+        },
+        {
+          "verse": 11,
+          "text": "Indagando que tempo ou que ocasião de tempo o Espírito de Cristo, que estava neles, indicava, anteriormente testificando os sofrimentos que a Cristo haviam de vir, e a glória que se lhes havia de seguir."
+        },
+        {
+          "verse": 12,
+          "text": "Aos quais foi revelado que, não para si mesmos, mas para nós, eles ministravam estas coisas que agora vos foram anunciadas por aqueles que, pelo Espírito Santo enviado do céu, vos pregaram o evangelho; para as quais coisas os anjos desejam bem atentar."
+        },
+        {
+          "verse": 13,
+          "text": "Portanto, cingindo os lombos do vosso entendimento, sede sóbrios, e esperai inteiramente na graça que se vos ofereceu na revelação de Jesus Cristo;"
+        },
+        {
+          "verse": 14,
+          "text": "Como filhos obedientes, não vos conformando com as concupiscências que antes havia em vossa ignorância;"
+        },
+        {
+          "verse": 15,
+          "text": "Mas, como é santo aquele que vos chamou, sede vós também santos em toda a vossa maneira de viver;"
+        },
+        {
+          "verse": 16,
+          "text": "Porquanto está escrito: Sede santos, porque eu sou santo."
+        },
+        {
+          "verse": 17,
+          "text": "E, se invocais por Pai aquele que, sem acepção de pessoas, julga segundo a obra de cada um, andai em temor, durante o tempo da vossa peregrinação,"
+        },
+        {
+          "verse": 18,
+          "text": "Sabendo que não foi com coisas corruptíveis, como prata ou ouro, que fostes resgatados da vossa vã maneira de viver que por tradição recebestes dos vossos pais,"
+        },
+        {
+          "verse": 19,
+          "text": "Mas com o precioso sangue de Cristo, como de um cordeiro imaculado e incontaminado,"
+        },
+        {
+          "verse": 20,
+          "text": "O qual, na verdade, em outro tempo foi conhecido, ainda antes da fundação do mundo, mas manifestado nestes últimos tempos por amor de vós;"
+        },
+        {
+          "verse": 21,
+          "text": "E por ele credes em Deus, que o ressuscitou dentre os mortos, e lhe deu glória, para que a vossa fé e esperança estivessem em Deus;"
+        },
+        {
+          "verse": 22,
+          "text": "Purificando as vossas almas pelo Espírito na obediência à verdade, para o amor fraternal, não fingido; amai-vos ardentemente uns aos outros com um coração puro;"
+        },
+        {
+          "verse": 23,
+          "text": "Sendo de novo gerados, não de semente corruptível, mas da incorruptível, pela palavra de Deus, viva, e que permanece para sempre."
+        },
+        {
+          "verse": 24,
+          "text": "Porque toda a carne é como a erva, e toda a glória do homem como a flor da erva. Secou-se a erva, e caiu a sua flor;"
+        },
+        {
+          "verse": 25,
+          "text": "Mas a palavra do Senhor permanece para sempre. E esta é a palavra que entre vós foi evangelizada."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Deixando, pois, toda a malícia, e todo o engano, e fingimentos, e invejas, e todas as murmurações,"
+        },
+        {
+          "verse": 2,
+          "text": "Desejai afetuosamente, como meninos novamente nascidos, o leite racional, não falsificado, para que por ele vades crescendo;"
+        },
+        {
+          "verse": 3,
+          "text": "Se é que já provastes que o Senhor é benigno;"
+        },
+        {
+          "verse": 4,
+          "text": "E, chegando-vos para ele, pedra viva, reprovada, na verdade, pelos homens, mas para com Deus eleita e preciosa,"
+        },
+        {
+          "verse": 5,
+          "text": "Vós também, como pedras vivas, sois edificados casa espiritual e sacerdócio santo, para oferecer sacrifícios espirituais agradáveis a Deus por Jesus Cristo."
+        },
+        {
+          "verse": 6,
+          "text": "Por isso também na Escritura se contém: Eis que ponho em Sião a pedra principal da esquina, eleita e preciosa; e quem nela crer não será confundido."
+        },
+        {
+          "verse": 7,
+          "text": "E assim para vós, os que credes, é preciosa, mas, para os rebeldes, a pedra que os edificadores reprovaram, essa foi a principal da esquina,"
+        },
+        {
+          "verse": 8,
+          "text": "E uma pedra de tropeço e rocha de escândalo, para aqueles que tropeçam na palavra, sendo desobedientes; para o que também foram destinados."
+        },
+        {
+          "verse": 9,
+          "text": "Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo adquirido, para que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz;"
+        },
+        {
+          "verse": 10,
+          "text": "Vós, que em outro tempo não éreis povo, mas agora sois povo de Deus; que não tínheis alcançado misericórdia, mas agora alcançastes misericórdia."
+        },
+        {
+          "verse": 11,
+          "text": "Amados, peço-vos, como a peregrinos e forasteiros, que vos abstenhais das concupiscências carnais, que combatem contra a alma;"
+        },
+        {
+          "verse": 12,
+          "text": "Tendo o vosso viver honesto entre os gentios; para que, naquilo em que falam mal de vós, como de malfeitores, glorifiquem a Deus no dia da visitação, pelas boas obras que em vós observem."
+        },
+        {
+          "verse": 13,
+          "text": "Sujeitai-vos, pois, a toda a ordenação humana por amor do Senhor; quer ao rei, como superior;"
+        },
+        {
+          "verse": 14,
+          "text": "Quer aos governadores, como por ele enviados para castigo dos malfeitores, e para louvor dos que fazem o bem."
+        },
+        {
+          "verse": 15,
+          "text": "Porque assim é a vontade de Deus, que, fazendo bem, tapeis a boca à ignorância dos homens insensatos;"
+        },
+        {
+          "verse": 16,
+          "text": "Como livres, e não tendo a liberdade por cobertura da malícia, mas como servos de Deus."
+        },
+        {
+          "verse": 17,
+          "text": "Honrai a todos. Amai a fraternidade. Temei a Deus. Honrai ao rei."
+        },
+        {
+          "verse": 18,
+          "text": "Vós, servos, sujeitai-vos com todo o temor aos senhores, não somente aos bons e humanos, mas também aos maus."
+        },
+        {
+          "verse": 19,
+          "text": "Porque é coisa agradável, que alguém, por causa da consciência para com Deus, sofra agravos, padecendo injustamente."
+        },
+        {
+          "verse": 20,
+          "text": "Porque, que glória será essa, se, pecando, sois esbofeteados e sofreis? Mas se, fazendo o bem, sois afligidos e o sofreis, isso é agradável a Deus."
+        },
+        {
+          "verse": 21,
+          "text": "Porque para isto sois chamados; pois também Cristo padeceu por nós, deixando-nos o exemplo, para que sigais as suas pisadas."
+        },
+        {
+          "verse": 22,
+          "text": "O qual não cometeu pecado, nem na sua boca se achou engano."
+        },
+        {
+          "verse": 23,
+          "text": "O qual, quando o injuriavam, não injuriava, e quando padecia não ameaçava, mas entregava-se àquele que julga justamente;"
+        },
+        {
+          "verse": 24,
+          "text": "Levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pudéssemos viver para a justiça; e pelas suas feridas fostes sarados."
+        },
+        {
+          "verse": 25,
+          "text": "Porque éreis como ovelhas desgarradas; mas agora tendes voltado ao Pastor e Bispo das vossas almas."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Semelhantemente, vós, mulheres, sede sujeitas aos vossos próprios maridos; para que também, se alguns não obedecem à palavra, pelo porte de suas mulheres sejam ganhos sem palavra;"
+        },
+        {
+          "verse": 2,
+          "text": "Considerando a vossa vida casta, em temor."
+        },
+        {
+          "verse": 3,
+          "text": "O enfeite delas não seja o exterior, no frisado dos cabelos, no uso de joias de ouro, na compostura dos vestidos;"
+        },
+        {
+          "verse": 4,
+          "text": "Mas o homem encoberto no coração; no incorruptível traje de um espírito manso e quieto, que é precioso diante de Deus."
+        },
+        {
+          "verse": 5,
+          "text": "Porque assim se adornavam também antigamente as santas mulheres que esperavam em Deus, e estavam sujeitas aos seus próprios maridos;"
+        },
+        {
+          "verse": 6,
+          "text": "Como Sara obedecia a Abraão, chamando-lhe senhor; da qual vós sois filhas, fazendo o bem, e não temendo nenhum espanto."
+        },
+        {
+          "verse": 7,
+          "text": "Igualmente vós, maridos, coabitai com elas com entendimento, dando honra à mulher, como vaso mais fraco; como sendo vós os seus co-herdeiros da graça da vida; para que não sejam impedidas as vossas orações."
+        },
+        {
+          "verse": 8,
+          "text": "E, finalmente, sede todos de um mesmo sentimento, compassivos, amando os irmãos, entranhavelmente misericordiosos e afáveis."
+        },
+        {
+          "verse": 9,
+          "text": "Não tornando mal por mal, ou injúria por injúria; antes, pelo contrário, bendizendo; sabendo que para isto fostes chamados, para que por herança alcanceis a bênção."
+        },
+        {
+          "verse": 10,
+          "text": "Porque quem quer amar a vida, e ver os dias bons, refreie a sua língua do mal, e os seus lábios não falem engano."
+        },
+        {
+          "verse": 11,
+          "text": "Aparte-se do mal, e faça o bem; busque a paz, e siga-a."
+        },
+        {
+          "verse": 12,
+          "text": "Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos atentos às suas orações; mas o rosto do Senhor é contra os que fazem o mal."
+        },
+        {
+          "verse": 13,
+          "text": "E qual é aquele que vos fará mal, se fordes seguidores do bem?"
+        },
+        {
+          "verse": 14,
+          "text": "Mas também, se padecerdes por amor da justiça, sois bem-aventurados. E não temais com medo deles, nem vos turbeis;"
+        },
+        {
+          "verse": 15,
+          "text": "Antes, santificai ao Senhor Deus em vossos corações; e estai sempre preparados para responder com mansidão e temor a qualquer que vos pedir a razão da esperança que há em vós,"
+        },
+        {
+          "verse": 16,
+          "text": "Tendo uma boa consciência, para que, naquilo em que falam mal de vós, como de malfeitores, fiquem confundidos os que blasfemam da vossa boa conduta em Cristo."
+        },
+        {
+          "verse": 17,
+          "text": "Porque melhor é que padeçais fazendo bem (se a vontade de Deus assim o quer), do que fazendo mal."
+        },
+        {
+          "verse": 18,
+          "text": "Porque também Cristo padeceu uma vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; mortificado, na verdade, na carne, mas vivificado pelo Espírito;"
+        },
+        {
+          "verse": 19,
+          "text": "No qual também foi, e pregou aos espíritos em prisão;"
+        },
+        {
+          "verse": 20,
+          "text": "Os quais noutro tempo foram rebeldes, quando a longanimidade de Deus esperava nos dias de Noé, enquanto se preparava a arca; na qual poucas (isto é, oito) almas se salvaram pela água;"
+        },
+        {
+          "verse": 21,
+          "text": "Que também, como uma verdadeira figura, agora vos salva, o batismo, não do despojamento da imundícia da carne, mas da indagação de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo;"
+        },
+        {
+          "verse": 22,
+          "text": "O qual está à destra de Deus, tendo subido ao céu, havendo-se-lhe sujeitado os anjos, e as autoridades, e as potências."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ora, pois, já que Cristo padeceu por nós na carne, armai-vos também vós com este mesmo pensamento, que aquele que padeceu na carne já cessou do pecado;"
+        },
+        {
+          "verse": 2,
+          "text": "Para que, no tempo que vos resta na carne, não vivais mais segundo as concupiscências dos homens, mas segundo a vontade de Deus."
+        },
+        {
+          "verse": 3,
+          "text": "Porque nos basta que no tempo passado da vida fizéssemos a vontade dos gentios, andando em dissoluções, concupiscências, embriaguezes, glutonarias, bebedices e abomináveis idolatrias;"
+        },
+        {
+          "verse": 4,
+          "text": "E acham estranho não correrdes com eles no mesmo desenfreamento de dissolução, blasfemando de vós."
+        },
+        {
+          "verse": 5,
+          "text": "Os quais hão de dar conta ao que está preparado para julgar os vivos e os mortos."
+        },
+        {
+          "verse": 6,
+          "text": "Porque por isto foi pregado o evangelho também aos mortos, para que, na verdade, fossem julgados segundo os homens na carne, mas vivessem segundo Deus em espírito;"
+        },
+        {
+          "verse": 7,
+          "text": "E já está próximo o fim de todas as coisas; portanto sede sóbrios e vigiai em oração."
+        },
+        {
+          "verse": 8,
+          "text": "Mas, sobretudo, tende ardente amor uns para com os outros; porque o amor cobrirá a multidão de pecados."
+        },
+        {
+          "verse": 9,
+          "text": "Sendo hospitaleiros uns para com os outros, sem murmurações,"
+        },
+        {
+          "verse": 10,
+          "text": "Cada um administre aos outros o dom como o recebeu, como bons mordomos da multiforme graça de Deus."
+        },
+        {
+          "verse": 11,
+          "text": "Se alguém falar, fale segundo as palavras de Deus; se alguém administrar, administre segundo o poder que Deus dá; para que em tudo Deus seja glorificado por Jesus Cristo, a quem pertence a glória e poder para todo o sempre. Amém."
+        },
+        {
+          "verse": 12,
+          "text": "Amados, não estranheis a ardente prova que vem sobre vós para vos tentar, como se coisa estranha vos acontecesse;"
+        },
+        {
+          "verse": 13,
+          "text": "Mas alegrai-vos no fato de serdes participantes das aflições de Cristo, para que também na revelação da sua glória vos regozijeis e alegreis."
+        },
+        {
+          "verse": 14,
+          "text": "Se pelo nome de Cristo sois vituperados, bem-aventurados sois, porque sobre vós repousa o Espírito da glória e de Deus; quanto a eles, é ele, sim, blasfemado, mas quanto a vós, é glorificado."
+        },
+        {
+          "verse": 15,
+          "text": "Que nenhum de vós padeça como homicida, ou ladrão, ou malfeitor, ou como o que se entremete em negócios alheios;"
+        },
+        {
+          "verse": 16,
+          "text": "Mas, se padece como cristão, não se envergonhe, antes glorifique a Deus nesta parte."
+        },
+        {
+          "verse": 17,
+          "text": "Porque já é tempo que comece o julgamento pela casa de Deus; e, se primeiro começa por nós, qual será o fim daqueles que são desobedientes ao evangelho de Deus?"
+        },
+        {
+          "verse": 18,
+          "text": "E, se o justo apenas se salva, onde aparecerá o ímpio e o pecador?"
+        },
+        {
+          "verse": 19,
+          "text": "Portanto também os que padecem segundo a vontade de Deus encomendem-lhe as suas almas, como ao fiel Criador, fazendo o bem."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Aos presbíteros, que estão entre vós, admoesto eu, que sou também presbítero com eles, e testemunha das aflições de Cristo, e participante da glória que se há de revelar:"
+        },
+        {
+          "verse": 2,
+          "text": "Apascentai o rebanho de Deus, que está entre vós, tendo cuidado dele, não por força, mas voluntariamente; nem por torpe ganância, mas de ânimo pronto;"
+        },
+        {
+          "verse": 3,
+          "text": "Nem como tendo domínio sobre a herança de Deus, mas servindo de exemplo ao rebanho."
+        },
+        {
+          "verse": 4,
+          "text": "E, quando aparecer o Sumo Pastor, alcançareis a incorruptível coroa da glória."
+        },
+        {
+          "verse": 5,
+          "text": "Semelhantemente vós jovens, sede sujeitos aos anciãos; e sede todos sujeitos uns aos outros, e revesti-vos de humildade, porque Deus resiste aos soberbos, mas dá graça aos humildes."
+        },
+        {
+          "verse": 6,
+          "text": "Humilhai-vos, pois, debaixo da potente mão de Deus, para que a seu tempo vos exalte;"
+        },
+        {
+          "verse": 7,
+          "text": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
+        },
+        {
+          "verse": 8,
+          "text": "Sede sóbrios; vigiai; porque o diabo, vosso adversário, anda em derredor, como leão bramando, buscando a quem possa tragar;"
+        },
+        {
+          "verse": 9,
+          "text": "Ao qual resisti firmes na fé, sabendo que as mesmas aflições se cumprem entre os vossos irmãos no mundo."
+        },
+        {
+          "verse": 10,
+          "text": "E o Deus de toda a graça, que em Cristo Jesus nos chamou à sua eterna glória, depois de havermos padecido um pouco, ele mesmo vos aperfeiçoe, confirme, fortifique e estabeleça."
+        },
+        {
+          "verse": 11,
+          "text": "A ele seja a glória e o poderio para todo o sempre. Amém."
+        },
+        {
+          "verse": 12,
+          "text": "Por Silvano, vosso fiel irmão, como cuido, escrevi brevemente, exortando e testificando que esta é a verdadeira graça de Deus, na qual estais firmes."
+        },
+        {
+          "verse": 13,
+          "text": "A vossa coeleita em Babilônia vos saúda, e meu filho Marcos."
+        },
+        {
+          "verse": 14,
+          "text": "Saudai-vos uns aos outros com ósculo de amor. Paz seja com todos vós que estais em Cristo Jesus. Amém."
+        }
+      ]
+    }
+  ]
 };
-            

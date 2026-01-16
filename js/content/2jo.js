@@ -1,8 +1,63 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['2jo'] = {
-  "1": "<h1>2 João - Capítulo 1</h1>\n<p><strong>1</strong> O presbítero à senhora eleita, e a seus filhos, aos quais amo na verdade, e não somente eu, mas também todos os que têm conhecido a verdade,</p>\n<p><strong>2</strong> Por amor da verdade que está em nós, e para sempre estará conosco:</p>\n<p><strong>3</strong> Graça seja convosco, misericórdia e paz, da parte de Deus Pai e da do Senhor Jesus Cristo, o Filho do Pai, em verdade e amor.</p>\n<p><strong>4</strong> Muito me alegro por achar que alguns de teus filhos andam na verdade, assim como temos recebido o mandamento do Pai.</p>\n<p><strong>5</strong> E agora, senhora, rogo-te, não como se escrevesse um novo mandamento, mas aquele mesmo que desde o princípio tivemos: Que nos amemos uns aos outros.</p>\n<p><strong>6</strong> E o amor é este: Que andemos segundo os seus mandamentos. Este é o mandamento, como já desde o princípio ouvistes, que andeis nele.</p>\n<p><strong>7</strong> Porque já muitos enganadores entraram no mundo, os quais não confessam que Jesus Cristo veio em carne. Este tal é o enganador e o anticristo.</p>\n<p><strong>8</strong> Olhai por vós mesmos, para que não percamos o que temos ganho, antes recebamos o inteiro galardão.</p>\n<p><strong>9</strong> Todo aquele que prevarica, e não persevera na doutrina de Cristo, não tem a Deus. Quem persevera na doutrina de Cristo, esse tem tanto ao Pai como ao Filho.</p>\n<p><strong>10</strong> Se alguém vem ter convosco, e não traz esta doutrina, não o recebais em casa, nem tampouco o saudeis.</p>\n<p><strong>11</strong> Porque quem o saúda tem parte nas suas más obras.</p>\n<p><strong>12</strong> Tendo muito que escrever-vos, não quis fazê-lo com papel e tinta; mas espero ir ter convosco e falar face a face, para que o nosso gozo seja cumprido.</p>\n<p><strong>13</strong> Saúdam-te os filhos de tua irmã, a eleita. Amém.</p>\n<hr>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['2jo'] = {
+  "book": "2jo",
+  "name": "2 João",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O presbítero à senhora eleita, e a seus filhos, aos quais amo na verdade, e não somente eu, mas também todos os que têm conhecido a verdade,"
+        },
+        {
+          "verse": 2,
+          "text": "Por amor da verdade que está em nós, e para sempre estará conosco:"
+        },
+        {
+          "verse": 3,
+          "text": "Graça seja convosco, misericórdia e paz, da parte de Deus Pai e da do Senhor Jesus Cristo, o Filho do Pai, em verdade e amor."
+        },
+        {
+          "verse": 4,
+          "text": "Muito me alegro por achar que alguns de teus filhos andam na verdade, assim como temos recebido o mandamento do Pai."
+        },
+        {
+          "verse": 5,
+          "text": "E agora, senhora, rogo-te, não como se escrevesse um novo mandamento, mas aquele mesmo que desde o princípio tivemos: Que nos amemos uns aos outros."
+        },
+        {
+          "verse": 6,
+          "text": "E o amor é este: Que andemos segundo os seus mandamentos. Este é o mandamento, como já desde o princípio ouvistes, que andeis nele."
+        },
+        {
+          "verse": 7,
+          "text": "Porque já muitos enganadores entraram no mundo, os quais não confessam que Jesus Cristo veio em carne. Este tal é o enganador e o anticristo."
+        },
+        {
+          "verse": 8,
+          "text": "Olhai por vós mesmos, para que não percamos o que temos ganho, antes recebamos o inteiro galardão."
+        },
+        {
+          "verse": 9,
+          "text": "Todo aquele que prevarica, e não persevera na doutrina de Cristo, não tem a Deus. Quem persevera na doutrina de Cristo, esse tem tanto ao Pai como ao Filho."
+        },
+        {
+          "verse": 10,
+          "text": "Se alguém vem ter convosco, e não traz esta doutrina, não o recebais em casa, nem tampouco o saudeis."
+        },
+        {
+          "verse": 11,
+          "text": "Porque quem o saúda tem parte nas suas más obras."
+        },
+        {
+          "verse": 12,
+          "text": "Tendo muito que escrever-vos, não quis fazê-lo com papel e tinta; mas espero ir ter convosco e falar face a face, para que o nosso gozo seja cumprido."
+        },
+        {
+          "verse": 13,
+          "text": "Saúdam-te os filhos de tua irmã, a eleita. Amém."
+        }
+      ]
+    }
+  ]
 };
-            

@@ -1,59 +1,5722 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['jr'] = {
-  "1": "<h1>Jeremias - Capítulo 1</h1>\n<p><strong>1</strong> Palavras de Jeremias, filho de Hilquias, um dos sacerdotes que estavam em Anatote, na terra de Benjamim;</p>\n<p><strong>2</strong> Ao qual veio a palavra do Senhor, nos dias de Josias, filho de Amom, rei de Judá, no décimo terceiro ano do seu reinado.</p>\n<p><strong>3</strong> E lhe veio também nos dias de Jeoiaquim, filho de Josias, rei de Judá, até ao fim do ano undécimo de Zedequias, filho de Josias, rei de Judá, até que Jerusalém foi levada em cativeiro no quinto mês.</p>\n<p><strong>4</strong> Assim veio a mim a palavra do Senhor, dizendo:</p>\n<p><strong>5</strong> Antes que te formasse no ventre te conheci, e antes que saísses da madre, te santifiquei; às nações te dei por profeta.</p>\n<p><strong>6</strong> Então disse eu: Ah, Senhor Deus! Eis que não sei falar; porque ainda sou um menino.</p>\n<p><strong>7</strong> Mas o Senhor me disse: Não digas: Eu sou um menino; porque a todos a quem eu te enviar, irás; e tudo quanto te mandar, falarás.</p>\n<p><strong>8</strong> Não temas diante deles; porque estou contigo para te livrar, diz o Senhor.</p>\n<p><strong>9</strong> E estendeu o Senhor a sua mão, e tocou-me na boca; e disse-me o Senhor: Eis que ponho as minhas palavras na tua boca;</p>\n<p><strong>10</strong> Olha, ponho-te neste dia sobre as nações, e sobre os reinos, para arrancares, e para derrubares, e para destruíres, e para arruinares; e também para edificares e para plantares.</p>\n<p><strong>11</strong> Ainda veio a mim a palavra do Senhor, dizendo: Que é que vês, Jeremias? E eu disse: Vejo uma vara de amendoeira.</p>\n<p><strong>12</strong> E disse-me o Senhor: Viste bem; porque eu velo sobre a minha palavra para cumpri-la.</p>\n<p><strong>13</strong> E veio a mim a palavra do Senhor segunda vez, dizendo: Que é que vês? E eu disse: Vejo uma panela a ferver, cuja face está para o lado do norte.</p>\n<p><strong>14</strong> E disse-me o Senhor: Do norte se descobrirá o mal sobre todos os habitantes da terra.</p>\n<p><strong>15</strong> Porque eis que eu convoco todas as famílias dos reinos do norte, diz o Senhor; e virão, e cada um porá o seu trono à entrada das portas de Jerusalém, e contra todos os seus muros em redor, e contra todas as cidades de Judá.</p>\n<p><strong>16</strong> E eu pronunciarei contra eles os meus juízos, por causa de toda a sua malícia; pois me deixaram, e queimaram incenso a deuses estranhos, e se encurvaram diante das obras das suas mãos.</p>\n<p><strong>17</strong> Tu, pois, cinge os teus lombos, e levanta-te, e dize-lhes tudo quanto eu te mandar; não te espantes diante deles, para que eu não te envergonhe diante deles.</p>\n<p><strong>18</strong> Porque, eis que hoje te ponho por cidade forte, e por coluna de ferro, e por muros de bronze, contra toda a terra, contra os reis de Judá, contra os seus príncipes, contra os seus sacerdotes, e contra o povo da terra.</p>\n<p><strong>19</strong> E pelejarão contra ti, mas não prevalecerão contra ti; porque eu sou contigo, diz o Senhor, para te livrar.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">Jeremias 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "2": "<h1>Jeremias - Capítulo 2</h1>\n<p><strong>1</strong> E veio a mim a palavra do Senhor, dizendo:</p>\n<p><strong>2</strong> Vai, e clama aos ouvidos de Jerusalém, dizendo: Assim diz o Senhor: Lembro-me de ti, da piedade da tua mocidade, e do amor do teu noivado, quando me seguias no deserto, numa terra que não se semeava.</p>\n<p><strong>3</strong> Então Israel era santidade para o Senhor, e as primícias da sua novidade; todos os que o devoravam eram tidos por culpados; o mal vinha sobre eles, diz o Senhor.</p>\n<p><strong>4</strong> Ouvi a palavra do Senhor, ó casa de Jacó, e todas as famílias da casa de Israel;</p>\n<p><strong>5</strong> Assim diz o Senhor: Que injustiça acharam vossos pais em mim, para se afastarem de mim, indo após a vaidade, e tornando-se levianos?</p>\n<p><strong>6</strong> E não disseram: Onde está o Senhor, que nos fez subir da terra do Egito, que nos guiou através do deserto, por uma terra árida, e de covas, por uma terra de sequidão e sombra de morte, por uma terra pela qual ninguém transitava, e na qual não morava homem algum?</p>\n<p><strong>7</strong> E eu vos introduzi numa terra fértil, para comerdes o seu fruto e o seu bem; mas quando nela entrastes contaminastes a minha terra, e da minha herança fizestes uma abominação.</p>\n<p><strong>8</strong> Os sacerdotes não disseram: Onde está o Senhor? E os que tratavam da lei não me conheciam, e os pastores prevaricavam contra mim, e os profetas profetizavam por Baal, e andaram após o que é de nenhum proveito.</p>\n<p><strong>9</strong> Portanto ainda contenderei convosco, diz o Senhor; e até com os filhos de vossos filhos contenderei.</p>\n<p><strong>10</strong> Pois, passai às ilhas de Quitim, e vede; e enviai a Quedar, e atentai bem, e vede se jamais sucedeu coisa semelhante.</p>\n<p><strong>11</strong> Houve alguma nação que trocasse os seus deuses, ainda que não fossem deuses? Todavia o meu povo trocou a sua glória por aquilo que é de nenhum proveito.</p>\n<p><strong>12</strong> Espantai-vos disto, ó céus, e horrorizai-vos! Ficai verdadeiramente desolados, diz o Senhor.</p>\n<p><strong>13</strong> Porque o meu povo fez duas maldades: a mim me deixaram, o manancial de águas vivas, e cavaram cisternas, cisternas rotas, que não retêm águas.</p>\n<p><strong>14</strong> Acaso é Israel um servo? É ele um escravo nascido em casa? Por que, pois, veio a ser presa?</p>\n<p><strong>15</strong> Os filhos de leão rugiram sobre ele, levantaram a sua voz; e fizeram da sua terra uma desolação; as suas cidades se queimaram, e ninguém habita nelas.</p>\n<p><strong>16</strong> Até os filhos de Nofe e de Tafnes te quebraram o alto da cabeça.</p>\n<p><strong>17</strong> Porventura não fizeste isto a ti mesmo, deixando o Senhor teu Deus, no tempo em que ele te guiava pelo caminho?</p>\n<p><strong>18</strong> Agora, pois, que te importa a ti o caminho do Egito, para beberes as águas de Sior? E que te importa a ti o caminho da Assíria, para beberes as águas do rio?</p>\n<p><strong>19</strong> A tua malícia te castigará, e as tuas apostasias te repreenderão; sabe, pois, e vê, que mal e quão amargo é deixares ao Senhor teu Deus, e não teres em ti o meu temor, diz o Senhor Deus dos Exércitos.</p>\n<p><strong>20</strong> Quando eu já há muito quebrava o teu jugo, e rompia as tuas ataduras, dizias tu: Nunca mais transgredirei; contudo em todo o outeiro alto e debaixo de toda a árvore verde te andas encurvando e prostituindo-te .</p>\n<p><strong>21</strong> Eu mesmo te plantei como vide excelente, uma semente inteiramente fiel; como, pois, te tornaste para mim uma planta degenerada como vide estranha?</p>\n<p><strong>22</strong> Por isso, ainda que te laves com salitre, e amontoes sabão, a tua iniquidade está gravada diante de mim, diz o Senhor Deus.</p>\n<p><strong>23</strong> Como dizes logo: Não estou contaminada nem andei após os baalins? Vê o teu caminho no vale, conhece o que fizeste; dromedária ligeira és, que anda torcendo os seus caminhos.</p>\n<p><strong>24</strong> Jumenta montês, acostumada ao deserto, que, conforme o desejo da sua alma, sorve o vento, quem a deteria no seu cio? Todos os que a buscarem não se cansarão; no mês dela a acharão.</p>\n<p><strong>25</strong> Evita que o teu pé ande descalço, e a tua garganta tenha sede. Mas tu dizes: Não há esperança; porque amo os estranhos, após eles andarei.</p>\n<p><strong>26</strong> Como fica confundido o ladrão quando o apanham, assim se confundem os da casa de Israel; eles, os seus reis, os seus príncipes, e os seus sacerdotes, e os seus profetas,</p>\n<p><strong>27</strong> Que dizem ao pau: Tu és meu pai; e à pedra: Tu me geraste; porque me viraram as costas, e não o rosto; mas no tempo da sua angústia dirão: Levanta-te, e livra-nos.</p>\n<p><strong>28</strong> Onde, pois, estão os teus deuses, que fizeste para ti? Que se levantem, se te podem livrar no tempo da tua angústia; porque os teus deuses, ó Judá, são tão numerosos como as tuas cidades.</p>\n<p><strong>29</strong> Por que contendeis comigo? Todos vós transgredistes contra mim, diz o Senhor.</p>\n<p><strong>30</strong> Em vão castiguei os vossos filhos; eles não aceitaram a correção; a vossa espada devorou os vossos profetas como um leão destruidor.</p>\n<p><strong>31</strong> Oh geração! Considerai vós a palavra do Senhor: Porventura tenho eu sido para Israel um deserto? Ou uma terra da mais espessa escuridão? Por que, pois, diz o meu povo: Temos determinado; não viremos mais a ti?</p>\n<p><strong>32</strong> Porventura esquece-se a virgem dos seus enfeites, ou a noiva dos seus adornos? Todavia o meu povo se esqueceu de mim por inumeráveis dias.</p>\n<p><strong>33</strong> Por que ornamentas o teu caminho, para buscares o amor? Pois até às malignas ensinaste os teus caminhos.</p>\n<p><strong>34</strong> Até nas orlas dos teus vestidos se achou o sangue das almas dos inocentes e necessitados; não cavei para achar, pois se vê em todas estas coisas.</p>\n<p><strong>35</strong> E ainda dizes: Eu estou inocente; certamente a sua ira se desviou de mim. Eis que entrarei em juízo contigo, porquanto dizes: Não pequei.</p>\n<p><strong>36</strong> Por que te desvias tanto, mudando o teu caminho? Também do Egito serás envergonhada, como foste envergonhada da Assíria.</p>\n<p><strong>37</strong> Também daquele sairás com as mãos sobre a tua cabeça; porque o Senhor rejeitou a tua confiança, e não prosperarás com eles.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- Jeremias 1</a> | <a href=\"capitulo_3.md\">Jeremias 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "3": "<h1>Jeremias - Capítulo 3</h1>\n<p><strong>1</strong> Eles dizem: Se um homem despedir sua mulher, e ela o deixar, e se ajuntar a outro homem, porventura tornará ele outra vez para ela? Não se poluirá de todo aquela terra? Ora, tu te prostituíste com muitos amantes; mas ainda assim, torna para mim, diz o Senhor.</p>\n<p><strong>2</strong> Levanta os teus olhos aos altos, e vê: onde não te prostituíste? Nos caminhos te assentavas para eles, como o árabe no deserto; assim poluíste a terra com as tuas fornicações e com a tua malícia.</p>\n<p><strong>3</strong> Por isso foram retiradas as chuvas, e não houve chuva serôdia; mas tu tens a fronte de uma prostituta, e não queres ter vergonha.</p>\n<p><strong>4</strong> Ao menos desde agora não chamarás por mim, dizendo: Pai meu, tu és o guia da minha mocidade?</p>\n<p><strong>5</strong> Conservará ele para sempre a sua ira? Ou a guardará continuamente? Eis que tens falado e feito quantas maldades pudeste.</p>\n<p><strong>6</strong> Disse mais o Senhor nos dias do rei Josias: Viste o que fez a rebelde Israel? Ela foi a todo o monte alto, e debaixo de toda a árvore verde, e ali andou prostituindo-se.</p>\n<p><strong>7</strong> E eu disse: Depois que fizer tudo isto, voltará para mim; mas não voltou; e viu isto a sua aleivosa irmã Judá.</p>\n<p><strong>8</strong> E vi que, por causa de tudo isto, por ter cometido adultério a rebelde Israel, a despedi, e lhe dei a sua carta de divórcio, que a aleivosa Judá, sua irmã, não temeu; mas se foi e também ela mesma se prostituiu.</p>\n<p><strong>9</strong> E sucedeu que pela fama da sua prostituição, contaminou a terra; porque adulterou com a pedra e com a madeira.</p>\n<p><strong>10</strong> E, contudo, apesar de tudo isso a sua aleivosa irmã Judá não voltou para mim de todo o seu coração, mas falsamente, diz o Senhor.</p>\n<p><strong>11</strong> E o Senhor me disse: Já a rebelde Israel mostrou-se mais justa do que a aleivosa Judá.</p>\n<p><strong>12</strong> Vai, pois, e apregoa estas palavras para o lado norte, e dize: Volta, ó rebelde Israel, diz o Senhor, e não farei cair a minha ira sobre ti; porque misericordioso sou, diz o Senhor, e não conservarei para sempre a minha ira.</p>\n<p><strong>13</strong> Somente reconhece a tua iniquidade, que transgrediste contra o Senhor teu Deus; e estendeste os teus caminhos aos estranhos, debaixo de toda a árvore verde, e não deste ouvidos à minha voz, diz o Senhor.</p>\n<p><strong>14</strong> Convertei-vos, ó filhos rebeldes, diz o Senhor; pois eu vos desposei; e vos tomarei, a um de uma cidade, e a dois de uma família; e vos levarei a Sião.</p>\n<p><strong>15</strong> E dar-vos-ei pastores segundo o meu coração, os quais vos apascentarão com conhecimento e com inteligência.</p>\n<p><strong>16</strong> E sucederá que, quando vos multiplicardes e frutificardes na terra, naqueles dias, diz o Senhor, nunca mais se dirá: A arca da aliança do Senhor, nem lhes virá ao coração; nem dela se lembrarão, nem a visitarão; nem se fará outra.</p>\n<p><strong>17</strong> Naquele tempo chamarão a Jerusalém o trono do Senhor, e todas as nações se ajuntarão a ela, em nome do Senhor, em Jerusalém; e nunca mais andarão segundo o propósito do seu coração maligno.</p>\n<p><strong>18</strong> Naqueles dias andará a casa de Judá com a casa de Israel; e virão juntas da terra do norte, para a terra que dei em herança a vossos pais.</p>\n<p><strong>19</strong> Mas eu dizia: Como te porei entre os filhos, e te darei a terra desejável, a excelente herança dos exércitos das nações? Mas eu disse: Tu me chamarás meu pai, e de mim não te desviarás.</p>\n<p><strong>20</strong> Deveras, como a mulher se aparta aleivosamente do seu marido, assim aleivosamente te houveste comigo, ó casa de Israel, diz o Senhor.</p>\n<p><strong>21</strong> Nos lugares altos se ouviu uma voz, pranto e súplicas dos filhos de Israel; porquanto perverteram o seu caminho, e se esqueceram do Senhor seu Deus.</p>\n<p><strong>22</strong> Voltai, ó filhos rebeldes, eu curarei as vossas rebeliões. Eis-nos aqui, vimos a ti; porque tu és o Senhor nosso Deus.</p>\n<p><strong>23</strong> Certamente em vão se confia nos outeiros e na multidão das montanhas; deveras no Senhor nosso Deus está a salvação de Israel.</p>\n<p><strong>24</strong> Porque a confusão devorou o trabalho de nossos pais desde a nossa mocidade; as suas ovelhas e o seu gado, os seus filhos e as suas filhas.</p>\n<p><strong>25</strong> Deitemo-nos em nossa vergonha; e cubra-nos a nossa confusão, porque pecamos contra o Senhor nosso Deus, nós e nossos pais, desde a nossa mocidade até o dia de hoje; e não demos ouvidos à voz do Senhor nosso Deus.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- Jeremias 2</a> | <a href=\"capitulo_4.md\">Jeremias 4 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "4": "<h1>Jeremias - Capítulo 4</h1>\n<p><strong>1</strong> Se voltares, ó Israel, diz o Senhor, volta para mim; e se tirares as tuas abominações de diante de mim, não andarás mais vagueando,</p>\n<p><strong>2</strong> E jurarás: Vive o Senhor na verdade, no juízo e na justiça; e nele se bendirão as nações, e nele se gloriarão.</p>\n<p><strong>3</strong> Porque assim diz o Senhor aos homens de Judá e a Jerusalém: Preparai para vós o campo de lavoura, e não semeeis entre espinhos.</p>\n<p><strong>4</strong> Circuncidai-vos ao Senhor, e tirai os prepúcios do vosso coração, ó homens de Judá e habitantes de Jerusalém, para que o meu furor não venha a sair como fogo, e arda de modo que não haja quem o apague, por causa da malícia das vossas obras.</p>\n<p><strong>5</strong> Anunciai em Judá, e fazei ouvir em Jerusalém, e dizei: Tocai a trombeta na terra, gritai em alta voz, dizendo: Ajuntai-vos, e entremos nas cidades fortificadas.</p>\n<p><strong>6</strong> Arvorai a bandeira rumo a Sião, fugi, não vos detenhais; porque eu trago do norte um mal, e uma grande destruição.</p>\n<p><strong>7</strong> Já um leão subiu da sua ramada, e um destruidor dos gentios; ele já partiu, e saiu do seu lugar para fazer da tua terra uma desolação, a fim de que as tuas cidades sejam destruídas, e ninguém habite nelas.</p>\n<p><strong>8</strong> Por isto cingi-vos de sacos, lamentai, e uivai, porque o ardor da ira do Senhor não se desviou de nós.</p>\n<p><strong>9</strong> E sucederá naquele tempo, diz o Senhor, que se desfará o coração do rei e o coração dos príncipes; e os sacerdotes pasmarão, e os profetas se maravilharão.</p>\n<p><strong>10</strong> Então disse eu: Ah, Senhor Deus! Verdadeiramente enganaste grandemente a este povo e a Jerusalém, dizendo: Tereis paz; pois a espada penetra-lhe até à alma.</p>\n<p><strong>11</strong> Naquele tempo se dirá a este povo e a Jerusalém: Um vento seco das alturas do deserto veio ao caminho da filha do meu povo; não para padejar, nem para limpar;</p>\n<p><strong>12</strong> Mas um vento mais veemente virá da minha parte; agora também eu pronunciarei juízos contra eles.</p>\n<p><strong>13</strong> Eis que virá subindo como nuvens e os seus carros como a tormenta; os seus cavalos serão mais ligeiros do que as águias; ai de nós, que somos assolados!</p>\n<p><strong>14</strong> Lava o teu coração da malícia, ó Jerusalém, para que sejas salva; até quando permanecerão no meio de ti os pensamentos da tua iniquidade?</p>\n<p><strong>15</strong> Porque uma voz anuncia desde Dã, e faz ouvir a calamidade desde o monte de Efraim.</p>\n<p><strong>16</strong> Lembrai isto às nações; fazei ouvir contra Jerusalém, que vigias vêm de uma terra remota, e levantarão a sua voz contra as cidades de Judá.</p>\n<p><strong>17</strong> Como os guardas de um campo, estão contra ela ao redor; porquanto ela se rebelou contra mim, diz o Senhor.</p>\n<p><strong>18</strong> O teu caminho e as tuas obras te fizeram estas coisas; esta é a tua maldade, e amargosa é, que te chega até ao coração.</p>\n<p><strong>19</strong> Ah, entranhas minhas, entranhas minhas! Estou com dores no meu coração! O meu coração se agita em mim. Não posso me calar; porque tu, ó minha alma, ouviste o som da trombeta e o alarido da guerra.</p>\n<p><strong>20</strong> Destruição sobre destruição se apregoa; porque já toda a terra está destruída; de repente foram destruídas as minhas tendas, e as minhas cortinas num momento.</p>\n<p><strong>21</strong> Até quando verei a bandeira, e ouvirei a voz da trombeta?</p>\n<p><strong>22</strong> Deveras o meu povo está louco, já não me conhece; são filhos néscios, e não entendidos; são sábios para fazer mal, mas não sabem fazer o bem.</p>\n<p><strong>23</strong> Observei a terra, e eis que era sem forma e vazia; também os céus, e não tinham a sua luz.</p>\n<p><strong>24</strong> Observei os montes, e eis que estavam tremendo; e todos os outeiros estremeciam.</p>\n<p><strong>25</strong> Observei, e eis que não havia homem algum; e todas as aves do céu tinham fugido.</p>\n<p><strong>26</strong> Vi também que a terra fértil era um deserto; e todas as suas cidades estavam derrubadas diante do Senhor, diante do furor da sua ira.</p>\n<p><strong>27</strong> Porque assim diz o Senhor: Toda esta terra será assolada; de todo, porém, não a consumirei.</p>\n<p><strong>28</strong> Por isto lamentará a terra, e os céus em cima se enegrecerão; porquanto assim o disse, assim o propus, e não me arrependi nem me desviarei disso.</p>\n<p><strong>29</strong> Ao clamor dos cavaleiros e dos flecheiros fugiram todas as cidades; entraram pelas matas e treparam pelos penhascos; todas as cidades ficaram abandonadas, e já ninguém habita nelas.</p>\n<p><strong>30</strong> Agora, pois, que farás, ó assolada? Ainda que te vistas de carmesim, ainda que te adornes com enfeites de ouro, ainda que te pintes em volta dos teus olhos, em vão te farias bela; os amantes te desprezam, e procuram tirar-te a vida.</p>\n<p><strong>31</strong> Porquanto ouço uma voz, como a de uma mulher que está de parto, uma angústia como a de que está com dores de parto do primeiro filho; a voz da filha de Sião, ofegante, que estende as suas mãos, dizendo: Oh! Ai de mim agora, porque já a minha alma desmaia por causa dos assassinos.</p>\n<hr>\n<p><a href=\"capitulo_3.md\">&lt;- Jeremias 3</a> | <a href=\"capitulo_5.md\">Jeremias 5 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "5": "<h1>Jeremias - Capítulo 5</h1>\n<p><strong>1</strong> Dai voltas às ruas de Jerusalém, e vede agora; e informai-vos, e buscai pelas suas praças, a ver se achais alguém, ou se há homem que pratique a justiça ou busque a verdade; e eu lhe perdoarei.</p>\n<p><strong>2</strong> E ainda que digam: Vive o Senhor, decerto falsamente juram.</p>\n<p><strong>3</strong> Ah Senhor, porventura não atentam os teus olhos para a verdade? Feriste-os, e não lhes doeu; consumiste-os, e não quiseram receber a correção; endureceram as suas faces mais do que uma rocha; não quiseram voltar.</p>\n<p><strong>4</strong> Eu, porém, disse: Deveras estes são pobres; são loucos, pois não sabem o caminho do Senhor, nem o juízo do seu Deus.</p>\n<p><strong>5</strong> Irei aos grandes, e falarei com eles; porque eles sabem o caminho do Senhor, o juízo do seu Deus; mas estes juntamente quebraram o jugo, e romperam as ataduras.</p>\n<p><strong>6</strong> Por isso um leão do bosque os feriu, um lobo dos desertos os assolará; um leopardo vigia contra as suas cidades; qualquer que sair delas será despedaçado; porque as suas transgressões se avolumam, multiplicaram-se as suas apostasias.</p>\n<p><strong>7</strong> Como, vendo isto, te perdoaria? Teus filhos me deixam a mim e juram pelos que não são deuses; quando os fartei, então adulteraram, e em casa de meretrizes se ajuntaram em bandos.</p>\n<p><strong>8</strong> Como cavalos bem fartos, levantam-se pela manhã, rinchando cada um à mulher do seu próximo.</p>\n<p><strong>9</strong> Deixaria eu de castigar por estas coisas, diz o Senhor, ou não se vingaria a minha alma de uma nação como esta?</p>\n<p><strong>10</strong> Subi aos seus muros, e destruí-os (porém não façais uma destruição final); tirai os seus ramos, porque não são do Senhor.</p>\n<p><strong>11</strong> Porque aleivosissimamente se houveram contra mim a casa de Israel e a casa de Judá, diz o Senhor.</p>\n<p><strong>12</strong> Negaram ao Senhor, e disseram: Não é ele; nem mal nos sobrevirá, nem veremos espada nem fome.</p>\n<p><strong>13</strong> E até os profetas serão como vento, porque a palavra não está com eles; assim se lhes sucederá.</p>\n<p><strong>14</strong> Portanto assim diz o Senhor Deus dos Exércitos: Porquanto disseste tal palavra, eis que converterei as minhas palavras na tua boca em fogo, e a este povo em lenha, eles serão consumidos.</p>\n<p><strong>15</strong> Eis que trarei sobre vós uma nação de longe, ó casa de Israel, diz o Senhor; é uma nação robusta, é uma nação antiquíssima, uma nação cuja língua ignorarás, e não entenderás o que ela falar.</p>\n<p><strong>16</strong> A sua aljava é como uma sepultura aberta; todos eles são poderosos.</p>\n<p><strong>17</strong> E comerão a tua sega e o teu pão, que teus filhos e tuas filhas haviam de comer; comerão as tuas ovelhas e as tuas vacas; comerão a tua vide e a tua figueira; as tuas cidades fortificadas, em que confiavas, abatê-las-ão à espada.</p>\n<p><strong>18</strong> Contudo, ainda naqueles dias, diz o Senhor, não farei de vós uma destruição final.</p>\n<p><strong>19</strong> E sucederá que, quando disserdes: Por que nos fez o Senhor nosso Deus todas estas coisas? Então lhes dirás: Como vós me deixastes, e servistes a deuses estranhos na vossa terra, assim servireis a estrangeiros, em terra que não é vossa.</p>\n<p><strong>20</strong> Anunciai isto na casa de Jacó, e fazei-o ouvir em Judá, dizendo:</p>\n<p><strong>21</strong> Ouvi agora isto, ó povo insensato, e sem coração, que tendes olhos e não vedes, que tendes ouvidos e não ouvis.</p>\n<p><strong>22</strong> Porventura não me temereis a mim? Diz o Senhor; não temereis diante de mim, que pus a areia por limite ao mar, por ordenança eterna, que ele não traspassará? Ainda que se levantem as suas ondas, não prevalecerão; ainda que bramem, não a traspassarão.</p>\n<p><strong>23</strong> Mas este povo é de coração rebelde e pertinaz: rebelaram-se e foram-se.</p>\n<p><strong>24</strong> E não dizem no seu coração: Temamos agora ao Senhor nosso Deus, que dá chuva, a temporã e a tardia, ao seu tempo; e nos conserva as semanas determinadas da sega.</p>\n<p><strong>25</strong> As vossas iniquidades desviam estas coisas, e os vossos pecados apartam de vós o bem.</p>\n<p><strong>26</strong> Porque ímpios se acham entre o meu povo; andam espiando, como quem arma laços; põem armadilhas, com que prendem os homens.</p>\n<p><strong>27</strong> Como uma gaiola está cheia de pássaros, assim as suas casas estão cheias de engano; por isso se engrandeceram, e enriqueceram;</p>\n<p><strong>28</strong> Engordam-se, estão nédios, e ultrapassam até os feitos dos malignos; não julgam a causa do órfão; todavia prosperam; nem julgam o direito dos necessitados.</p>\n<p><strong>29</strong> Porventura não castigaria eu por causa destas coisas? Diz o Senhor; não me vingaria eu de uma nação como esta?</p>\n<p><strong>30</strong> Coisa espantosa e horrenda se anda fazendo na terra.</p>\n<p><strong>31</strong> Os profetas profetizam falsamente, e os sacerdotes dominam pelas mãos deles, e o meu povo assim o deseja; mas que fareis ao fim disto?</p>\n<hr>\n<p><a href=\"capitulo_4.md\">&lt;- Jeremias 4</a> | <a href=\"capitulo_6.md\">Jeremias 6 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "6": "<h1>Jeremias - Capítulo 6</h1>\n<p><strong>1</strong> Fugi para salvação vossa, filhos de Benjamim, do meio de Jerusalém; e tocai a trombeta em Tecoa, e levantai um sinal de fogo sobre Bete-Haquerém; porque do lado norte surge um mal e uma grande destruição.</p>\n<p><strong>2</strong> À formosa e delicada assemelhei a filha de Sião.</p>\n<p><strong>3</strong> Mas contra ela virão pastores com os seus rebanhos; levantarão contra ela tendas em redor, e cada um apascentará no seu lugar.</p>\n<p><strong>4</strong> Preparai a guerra contra ela, levantai-vos, e subamos ao pino do meio-dia. Ai de nós! Já declina o dia, já se vão estendendo as sombras da tarde.</p>\n<p><strong>5</strong> Levantai-vos, e subamos de noite, e destruamos os seus palácios.</p>\n<p><strong>6</strong> Porque assim diz o Senhor dos Exércitos: Cortai árvores, e levantai trincheiras contra Jerusalém; esta é a cidade que há de ser castigada, só opressão há no meio dela.</p>\n<p><strong>7</strong> Como a fonte produz as suas águas, assim ela produz a sua malícia; violência e estrago se ouvem nela; enfermidade e feridas há diante de mim continuamente.</p>\n<p><strong>8</strong> Corrige-te, ó Jerusalém, para que a minha alma não se aparte de ti, para que não te torne em assolação e terra não habitada.</p>\n<p><strong>9</strong> Assim diz o Senhor dos Exércitos: Diligentemente respigarão os resíduos de Israel como uma vinha; torna a tua mão, como o vindimador, aos cestos.</p>\n<p><strong>10</strong> A quem falarei e testemunharei, para que ouça? Eis que os seus ouvidos estão incircuncisos, e não podem ouvir; eis que a palavra do Senhor é para eles coisa vergonhosa, e não gostam dela.</p>\n<p><strong>11</strong> Por isso estou cheio do furor do Senhor; estou cansado de o conter; derramá-lo-ei sobre os meninos pelas ruas e na reunião de todos os jovens; porque até o marido com a mulher serão presos, e o velho com o que está cheio de dias.</p>\n<p><strong>12</strong> E as suas casas passarão a outros, como também as suas herdades e as suas mulheres juntamente; porque estenderei a minha mão contra os habitantes desta terra, diz o Senhor.</p>\n<p><strong>13</strong> Porque desde o menor deles até ao maior, cada um se dá à avareza; e desde o profeta até ao sacerdote, cada um usa de falsidade.</p>\n<p><strong>14</strong> E curam superficialmente a ferida da filha do meu povo, dizendo: Paz, paz; quando não há paz.</p>\n<p><strong>15</strong> Porventura envergonham-se de cometer abominação? Pelo contrário, de maneira nenhuma se envergonham, nem tampouco sabem que coisa é envergonhar-se; portanto cairão entre os que caem; no tempo em que eu os visitar, tropeçarão, diz o Senhor.</p>\n<p><strong>16</strong> Assim diz o Senhor: Ponde-vos nos caminhos, e vede, e perguntai pelas veredas antigas, qual é o bom caminho, e andai por ele; e achareis descanso para as vossas almas; mas eles dizem: Não andaremos nele.</p>\n<p><strong>17</strong> Também pus atalaias sobre vós, dizendo: Estai atentos ao som da trombeta; mas dizem: Não escutaremos.</p>\n<p><strong>18</strong> Portanto ouvi, vós, nações; e informa-te tu, ó congregação, do que se faz entre eles!</p>\n<p><strong>19</strong> Ouve tu, ó terra! Eis que eu trarei mal sobre este povo, o próprio fruto dos seus pensamentos; porque não estão atentos às minhas palavras, e rejeitam a minha lei.</p>\n<p><strong>20</strong> Para que, pois, me vem o incenso de Sabá e a melhor cana aromática de terras remotas? Vossos holocaustos não me agradam, nem me são suaves os vossos sacrifícios.</p>\n<p><strong>21</strong> Portanto assim diz o Senhor: Eis que armarei tropeços a este povo; e tropeçarão neles pais e filhos juntamente; o vizinho e o seu companheiro perecerão.</p>\n<p><strong>22</strong> Assim diz o Senhor: Eis que um povo vem da terra do norte, e uma grande nação se levantará das extremidades da terra.</p>\n<p><strong>23</strong> Arco e lança trarão; são cruéis, e não usarão de misericórdia; a sua voz rugirá como o mar, e em cavalos virão montados, dispostos como homens de guerra contra ti, ó filha de Sião.</p>\n<p><strong>24</strong> Ouvimos a sua fama, afrouxaram-se as nossas mãos; angústia nos tomou, e dores como as de parturiente.</p>\n<p><strong>25</strong> Não saiais ao campo, nem andeis pelo caminho; porque espada do inimigo e espanto há ao redor.</p>\n<p><strong>26</strong> Ó filha do meu povo, cinge-te de saco, e revolve-te na cinza; pranteia como por um filho único, pranto de amargura; porque de repente virá o destruidor sobre nós.</p>\n<p><strong>27</strong> Por torre de guarda te pus entre o meu povo, por fortaleza, para que soubesses e examinasses o seu caminho.</p>\n<p><strong>28</strong> Todos eles são os mais rebeldes, andam murmurando; são duros como bronze e ferro; todos eles são corruptores.</p>\n<p><strong>29</strong> Já o fole se queimou, o chumbo se consumiu com o fogo; em vão fundiu o fundidor tão diligentemente, pois os maus não são arrancados.</p>\n<p><strong>30</strong> Prata rejeitada lhes chamarão, porque o Senhor os rejeitou.</p>\n<hr>\n<p><a href=\"capitulo_5.md\">&lt;- Jeremias 5</a> | <a href=\"capitulo_7.md\">Jeremias 7 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "7": "<h1>Jeremias - Capítulo 7</h1>\n<p><strong>1</strong> A palavra que da parte do Senhor, veio a Jeremias, dizendo:</p>\n<p><strong>2</strong> Põe-te à porta da casa do Senhor, e proclama ali esta palavra, e dize: Ouvi a palavra do Senhor, todos de Judá, os que entrais por estas portas, para adorardes ao Senhor.</p>\n<p><strong>3</strong> Assim diz o Senhor dos Exércitos, o Deus de Israel: Melhorai os vossos caminhos e as vossas obras, e vos farei habitar neste lugar.</p>\n<p><strong>4</strong> Não vos fieis em palavras falsas, dizendo: Templo do Senhor, templo do Senhor, templo do Senhor é este.</p>\n<p><strong>5</strong> Mas, se deveras melhorardes os vossos caminhos e as vossas obras; se deveras praticardes o juízo entre um homem e o seu próximo;</p>\n<p><strong>6</strong> Se não oprimirdes o estrangeiro, e o órfão, e a viúva, nem derramardes sangue inocente neste lugar, nem andardes após outros deuses para vosso próprio mal,</p>\n<p><strong>7</strong> Eu vos farei habitar neste lugar, na terra que dei a vossos pais, desde os tempos antigos e para sempre.</p>\n<p><strong>8</strong> Eis que vós confiais em palavras falsas, que para nada vos aproveitam.</p>\n<p><strong>9</strong> Porventura furtareis, e matareis, e adulterareis, e jurareis falsamente, e queimareis incenso a Baal, e andareis após outros deuses que não conhecestes,</p>\n<p><strong>10</strong> E então vireis, e vos poreis diante de mim nesta casa, que se chama pelo meu nome, e direis: Fomos libertados para fazermos todas estas abominações?</p>\n<p><strong>11</strong> É pois esta casa, que se chama pelo meu nome, uma caverna de salteadores aos vossos olhos? Eis que eu, eu mesmo, vi isto, diz o Senhor.</p>\n<p><strong>12</strong> Mas ide agora ao meu lugar, que estava em Siló, onde, ao princípio, fiz habitar o meu nome, e vede o que lhe fiz, por causa da maldade do meu povo Israel.</p>\n<p><strong>13</strong> Agora, pois, porquanto fazeis todas estas obras, diz o Senhor, e eu vos falei, madrugando, e falando, e não ouvistes, e chamei-vos, e não respondestes,</p>\n<p><strong>14</strong> Farei também a esta casa, que se chama pelo meu nome, na qual confiais, e a este lugar, que vos dei a vós e a vossos pais, como fiz a Siló.</p>\n<p><strong>15</strong> E lançar-vos-ei de diante de minha face, como lancei a todos os vossos irmãos, a toda a geração de Efraim.</p>\n<p><strong>16</strong> Tu, pois, não ores por este povo, nem levantes por ele clamor ou oração, nem me supliques, porque eu não te ouvirei.</p>\n<p><strong>17</strong> Porventura não vês tu o que andam fazendo nas cidades de Judá, e nas ruas de Jerusalém?</p>\n<p><strong>18</strong> Os filhos apanham a lenha, e os pais acendem o fogo, e as mulheres preparam a massa, para fazerem bolos à rainha dos céus, e oferecem libações a outros deuses, para me provocarem à ira.</p>\n<p><strong>19</strong> Acaso é a mim que eles provocam à ira? Diz o Senhor, e não a si mesmos, para confusão dos seus rostos?</p>\n<p><strong>20</strong> Portanto assim diz o Senhor Deus: Eis que a minha ira e o meu furor se derramarão sobre este lugar, sobre os homens e sobre os animais, e sobre as árvores do campo, e sobre os frutos da terra; e acender-se-á, e não se apagará.</p>\n<p><strong>21</strong> Assim diz o Senhor dos Exércitos, o Deus de Israel: Ajuntai os vossos holocaustos aos vossos sacrifícios, e comei carne.</p>\n<p><strong>22</strong> Porque nunca falei a vossos pais, no dia em que os tirei da terra do Egito, nem lhes ordenei coisa alguma acerca de holocaustos ou sacrifícios.</p>\n<p><strong>23</strong> Mas isto lhes ordenei, dizendo: Dai ouvidos à minha voz, e eu serei o vosso Deus, e vós sereis o meu povo; e andai em todo o caminho que eu vos mandar, para que vos vá bem.</p>\n<p><strong>24</strong> Mas não ouviram, nem inclinaram os seus ouvidos, mas andaram nos seus próprios conselhos, no propósito do seu coração malvado; e andaram para trás, e não para diante.</p>\n<p><strong>25</strong> Desde o dia em que vossos pais saíram da terra do Egito, até hoje, enviei-vos todos os meus servos, os profetas, todos os dias madrugando e enviando-os.</p>\n<p><strong>26</strong> Mas não me deram ouvidos, nem inclinaram os seus ouvidos, mas endureceram a sua cerviz, e fizeram pior do que seus pais.</p>\n<p><strong>27</strong> Dir-lhes-ás, pois, todas estas palavras, mas não te darão ouvidos; chamá-los-ás, mas não te responderão.</p>\n<p><strong>28</strong> E lhes dirás: Esta é a nação que não deu ouvidos à voz do Senhor seu Deus e não aceitou a correção; já pereceu a verdade, e foi cortada da sua boca.</p>\n<p><strong>29</strong> Corta o teu cabelo e lança-o de ti, e levanta um pranto sobre as alturas; porque já o Senhor rejeitou e desamparou a geração do seu furor.</p>\n<p><strong>30</strong> Porque os filhos de Judá fizeram o que era mau aos meus olhos, diz o Senhor; puseram as suas abominações na casa que se chama pelo meu nome, para contaminá-la.</p>\n<p><strong>31</strong> E edificaram os altos de Tofete, que está no Vale do Filho de Hinom, para queimarem no fogo a seus filhos e a suas filhas, o que nunca ordenei, nem me subiu ao coração.</p>\n<p><strong>32</strong> Portanto, eis que vêm dias, diz o Senhor, em que não se chamará mais Tofete, nem Vale do Filho de Hinom, mas o Vale da Matança; e enterrarão em Tofete, por não haver outro lugar.</p>\n<p><strong>33</strong> E os cadáveres deste povo servirão de pasto às aves dos céus e aos animais da terra; e ninguém os espantará.</p>\n<p><strong>34</strong> E farei cessar nas cidades de Judá, e nas ruas de Jerusalém, a voz de gozo, e a voz de alegria, a voz de esposo e a voz de esposa; porque a terra se tornará em desolação.</p>\n<hr>\n<p><a href=\"capitulo_6.md\">&lt;- Jeremias 6</a> | <a href=\"capitulo_8.md\">Jeremias 8 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "8": "<h1>Jeremias - Capítulo 8</h1>\n<p><strong>1</strong> Naquele tempo, diz o Senhor, tirarão para fora das suas sepulturas os ossos dos reis de Judá, e os ossos dos seus príncipes, e os ossos dos sacerdotes, e os ossos dos profetas, e os ossos dos habitantes de Jerusalém;</p>\n<p><strong>2</strong> E expô-los-ão ao sol, e à lua, e a todo o exército do céu, a quem tinham amado, e a quem tinham servido, e após quem tinham ido, e a quem tinham buscado e diante de quem se tinham prostrado; não serão recolhidos nem sepultados; serão como esterco sobre a face da terra.</p>\n<p><strong>3</strong> E será escolhida antes a morte do que a vida por todos os que restarem desta raça maligna, que ficarem em todos os lugares onde os lancei, diz o Senhor dos Exércitos.</p>\n<p><strong>4</strong> Dize-lhes mais: Assim diz o Senhor: Porventura cairão e não se tornarão a levantar? Desviar-se-ão, e não voltarão?</p>\n<p><strong>5</strong> Por que, pois, se desvia este povo de Jerusalém com uma apostasia tão contínua? Persiste no engano, não quer voltar.</p>\n<p><strong>6</strong> Eu escutei e ouvi; não falam o que é reto, ninguém há que se arrependa da sua maldade, dizendo: Que fiz eu? Cada um se desvia na sua carreira, como um cavalo que arremete com ímpeto na batalha.</p>\n<p><strong>7</strong> Até a cegonha no céu conhece os seus tempos determinados; e a rola, e o grou e a andorinha observam o tempo da sua arribação; mas o meu povo não conhece o juízo do Senhor.</p>\n<p><strong>8</strong> Como, pois, dizeis: Nós somos sábios, e a lei do Senhor está conosco? Eis que em vão tem trabalhado a falsa pena dos escribas.</p>\n<p><strong>9</strong> Os sábios são envergonhados, espantados e presos; eis que rejeitaram a palavra do Senhor; que sabedoria, pois, têm eles?</p>\n<p><strong>10</strong> Portanto darei suas mulheres a outros, e os seus campos a novos possuidores; porque desde o menor até ao maior, cada um deles se dá à avareza; desde o profeta até ao sacerdote, cada um deles usa de falsidade.</p>\n<p><strong>11</strong> E curam a ferida da filha de meu povo levianamente, dizendo: Paz, paz; quando não há paz.</p>\n<p><strong>12</strong> Porventura envergonham-se de cometerem abominação? Não; de maneira nenhuma se envergonham, nem sabem que coisa é envergonhar-se; portanto cairão entre os que caem e tropeçarão no tempo em que eu os visitar, diz o Senhor.</p>\n<p><strong>13</strong> Certamente os apanharei, diz o Senhor; já não há uvas na vide, nem figos na figueira, e até a folha caiu; e o que lhes dei passará deles.</p>\n<p><strong>14</strong> Por que nos assentamos ainda? Juntai-vos e entremos nas cidades fortificadas, e ali pereçamos; pois já o Senhor nosso Deus nos destinou a perecer e nos deu a beber água de fel; porquanto pecamos contra o Senhor.</p>\n<p><strong>15</strong> Espera-se a paz, mas não há bem; o tempo da cura, e eis o terror.</p>\n<p><strong>16</strong> Já desde Dã se ouve o resfolegar dos seus cavalos, toda a terra treme ao som dos rinchos dos seus fortes; e vêm, e devoram a terra, e sua abundância, a cidade e os que habitam nela.</p>\n<p><strong>17</strong> Porque eis que envio entre vós serpentes e basiliscos, contra os quais não há encantamento, e vos morderão, diz o Senhor.</p>\n<p><strong>18</strong> Oh! Se eu pudesse consolar-me na minha tristeza! O meu coração desfalece em mim.</p>\n<p><strong>19</strong> Eis a voz do clamor da filha do meu povo de terra mui remota; não está o Senhor em Sião? Não está nela o seu rei? Por que me provocaram à ira com as suas imagens de escultura, com vaidades estranhas?</p>\n<p><strong>20</strong> Passou a sega, findou o verão, e nós não estamos salvos.</p>\n<p><strong>21</strong> Estou quebrantado pela ferida da filha do meu povo; ando de luto; o espanto se apoderou de mim.</p>\n<p><strong>22</strong> Porventura não há bálsamo em Gileade? Ou não há lá médico? Por que, pois, não se realizou a cura da filha do meu povo?</p>\n<hr>\n<p><a href=\"capitulo_7.md\">&lt;- Jeremias 7</a> | <a href=\"capitulo_9.md\">Jeremias 9 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "9": "<h1>Jeremias - Capítulo 9</h1>\n<p><strong>1</strong> Oh! Se a minha cabeça se tornasse em águas, e os meus olhos numa fonte de lágrimas! Então choraria de dia e de noite os mortos da filha do meu povo.</p>\n<p><strong>2</strong> Oh! Se tivesse no deserto uma estalagem de caminhantes! Então deixaria o meu povo, e me apartaria dele, porque todos eles são adúlteros, um bando de aleivosos.</p>\n<p><strong>3</strong> E encurvam a língua como se fosse o seu arco, para a mentira; fortalecem-se na terra, mas não para a verdade; porque avançam de malícia em malícia, e a mim não me conhecem, diz o Senhor.</p>\n<p><strong>4</strong> Guardai-vos cada um do seu próximo, e de irmão nenhum vos fieis; porque todo o irmão não faz mais do que enganar, e todo o próximo anda caluniando.</p>\n<p><strong>5</strong> E zombará cada um do seu próximo, e não falam a verdade; ensinam a sua língua a falar a mentira, andam-se cansando em proceder perversamente.</p>\n<p><strong>6</strong> A tua habitação está no meio do engano; pelo engano recusam conhecer-me, diz o Senhor.</p>\n<p><strong>7</strong> Portanto assim diz o Senhor dos Exércitos: Eis que eu os fundirei e os provarei; pois, de que outra maneira procederia com a filha do meu povo?</p>\n<p><strong>8</strong> Uma flecha mortífera é a língua deles; fala engano; com a sua boca fala cada um de paz com o seu próximo mas no seu coração arma-lhe ciladas.</p>\n<p><strong>9</strong> Porventura por estas coisas não os castigaria? Diz o Senhor; ou não se vingaria a minha alma de nação tal como esta?</p>\n<p><strong>10</strong> Pelos montes levantarei choro e pranto, e pelas pastagens do deserto lamentação; porque já estão queimadas, e ninguém passa por elas; nem se ouve mugido de gado; desde as aves dos céus, até os animais, andaram vagueando, e fugiram.</p>\n<p><strong>11</strong> E farei de Jerusalém montões de pedras, morada de chacais, e das cidades de Judá farei assolação, de sorte que não haja habitante.</p>\n<p><strong>12</strong> Quem é o homem sábio, que entenda isto? E a quem falou a boca do Senhor, para que o possa anunciar? Por que razão pereceu a terra, e se queimou como deserto, sem que ninguém passa por ela?</p>\n<p><strong>13</strong> E disse o Senhor: Porque deixaram a minha lei, que pus perante eles, e não deram ouvidos à minha voz, nem andaram nela,</p>\n<p><strong>14</strong> Antes andaram após o propósito do seu próprio coração, e após os baalins, como lhes ensinaram os seus pais.</p>\n<p><strong>15</strong> Portanto assim diz o Senhor dos Exércitos, Deus de Israel: Eis que darei de comer losna a este povo, e lhe darei a beber água de fel.</p>\n<p><strong>16</strong> E os espalharei entre gentios, que não conheceram, nem eles nem seus pais, e mandarei a espada após eles, até que venha a consumi-los.</p>\n<p><strong>17</strong> Assim diz o Senhor dos Exércitos: Considerai, e chamai carpideiras que venham; e mandai procurar mulheres hábeis, para que venham.</p>\n<p><strong>18</strong> E se apressem, e levantem o seu lamento sobre nós; e desfaçam-se em lágrimas os nossos olhos, e as nossas pálpebras destilem águas.</p>\n<p><strong>19</strong> Porque uma voz de pranto se ouviu de Sião: Como estamos arruinados! Estamos mui envergonhados, porque deixamos a terra, e por terem eles lançado fora as nossas moradas.</p>\n<p><strong>20</strong> Ouvi, pois, vós, mulheres, a palavra do Senhor, e os vossos ouvidos recebam a palavra da sua boca; e ensinai o pranto a vossas filhas, e cada uma à sua vizinha a lamentação;</p>\n<p><strong>21</strong> Porque a morte subiu pelas nossas janelas, e entrou em nossos palácios, para exterminar as crianças das ruas e os jovens das praças.</p>\n<p><strong>22</strong> Fala: Assim diz o Senhor: Até os cadáveres dos homens jazerão como esterco sobre a face do campo, e como gavela atrás do segador, e não há quem a recolha.</p>\n<p><strong>23</strong> Assim diz o Senhor: Não se glorie o sábio na sua sabedoria, nem se glorie o forte na sua força; não se glorie o rico nas suas riquezas,</p>\n<p><strong>24</strong> Mas o que se gloriar, glorie-se nisto: em me entender e me conhecer, que eu sou o Senhor, que faço beneficência, juízo e justiça na terra; porque destas coisas me agrado, diz o Senhor.</p>\n<p><strong>25</strong> Eis que vêm dias, diz o Senhor, em que castigarei a todo o circuncidado com o incircunciso.</p>\n<p><strong>26</strong> Ao Egito, e a Judá, e a Edom, e aos filhos de Amom, e a Moabe, e a todos os que cortam os cantos do seu cabelo, que habitam no deserto; porque todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração.</p>\n<hr>\n<p><a href=\"capitulo_8.md\">&lt;- Jeremias 8</a> | <a href=\"capitulo_10.md\">Jeremias 10 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "10": "<h1>Jeremias - Capítulo 10</h1>\n<p><strong>1</strong> Ouvi a palavra que o Senhor vos fala a vós, ó casa de Israel.</p>\n<p><strong>2</strong> Assim diz o Senhor: Não aprendais o caminho dos gentios, nem vos espanteis dos sinais dos céus; porque com eles se atemorizam as nações.</p>\n<p><strong>3</strong> Porque os costumes dos povos são vaidade; pois corta-se do bosque um madeiro, obra das mãos do artífice, feita com machado;</p>\n<p><strong>4</strong> Com prata e com ouro o enfeitam, com pregos e com martelos o firmam, para que não se mova.</p>\n<p><strong>5</strong> São como a palmeira, obra torneada, porém não podem falar; certamente são levados, porquanto não podem andar. Não tenhais receio deles, pois não podem fazer mal, nem tampouco têm poder de fazer bem.</p>\n<p><strong>6</strong> Ninguém há semelhante a ti, ó Senhor; tu és grande, e grande o teu nome em poder.</p>\n<p><strong>7</strong> Quem não te temeria a ti, ó Rei das nações? Pois isto só a ti pertence; porquanto entre todos os sábios das nações, e em todo o seu reino, ninguém há semelhante a ti.</p>\n<p><strong>8</strong> Mas eles todos se embruteceram e tornaram-se loucos; ensino de vaidade é o madeiro.</p>\n<p><strong>9</strong> Trazem prata batida de Társis e ouro de Ufaz, trabalho do artífice, e das mãos do fundidor; fazem suas roupas de azul e púrpura; obra de peritos são todos eles.</p>\n<p><strong>10</strong> Mas o Senhor Deus é a verdade; ele mesmo é o Deus vivo e o Rei eterno; ao seu furor treme a terra, e as nações não podem suportar a sua indignação.</p>\n<p><strong>11</strong> Assim lhes direis: Os deuses que não fizeram os céus e a terra desaparecerão da terra e de debaixo deste céu.</p>\n<p><strong>12</strong> Ele fez a terra com o seu poder; ele estabeleceu o mundo com a sua sabedoria, e com a sua inteligência estendeu os céus.</p>\n<p><strong>13</strong> Fazendo ele soar a sua voz, logo há rumor de águas no céu, e faz subir os vapores da extremidade da terra; faz os relâmpagos para a chuva, e dos seus tesouros faz sair o vento.</p>\n<p><strong>14</strong> Todo o homem é embrutecido no seu conhecimento; envergonha-se todo o fundidor da sua imagem de escultura; porque sua imagem fundida é mentira, e nelas não há espírito.</p>\n<p><strong>15</strong> Vaidade são, obra de enganos: no tempo da sua visitação virão a perecer.</p>\n<p><strong>16</strong> Não é semelhante a estes aquele que é a porção de Jacó; porque ele é o que formou tudo, e Israel é a vara da sua herança: Senhor dos Exércitos é o seu nome.</p>\n<p><strong>17</strong> Ajunta da terra a tua mercadoria, ó tu que habitas em lugar sitiado.</p>\n<p><strong>18</strong> Porque assim diz o Senhor: Eis que desta vez arrojarei como se fora com uma funda aos moradores da terra, e os angustiarei, para que venham a achá-lo, dizendo:</p>\n<p><strong>19</strong> Ai de mim por causa do meu quebrantamento! A minha chaga me causa grande dor; e eu havia dito: Certamente isto é enfermidade que eu poderei suportar.</p>\n<p><strong>20</strong> A minha tenda está destruída, e todas as minhas cordas se romperam; os meus filhos foram-se de mim, e não existem; ninguém há mais que estenda a minha tenda, nem que levante as minhas cortinas,</p>\n<p><strong>21</strong> Porque os pastores se embruteceram, e não buscaram ao Senhor; por isso não prosperaram, e todos os seus rebanhos se espalharam.</p>\n<p><strong>22</strong> Eis que vem uma voz de rumor, grande tremor da terra do norte, para fazer das cidades de Judá uma assolação, uma morada de chacais.</p>\n<p><strong>23</strong> Eu sei, ó Senhor, que não é do homem o seu caminho; nem do homem que caminha o dirigir os seus passos.</p>\n<p><strong>24</strong> Castiga-me, ó Senhor, porém com juízo, não na tua ira, para que não me reduzas a nada.</p>\n<p><strong>25</strong> Derrama a tua indignação sobre os gentios que não te conhecem, e sobre as gerações que não invocam o teu nome; porque devoraram a Jacó, e devoraram-no e consumiram-no, e assolaram a sua morada.</p>\n<hr>\n<p><a href=\"capitulo_9.md\">&lt;- Jeremias 9</a> | <a href=\"capitulo_11.md\">Jeremias 11 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "11": "<h1>Jeremias - Capítulo 11</h1>\n<p><strong>1</strong> A palavra que veio a Jeremias, da parte do Senhor, dizendo:</p>\n<p><strong>2</strong> Ouvi as palavras desta aliança, e falai aos homens de Judá, e aos habitantes de Jerusalém.</p>\n<p><strong>3</strong> Dize-lhes pois: Assim diz o Senhor Deus de Israel: Maldito o homem que não escutar as palavras desta aliança,</p>\n<p><strong>4</strong> Que ordenei a vossos pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: Dai ouvidos à minha voz, e fazei conforme a tudo quanto vos mando; e vós sereis o meu povo, e eu serei o vosso Deus.</p>\n<p><strong>5</strong> Para que confirme o juramento que fiz a vossos pais de dar-lhes uma terra que manasse leite e mel, como se vê neste dia. Então eu respondi, e disse: Amém, ó Senhor.</p>\n<p><strong>6</strong> E disse-me o Senhor: Apregoa todas estas palavras nas cidades de Judá, e nas ruas de Jerusalém, dizendo: Ouvi as palavras desta aliança, e cumpri-as.</p>\n<p><strong>7</strong> Porque deveras adverti a vossos pais, no dia em que os tirei da terra do Egito, até ao dia de hoje, madrugando, e protestando, e dizendo: Dai ouvidos à minha voz.</p>\n<p><strong>8</strong> Mas não ouviram, nem inclinaram os seus ouvidos, antes andaram cada um conforme o propósito do seu coração malvado; por isso trouxe sobre eles todas as palavras desta aliança que lhes mandei que cumprissem, porém não cumpriram.</p>\n<p><strong>9</strong> Disse-me mais o Senhor: Uma conspiração se achou entre os homens de Judá, entre os habitantes de Jerusalém.</p>\n<p><strong>10</strong> Tornaram às maldades de seus primeiros pais, que não quiseram ouvir as minhas palavras; e eles andaram após outros deuses para os servir; a casa de Israel e a casa de Judá quebraram a minha aliança, que tinha feito com seus pais.</p>\n<p><strong>11</strong> Portanto assim diz o Senhor: Eis que trarei mal sobre eles, de que não poderão escapar; e clamarão a mim, mas eu não os ouvirei.</p>\n<p><strong>12</strong> Então irão as cidades de Judá e os habitantes de Jerusalém e clamarão aos deuses a quem eles queimaram incenso; estes, porém, de nenhum modo os livrarão no tempo do seu mal.</p>\n<p><strong>13</strong> Porque, segundo o número das tuas cidades, são os teus deuses, ó Judá! E, segundo o número das ruas de Jerusalém, levantastes altares à impudência, altares para queimardes incenso a Baal.</p>\n<p><strong>14</strong> Tu, pois, não ores por este povo, nem levantes por ele clamor nem oração; porque não os ouvirei no tempo em que eles clamarem a mim, por causa do seu mal.</p>\n<p><strong>15</strong> Que direito tem a minha amada na minha casa, visto que com muitos tem cometido grande lascívia? Crês que os sacrifícios e as carnes santificadas poderão afastar de ti o mal? Então saltarias de prazer.</p>\n<p><strong>16</strong> O Senhor chamou o teu nome de oliveira verde, formosa por seus deliciosos frutos, mas agora à voz de um grande tumulto acendeu fogo ao redor dela e se quebraram os seus ramos.</p>\n<p><strong>17</strong> Porque o Senhor dos Exércitos, que te plantou, pronunciou contra ti o mal, pela maldade da casa de Israel e da casa de Judá, que para si mesma fizeram, pois me provocaram à ira, queimando incenso a Baal.</p>\n<p><strong>18</strong> E o Senhor me fez saber, e assim o soube; então me fizeste ver as suas ações.</p>\n<p><strong>19</strong> E eu era como um cordeiro, como um boi que levam à matança; porque não sabia que maquinavam propósitos contra mim, dizendo: Destruamos a árvore com o seu fruto, e cortemo-lo da terra dos viventes, e não haja mais memória do seu nome.</p>\n<p><strong>20</strong> Mas, ó Senhor dos Exércitos, justo Juiz, que provas as entranhas e o coração, veja eu a tua vingança sobre eles; pois a ti descobri a minha causa.</p>\n<p><strong>21</strong> Portanto, assim diz o Senhor acerca dos homens de Anatote, que buscam a tua vida, dizendo: Não profetizes no nome do Senhor, para que não morras às nossas mãos.</p>\n<p><strong>22</strong> Portanto, assim diz o Senhor dos Exércitos: Eis que eu os castigarei; os jovens morrerão à espada, os seus filhos e suas filhas morrerão de fome.</p>\n<p><strong>23</strong> E não haverá deles um remanescente, porque farei vir o mal sobre os homens de Anatote, no ano da sua visitação.</p>\n<hr>\n<p><a href=\"capitulo_10.md\">&lt;- Jeremias 10</a> | <a href=\"capitulo_12.md\">Jeremias 12 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "12": "<h1>Jeremias - Capítulo 12</h1>\n<p><strong>1</strong> Justo serias, ó Senhor, ainda que eu entrasse contigo num pleito; contudo falarei contigo dos teus juízos. Por que prospera o caminho dos ímpios, e vivem em paz todos os que procedem aleivosamente?</p>\n<p><strong>2</strong> Plantaste-os, e eles se enraizaram; crescem, dão também fruto; chegado estás à sua boca, porém longe de suas entranhas.</p>\n<p><strong>3</strong> Mas tu, ó Senhor, me conheces, tu me vês, e provas o meu coração para contigo; arranca-os como as ovelhas para o matadouro, e dedica-os para o dia da matança.</p>\n<p><strong>4</strong> Até quando lamentará a terra, e se secará a erva de todo o campo? Pela maldade dos que habitam nela, perecem os animais e as aves; porquanto dizem: Ele não verá o nosso fim.</p>\n<p><strong>5</strong> Se te fatigas correndo com homens que vão a pé, como poderás competir com os cavalos? Se tão somente numa terra de paz estás confiado, como farás na enchente do Jordão?</p>\n<p><strong>6</strong> Porque até os teus irmãos, e a casa de teu pai, eles próprios procedem deslealmente contigo; eles mesmos clamam após ti em altas vozes: Não te fies neles, ainda que te digam coisas boas.</p>\n<p><strong>7</strong> Desamparei a minha casa, abandonei a minha herança; entreguei a amada da minha alma na mão de seus inimigos.</p>\n<p><strong>8</strong> Tornou-se a minha herança para mim como leão numa floresta; levantou a sua voz contra mim, por isso eu a odiei.</p>\n<p><strong>9</strong> A minha herança é para mim ave de rapina de várias cores. Andam as aves de rapina contra ela em redor. Vinde, pois, ajuntai todos os animais do campo, trazei-os para a devorarem.</p>\n<p><strong>10</strong> Muitos pastores destruíram a minha vinha, pisaram o meu campo; tornaram em desolado deserto o meu campo desejado.</p>\n<p><strong>11</strong> Em desolação a puseram, e clama a mim na sua desolação; e toda a terra está desolada, porquanto não há ninguém que tome isso a sério.</p>\n<p><strong>12</strong> Sobre todos os lugares altos do deserto vieram destruidores; porque a espada do Senhor devora desde um extremo da terra até o outro; não há paz para nenhuma carne.</p>\n<p><strong>13</strong> Semearam trigo, e segaram espinhos; cansaram-se, mas de nada se aproveitaram; envergonhados sereis das vossas colheitas, e por causa do ardor da ira do Senhor.</p>\n<p><strong>14</strong> Assim diz o Senhor, acerca de todos os meus maus vizinhos, que tocam a minha herança, que fiz herdar ao meu povo Israel: Eis que os arrancarei da sua terra, e a casa de Judá arrancarei do meio deles.</p>\n<p><strong>15</strong> E será que, depois de os haver arrancado, tornarei, e me compadecerei deles, e os farei voltar cada um à sua herança, e cada um à sua terra.</p>\n<p><strong>16</strong> E será que, se diligentemente aprenderem os caminhos do meu povo, jurando pelo meu nome: Vive o Senhor, como ensinaram o meu povo a jurar por Baal; então edificar-se-ão no meio do meu povo.</p>\n<p><strong>17</strong> Mas se não quiserem ouvir, totalmente arrancarei a tal nação, e a farei perecer, diz o Senhor.</p>\n<hr>\n<p><a href=\"capitulo_11.md\">&lt;- Jeremias 11</a> | <a href=\"capitulo_13.md\">Jeremias 13 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "13": "<h1>Jeremias - Capítulo 13</h1>\n<p><strong>1</strong> Assim me disse o Senhor: Vai, e compra um cinto de linho e põe-no sobre os teus lombos, mas não o coloques na água.</p>\n<p><strong>2</strong> E comprei o cinto, conforme a palavra do Senhor, e o pus sobre os meus lombos.</p>\n<p><strong>3</strong> Então me veio a palavra do Senhor pela segunda vez, dizendo:</p>\n<p><strong>4</strong> Toma o cinto que compraste, e que trazes sobre os teus lombos, e levanta-te; vai ao Eufrates, e esconde-o ali na fenda de uma rocha.</p>\n<p><strong>5</strong> E fui, e escondi-o junto ao Eufrates, como o Senhor me havia ordenado.</p>\n<p><strong>6</strong> Sucedeu, ao final de muitos dias, que me disse o Senhor: Levanta-te, vai ao Eufrates, e toma dali o cinto que te ordenei que o escondesses ali.</p>\n<p><strong>7</strong> E fui ao Eufrates, e cavei, e tomei o cinto do lugar onde o havia escondido; e eis que o cinto tinha apodrecido, e para nada prestava.</p>\n<p><strong>8</strong> Então veio a mim a palavra do Senhor, dizendo:</p>\n<p><strong>9</strong> Assim diz o Senhor: Do mesmo modo farei apodrecer a soberba de Judá, e a muita soberba de Jerusalém.</p>\n<p><strong>10</strong> Este povo maligno, que recusa ouvir as minhas palavras, que caminha segundo a dureza do seu coração, e anda após deuses alheios, para servi-los, e inclinar-se diante deles, será tal como este cinto, que para nada presta.</p>\n<p><strong>11</strong> Porque, como o cinto está pegado aos lombos do homem, assim eu liguei a mim toda a casa de Israel, e toda a casa de Judá, diz o Senhor, para me serem por povo, e por nome, e por louvor, e por glória; mas não deram ouvidos.</p>\n<p><strong>12</strong> Portanto, dize-lhes esta palavra: Assim diz o Senhor Deus de Israel: Todo o odre se encherá de vinho; e dir-te-ão: Porventura não sabemos nós muito bem que todo o odre se encherá de vinho?</p>\n<p><strong>13</strong> Mas tu dize-lhes: Assim diz o Senhor: Eis que eu encherei de embriaguez a todos os habitantes desta terra, e aos reis da estirpe de Davi, que estão assentados sobre o seu trono, e aos sacerdotes, e aos profetas, e a todos os habitantes de Jerusalém.</p>\n<p><strong>14</strong> E lhes farei em pedaços atirando uns contra os outros, e juntamente os pais com os filhos, diz o Senhor; não perdoarei, nem pouparei, nem terei deles compaixão, para que não os destrua.</p>\n<p><strong>15</strong> Escutai, e inclinai os ouvidos; não vos ensoberbeçais; porque o Senhor falou.</p>\n<p><strong>16</strong> Dai glória ao Senhor vosso Deus, antes que venha a escuridão e antes que tropecem vossos pés nos montes tenebrosos; antes que, esperando vós luz, ele a mude em sombra de morte, e a reduza à escuridão.</p>\n<p><strong>17</strong> E, se isto não ouvirdes, a minha alma chorará em lugares ocultos, por causa da vossa soberba; e amargamente chorarão os meus olhos, e se desfarão em lágrimas, porquanto o rebanho do Senhor foi levado cativo.</p>\n<p><strong>18</strong> Dize ao rei e à rainha: Humilhai-vos, e assentai-vos no chão; porque já caiu todo o ornato de vossas cabeças, a coroa da vossa glória.</p>\n<p><strong>19</strong> As cidades do sul estão fechadas, e ninguém há que as abra; todo o Judá foi levado cativo, sim, inteiramente cativo.</p>\n<p><strong>20</strong> Levantai os vossos olhos, e vede os que vêm do norte; onde está o rebanho que se te deu, o rebanho da tua glória?</p>\n<p><strong>21</strong> Que dirás, quando ele te castigar porque os ensinaste a serem capitães, e chefe sobre ti? Porventura não te tomarão as dores, como à mulher que está de parto?</p>\n<p><strong>22</strong> Quando, pois, disseres no teu coração: Por que me sobrevieram estas coisas? Pela multidão das tuas maldades se descobriram as tuas saias, e os teus calcanhares sofrem violência.</p>\n<p><strong>23</strong> Porventura pode o etíope mudar a sua pele, ou o leopardo as suas manchas? Então podereis vós fazer o bem, sendo ensinados a fazer o mal.</p>\n<p><strong>24</strong> Assim os espalharei como o restolho, que passa com o vento do deserto.</p>\n<p><strong>25</strong> Esta será a tua sorte, a porção que te será medida por mim, diz o Senhor; pois te esqueceste de mim, e confiaste em mentiras.</p>\n<p><strong>26</strong> Assim também eu levantarei as tuas saias sobre o teu rosto; e aparecerá a tua ignomínia.</p>\n<p><strong>27</strong> Já vi as tuas abominações, e os teus adultérios, e os teus rinchos, e a enormidade da tua prostituição sobre os outeiros no campo; ai de ti, Jerusalém! Até quando ainda não te purificarás?</p>\n<hr>\n<p><a href=\"capitulo_12.md\">&lt;- Jeremias 12</a> | <a href=\"capitulo_14.md\">Jeremias 14 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "14": "<h1>Jeremias - Capítulo 14</h1>\n<p><strong>1</strong> A palavra do Senhor, que veio a Jeremias, a respeito da grande seca.</p>\n<p><strong>2</strong> Anda chorando Judá, e as suas portas estão enfraquecidas; andam de luto até ao chão, e o clamor de Jerusalém vai subindo.</p>\n<p><strong>3</strong> E os seus mais ilustres enviam os seus pequenos a buscar água; vão às cisternas, e não acham água; voltam com os seus cântaros vazios; envergonham-se e confundem-se, e cobrem as suas cabeças.</p>\n<p><strong>4</strong> Por causa da terra que se fendeu, porque não há chuva sobre a terra, os lavradores se envergonham e cobrem as suas cabeças.</p>\n<p><strong>5</strong> Porque até as cervas no campo têm as suas crias, e abandonam seus filhos, porquanto não há erva.</p>\n<p><strong>6</strong> E os jumentos monteses se põem nos lugares altos, sorvem o vento como os chacais; desfalecem os seus olhos, porquanto não há erva.</p>\n<p><strong>7</strong> Posto que as nossas maldades testificam contra nós, ó Senhor, age por amor do teu nome; porque as nossas rebeldias se multiplicaram; contra ti pecamos.</p>\n<p><strong>8</strong> Ó esperança de Israel, e Redentor seu no tempo da angústia, por que serias como um estrangeiro na terra e como o viandante que se retira a passar a noite?</p>\n<p><strong>9</strong> Por que serias como homem surpreendido, como poderoso que não pode livrar? Mas tu estás no meio de nós, ó Senhor, e nós somos chamados pelo teu nome; não nos desampares.</p>\n<p><strong>10</strong> Assim diz o Senhor, acerca deste povo: Pois que tanto gostaram de andar errantes, e não retiveram os seus pés, por isso o Senhor não se agrada deles, mas agora se lembrará da iniquidade deles, e visitará os seus pecados.</p>\n<p><strong>11</strong> Disse-me mais o Senhor: Não rogues por este povo para seu bem.</p>\n<p><strong>12</strong> Quando jejuarem, não ouvirei o seu clamor, e quando oferecerem holocaustos e ofertas de alimentos, não me agradarei deles; antes eu os consumirei pela espada, e pela fome e pela peste.</p>\n<p><strong>13</strong> Então disse eu: Ah! Senhor Deus, eis que os profetas lhes dizem: Não vereis espada, e não tereis fome; antes vos darei paz verdadeira neste lugar.</p>\n<p><strong>14</strong> E disse-me o Senhor: Os profetas profetizam falsamente no meu nome; nunca os enviei, nem lhes dei ordem, nem lhes falei; visão falsa, e adivinhação, e vaidade, e o engano do seu coração é o que eles vos profetizam.</p>\n<p><strong>15</strong> Portanto assim diz o Senhor acerca dos profetas que profetizam no meu nome, sem que eu os tenha mandado, e que dizem: Nem espada, nem fome haverá nesta terra: À espada e à fome, serão consumidos esses profetas.</p>\n<p><strong>16</strong> E o povo a quem eles profetizam será lançado nas ruas de Jerusalém, por causa da fome e da espada; e não haverá quem os sepultem, tanto a eles, como as suas mulheres, e os seus filhos e as suas filhas; porque derramarei sobre eles a sua maldade.</p>\n<p><strong>17</strong> Portanto lhes dirás esta palavra: Os meus olhos derramem lágrimas de noite e de dia, e não cessem; porque a virgem, filha do meu povo, está gravemente ferida, de chaga mui dolorosa.</p>\n<p><strong>18</strong> Se eu saio ao campo, eis ali os mortos à espada, e, se entro na cidade, estão ali os debilitados pela fome; e até os profetas e os sacerdotes percorrem uma terra, que não conhecem.</p>\n<p><strong>19</strong> Porventura já de todo rejeitaste a Judá? Ou repugna a tua alma a Sião? Por que nos feriste de tal modo que já não há cura para nós? Aguardamos a paz, e não aparece o bem; e o tempo da cura, e eis aqui turbação.</p>\n<p><strong>20</strong> Ah! Senhor! Conhecemos a nossa impiedade e a maldade de nossos pais; porque pecamos contra ti.</p>\n<p><strong>21</strong> Não nos rejeites por amor do teu nome; não desonres o trono da tua glória; lembra-te, e não anules a tua aliança conosco.</p>\n<p><strong>22</strong> Porventura há, entre as vaidades dos gentios, alguém que faça chover? Ou podem os céus dar chuvas? Não és tu, ó Senhor nosso Deus? Portanto em ti esperamos, pois tu fazes todas estas coisas.</p>\n<hr>\n<p><a href=\"capitulo_13.md\">&lt;- Jeremias 13</a> | <a href=\"capitulo_15.md\">Jeremias 15 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "15": "<h1>Jeremias - Capítulo 15</h1>\n<p><strong>1</strong> Disse-me, porém, o Senhor: Ainda que Moisés e Samuel se pusessem diante de mim, não estaria a minha alma com este povo; lança-os de diante da minha face, e saiam.</p>\n<p><strong>2</strong> E será que, quando te disserem: Para onde iremos? Dir-lhes-ás: Assim diz o Senhor: Os que para a morte, para a morte, e os que para a espada, para a espada; e os que para a fome, para a fome; e os que para o cativeiro, para o cativeiro.</p>\n<p><strong>3</strong> Porque visitá-los-ei com quatro gêneros de males, diz o Senhor: com espada para matar, e com cães, para os arrastarem, e com aves dos céus, e com animais da terra, para os devorarem e destruírem.</p>\n<p><strong>4</strong> Entregá-los-ei ao desterro em todos os reinos da terra; por causa de Manassés, filho de Ezequias, rei de Judá, e por tudo quanto fez em Jerusalém.</p>\n<p><strong>5</strong> Porque quem se compadeceria de ti, ó Jerusalém? Ou quem se entristeceria por ti? Ou quem se desviaria a perguntar pela tua paz?</p>\n<p><strong>6</strong> Tu me deixaste, diz o Senhor, e tornaste-te para trás; por isso estenderei a minha mão contra ti, e te destruirei; já estou cansado de me arrepender.</p>\n<p><strong>7</strong> E padejá-los-ei com a pá nas portas da terra; já desfilhei, e destruí o meu povo; não voltaram dos seus caminhos.</p>\n<p><strong>8</strong> As suas viúvas mais se multiplicaram do que a areia dos mares; trouxe ao meio-dia um destruidor sobre a mãe dos jovens; fiz que caísse de repente sobre ela, e enchesse a cidade de terrores.</p>\n<p><strong>9</strong> A que dava à luz sete se enfraqueceu; expirou a sua alma; pôs-se-lhe o sol sendo ainda de dia, confundiu-se, e envergonhou-se; e os que ficarem dela entregarei à espada, diante dos seus inimigos, diz o Senhor.</p>\n<p><strong>10</strong> Ai de mim, minha mãe, por que me deste à luz homem de rixa e homem de contendas para toda a terra? Nunca lhes emprestei com usura, nem eles me emprestaram com usura, todavia cada um deles me amaldiçoa.</p>\n<p><strong>11</strong> Disse o Senhor: Decerto que o teu remanescente será para o bem; decerto, no tempo da calamidade, e no tempo da angústia, farei que o inimigo te dirija súplicas.</p>\n<p><strong>12</strong> Pode alguém quebrar o ferro, o ferro do norte, ou o aço?</p>\n<p><strong>13</strong> As tuas riquezas e os teus tesouros entregarei sem preço ao saque; e isso por todos os teus pecados, mesmo em todos os teus limites.</p>\n<p><strong>14</strong> E te farei passar aos teus inimigos numa terra que não conheces; porque o fogo se acendeu em minha ira, e sobre vós arderá;</p>\n<p><strong>15</strong> Tu, ó Senhor, o sabes; lembra-te de mim, e visita-me, e vinga-me dos meus perseguidores; não me arrebates por tua longanimidade; sabe que por amor de ti tenho sofrido afronta.</p>\n<p><strong>16</strong> Achando-se as tuas palavras, logo as comi, e a tua palavra foi para mim o gozo e alegria do meu coração; porque pelo teu nome sou chamado, ó Senhor Deus dos Exércitos.</p>\n<p><strong>17</strong> Nunca me assentei na assembleia dos zombadores, nem me regozijei; por causa da tua mão me assentei solitário; pois me encheste de indignação.</p>\n<p><strong>18</strong> Por que dura a minha dor continuamente, e a minha ferida me dói, e já não admite cura? Serias tu para mim como coisa mentirosa e como águas inconstantes?</p>\n<p><strong>19</strong> Portanto assim diz o Senhor: Se tu voltares, então te trarei, e estarás diante de mim; e se apartares o precioso do vil, serás como a minha boca; tornem-se eles para ti, mas não voltes tu para eles.</p>\n<p><strong>20</strong> E eu te porei contra este povo como forte muro de bronze; e pelejarão contra ti, mas não prevalecerão contra ti; porque eu sou contigo para te guardar, para te livrar deles, diz o Senhor.</p>\n<p><strong>21</strong> E arrebatar-te-ei da mão dos malignos, e livrar-te-ei da mão dos fortes.</p>\n<hr>\n<p><a href=\"capitulo_14.md\">&lt;- Jeremias 14</a> | <a href=\"capitulo_16.md\">Jeremias 16 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "16": "<h1>Jeremias - Capítulo 16</h1>\n<p><strong>1</strong> E veio a mim a palavra do Senhor, dizendo:</p>\n<p><strong>2</strong> Não tomarás para ti mulher, nem terás filhos nem filhas neste lugar.</p>\n<p><strong>3</strong> Porque assim diz o Senhor, acerca dos filhos e das filhas que nascerem neste lugar, acerca de suas mães, que os tiverem, e de seus pais que os gerarem nesta terra:</p>\n<p><strong>4</strong> Morrerão de enfermidades dolorosas, e não serão pranteados nem sepultados; servirão de esterco sobre a face da terra; e pela espada e pela fome serão consumidos, e os seus cadáveres servirão de mantimento para as aves do céu e para os animais da terra.</p>\n<p><strong>5</strong> Porque assim diz o Senhor: Não entres na casa do luto, nem vás a lamentar, nem te compadeças deles; porque deste povo, diz o Senhor, retirei a minha paz, benignidade e misericórdia.</p>\n<p><strong>6</strong> E morrerão grandes e pequenos nesta terra, e não serão sepultados, e não os prantearão, nem se farão por eles incisões, nem por eles se raparão os cabelos.</p>\n<p><strong>7</strong> E não se partirá pão para consolá-los por causa de seus mortos; nem lhes darão a beber do copo de consolação, pelo pai ou pela mãe de alguém.</p>\n<p><strong>8</strong> Nem entres na casa do banquete, para te assentares com eles a comer e a beber.</p>\n<p><strong>9</strong> Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que farei cessar, neste lugar, perante os vossos olhos, e em vossos dias, a voz de gozo e a voz de alegria, a voz do esposo e a voz da esposa.</p>\n<p><strong>10</strong> E será que, quando anunciares a este povo todas estas palavras, e eles te disserem: Por que pronuncia o Senhor sobre nós todo este grande mal? E qual é a nossa iniquidade, e qual é o nosso pecado, que cometemos contra o Senhor nosso Deus?</p>\n<p><strong>11</strong> Então lhes dirás: Porquanto vossos pais me deixaram, diz o Senhor, e se foram após outros deuses, e os serviram, e se inclinaram diante deles, e a mim me deixaram, e a minha lei não a guardaram.</p>\n<p><strong>12</strong> E vós fizestes pior do que vossos pais; porque, eis que cada um de vós anda segundo o propósito do seu mau coração, para não me dar ouvidos a mim.</p>\n<p><strong>13</strong> Portanto lançar-vos-ei fora desta terra, para uma terra que não conhecestes, nem vós nem vossos pais; e ali servireis a deuses alheios de dia e de noite, porque não usarei de misericórdia convosco.</p>\n<p><strong>14</strong> Portanto, eis que dias vêm, diz o Senhor, em que nunca mais se dirá: Vive o Senhor, que fez subir os filhos de Israel da terra do Egito.</p>\n<p><strong>15</strong> Mas: Vive o Senhor, que fez subir os filhos de Israel da terra do norte, e de todas as terras para onde os tinha lançado; porque eu os farei voltar à sua terra, a qual dei a seus pais.</p>\n<p><strong>16</strong> Eis que mandarei muitos pescadores, diz o Senhor, os quais os pescarão; e depois enviarei muitos caçadores, os quais os caçarão de sobre todo o monte, e de sobre todo o outeiro, e até das fendas das rochas.</p>\n<p><strong>17</strong> Porque os meus olhos estão sobre todos os seus caminhos; não se escondem da minha face, nem a sua maldade se encobre aos meus olhos.</p>\n<p><strong>18</strong> E primeiramente pagarei em dobro a sua maldade e o seu pecado, porque profanaram a minha terra com os cadáveres das suas coisas detestáveis, e das suas abominações encheram a minha herança.</p>\n<p><strong>19</strong> Ó Senhor, fortaleza minha, e força minha, e refúgio meu no dia da angústia; a ti virão os gentios desde os fins da terra, e dirão: Nossos pais herdaram só mentiras, e vaidade, em que não havia proveito.</p>\n<p><strong>20</strong> Porventura fará um homem deuses para si, que contudo não são deuses?</p>\n<p><strong>21</strong> Portanto, eis que lhes farei conhecer, desta vez lhes farei conhecer a minha mão e o meu poder; e saberão que o meu nome é o Senhor.</p>\n<hr>\n<p><a href=\"capitulo_15.md\">&lt;- Jeremias 15</a> | <a href=\"capitulo_17.md\">Jeremias 17 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "17": "<h1>Jeremias - Capítulo 17</h1>\n<p><strong>1</strong> O pecado de Judá está escrito com um ponteiro de ferro, com ponta de diamante, gravado na tábua do seu coração e nas pontas dos vossos altares;</p>\n<p><strong>2</strong> Como também seus filhos se lembram dos seus altares, e dos seus bosques, junto às árvores frondosas, sobre os altos outeiros.</p>\n<p><strong>3</strong> Ó meu monte no campo! A tua riqueza e todos os teus tesouros darei por presa, como também os teus altos, por causa do pecado, em todos os teus termos.</p>\n<p><strong>4</strong> Assim por ti mesmo te privarás da tua herança que te dei, e far-te-ei servir os teus inimigos, na terra que não conheces; porque o fogo que acendeste na minha ira arderá para sempre.</p>\n<p><strong>5</strong> Assim diz o Senhor: Maldito o homem que confia no homem, e faz da carne o seu braço, e aparta o seu coração do Senhor!</p>\n<p><strong>6</strong> Porque será como a tamargueira no deserto, e não verá quando vem o bem; antes morará nos lugares secos do deserto, na terra salgada e inabitável.</p>\n<p><strong>7</strong> Bendito o homem que confia no Senhor, e cuja confiança é o Senhor.</p>\n<p><strong>8</strong> Porque será como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem o calor, mas a sua folha fica verde; e no ano de sequidão não se preocupa, nem deixa de dar fruto.</p>\n<p><strong>9</strong> Enganoso é o coração, mais do que todas as coisas, e perverso; quem o conhecerá?</p>\n<p><strong>10</strong> Eu, o Senhor, esquadrinho o coração e provo as entranhas; e isto para dar a cada um segundo os seus caminhos e segundo o fruto das suas ações.</p>\n<p><strong>11</strong> Como a perdiz, que choca ovos que não pôs, assim é aquele que ajunta riquezas, mas não retamente; no meio de seus dias as deixará, e no seu fim será um insensato.</p>\n<p><strong>12</strong> Um trono de glória, posto bem alto desde o princípio, é o lugar do nosso santuário.</p>\n<p><strong>13</strong> Ó Senhor, esperança de Israel, todos aqueles que te deixam serão envergonhados; os que se apartam de mim serão escritos sobre a terra; porque abandonam o Senhor, a fonte das águas vivas.</p>\n<p><strong>14</strong> Cura-me, Senhor, e sararei; salva-me, e serei salvo; porque tu és o meu louvor.</p>\n<p><strong>15</strong> Eis que eles me dizem: Onde está a palavra do Senhor? Venha agora.</p>\n<p><strong>16</strong> Porém eu não me apressei em ser o pastor seguindo-te; nem tampouco desejei o dia da aflição, tu o sabes; o que saiu dos meus lábios está diante de tua face.</p>\n<p><strong>17</strong> Não me sejas por espanto; meu refúgio és tu no dia do mal.</p>\n<p><strong>18</strong> Envergonhem-se os que me perseguem, e não me envergonhe eu; assombrem-se eles, e não me assombre eu; traze sobre eles o dia do mal, e destrói-os com dobrada destruição.</p>\n<p><strong>19</strong> Assim me disse o Senhor: Vai, e põe-te à porta dos filhos do povo, pela qual entram os reis de Judá, e pela qual saem; como também em todas as portas de Jerusalém.</p>\n<p><strong>20</strong> E dize-lhes: Ouvi a palavra do Senhor, vós, reis de Judá e todo o Judá, e todos os moradores de Jerusalém que entrais por estas portas.</p>\n<p><strong>21</strong> Assim diz o Senhor: Guardai as vossas almas, e não tragais cargas no dia de sábado, nem as introduzais pelas portas de Jerusalém;</p>\n<p><strong>22</strong> Nem tireis cargas de vossas casas no dia de sábado, nem façais obra alguma; antes santificai o dia de sábado, como eu ordenei a vossos pais.</p>\n<p><strong>23</strong> Mas não escutaram, nem inclinaram os seus ouvidos; antes endureceram a sua cerviz, para não ouvirem, e para não receberem correção.</p>\n<p><strong>24</strong> Mas se vós diligentemente me ouvirdes, diz o Senhor, não introduzindo cargas pelas portas desta cidade no dia de sábado, e santificardes o dia de sábado, não fazendo nele obra alguma,</p>\n<p><strong>25</strong> Então entrarão pelas portas desta cidade reis e príncipes, que se assentem sobre o trono de Davi, andando em carros e em cavalos; e eles e seus príncipes, os homens de Judá, e os moradores de Jerusalém; e esta cidade será habitada para sempre.</p>\n<p><strong>26</strong> E virão das cidades de Judá, e dos arredores de Jerusalém, e da terra de Benjamim, e das planícies, e das montanhas, e do sul, trazendo holocaustos, e sacrifícios, e ofertas de alimentos, e incenso, trazendo também sacrifícios de louvores à casa do Senhor.</p>\n<p><strong>27</strong> Mas, se não me ouvirdes, para santificardes o dia de sábado, e para não trazerdes carga alguma, quando entrardes pelas portas de Jerusalém no dia de sábado, então acenderei fogo nas suas portas, o qual consumirá os palácios de Jerusalém, e não se apagará.</p>\n<hr>\n<p><a href=\"capitulo_16.md\">&lt;- Jeremias 16</a> | <a href=\"capitulo_18.md\">Jeremias 18 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "18": "<h1>Jeremias - Capítulo 18</h1>\n<p><strong>1</strong> A palavra do Senhor, que veio a Jeremias, dizendo:</p>\n<p><strong>2</strong> Levanta-te, e desce à casa do oleiro, e lá te farei ouvir as minhas palavras.</p>\n<p><strong>3</strong> E desci à casa do oleiro, e eis que ele estava fazendo a sua obra sobre as rodas,</p>\n<p><strong>4</strong> Como o vaso, que ele fazia de barro, quebrou-se na mão do oleiro, tornou a fazer dele outro vaso, conforme o que pareceu bem aos olhos do oleiro fazer.</p>\n<p><strong>5</strong> Então veio a mim a palavra do Senhor, dizendo:</p>\n<p><strong>6</strong> Não poderei eu fazer de vós como fez este oleiro, ó casa de Israel? diz o Senhor. Eis que, como o barro na mão do oleiro, assim sois vós na minha mão, ó casa de Israel.</p>\n<p><strong>7</strong> No momento em que falar contra uma nação, e contra um reino para arrancar, e para derrubar, e para destruir,</p>\n<p><strong>8</strong> Se a tal nação, porém, contra a qual falar se converter da sua maldade, também eu me arrependerei do mal que pensava fazer-lhe.</p>\n<p><strong>9</strong> No momento em que falar de uma nação e de um reino, para edificar e para plantar,</p>\n<p><strong>10</strong> Se fizer o mal diante dos meus olhos, não dando ouvidos à minha voz, então me arrependerei do bem que tinha falado que lhe faria.</p>\n<p><strong>11</strong> Ora, pois, fala agora aos homens de Judá, e aos moradores de Jerusalém, dizendo: Assim diz o Senhor: Eis que estou forjando mal contra vós; e projeto um plano contra vós; convertei-vos, pois, agora cada um do seu mau caminho, e melhorai os vossos caminhos e as vossas ações.</p>\n<p><strong>12</strong> Mas eles dizem: Não há esperança, porque andaremos segundo as nossas imaginações; e cada um fará segundo o propósito do seu mau coração.</p>\n<p><strong>13</strong> Portanto, assim diz o Senhor: Perguntai agora entre os gentios quem ouviu tal coisa? Coisa mui horrenda fez a virgem de Israel.</p>\n<p><strong>14</strong> Porventura a neve do Líbano deixará a rocha do campo ou esgotar-se-ão as águas frias que correm de terras estranhas?</p>\n<p><strong>15</strong> Contudo o meu povo se tem esquecido de mim, queimando incenso à vaidade, que os fez tropeçar nos seus caminhos, e nas veredas antigas, para que andassem por veredas afastadas, não aplainadas;</p>\n<p><strong>16</strong> Para fazerem da sua terra objeto de espanto e de perpétuos assobios; todo aquele que passar por ela se espantará, e meneará a sua cabeça;</p>\n<p><strong>17</strong> Com vento oriental os espalharei diante do inimigo; mostrar-lhes-ei as costas e não o rosto, no dia da sua perdição.</p>\n<p><strong>18</strong> Então disseram: Vinde, e maquinemos projetos contra Jeremias; porque não perecerá a lei do sacerdote, nem o conselho do sábio, nem a palavra do profeta; vinde e firamo-lo com a língua, e não atendamos a nenhuma das suas palavras.</p>\n<p><strong>19</strong> Olha para mim, Senhor, e ouve a voz dos que contendem comigo.</p>\n<p><strong>20</strong> Porventura pagar-se-á mal por bem? Pois cavaram uma cova para a minha alma. Lembra-te de que eu compareci à tua presença, para falar a favor deles, e para desviar deles a tua indignação;</p>\n<p><strong>21</strong> Portanto entrega seus filhos à fome, e entrega-os ao poder da espada, e sejam suas mulheres roubadas dos filhos, e fiquem viúvas; e seus maridos sejam feridos de morte, e os seus jovens sejam feridos à espada na peleja.</p>\n<p><strong>22</strong> Ouça-se o clamor de suas casas, quando de repente trouxeres uma tropa sobre eles. Porquanto cavaram uma cova para prender-me e armaram laços aos meus pés.</p>\n<p><strong>23</strong> Mas tu, ó Senhor, sabes todo o seu conselho contra mim para matar-me; não perdoes a sua maldade, nem apagues o seu pecado de diante da tua face; mas tropecem diante de ti; trata-os assim no tempo da tua ira.</p>\n<hr>\n<p><a href=\"capitulo_17.md\">&lt;- Jeremias 17</a> | <a href=\"capitulo_19.md\">Jeremias 19 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "19": "<h1>Jeremias - Capítulo 19</h1>\n<p><strong>1</strong> Assim disse o Senhor: Vai, e compra uma botija de oleiro, e leva contigo alguns dos anciãos do povo e alguns dos anciãos dos sacerdotes;</p>\n<p><strong>2</strong> E sai ao Vale do Filho de Hinom, que está à entrada da porta do sol, e apregoa ali as palavras que eu te disser;</p>\n<p><strong>3</strong> E dirás: Ouvi a palavra do Senhor, ó reis de Judá, e moradores de Jerusalém. Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei um mal sobre este lugar, e quem quer que dele ouvir retinir-lhe-ão os ouvidos.</p>\n<p><strong>4</strong> Porquanto me deixaram e alienaram este lugar, e nele queimaram incenso a outros deuses, que nunca conheceram, nem eles nem seus pais, nem os reis de Judá; e encheram este lugar de sangue de inocentes.</p>\n<p><strong>5</strong> Porque edificaram os altos de Baal, para queimarem seus filhos no fogo em holocaustos a Baal; o que nunca lhes ordenei, nem falei, nem me veio ao pensamento.</p>\n<p><strong>6</strong> Por isso eis que dias vêm, diz o Senhor, em que este lugar não se chamará mais Tofete, nem o Vale do Filho de Hinom, mas o Vale da Matança.</p>\n<p><strong>7</strong> Porque dissiparei o conselho de Judá e de Jerusalém neste lugar, e os farei cair à espada diante de seus inimigos, e pela mão dos que buscam a vida deles; e darei os seus cadáveres para pasto às aves dos céus e aos animais da terra.</p>\n<p><strong>8</strong> E farei esta cidade objeto de espanto e de assobio; todo aquele que passar por ela se espantará, e assobiará por causa de todas as suas pragas.</p>\n<p><strong>9</strong> E lhes farei comer a carne de seus filhos e a carne de suas filhas, e comerá cada um a carne do seu amigo, no cerco e no aperto em que os apertarão os seus inimigos, e os que buscam a vida deles.</p>\n<p><strong>10</strong> Então quebrarás a botija à vista dos homens que forem contigo.</p>\n<p><strong>11</strong> E dir-lhes-ás: Assim diz o Senhor dos Exércitos: Deste modo quebrarei eu a este povo, e a esta cidade, como se quebra o vaso do oleiro, que não pode mais refazer-se, e os enterrarão em Tofete, porque não haverá mais lugar para os enterrar.</p>\n<p><strong>12</strong> Assim farei a este lugar, diz o Senhor, e aos seus moradores; sim, para pôr a esta cidade como a Tofete.</p>\n<p><strong>13</strong> E as casas de Jerusalém, e as casas dos reis de Judá, serão imundas como o lugar de Tofete, como também todas as casas, sobre cujos terraços queimaram incenso a todo o exército dos céus, e ofereceram libações a deuses estranhos.</p>\n<p><strong>14</strong> Vindo, pois, Jeremias de Tofete onde o tinha enviado o Senhor a profetizar, se pôs em pé no átrio da casa do Senhor, e disse a todo o povo:</p>\n<p><strong>15</strong> Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei sobre esta cidade, e sobre todas as suas vilas, todo o mal que pronunciei contra ela, porquanto endureceram a sua cerviz, para não ouvirem as minhas palavras.</p>\n<hr>\n<p><a href=\"capitulo_18.md\">&lt;- Jeremias 18</a> | <a href=\"capitulo_20.md\">Jeremias 20 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "20": "<h1>Jeremias - Capítulo 20</h1>\n<p><strong>1</strong> E Pasur, filho de Imer, o sacerdote, que havia sido nomeado presidente na casa do Senhor, ouviu a Jeremias, que profetizava estas palavras.</p>\n<p><strong>2</strong> E feriu Pasur ao profeta Jeremias, e o colocou no cepo que está na porta superior de Benjamim, na casa do Senhor.</p>\n<p><strong>3</strong> E sucedeu que no dia seguinte Pasur tirou a Jeremias do cepo. Então disse-lhe Jeremias: O Senhor não chama o teu nome Pasur, mas, Terror por todos os lados.</p>\n<p><strong>4</strong> Porque assim diz o Senhor: Eis que farei de ti um terror para ti mesmo, e para todos os teus amigos. Eles cairão à espada de seus inimigos, e teus olhos o verão. Entregarei todo o Judá na mão do rei de Babilônia; ele os levará presos a Babilônia, e feri-los-á à espada.</p>\n<p><strong>5</strong> Também entregarei toda a riqueza desta cidade, e todo o seu trabalho, e todas as suas coisas preciosas, sim, todos os tesouros dos reis de Judá entregarei na mão de seus inimigos, e saqueá-los-ão, e tomá-los-ão e levá-los-ão a Babilônia.</p>\n<p><strong>6</strong> E tu, Pasur, e todos os moradores da tua casa ireis para o cativeiro; e virás a Babilônia, e ali morrerás, e ali serás sepultado, tu, e todos os teus amigos, aos quais profetizaste falsamente.</p>\n<p><strong>7</strong> Persuadiste-me, ó Senhor, e persuadido fiquei; mais forte foste do que eu, e prevaleceste; sirvo de escárnio todo o dia; cada um deles zomba de mim.</p>\n<p><strong>8</strong> Porque desde que falo, grito, clamo: Violência e destruição; porque se tornou a palavra do Senhor um opróbrio e ludíbrio todo o dia.</p>\n<p><strong>9</strong> Então disse eu: Não me lembrarei dele, e não falarei mais no seu nome; mas isso foi no meu coração como fogo ardente, encerrado nos meus ossos; e estou fatigado de sofrer, e não posso mais.</p>\n<p><strong>10</strong> Porque ouvi a murmuração de muitos, terror de todos os lados: Denunciai, e o denunciaremos; todos os que têm paz comigo aguardam o meu manquejar, dizendo: Bem pode ser que se deixe persuadir; então prevaleceremos contra ele e nos vingaremos dele.</p>\n<p><strong>11</strong> Mas o Senhor está comigo como um valente temível; por isso tropeçarão os meus perseguidores, e não prevalecerão; ficarão muito confundidos; porque não se houveram prudentemente, terão uma confusão perpétua que nunca será esquecida.</p>\n<p><strong>12</strong> Tu, pois, ó Senhor dos Exércitos, que provas o justo, e vês as entranhas e o coração, permite que eu veja a tua vingança contra eles; pois já te revelei a minha causa.</p>\n<p><strong>13</strong> Cantai ao Senhor, louvai ao Senhor; pois livrou a alma do necessitado da mão dos malfeitores.</p>\n<p><strong>14</strong> Maldito o dia em que nasci; não seja bendito o dia em que minha mãe me deu à luz.</p>\n<p><strong>15</strong> Maldito o homem que deu as novas a meu pai, dizendo: Nasceu-te um filho; alegrando-o com isso grandemente.</p>\n<p><strong>16</strong> E seja esse homem como as cidades que o Senhor destruiu e não se arrependeu; e ouça clamor pela manhã, e ao tempo do meio-dia um alarido.</p>\n<p><strong>17</strong> Por que não me matou na madre? Assim minha mãe teria sido a minha sepultura, e teria ficado grávida perpetuamente!</p>\n<p><strong>18</strong> Por que saí da madre, para ver trabalho e tristeza, e para que os meus dias se consumam na vergonha?</p>\n<hr>\n<p><a href=\"capitulo_19.md\">&lt;- Jeremias 19</a> | <a href=\"capitulo_21.md\">Jeremias 21 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "21": "<h1>Jeremias - Capítulo 21</h1>\n<p><strong>1</strong> A palavra que veio a Jeremias da parte do Senhor, quando o rei Zedequias lhe enviou a Pasur, filho de Malquias, e a Sofonias, filho de Maaseias, o sacerdote, dizendo:</p>\n<p><strong>2</strong> Pergunta agora por nós ao Senhor, por que Nabucodonosor, rei de Babilônia, guerreia contra nós; bem pode ser que o Senhor trate conosco segundo todas as suas maravilhas, e o faça retirar-se de nós.</p>\n<p><strong>3</strong> Então Jeremias lhes disse: Assim direis a Zedequias:</p>\n<p><strong>4</strong> Assim diz o Senhor Deus de Israel: Eis que virarei contra vós as armas de guerra, que estão nas vossas mãos, com que vós pelejais contra o rei de Babilônia, e contra os caldeus, que vos têm cercado de fora dos muros, e ajuntá-los-ei no meio desta cidade.</p>\n<p><strong>5</strong> E eu pelejarei contra vós com mão estendida e com braço forte, e com ira, e com indignação e com grande furor.</p>\n<p><strong>6</strong> E ferirei os habitantes desta cidade, assim os homens como os animais; de grande pestilência morrerão.</p>\n<p><strong>7</strong> E depois disto, diz o Senhor, entregarei Zedequias, rei de Judá, e seus servos, e o povo, e os que desta cidade restarem da pestilência, e da espada, e da fome, na mão de Nabucodonosor, rei de Babilônia, e na mão de seus inimigos, e na mão dos que buscam a sua vida; e feri-los-á ao fio da espada; não os poupará, nem se compadecerá, nem terá misericórdia.</p>\n<p><strong>8</strong> E a este povo dirás: Assim diz o Senhor: Eis que ponho diante de vós o caminho da vida e o caminho da morte.</p>\n<p><strong>9</strong> O que ficar nesta cidade há de morrer à espada, ou de fome, ou de pestilência; mas o que sair, e se render aos caldeus, que vos têm cercado, viverá, e terá a sua vida por despojo.</p>\n<p><strong>10</strong> Porque pus o meu rosto contra esta cidade para mal, e não para bem, diz o Senhor; na mão do rei de Babilônia se entregará, e ele queimá-la-á a fogo.</p>\n<p><strong>11</strong> E à casa do rei de Judá dirás: Ouvi a palavra do Senhor:</p>\n<p><strong>12</strong> Ó casa de Davi, assim diz o Senhor: Julgai pela manhã justamente, e livrai o espoliado da mão do opressor; para que não saia o meu furor como fogo, e se acenda, sem que haja quem o apague, por causa da maldade de vossas ações.</p>\n<p><strong>13</strong> Eis que eu sou contra ti, ó moradora do vale, ó rocha da campina, diz o Senhor; contra vós que dizeis: Quem descerá contra nós? Ou quem entrará nas nossas moradas?</p>\n<p><strong>14</strong> Eu vos castigarei segundo o fruto das vossas ações, diz o Senhor; e acenderei o fogo no seu bosque, que consumirá a tudo o que está em redor dela.</p>\n<hr>\n<p><a href=\"capitulo_20.md\">&lt;- Jeremias 20</a> | <a href=\"capitulo_22.md\">Jeremias 22 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "22": "<h1>Jeremias - Capítulo 22</h1>\n<p><strong>1</strong> Assim diz o Senhor: Desce à casa do rei de Judá, e anuncia ali esta palavra,</p>\n<p><strong>2</strong> E dize: Ouve a palavra do Senhor, ó rei de Judá, que te assentas no trono de Davi, tu, e os teus servos, o teu povo, que entrais por estas portas.</p>\n<p><strong>3</strong> Assim diz o Senhor: Exercei o juízo e a justiça, e livrai o espoliado da mão do opressor; e não oprimais ao estrangeiro, nem ao órfão, nem à viúva; não façais violência, nem derrameis sangue inocente neste lugar.</p>\n<p><strong>4</strong> Porque, se deveras cumprirdes esta palavra, entrarão pelas portas desta casa os reis que se assentarão em lugar de Davi sobre o seu trono, andando em carros e montados em cavalos, eles, e os seus servos, e o seu povo.</p>\n<p><strong>5</strong> Mas, se não derdes ouvidos a estas palavras, por mim mesmo tenho jurado, diz o Senhor, que esta casa se tornará em assolação.</p>\n<p><strong>6</strong> Porque assim diz o Senhor acerca da casa do rei de Judá: Tu és para mim Gileade, e a cabeça do Líbano; mas por certo que farei de ti um deserto e cidades desabitadas.</p>\n<p><strong>7</strong> Porque preparei contra ti destruidores, cada um com as suas armas; e cortarão os teus cedros escolhidos, e lançá-los-ão no fogo.</p>\n<p><strong>8</strong> E muitas nações passarão por esta cidade, e dirá cada um ao seu próximo: Por que procedeu o Senhor assim com esta grande cidade?</p>\n<p><strong>9</strong> E dirão: Porque deixaram a aliança do Senhor seu Deus, e se inclinaram diante de outros deuses, e os serviram.</p>\n<p><strong>10</strong> Não choreis o morto, nem o lastimeis; chorai abundantemente aquele que sai, porque nunca mais tornará nem verá a terra onde nasceu.</p>\n<p><strong>11</strong> Porque assim diz o Senhor acerca de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai, e que saiu deste lugar: Nunca mais ali tornará.</p>\n<p><strong>12</strong> Mas no lugar para onde o levaram cativo ali morrerá, e nunca mais verá esta terra.</p>\n<p><strong>13</strong> Ai daquele que edifica a sua casa com injustiça, e os seus aposentos sem direito, que se serve do serviço do seu próximo sem remunerá-lo, e não lhe dá o salário do seu trabalho.</p>\n<p><strong>14</strong> Que diz: Edificarei para mim uma casa espaçosa, e aposentos largos; e que lhe abre janelas, forrando-a de cedro, e pintando-a de vermelhão.</p>\n<p><strong>15</strong> Porventura reinarás tu, porque te encerras em cedro? Acaso teu pai não comeu e bebeu, e não praticou o juízo e a justiça? Por isso lhe sucedeu bem.</p>\n<p><strong>16</strong> Julgou a causa do aflito e necessitado; então lhe sucedeu bem; porventura não é isto conhecer-me? Diz o Senhor.</p>\n<p><strong>17</strong> Mas os teus olhos e o teu coração não atentam senão para a tua avareza, e para derramar sangue inocente, e para praticar a opressão, e a violência.</p>\n<p><strong>18</strong> Portanto assim diz o Senhor acerca de Jeoiaquim, filho de Josias, rei de Judá: Não o lamentarão, dizendo: Ai, meu irmão, ou ai, minha irmã! Nem o lamentarão, dizendo: Ai, senhor, ou, ai, sua glória!</p>\n<p><strong>19</strong> Em sepultura de jumento será sepultado, sendo arrastado e lançado para bem longe, fora das portas de Jerusalém.</p>\n<p><strong>20</strong> Sobe ao Líbano, e clama, e levanta a tua voz em Basã, e clama pelas passagens; porque estão destruídos todos os teus namorados.</p>\n<p><strong>21</strong> Falei contigo na tua prosperidade, mas tu disseste: Não ouvirei. Este tem sido o teu caminho, desde a tua mocidade, pois nunca deste ouvidos à minha voz.</p>\n<p><strong>22</strong> O vento apascentará a todos os teus pastores, e os teus namorados irão para o cativeiro; certamente então te confundirás, e te envergonharás por causa de toda a tua maldade.</p>\n<p><strong>23</strong> Ó tu, que habitas no Líbano e fazes o teu ninho nos cedros, quão lastimada serás quando te vierem as dores e os ais como da que está de parto.</p>\n<p><strong>24</strong> Vivo eu, diz o Senhor, que ainda que Conias, filho de Jeoiaquim, rei de Judá, fosse o anel do selo na minha mão direita, contudo dali te arrancaria.</p>\n<p><strong>25</strong> E entregar-te-ei na mão dos que buscam a tua vida, e na mão daqueles diante de quem tu temes, a saber, na mão de Nabucodonosor, rei de Babilônia, e na mão dos caldeus.</p>\n<p><strong>26</strong> E lançar-te-ei, a ti e à tua mãe que te deu à luz, para uma terra estranha, em que não nasceste, e ali morrereis.</p>\n<p><strong>27</strong> Mas à terra, para a qual eles com toda a alma desejam voltar, para lá não voltarão.</p>\n<p><strong>28</strong> É, pois, este homem Conias um ídolo desprezado e quebrado, ou um vaso de que ninguém se agrada? Por que razão foram arremessados fora, ele e a sua geração, e arrojados para uma terra que não conhecem?</p>\n<p><strong>29</strong> Ó terra, terra, terra! Ouve a palavra do Senhor.</p>\n<p><strong>30</strong> Assim diz o Senhor: Escrevei que este homem está privado de filhos, homem que não prosperará nos seus dias; porque nenhum da sua geração prosperará, para se assentar no trono de Davi, e reinar ainda em Judá.</p>\n<hr>\n<p><a href=\"capitulo_21.md\">&lt;- Jeremias 21</a> | <a href=\"capitulo_23.md\">Jeremias 23 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "23": "<h1>Jeremias - Capítulo 23</h1>\n<p><strong>1</strong> Ai dos pastores que destroem e dispersam as ovelhas do meu pasto, diz o Senhor.</p>\n<p><strong>2</strong> Portanto assim diz o Senhor Deus de Israel, contra os pastores que apascentam o meu povo: Vós dispersastes as minhas ovelhas, e as afugentastes, e não as visitastes; eis que visitarei sobre vós a maldade das vossas ações, diz o Senhor.</p>\n<p><strong>3</strong> E eu mesmo recolherei o restante das minhas ovelhas, de todas as terras para onde as tiver afugentado, e as farei voltar aos seus apriscos; e frutificarão, e se multiplicarão.</p>\n<p><strong>4</strong> E levantarei sobre elas pastores que as apascentem, e nunca mais temerão, nem se assombrarão, e nem uma delas faltará, diz o Senhor.</p>\n<p><strong>5</strong> Eis que vêm dias, diz o Senhor, em que levantarei a Davi um Renovo justo; e, sendo rei, reinará e agirá sabiamente, e praticará o juízo e a justiça na terra.</p>\n<p><strong>6</strong> Nos seus dias Judá será salvo, e Israel habitará seguro; e este será o seu nome, com o qual Deus o chamará: o Senhor justiça nossa.</p>\n<p><strong>7</strong> Portanto, eis que vêm dias, diz o Senhor, em que nunca mais dirão: Vive o Senhor, que fez subir os filhos de Israel da terra do Egito;</p>\n<p><strong>8</strong> Mas: Vive o Senhor, que fez subir, e que trouxe a geração da casa de Israel da terra do norte, e de todas as terras para onde os tinha arrojado; e habitarão na sua terra.</p>\n<p><strong>9</strong> Quanto aos profetas, já o meu coração está quebrantado dentro de mim; todos os meus ossos estremecem; sou como um homem embriagado, e como um homem vencido de vinho, por causa do Senhor, e por causa das suas santas palavras.</p>\n<p><strong>10</strong> Porque a terra está cheia de adúlteros, e a terra chora por causa da maldição; os pastos do deserto se secam; porque a sua carreira é má, e a sua força não é reta.</p>\n<p><strong>11</strong> Porque tanto o profeta, como o sacerdote, estão contaminados; até na minha casa achei a sua maldade, diz o Senhor.</p>\n<p><strong>12</strong> Portanto o seu caminho lhes será como lugares escorregadios na escuridão; serão empurrados, e cairão nele; porque trarei sobre eles mal, no ano da sua visitação, diz o Senhor.</p>\n<p><strong>13</strong> Nos profetas de Samaria bem vi loucura; profetizavam da parte de Baal, e faziam errar o meu povo Israel.</p>\n<p><strong>14</strong> Mas nos profetas de Jerusalém vejo uma coisa horrenda: cometem adultérios, e andam com falsidade, e fortalecem as mãos dos malfeitores, para que não se convertam da sua maldade; eles têm-se tornado para mim como Sodoma, e os seus moradores como Gomorra.</p>\n<p><strong>15</strong> Portanto assim diz o Senhor dos Exércitos acerca dos profetas: Eis que lhes darei a comer losna, e lhes farei beber águas de fel; porque dos profetas de Jerusalém saiu a contaminação sobre toda a terra.</p>\n<p><strong>16</strong> Assim diz o Senhor dos Exércitos: Não deis ouvidos às palavras dos profetas, que entre vós profetizam; fazem-vos desvanecer; falam da visão do seu coração, não da boca do Senhor.</p>\n<p><strong>17</strong> Dizem continuamente aos que me desprezam: O Senhor disse: Paz tereis; e a qualquer que anda segundo a dureza do seu coração, dizem: Não virá mal sobre vós.</p>\n<p><strong>18</strong> Porque, quem esteve no conselho do Senhor, e viu, e ouviu a sua palavra? Quem esteve atento à sua palavra, e ouviu?</p>\n<p><strong>19</strong> Eis que saiu com indignação a tempestade do Senhor; e uma tempestade penosa cairá cruelmente sobre a cabeça dos ímpios.</p>\n<p><strong>20</strong> Não se desviará a ira do Senhor, até que execute e cumpra os desígnios do seu coração; nos últimos dias entendereis isso claramente.</p>\n<p><strong>21</strong> Não mandei esses profetas, contudo eles foram correndo; não lhes falei, contudo eles profetizaram.</p>\n<p><strong>22</strong> Mas, se estivessem estado no meu conselho, então teriam feito o meu povo ouvir as minhas palavras, e o teriam feito voltar do seu mau caminho, e da maldade das suas ações.</p>\n<p><strong>23</strong> Porventura sou eu Deus de perto, diz o Senhor, e não também Deus de longe?</p>\n<p><strong>24</strong> Esconder-se-ia alguém em esconderijos, de modo que eu não o veja? Diz o Senhor. Porventura não encho eu os céus e a terra? Diz o Senhor.</p>\n<p><strong>25</strong> Tenho ouvido o que dizem aqueles profetas, profetizando mentiras em meu nome, dizendo: Sonhei, sonhei.</p>\n<p><strong>26</strong> Até quando sucederá isso no coração dos profetas que profetizam mentiras, e que só profetizam do engano do seu coração?</p>\n<p><strong>27</strong> Os quais cuidam fazer com que o meu povo se esqueça do meu nome pelos seus sonhos que cada um conta ao seu próximo, assim como seus pais se esqueceram do meu nome por causa de Baal.</p>\n<p><strong>28</strong> O profeta que tem um sonho conte o sonho; e aquele que tem a minha palavra, fale a minha palavra com verdade. Que tem a palha com o trigo? Diz o Senhor.</p>\n<p><strong>29</strong> Porventura a minha palavra não é como o fogo, diz o Senhor, e como um martelo que esmiúça a pedra?</p>\n<p><strong>30</strong> Portanto, eis que eu sou contra os profetas, diz o Senhor, que furtam as minhas palavras, cada um ao seu próximo.</p>\n<p><strong>31</strong> Eis que eu sou contra os profetas, diz o Senhor, que usam de sua própria linguagem, e dizem: Ele disse.</p>\n<p><strong>32</strong> Eis que eu sou contra os que profetizam sonhos mentirosos, diz o Senhor, e os contam, e fazem errar o meu povo com as suas mentiras e com as suas leviandades; pois eu não os enviei, nem lhes dei ordem; e não trouxeram proveito algum a este povo, diz o Senhor.</p>\n<p><strong>33</strong> Quando, pois, te perguntar este povo, ou qualquer profeta, ou sacerdote, dizendo: Qual é o peso do Senhor? Então lhe dirás: Este é o peso: Que vos deixarei, diz o Senhor.</p>\n<p><strong>34</strong> E, quanto ao profeta, e ao sacerdote, e ao povo, que disser: Peso do Senhor, eu castigarei o tal homem e a sua casa.</p>\n<p><strong>35</strong> Assim direis, cada um ao seu próximo, e cada um ao seu irmão: Que respondeu o Senhor? E que falou o Senhor?</p>\n<p><strong>36</strong> Mas nunca mais vos lembrareis do peso do Senhor; porque a cada um lhe servirá de peso a sua própria palavra; pois torceis as palavras do Deus vivo, do Senhor dos Exércitos, o nosso Deus.</p>\n<p><strong>37</strong> Assim dirás ao profeta: Que te respondeu o Senhor, e que falou o Senhor?</p>\n<p><strong>38</strong> Mas, porque dizeis: Peso do Senhor; assim o diz o Senhor: Porque dizeis esta palavra: Peso do Senhor, havendo-vos ordenado, dizendo: Não direis: Peso do Senhor;</p>\n<p><strong>39</strong> Por isso, eis que também eu me esquecerei totalmente de vós, e tirarei da minha presença, a vós e a cidade que vos dei a vós e a vossos pais;</p>\n<p><strong>40</strong> E porei sobre vós perpétuo opróbrio, e eterna vergonha, que não será esquecida.</p>\n<hr>\n<p><a href=\"capitulo_22.md\">&lt;- Jeremias 22</a> | <a href=\"capitulo_24.md\">Jeremias 24 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "24": "<h1>Jeremias - Capítulo 24</h1>\n<p><strong>1</strong> Fez-me o Senhor ver, e eis dois cestos de figos, postos diante do templo do Senhor, depois que Nabucodonosor, rei de Babilônia, levou em cativeiro a Jeconias, filho de Jeoiaquim, rei de Judá, e os príncipes de Judá, e os carpinteiros, e os ferreiros de Jerusalém, e os trouxe a Babilônia.</p>\n<p><strong>2</strong> Um cesto tinha figos muito bons, como os figos temporãos; mas o outro cesto tinha figos muito ruins, que não se podiam comer, de ruins que eram.</p>\n<p><strong>3</strong> E disse-me o Senhor: Que vês tu, Jeremias? E eu disse: Figos: os figos bons, muito bons e os ruins, muito ruins, que não se podem comer, de ruins que são.</p>\n<p><strong>4</strong> Então veio a mim a palavra do Senhor, dizendo:</p>\n<p><strong>5</strong> Assim diz o Senhor, o Deus de Israel: Como a estes bons figos, assim também conhecerei aos de Judá, levados em cativeiro; os quais enviei deste lugar para a terra dos caldeus, para o seu bem.</p>\n<p><strong>6</strong> Porei os meus olhos sobre eles, para o seu bem, e os farei voltar a esta terra, e edificá-los-ei, e não os destruirei; e plantá-los-ei, e não os arrancarei.</p>\n<p><strong>7</strong> E dar-lhes-ei coração para que me conheçam, porque eu sou o Senhor; e ser-me-ão por povo, e eu lhes serei por Deus; porque se converterão a mim de todo o seu coração.</p>\n<p><strong>8</strong> E como os figos ruins, que se não podem comer, de ruins que são (porque assim diz o Senhor), assim entregarei Zedequias, rei de Judá, e os seus príncipes, e o restante de Jerusalém, que ficou nesta terra, e os que habitam na terra do Egito.</p>\n<p><strong>9</strong> E entregá-los-ei para que sejam um prejuízo, uma ofensa para todos os reinos da terra, um opróbrio e um provérbio, e um escárnio, e uma maldição em todos os lugares para onde eu os arrojar.</p>\n<p><strong>10</strong> E enviarei entre eles a espada, a fome, e a peste, até que se consumam de sobre a terra que lhes dei a eles e a seus pais.</p>\n<hr>\n<p><a href=\"capitulo_23.md\">&lt;- Jeremias 23</a> | <a href=\"capitulo_25.md\">Jeremias 25 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "25": "<h1>Jeremias - Capítulo 25</h1>\n<p><strong>1</strong> A palavra que veio a Jeremias acerca de todo o povo de Judá no quarto ano de Jeoiaquim, filho de Josias, rei de Judá (que é o primeiro ano de Nabucodonosor, rei de Babilônia),</p>\n<p><strong>2</strong> A qual anunciou o profeta Jeremias a todo o povo de Judá, e a todos os habitantes de Jerusalém, dizendo:</p>\n<p><strong>3</strong> Desde o ano treze de Josias, filho de Amom, rei de Judá, até o dia de hoje, período de vinte e três anos, tem vindo a mim a palavra do Senhor, e vo-la tenho anunciado, madrugando e falando; mas vós não escutastes.</p>\n<p><strong>4</strong> Também vos enviou o Senhor todos os seus servos, os profetas, madrugando e enviando-os, mas vós não escutastes, nem inclinastes os vossos ouvidos para ouvir,</p>\n<p><strong>5</strong> Quando diziam: Convertei-vos agora cada um do seu mau caminho, e da maldade das suas ações, e habitai na terra que o Senhor vos deu, e a vossos pais, para sempre.</p>\n<p><strong>6</strong> E não andeis após outros deuses para os servirdes, e para vos inclinardes diante deles, nem me provoqueis à ira com a obra de vossas mãos, para que não vos faça mal.</p>\n<p><strong>7</strong> Porém não me destes ouvidos, diz o Senhor, mas me provocastes à ira com a obra de vossas mãos, para vosso mal.</p>\n<p><strong>8</strong> Portanto assim diz o Senhor dos Exércitos: Visto que não escutastes as minhas palavras,</p>\n<p><strong>9</strong> Eis que eu enviarei, e tomarei a todas as famílias do norte, diz o Senhor, como também a Nabucodonosor, rei de Babilônia, meu servo, e os trarei sobre esta terra, e sobre os seus moradores, e sobre todas estas nações em redor, e os destruirei totalmente, e farei que sejam objeto de espanto, e de assobio, e de perpétuas desolações.</p>\n<p><strong>10</strong> E farei desaparecer dentre eles a voz de gozo, e a voz de alegria, a voz do esposo, e a voz da esposa, como também o som das mós, e a luz do candeeiro.</p>\n<p><strong>11</strong> E toda esta terra virá a ser um deserto e um espanto; e estas nações servirão ao rei de Babilônia setenta anos.</p>\n<p><strong>12</strong> Acontecerá, porém, que, quando se cumprirem os setenta anos, visitarei o rei de Babilônia, e esta nação, diz o Senhor, castigando a sua iniquidade, e a da terra dos caldeus; farei deles ruínas perpétuas.</p>\n<p><strong>13</strong> E trarei sobre aquela terra todas as minhas palavras, que disse contra ela, a saber, tudo quanto está escrito neste livro, que profetizou Jeremias contra todas estas nações.</p>\n<p><strong>14</strong> Porque também deles se servirão muitas nações e grandes reis; assim lhes retribuirei segundo os seus feitos, e segundo as obras das suas mãos.</p>\n<p><strong>15</strong> Porque assim me disse o Senhor Deus de Israel: Toma da minha mão este copo do vinho do furor, e darás a beber dele a todas as nações, às quais eu te enviarei.</p>\n<p><strong>16</strong> Para que bebam e tremam, e enlouqueçam, por causa da espada, que eu enviarei entre eles.</p>\n<p><strong>17</strong> E tomei o copo da mão do Senhor, e dei a beber a todas as nações, às quais o Senhor me enviou;</p>\n<p><strong>18</strong> A Jerusalém, e às cidades de Judá, e aos seus reis, e aos seus príncipes, para fazer deles uma desolação, um espanto, um assobio, e uma maldição, como hoje se vê;</p>\n<p><strong>19</strong> A Faraó, rei do Egito, e a seus servos, e a seus príncipes, e a todo o seu povo;</p>\n<p><strong>20</strong> E a toda a mistura de povo, e a todos os reis da terra de Uz, e a todos os reis da terra dos filisteus, e a Ascalom, e a Gaza, e a Ecrom, e ao remanescente de Asdode,</p>\n<p><strong>21</strong> E a Edom, e a Moabe, e aos filhos de Amom;</p>\n<p><strong>22</strong> E a todos os reis de Tiro, e a todos os reis de Sidom; e aos reis das ilhas que estão além do mar;</p>\n<p><strong>23</strong> A Dedã, e a Tema, e a Buz e a todos os que estão nos lugares mais distantes.</p>\n<p><strong>24</strong> E a todos os reis da Arábia, e todos os reis do povo misto que habita no deserto;</p>\n<p><strong>25</strong> E a todos os reis de Zinri, e a todos os reis de Elão, e a todos os reis da Média;</p>\n<p><strong>26</strong> E a todos os reis do norte, os de perto, e os de longe, tanto um como o outro, e a todos os reinos do mundo, que estão sobre a face da terra, e o rei de Sesaque beberá depois deles.</p>\n<p><strong>27</strong> Pois lhes dirás: Assim diz o Senhor dos Exércitos, o Deus de Israel: Bebei, e embebedai-vos, e vomitai, e caí, e não torneis a levantar-vos, por causa da espada que eu vos enviarei.</p>\n<p><strong>28</strong> E será que, se não quiserem tomar o copo da tua mão para beber, então lhes dirás: Assim diz o Senhor dos Exércitos: Certamente bebereis.</p>\n<p><strong>29</strong> Porque, eis que na cidade que se chama pelo meu nome começo a castigar; e ficareis vós totalmente impunes? Não ficareis impunes, porque eu chamo a espada sobre todos os moradores da terra, diz o Senhor dos Exércitos.</p>\n<p><strong>30</strong> Tu, pois, lhes profetizarás todas estas palavras, e lhes dirás: O Senhor desde o alto bramirá, e fará ouvir a sua voz desde a morada da sua santidade; terrivelmente bramirá contra a sua habitação, com grito de alegria, como dos que pisam as uvas, contra todos os moradores da terra.</p>\n<p><strong>31</strong> Chegará o estrondo até à extremidade da terra, porque o Senhor tem contenda com as nações, entrará em juízo com toda a carne; os ímpios entregará à espada, diz o Senhor.</p>\n<p><strong>32</strong> Assim diz o Senhor dos Exércitos: Eis que o mal passa de nação para nação, e grande tormenta se levantará dos confins da terra.</p>\n<p><strong>33</strong> E serão os mortos do Senhor, naquele dia, desde uma extremidade da terra até à outra; não serão pranteados, nem recolhidos, nem sepultados; mas serão por esterco sobre a face da terra.</p>\n<p><strong>34</strong> Uivai, pastores, e clamai, e revolvei-vos na cinza, principais do rebanho, porque já se cumpriram os vossos dias para serdes mortos, e dispersos, e vós então caireis como um vaso precioso.</p>\n<p><strong>35</strong> E não haverá refúgio para os pastores, nem salvamento para os principais do rebanho.</p>\n<p><strong>36</strong> Voz de grito dos pastores, e uivos dos principais do rebanho; porque o Senhor está destruindo o pasto deles.</p>\n<p><strong>37</strong> Porque as suas malhadas pacíficas serão desarraigadas, por causa do furor da ira do Senhor.</p>\n<p><strong>38</strong> Deixou a sua tenda, como o filho de leão; porque a sua terra foi posta em desolação, por causa do furor do opressor, e por causa do furor da sua ira.</p>\n<hr>\n<p><a href=\"capitulo_24.md\">&lt;- Jeremias 24</a> | <a href=\"capitulo_26.md\">Jeremias 26 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "26": "<h1>Jeremias - Capítulo 26</h1>\n<p><strong>1</strong> No princípio do reinado de Jeoiaquim, filho de Josias, rei de Judá, veio esta palavra do Senhor, dizendo:</p>\n<p><strong>2</strong> Assim diz o Senhor: Põe-te no átrio da casa do Senhor e dize a todas as cidades de Judá, que vêm adorar na casa do Senhor, todas as palavras que te mandei que lhes dissesses; não omitas nenhuma palavra.</p>\n<p><strong>3</strong> Bem pode ser que ouçam, e se convertam cada um do seu mau caminho, e eu me arrependa do mal que intento fazer-lhes por causa da maldade das suas ações.</p>\n<p><strong>4</strong> Dize-lhes pois: Assim diz o Senhor: Se não me derdes ouvidos para andardes na minha lei, que pus diante de vós,</p>\n<p><strong>5</strong> Para que ouvísseis as palavras dos meus servos, os profetas, que eu vos envio, madrugando e enviando, mas não ouvistes;</p>\n<p><strong>6</strong> Então farei que esta casa seja como Siló, e farei desta cidade uma maldição para todas as nações da terra.</p>\n<p><strong>7</strong> Os sacerdotes, e os profetas, e todo o povo, ouviram a Jeremias, falando estas palavras na casa do Senhor.</p>\n<p><strong>8</strong> E sucedeu que, acabando Jeremias de dizer tudo quanto o Senhor lhe havia ordenado que dissesse a todo o povo, pegaram nele os sacerdotes, e os profetas, e todo o povo, dizendo: Certamente morrerás,</p>\n<p><strong>9</strong> Por que profetizaste no nome do Senhor, dizendo: Como Siló será esta casa, e esta cidade será assolada, de sorte que não fique nenhum morador nela? E ajuntou-se todo o povo contra Jeremias, na casa do Senhor.</p>\n<p><strong>10</strong> E, ouvindo os príncipes de Judá estas palavras, subiram da casa do rei à casa do Senhor, e se assentaram à entrada da porta nova do Senhor.</p>\n<p><strong>11</strong> Então falaram os sacerdotes e os profetas aos príncipes e a todo o povo, dizendo: Este homem é réu de morte, porque profetizou contra esta cidade, como ouvistes com os vossos ouvidos.</p>\n<p><strong>12</strong> E falou Jeremias a todos os príncipes e a todo o povo, dizendo: O Senhor me enviou a profetizar contra esta casa, e contra esta cidade, todas as palavras que ouvistes.</p>\n<p><strong>13</strong> Agora, pois, melhorai os vossos caminhos e as vossas ações, e ouvi a voz do Senhor vosso Deus, e arrepender-se-á o Senhor do mal que falou contra vós.</p>\n<p><strong>14</strong> Quanto a mim, eis que estou nas vossas mãos; fazei de mim conforme o que for bom e reto aos vossos olhos.</p>\n<p><strong>15</strong> Sabei, porém, com certeza que, se me matardes, trareis sangue inocente sobre vós, e sobre esta cidade, e sobre os seus habitantes; porque, na verdade, o Senhor me enviou a vós, para dizer aos vossos ouvidos todas estas palavras.</p>\n<p><strong>16</strong> Então disseram os príncipes, e todo o povo aos sacerdotes e aos profetas: Este homem não é réu de morte, porque em nome do Senhor, nosso Deus, nos falou.</p>\n<p><strong>17</strong> Também se levantaram alguns homens dentre os anciãos da terra, e falaram a toda a congregação do povo, dizendo:</p>\n<p><strong>18</strong> Miqueias, o morastita, profetizou nos dias de Ezequias, rei de Judá, e falou a todo o povo de Judá, dizendo: Assim disse o Senhor dos Exércitos: Sião será lavrada como um campo, e Jerusalém se tornará em montões de pedras, e o monte desta casa como os altos de um bosque.</p>\n<p><strong>19</strong> Mataram-no, porventura, Ezequias, rei de Judá, e todo o Judá? Antes não temeu ao Senhor, e não implorou o favor do Senhor? E o Senhor não se arrependeu do mal que falara contra eles? Nós fazemos um grande mal contra as nossas almas.</p>\n<p><strong>20</strong> Também houve outro homem que profetizava em nome do Senhor, a saber: Urias, filho de Semaías de Quiriate-Jearim, o qual profetizou contra esta cidade, e contra esta terra, conforme todas as palavras de Jeremias.</p>\n<p><strong>21</strong> E, ouvindo o rei Jeoiaquim, e todos os seus poderosos e todos os príncipes, as suas palavras, procurou o rei matá-lo; mas ouvindo isto, Urias temeu e fugiu, e foi para o Egito;</p>\n<p><strong>22</strong> Mas o rei Jeoiaquim enviou alguns homens ao Egito, a saber: Elnatã, filho de Acbor, e outros homens com ele, ao Egito.</p>\n<p><strong>23</strong> Os quais tiraram a Urias do Egito, e o trouxeram ao rei Jeoiaquim, que o feriu à espada, e lançou o seu cadáver nas sepulturas dos filhos do povo.</p>\n<p><strong>24</strong> Porém a mão de Aicão, filho de Safã, foi com Jeremias, para que o não entregassem na mão do povo, para ser morto.</p>\n<hr>\n<p><a href=\"capitulo_25.md\">&lt;- Jeremias 25</a> | <a href=\"capitulo_27.md\">Jeremias 27 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "27": "<h1>Jeremias - Capítulo 27</h1>\n<p><strong>1</strong> No princípio do reinado de Jeoiaquim, filho de Josias, rei de Judá, veio esta palavra a Jeremias da parte do Senhor, dizendo:</p>\n<p><strong>2</strong> Assim me disse o Senhor: Faze uns grilhões e jugos, e põe-nos ao teu pescoço.</p>\n<p><strong>3</strong> E envia-os ao rei de Edom, e ao rei de Moabe, e ao rei dos filhos de Amom, e ao rei de Tiro, e ao rei de Sidom, pela mão dos mensageiros que vêm a Jerusalém a ter com Zedequias, rei de Judá.</p>\n<p><strong>4</strong> E lhes ordenarás, que digam aos seus senhores: Assim diz o Senhor dos Exércitos, o Deus de Israel: Assim direis a vossos senhores:</p>\n<p><strong>5</strong> Eu fiz a terra, o homem, e os animais que estão sobre a face da terra, com o meu grande poder, e com o meu braço estendido, e a dou a quem é reto aos meus olhos.</p>\n<p><strong>6</strong> E agora eu entreguei todas estas terras na mão de Nabucodonosor, rei de Babilônia, meu servo; e ainda até os animais do campo lhe dei, para que o sirvam.</p>\n<p><strong>7</strong> E todas as nações servirão a ele, e a seu filho, e ao filho de seu filho, até que também venha o tempo da sua própria terra, quando muitas nações e grandes reis se servirão dele.</p>\n<p><strong>8</strong> E acontecerá que, se alguma nação e reino não servirem o mesmo Nabucodonosor, rei de Babilônia, e não puserem o seu pescoço debaixo do jugo do rei de Babilônia, a essa nação castigarei com espada, e com fome, e com peste, diz o Senhor, até que a consuma pela sua mão;</p>\n<p><strong>9</strong> E vós não deis ouvidos aos vossos profetas, e aos vossos adivinhos, e aos vossos sonhos, e aos vossos agoureiros, e aos vossos encantadores, que vos falam, dizendo: Não servireis ao rei de Babilônia.</p>\n<p><strong>10</strong> Porque mentiras vos profetizam, para vos mandarem para longe da vossa terra, e para que eu vos expulse dela, e pereçais.</p>\n<p><strong>11</strong> Mas a nação que colocar o seu pescoço sob o jugo do rei de Babilônia, e o servir, eu a deixarei na sua terra, diz o Senhor, e lavrá-la-á e habitará nela.</p>\n<p><strong>12</strong> E falei com Zedequias, rei de Judá, conforme todas estas palavras, dizendo: Colocai os vossos pescoços no jugo do rei de Babilônia, e servi-o, a ele e ao seu povo, e vivereis.</p>\n<p><strong>13</strong> Por que morrerias tu e o teu povo, à espada, e à fome, e de peste, como o Senhor disse contra a nação que não servir ao rei de Babilônia?</p>\n<p><strong>14</strong> E não deis ouvidos às palavras dos profetas, que vos falam, dizendo: Não servireis ao rei de Babilônia; porque vos profetizam mentiras.</p>\n<p><strong>15</strong> Porque não os enviei, diz o Senhor, e profetizam falsamente em meu nome; para que eu vos lance fora, e pereçais, vós e os profetas que vos profetizam.</p>\n<p><strong>16</strong> Também falei aos sacerdotes, e a todo este povo, dizendo: Assim diz o Senhor: Não deis ouvidos às palavras dos vossos profetas, que vos profetizam, dizendo: Eis que os utensílios da casa do Senhor cedo voltarão de Babilônia, porque vos profetizam mentiras.</p>\n<p><strong>17</strong> Não lhes deis ouvidos, servi ao rei de Babilônia, e vivereis; por que se tornaria esta cidade em desolação?</p>\n<p><strong>18</strong> Porém, se são profetas, e se há palavras do Senhor com eles, orem agora ao Senhor dos Exércitos, para que os utensílios que ficaram na casa do Senhor, e na casa do rei de Judá, e em Jerusalém, não vão para a Babilônia.</p>\n<p><strong>19</strong> Porque assim diz o Senhor dos Exércitos acerca das colunas, e do mar, e das bases, e dos demais utensílios que ficaram na cidade,</p>\n<p><strong>20</strong> Os quais Nabucodonosor, rei de Babilônia, não levou, quando transportou de Jerusalém para Babilônia a Jeconias, filho de Jeoiaquim, rei de Judá, como também a todos os nobres de Judá e de Jerusalém;</p>\n<p><strong>21</strong> Assim, pois, diz o Senhor dos Exércitos, o Deus de Israel, acerca dos utensílios que ficaram na casa do Senhor, e na casa do rei de Judá, e em Jerusalém:</p>\n<p><strong>22</strong> À Babilônia serão levados, e ali ficarão até o dia em que eu os visitarei, diz o Senhor; então os farei subir, e os tornarei a trazer a este lugar.</p>\n<hr>\n<p><a href=\"capitulo_26.md\">&lt;- Jeremias 26</a> | <a href=\"capitulo_28.md\">Jeremias 28 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "28": "<h1>Jeremias - Capítulo 28</h1>\n<p><strong>1</strong> E sucedeu no mesmo ano, no princípio do reinado de Zedequias, rei de Judá, no ano quarto, no mês quinto, que Hananias, filho de Azur, o profeta que era de Gibeom, me falou na casa do Senhor, na presença dos sacerdotes e de todo o povo, dizendo:</p>\n<p><strong>2</strong> Assim fala o Senhor dos Exércitos, o Deus de Israel, dizendo: Eu quebrei o jugo do rei de Babilônia.</p>\n<p><strong>3</strong> Depois de passados dois anos completos, eu tornarei a trazer a este lugar todos os utensílios da casa do Senhor, que deste lugar tomou Nabucodonosor, rei de Babilônia, levando-os a Babilônia.</p>\n<p><strong>4</strong> Também a Jeconias, filho de Jeoiaquim, rei de Judá, e a todos os do cativeiro de Judá, que entraram em Babilônia, eu tornarei a trazer a este lugar, diz o Senhor; porque quebrarei o jugo do rei de Babilônia.</p>\n<p><strong>5</strong> Então falou o profeta Jeremias ao profeta Hananias, na presença dos sacerdotes, e na presença de todo o povo que estava na casa do Senhor.</p>\n<p><strong>6</strong> Disse, pois, Jeremias, o profeta: Amém! Assim faça o Senhor; confirme o Senhor as tuas palavras, que profetizaste, e torne ele a trazer os utensílios da casa do Senhor, e todos os do cativeiro de Babilônia a este lugar.</p>\n<p><strong>7</strong> Mas ouve agora esta palavra, que eu falo aos teus ouvidos e aos ouvidos de todo o povo:</p>\n<p><strong>8</strong> Os profetas que houve antes de mim e antes de ti, desde a antiguidade, profetizaram contra muitas terras, e contra grandes reinos, acerca de guerra, e de mal, e de peste.</p>\n<p><strong>9</strong> O profeta que profetizar de paz, quando se cumprir a palavra desse profeta, será conhecido como o profeta a quem o Senhor na verdade enviou.</p>\n<p><strong>10</strong> Então Hananias, o profeta, tomou o jugo do pescoço do profeta Jeremias, e o quebrou.</p>\n<p><strong>11</strong> E falou Hananias na presença de todo o povo, dizendo: Assim diz o Senhor: Assim, passados dois anos completos, quebrarei o jugo de Nabucodonosor, rei de Babilônia, de sobre o pescoço de todas as nações. E Jeremias, o profeta, seguiu o seu caminho.</p>\n<p><strong>12</strong> Mas veio a palavra do Senhor a Jeremias, depois que Hananias, o profeta, quebrou o jugo de sobre o pescoço de Jeremias, o profeta, dizendo:</p>\n<p><strong>13</strong> Vai, e fala a Hananias, dizendo: Assim diz o Senhor: Jugos de madeira quebraste, mas em vez deles farás jugos de ferro.</p>\n<p><strong>14</strong> Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Jugo de ferro pus sobre o pescoço de todas estas nações, para servirem a Nabucodonosor, rei de Babilônia, e servi-lo-ão, e até os animais do campo lhe dei.</p>\n<p><strong>15</strong> E disse o profeta Jeremias ao profeta Hananias: Ouve agora, Hananias: Não te enviou o Senhor, mas tu fizeste que este povo confiasse em mentiras.</p>\n<p><strong>16</strong> Portanto, assim diz o Senhor: Eis que te lançarei de sobre a face da terra; este ano morrerás, porque falaste em rebeldia contra o Senhor.</p>\n<p><strong>17</strong> E morreu Hananias, o profeta, no mesmo ano, no sétimo mês.</p>\n<hr>\n<p><a href=\"capitulo_27.md\">&lt;- Jeremias 27</a> | <a href=\"capitulo_29.md\">Jeremias 29 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "29": "<h1>Jeremias - Capítulo 29</h1>\n<p><strong>1</strong> E estas são as palavras da carta que Jeremias, o profeta, enviou de Jerusalém, aos que restaram dos anciãos do cativeiro, como também aos sacerdotes, e aos profetas, e a todo o povo que Nabucodonosor havia deportado de Jerusalém para Babilônia</p>\n<p><strong>2</strong> (Depois que saíram de Jerusalém o rei Jeconias, e a rainha, e os eunucos, e os príncipes de Judá e Jerusalém, e os carpinteiros e ferreiros),</p>\n<p><strong>3</strong> Pela mão de Elasa, filho de Safã, e de Gemarias, filho de Hilquias (os quais Zedequias, rei de Judá, tinha enviado a Babilônia, a Nabucodonosor, rei de Babilônia), dizendo:</p>\n<p><strong>4</strong> Assim diz o Senhor dos Exércitos, o Deus de Israel, a todos os do cativeiro, os quais fiz transportar de Jerusalém para Babilônia:</p>\n<p><strong>5</strong> Edificai casas e habitai-as; e plantai jardins, e comei o seu fruto.</p>\n<p><strong>6</strong> Tomai mulheres e gerai filhos e filhas, e tomai mulheres para vossos filhos, e dai vossas filhas a maridos, para que tenham filhos e filhas; e multiplicai-vos ali, e não vos diminuais.</p>\n<p><strong>7</strong> E procurai a paz da cidade, para onde vos fiz transportar em cativeiro, e orai por ela ao Senhor; porque na sua paz vós tereis paz.</p>\n<p><strong>8</strong> Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Não vos enganem os vossos profetas que estão no meio de vós, nem os vossos adivinhos, nem deis ouvidos aos vossos sonhos, que sonhais;</p>\n<p><strong>9</strong> Porque eles vos profetizam falsamente em meu nome; não os enviei, diz o Senhor.</p>\n<p><strong>10</strong> Porque assim diz o Senhor: Certamente que passados setenta anos em Babilônia, vos visitarei, e cumprirei sobre vós a minha boa palavra, tornando a trazer-vos a este lugar.</p>\n<p><strong>11</strong> Porque eu bem sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar o fim que esperais.</p>\n<p><strong>12</strong> Então me invocareis, e ireis, e orareis a mim, e eu vos ouvirei.</p>\n<p><strong>13</strong> E buscar-me-eis, e me achareis, quando me buscardes com todo o vosso coração.</p>\n<p><strong>14</strong> E serei achado de vós, diz o Senhor, e farei voltar os vossos cativos e congregar-vos-ei de todas as nações, e de todos os lugares para onde vos lancei, diz o Senhor, e tornarei a trazer-vos ao lugar de onde vos transportei.</p>\n<p><strong>15</strong> Porque dizeis: O Senhor nos levantou profetas em Babilônia.</p>\n<p><strong>16</strong> Porque assim diz o Senhor acerca do rei que se assenta no trono de Davi, e de todo o povo que habita nesta cidade, vossos irmãos, que não saíram conosco para o cativeiro.</p>\n<p><strong>17</strong> Assim diz o Senhor dos Exércitos: Eis que enviarei entre eles a espada, a fome e a peste, e lhes farei como a figos podres que não se podem comer, de ruins que são.</p>\n<p><strong>18</strong> E persegui-los-ei com a espada, com a fome, e com a peste; e dá-los-ei para deslocarem-se por todos os reinos da terra, para serem uma maldição, e um espanto, e um assobio, e um opróbrio entre todas as nações para onde os tiver lançado.</p>\n<p><strong>19</strong> Porquanto não deram ouvidos às minhas palavras, diz o Senhor, mandando-lhes eu os meus servos, os profetas, madrugando e enviando; mas vós não escutastes, diz o Senhor.</p>\n<p><strong>20</strong> Vós, pois, ouvi a palavra do Senhor, todos os do cativeiro que enviei de Jerusalém a Babilônia.</p>\n<p><strong>21</strong> Assim diz o Senhor dos Exércitos, o Deus de Israel, acerca de Acabe, filho de Colaías, e de Zedequias, filho de Maaseias, que vos profetizam falsamente em meu nome: Eis que os entregarei na mão de Nabucodonosor, rei de Babilônia, e ele os ferirá diante dos vossos olhos.</p>\n<p><strong>22</strong> E todos os transportados de Judá, que estão em Babilônia, tomarão deles uma maldição, dizendo: O Senhor te faça como Zedequias, e como Acabe, os quais o rei de Babilônia assou no fogo;</p>\n<p><strong>23</strong> Porquanto fizeram loucura em Israel, e cometeram adultério com as mulheres dos seus vizinhos, e anunciaram falsamente, em meu nome uma palavra, que não lhes mandei, e eu o sei e sou testemunha disso, diz o Senhor.</p>\n<p><strong>24</strong> E a Semaías, o neelamita, falarás, dizendo:</p>\n<p><strong>25</strong> Assim fala o Senhor dos Exércitos, o Deus de Israel, dizendo: Porquanto tu enviaste no teu nome cartas a todo o povo que está em Jerusalém, como também a Sofonias, filho de Maaseias, o sacerdote, e a todos os sacerdotes, dizendo:</p>\n<p><strong>26</strong> O Senhor te pôs por sacerdote em lugar de Joiada, o sacerdote, para que sejas encarregado da casa do Senhor sobre todo o homem fanático, e que profetiza, para o lançares na prisão e no tronco.</p>\n<p><strong>27</strong> Agora, pois, por que não repreendeste a Jeremias, o anatotita, que vos profetiza?</p>\n<p><strong>28</strong> Porque até nos mandou dizer em Babilônia: Ainda o cativeiro muito há de durar; edificai casas, e habitai nelas; e plantai pomares, e comei o seu fruto.</p>\n<p><strong>29</strong> E leu Sofonias, o sacerdote, esta carta aos ouvidos de Jeremias, o profeta.</p>\n<p><strong>30</strong> E veio a palavra do Senhor a Jeremias, dizendo:</p>\n<p><strong>31</strong> Manda a todos os do cativeiro, dizendo: Assim diz o Senhor acerca de Semaías, o neelamita: Porquanto Semaías vos profetizou, e eu não o enviei, e vos fez confiar em mentiras,</p>\n<p><strong>32</strong> Portanto assim diz o Senhor: Eis que castigarei a Semaías, o neelamita, e a sua descendência; ele não terá ninguém que habite entre este povo, e não verá o bem que hei de fazer ao meu povo, diz o Senhor, porque falou em rebeldia contra o Senhor.</p>\n<hr>\n<p><a href=\"capitulo_28.md\">&lt;- Jeremias 28</a> | <a href=\"capitulo_30.md\">Jeremias 30 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "30": "<h1>Jeremias - Capítulo 30</h1>\n<p><strong>1</strong> A palavra que do Senhor veio a Jeremias, dizendo:</p>\n<p><strong>2</strong> Assim falou o Senhor Deus de Israel, dizendo: Escreve num livro todas as palavras que te tenho falado.</p>\n<p><strong>3</strong> Porque eis que vêm dias, diz o Senhor, em que farei voltar do cativeiro o meu povo Israel, e de Judá, diz o Senhor; e tornarei a trazê-los à terra que dei a seus pais, e a possuirão.</p>\n<p><strong>4</strong> E estas são as palavras que disse o Senhor, acerca de Israel e de Judá.</p>\n<p><strong>5</strong> Porque assim diz o Senhor: Ouvimos uma voz de tremor, de temor mas não de paz.</p>\n<p><strong>6</strong> Perguntai, pois, e vede, se um homem pode dar à luz. Por que, pois, vejo a cada homem com as mãos sobre os lombos como a que está dando à luz? E por que se tornaram pálidos todos os rostos?</p>\n<p><strong>7</strong> Ah! Porque aquele dia é tão grande, que não houve outro semelhante; e é tempo de angústia para Jacó; ele, porém, será salvo dela.</p>\n<p><strong>8</strong> Porque será naquele dia, diz o Senhor dos Exércitos, que eu quebrarei o seu jugo de sobre o teu pescoço, e quebrarei os teus grilhões; e nunca mais se servirão dele os estrangeiros.</p>\n<p><strong>9</strong> Mas servirão ao Senhor, seu Deus, como também a Davi, seu rei, que lhes levantarei.</p>\n<p><strong>10</strong> Não temas, pois, tu, ó meu servo Jacó, diz o Senhor, nem te espantes, ó Israel; porque eis que te livrarei de terras de longe, e à tua descendência da terra do seu cativeiro; e Jacó voltará, e descansará, e ficará em sossego, e não haverá quem o atemorize.</p>\n<p><strong>11</strong> Porque eu sou contigo, diz o Senhor, para te salvar; porquanto darei fim a todas as nações entre as quais te espalhei; a ti, porém, não darei fim, mas castigar-te-ei com medida, e de todo não te terei por inocente.</p>\n<p><strong>12</strong> Porque assim diz o Senhor: A tua ferida é incurável; a tua chaga é dolorosa.</p>\n<p><strong>13</strong> Não há quem defenda a tua causa para te aplicar curativo; não tens remédios que possam curar.</p>\n<p><strong>14</strong> Todos os teus amantes se esqueceram de ti, e não perguntam por ti; porque te feri com ferida de inimigo, e com castigo de quem é cruel, pela grandeza da tua maldade e multidão de teus pecados.</p>\n<p><strong>15</strong> Por que gritas por causa da tua ferida? Tua dor é incurável. Pela grandeza de tua maldade, e multidão de teus pecados, eu fiz estas coisas.</p>\n<p><strong>16</strong> Por isso todos os que te devoram serão devorados; e todos os teus adversários irão, todos eles, para o cativeiro; e os que te roubam serão roubados, e a todos os que te despojam entregarei ao saque.</p>\n<p><strong>17</strong> Porque te restaurarei a saúde, e te curarei as tuas chagas, diz o Senhor; porquanto te chamaram a repudiada, dizendo: É Sião, já ninguém pergunta por ela.</p>\n<p><strong>18</strong> Assim diz o Senhor: Eis que farei voltar do cativeiro as tendas de Jacó, e apiedar-me-ei das suas moradas; e a cidade será reedificada sobre o seu montão, e o palácio permanecerá como habitualmente.</p>\n<p><strong>19</strong> E sairá deles o louvor e a voz de júbilo; e multiplicá-los-ei, e não serão diminuídos, e glorificá-los-ei, e não serão apoucados.</p>\n<p><strong>20</strong> E seus filhos serão como na antiguidade, e a sua congregação será confirmada diante de mim; e castigarei todos os seus opressores.</p>\n<p><strong>21</strong> E os seus nobres serão deles; e o seu governador sairá do meio deles, e o farei aproximar, e ele se chegará a mim; pois, quem de si mesmo se empenharia para chegar-se a mim? Diz o Senhor.</p>\n<p><strong>22</strong> E ser-me-eis por povo, e eu vos serei por Deus.</p>\n<p><strong>23</strong> Eis que a tempestade do Senhor, a sua indignação, já saiu; uma tempestade varredora, cairá cruelmente sobre a cabeça dos ímpios.</p>\n<p><strong>24</strong> Não voltará atrás o furor da ira do Senhor, até que tenha executado e até que tenha cumprido os desígnios do seu coração; no fim dos dias entendereis isto.</p>\n<hr>\n<p><a href=\"capitulo_29.md\">&lt;- Jeremias 29</a> | <a href=\"capitulo_31.md\">Jeremias 31 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "31": "<h1>Jeremias - Capítulo 31</h1>\n<p><strong>1</strong> Naquele tempo, diz o Senhor, serei o Deus de todas as famílias de Israel, e elas serão o meu povo.</p>\n<p><strong>2</strong> Assim diz o Senhor: O povo dos que escaparam da espada achou graça no deserto. Israel mesmo, quando eu o fizer descansar.</p>\n<p><strong>3</strong> Há muito que o Senhor me apareceu, dizendo: Porquanto com amor eterno te amei, por isso com benignidade te atraí.</p>\n<p><strong>4</strong> Ainda te edificarei, e serás edificada, ó virgem de Israel! Ainda serás adornada com os teus tamboris, e sairás nas danças dos que se alegram.</p>\n<p><strong>5</strong> Ainda plantarás vinhas nos montes de Samaria; os plantadores as plantarão e comerão como coisas comuns.</p>\n<p><strong>6</strong> Porque haverá um dia em que gritarão os vigias sobre o monte de Efraim: Levantai-vos, e subamos a Sião, ao Senhor nosso Deus.</p>\n<p><strong>7</strong> Porque assim diz o Senhor: Cantai sobre Jacó com alegria, e exultai por causa do chefe das nações; proclamai, cantai louvores, e dizei: Salva, Senhor, ao teu povo, o restante de Israel.</p>\n<p><strong>8</strong> Eis que os trarei da terra do norte, e os congregarei das extremidades da terra; entre os quais haverá cegos e aleijados, grávidas e as de parto juntamente; em grande congregação voltarão para aqui.</p>\n<p><strong>9</strong> Virão com choro, e com súplicas os levarei; guiá-los-ei aos ribeiros de águas, por caminho direito, no qual não tropeçarão, porque sou um pai para Israel, e Efraim é o meu primogênito.</p>\n<p><strong>10</strong> Ouvi a palavra do Senhor, ó nações, e anunciai-a nas ilhas longínquas, e dizei: Aquele que espalhou a Israel o congregará e o guardará, como o pastor ao seu rebanho.</p>\n<p><strong>11</strong> Porque o Senhor resgatou a Jacó, e o livrou da mão do que era mais forte do que ele.</p>\n<p><strong>12</strong> Assim que virão, e exultarão no alto de Sião, e correrão aos bens do Senhor, ao trigo, e ao mosto, e ao azeite, e aos cordeiros e bezerros; e a sua alma será como um jardim regado, e nunca mais andarão tristes.</p>\n<p><strong>13</strong> Então a virgem se alegrará na dança, como também os jovens e os velhos juntamente; e tornarei o seu pranto em alegria, e os consolarei, e lhes darei alegria em lugar de tristeza.</p>\n<p><strong>14</strong> E saciarei a alma dos sacerdotes com gordura, e o meu povo se fartará dos meus bens, diz o Senhor.</p>\n<p><strong>15</strong> Assim diz o Senhor: Uma voz se ouviu em Ramá, lamentação, choro amargo; Raquel chora seus filhos; não quer ser consolada quanto a seus filhos, porque já não existem.</p>\n<p><strong>16</strong> Assim diz o Senhor: Reprime a tua voz de choro, e as lágrimas de teus olhos; porque há galardão para o teu trabalho, diz o Senhor, pois eles voltarão da terra do inimigo.</p>\n<p><strong>17</strong> E há esperança quanto ao teu futuro, diz o Senhor, porque teus filhos voltarão para os seus termos.</p>\n<p><strong>18</strong> Bem ouvi eu que Efraim se queixava, dizendo: Castigaste-me e fui castigado, como novilho ainda não domado; converte-me, e converter-me-ei, porque tu és o Senhor meu Deus.</p>\n<p><strong>19</strong> Na verdade que, depois que me converti, tive arrependimento; e depois que fui instruído, bati na minha coxa; fiquei confuso, e também me envergonhei; porque suportei o opróbrio da minha mocidade.</p>\n<p><strong>20</strong> Não é Efraim para mim um filho precioso, criança das minhas delícias? Porque depois que falo contra ele, ainda me lembro dele solicitamente; por isso se comovem por ele as minhas entranhas; deveras me compadecerei dele, diz o Senhor.</p>\n<p><strong>21</strong> Levanta para ti sinais, faze para ti altos marcos, aplica o teu coração à vereda, ao caminho por onde andaste; volta, pois, ó virgem de Israel, regressa a estas tuas cidades.</p>\n<p><strong>22</strong> Até quando andarás errante, ó filha rebelde? Porque o Senhor criou uma coisa nova sobre a terra; uma mulher cercará a um homem.</p>\n<p><strong>23</strong> Assim diz o Senhor dos Exércitos, o Deus de Israel: Ainda dirão esta palavra na terra de Judá, e nas suas cidades, quando eu vos restaurar do seu cativeiro: O Senhor te abençoe, ó morada de justiça, ó monte de santidade!</p>\n<p><strong>24</strong> E nela habitarão Judá, e todas as suas cidades juntamente; como também os lavradores e os que pastoreiam o rebanho.</p>\n<p><strong>25</strong> Porque satisfiz a alma cansada, e toda a alma entristecida saciei.</p>\n<p><strong>26</strong> Nisto despertei, e olhei, e o meu sono foi doce para mim.</p>\n<p><strong>27</strong> Eis que dias vêm, diz o Senhor, em que semearei a casa de Israel, e a casa de Judá, com a semente de homens, e com a semente de animais.</p>\n<p><strong>28</strong> E será que, como velei sobre eles, para arrancar, e para derrubar, e para transtornar, e para destruir, e para afligir, assim velarei sobre eles, para edificar e para plantar, diz o Senhor.</p>\n<p><strong>29</strong> Naqueles dias nunca mais dirão: Os pais comeram uvas verdes, e os dentes dos filhos se embotaram.</p>\n<p><strong>30</strong> Mas cada um morrerá pela sua iniquidade; de todo o homem que comer as uvas verdes os dentes se embotarão.</p>\n<p><strong>31</strong> Eis que dias vêm, diz o Senhor, em que farei uma aliança nova com a casa de Israel e com a casa de Judá.</p>\n<p><strong>32</strong> Não conforme a aliança que fiz com seus pais, no dia em que os tomei pela mão, para os tirar da terra do Egito; porque eles invalidaram a minha aliança apesar de eu os haver desposado, diz o Senhor.</p>\n<p><strong>33</strong> Mas esta é a aliança que farei com a casa de Israel depois daqueles dias, diz o Senhor: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo.</p>\n<p><strong>34</strong> E não ensinará mais cada um a seu próximo, nem cada um a seu irmão, dizendo: Conhecei ao Senhor; porque todos me conhecerão, desde o menor até ao maior deles, diz o Senhor; porque lhes perdoarei a sua maldade, e nunca mais me lembrarei dos seus pecados.</p>\n<p><strong>35</strong> Assim diz o Senhor, que dá o sol para luz do dia, e as ordenanças da lua e das estrelas para luz da noite, que agita o mar, bramando as suas ondas; o Senhor dos Exércitos é o seu nome.</p>\n<p><strong>36</strong> Se falharem estas ordenanças de diante de mim, diz o Senhor, deixará também a descendência de Israel de ser uma nação diante de mim para sempre.</p>\n<p><strong>37</strong> Assim disse o Senhor: Se puderem ser medidos os céus lá em cima, e sondados os fundamentos da terra cá em baixo, também eu rejeitarei toda a descendência de Israel, por tudo quanto fizeram, diz o Senhor.</p>\n<p><strong>38</strong> Eis que vêm dias, diz o Senhor, em que esta cidade será reedificada para o Senhor, desde a torre de Hananeel até à porta da esquina.</p>\n<p><strong>39</strong> E a linha de medir estender-se-á para diante dela, até ao outeiro de Garebe, e virar-se-á para Goa.</p>\n<p><strong>40</strong> E todo o vale dos cadáveres e da cinza, e todos os campos até ao ribeiro de Cedrom, até à esquina da porta dos cavalos para o oriente, serão consagrados ao Senhor; não se arrancará nem se derrubará mais eternamente.</p>\n<hr>\n<p><a href=\"capitulo_30.md\">&lt;- Jeremias 30</a> | <a href=\"capitulo_32.md\">Jeremias 32 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "32": "<h1>Jeremias - Capítulo 32</h1>\n<p><strong>1</strong> A palavra que veio a Jeremias da parte do Senhor, no ano décimo de Zedequias, rei de Judá, o qual foi o décimo oitavo ano de Nabucodonosor.</p>\n<p><strong>2</strong> Ora, nesse tempo o exército do rei de Babilônia cercava Jerusalém; e Jeremias, o profeta, estava encerrado no pátio da guarda que estava na casa do rei de Judá;</p>\n<p><strong>3</strong> Porque Zedequias, rei de Judá, o tinha encerrado, dizendo: Por que profetizas tu, dizendo: Assim diz o Senhor: Eis que entrego esta cidade na mão do rei de Babilônia, e ele a tomará;</p>\n<p><strong>4</strong> E Zedequias, rei de Judá, não escapará das mãos dos caldeus; mas certamente será entregue na mão do rei de Babilônia, e com ele falará boca a boca, e os seus olhos verão os dele;</p>\n<p><strong>5</strong> E ele levará Zedequias para Babilônia, e ali estará, até que eu o visite, diz o Senhor e, ainda que pelejeis contra os caldeus, não ganhareis?</p>\n<p><strong>6</strong> Disse, pois, Jeremias: Veio a mim a palavra do Senhor, dizendo:</p>\n<p><strong>7</strong> Eis que Hanameel, filho de Salum, teu tio, virá a ti dizendo: Compra para ti a minha herdade que está em Anatote, pois tens o direito de resgate para comprá-la.</p>\n<p><strong>8</strong> Veio, pois, a mim Hanameel, filho de meu tio, segundo a palavra do Senhor, ao pátio da guarda, e me disse: Compra agora a minha herdade que está em Anatote, na terra de Benjamim; porque teu é o direito de herança, e tens o resgate; compra-a para ti. Então entendi que isto era a palavra do Senhor.</p>\n<p><strong>9</strong> Comprei, pois, a herdade de Hanameel, filho de meu tio, a qual está em Anatote; e pesei-lhe o dinheiro, dezessete siclos de prata.</p>\n<p><strong>10</strong> E assinei a escritura, e selei-a, e fiz confirmar por testemunhas; e pesei-lhe o dinheiro numa balança.</p>\n<p><strong>11</strong> E tomei a escritura da compra, selada segundo a lei e os estatutos, e a cópia aberta.</p>\n<p><strong>12</strong> E dei a escritura da compra a Baruque, filho de Nerias, filho de Maaseias, na presença de Hanameel, filho de meu tio e na presença das testemunhas, que subscreveram a escritura da compra, e na presença de todos os judeus que se assentavam no pátio da guarda.</p>\n<p><strong>13</strong> E dei ordem a Baruque, na presença deles, dizendo:</p>\n<p><strong>14</strong> Assim diz o Senhor dos Exércitos, o Deus de Israel: Toma estas escrituras, este auto de compra, tanto a selada, como a aberta, e coloca-as num vaso de barro, para que se possam conservar muitos dias.</p>\n<p><strong>15</strong> Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Ainda se comprarão casas, e campos, e vinhas nesta terra.</p>\n<p><strong>16</strong> E depois que dei a escritura da compra a Baruque, filho de Nerias, orei ao Senhor, dizendo:</p>\n<p><strong>17</strong> Ah Senhor Deus! Eis que tu fizeste os céus e a terra com o teu grande poder, e com o teu braço estendido; nada há que te seja demasiado difícil;</p>\n<p><strong>18</strong> Tu que usas de benignidade com milhares, e retribuis a maldade dos pais ao seio dos filhos depois deles; o grande, o poderoso Deus cujo nome é o Senhor dos Exércitos;</p>\n<p><strong>19</strong> Grande em conselho, e magnífico em obras; porque os teus olhos estão abertos sobre todos os caminhos dos filhos dos homens, para dar a cada um segundo os seus caminhos e segundo o fruto das suas obras;</p>\n<p><strong>20</strong> Tu puseste sinais e maravilhas na terra do Egito até ao dia de hoje, tanto em Israel, como entre os outros homens, e te fizeste um nome, o qual tu tens neste dia.</p>\n<p><strong>21</strong> E tiraste o teu povo Israel da terra do Egito, com sinais e com maravilhas, e com mão forte, e com braço estendido, e com grande espanto,</p>\n<p><strong>22</strong> E lhes deste esta terra, que juraste a seus pais que lhes havias de dar, terra que mana leite e mel.</p>\n<p><strong>23</strong> E entraram nela, e a possuíram, mas não obedeceram à tua voz, nem andaram na tua lei; tudo o que lhes mandaste que fizessem, eles não o fizeram; por isso ordenaste lhes sucedesse todo este mal.</p>\n<p><strong>24</strong> Eis aqui os valados; já vieram contra a cidade para tomá-la, e a cidade está entregue na mão dos caldeus, que pelejam contra ela, pela espada, pela fome e pela pestilência; e o que disseste se cumpriu, e eis aqui o estás presenciando.</p>\n<p><strong>25</strong> Contudo tu me disseste, ó Senhor Deus: Compra para ti o campo por dinheiro, e faze que o confirmem testemunhas, embora a cidade já esteja entregue na mão dos caldeus.</p>\n<p><strong>26</strong> Então veio a palavra do Senhor a Jeremias, dizendo:</p>\n<p><strong>27</strong> Eis que eu sou o Senhor, o Deus de toda a carne; acaso haveria alguma coisa demasiado difícil para mim?</p>\n<p><strong>28</strong> Portanto assim diz o Senhor: Eis que eu entrego esta cidade na mão dos caldeus, e na mão de Nabucodonosor, rei de Babilônia, e ele a tomará.</p>\n<p><strong>29</strong> E os caldeus, que pelejam contra esta cidade, entrarão nela, e pôr-lhe-ão fogo, e queimarão, as casas sobre cujos terraços queimaram incenso a Baal e ofereceram libações a outros deuses, para me provocarem à ira.</p>\n<p><strong>30</strong> Porque os filhos de Israel e os filhos de Judá não fizeram senão mal aos meus olhos, desde a sua mocidade; porque os filhos de Israel nada fizeram senão provocar-me à ira com as obras das suas mãos, diz o Senhor.</p>\n<p><strong>31</strong> Porque para a minha ira e para o meu furor me tem sido esta cidade, desde o dia em que a edificaram, e até ao dia de hoje, para que a tirasse da minha presença;</p>\n<p><strong>32</strong> Por causa de toda a maldade dos filhos de Israel, e dos filhos de Judá, que fizeram, para me provocarem à ira, eles e os seus reis, os seus príncipes, os seus sacerdotes, e os seus profetas, como também os homens de Judá e os moradores de Jerusalém.</p>\n<p><strong>33</strong> E viraram-me as costas, e não o rosto; ainda que eu os ensinava, madrugando e ensinando-os, contudo eles não deram ouvidos, para receberem o ensino.</p>\n<p><strong>34</strong> Antes puseram as suas abominações na casa que se chama pelo meu nome, para a profanarem.</p>\n<p><strong>35</strong> E edificaram os altos de Baal, que estão no Vale do Filho de Hinom, para fazerem passar seus filhos e suas filhas pelo fogo a Moloque; o que nunca lhes ordenei, nem veio ao meu coração, que fizessem tal abominação, para fazerem pecar a Judá.</p>\n<p><strong>36</strong> E por isso agora assim diz o Senhor, o Deus de Israel, acerca desta cidade, da qual vós dizeis: Já está dada na mão do rei de Babilônia, pela espada, pela fome, e pela pestilência:</p>\n<p><strong>37</strong> Eis que eu os congregarei de todas as terras, para onde os tenho lançado na minha ira, e no meu furor, e na minha grande indignação; e os tornarei a trazer a este lugar, e farei que habitem nele seguramente.</p>\n<p><strong>38</strong> E eles serão o meu povo, e eu lhes serei o seu Deus;</p>\n<p><strong>39</strong> E lhes darei um mesmo coração, e um só caminho, para que me temam todos os dias, para seu bem, e o bem de seus filhos, depois deles.</p>\n<p><strong>40</strong> E farei com eles uma aliança eterna de não me desviar de fazer-lhes o bem; e porei o meu temor nos seus corações, para que nunca se apartem de mim.</p>\n<p><strong>41</strong> E alegrar-me-ei deles, fazendo-lhes bem; e plantá-los-ei nesta terra firmemente, com todo o meu coração e com toda a minha alma.</p>\n<p><strong>42</strong> Porque assim diz o Senhor: Como eu trouxe sobre este povo todo este grande mal, assim eu trarei sobre ele todo o bem que lhes tenho declarado.</p>\n<p><strong>43</strong> E comprar-se-ão campos nesta terra, da qual vós dizeis: Está desolada, sem homens, sem animais; está entregue na mão dos caldeus.</p>\n<p><strong>44</strong> Comprarão campos por dinheiro, e assinarão as escrituras, e as selarão, e farão que confirmem testemunhas, na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, e nas cidades das montanhas, e nas cidades das planícies, e nas cidades do sul; porque os farei voltar do seu cativeiro, diz o Senhor.</p>\n<hr>\n<p><a href=\"capitulo_31.md\">&lt;- Jeremias 31</a> | <a href=\"capitulo_33.md\">Jeremias 33 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "33": "<h1>Jeremias - Capítulo 33</h1>\n<p><strong>1</strong> E veio a palavra do Senhor a Jeremias, segunda vez, estando ele ainda encarcerado no pátio da guarda, dizendo:</p>\n<p><strong>2</strong> Assim diz o Senhor que faz isto, o Senhor que forma isto, para o estabelecer; o Senhor é o seu nome.</p>\n<p><strong>3</strong> Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes.</p>\n<p><strong>4</strong> Porque assim diz o Senhor, o Deus de Israel, acerca das casas desta cidade, e das casas dos reis de Judá, que foram derrubadas com os aríetes e à espada.</p>\n<p><strong>5</strong> Eles entraram a pelejar contra os caldeus, mas isso é para os encher de cadáveres de homens, que feri na minha ira e no meu furor; porquanto escondi o meu rosto desta cidade, por causa de toda a sua maldade.</p>\n<p><strong>6</strong> Eis que eu trarei a ela saúde e cura, e os sararei, e lhes manifestarei abundância de paz e de verdade.</p>\n<p><strong>7</strong> E removerei o cativeiro de Judá e o cativeiro de Israel, e os edificarei como ao princípio.</p>\n<p><strong>8</strong> E os purificarei de toda a sua maldade com que pecaram contra mim; e perdoarei todas as suas maldades, com que pecaram e transgrediram contra mim;</p>\n<p><strong>9</strong> E este lugar me servirá de nome, de gozo, de louvor, e de glória, entre todas as nações da terra, que ouvirem todo o bem que eu lhe faço; e espantar-se-ão e perturbar-se-ão por causa de todo o bem, e por causa de toda a paz que eu lhe dou.</p>\n<p><strong>10</strong> Assim diz o Senhor: Neste lugar de que vós dizeis que está desolado, e sem homem, sem animal nas cidades de Judá, e nas ruas de Jerusalém, que estão assoladas, sem homem, sem morador, sem animal, ainda se ouvirá:</p>\n<p><strong>11</strong> A voz de gozo, e a voz de alegria, a voz do esposo e a voz da esposa, e a voz dos que dizem: Louvai ao Senhor dos Exércitos, porque bom é o Senhor, porque a sua benignidade dura para sempre; dos que trazem ofertas de ação de graças à casa do Senhor; pois farei voltar os cativos da terra como ao princípio, diz o Senhor.</p>\n<p><strong>12</strong> Assim diz o Senhor dos Exércitos: Ainda neste lugar, que está deserto, sem homem nem animal, e em todas as suas cidades, haverá uma morada de pastores, que façam repousar aos seus rebanhos.</p>\n<p><strong>13</strong> Nas cidades das montanhas, nas cidades das planícies, e nas cidades do sul, e na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, ainda passarão os rebanhos pelas mãos dos contadores, diz o Senhor.</p>\n<p><strong>14</strong> Eis que vêm dias, diz o Senhor, em que cumprirei a boa palavra que falei à casa de Israel e à casa de Judá;</p>\n<p><strong>15</strong> Naqueles dias e naquele tempo farei brotar a Davi um Renovo de justiça, e ele fará juízo e justiça na terra.</p>\n<p><strong>16</strong> Naqueles dias Judá será salvo e Jerusalém habitará seguramente; e este é o nome com o qual Deus a chamará: O Senhor é a nossa justiça.</p>\n<p><strong>17</strong> Porque assim diz o Senhor: Nunca faltará a Davi homem que se assente sobre o trono da casa de Israel;</p>\n<p><strong>18</strong> Nem aos sacerdotes levíticos faltará homem diante de mim, que ofereça holocausto, queime oferta de alimentos e faça sacrifício todos os dias.</p>\n<p><strong>19</strong> E veio a palavra do Senhor a Jeremias, dizendo:</p>\n<p><strong>20</strong> Assim diz o Senhor: Se puderdes invalidar a minha aliança com o dia, e a minha aliança com a noite, de tal modo que não haja dia e noite a seu tempo,</p>\n<p><strong>21</strong> Também se poderá invalidar a minha aliança com Davi, meu servo, para que não tenha filho que reine no seu trono; como também com os levitas, sacerdotes, meus ministros.</p>\n<p><strong>22</strong> Como não se pode contar o exército dos céus, nem medir-se a areia do mar, assim multiplicarei a descendência de Davi, meu servo, e os levitas que ministram diante de mim.</p>\n<p><strong>23</strong> E veio ainda a palavra do Senhor a Jeremias, dizendo:</p>\n<p><strong>24</strong> Porventura não tens visto o que tem falado este povo, dizendo: As duas gerações, que o Senhor escolheu, agora as rejeitou? Assim desprezam o meu povo, como se não fora mais uma nação diante deles.</p>\n<p><strong>25</strong> Assim diz o Senhor: Se a minha aliança com o dia e com a noite não permanecer, e eu não puser as ordenanças dos céus e da terra,</p>\n<p><strong>26</strong> Também rejeitarei a descendência de Jacó, e de Davi, meu servo, para que não tome da sua descendência os que dominem sobre a descendência de Abraão, Isaque, e Jacó; porque removerei o seu cativeiro, e apiedar-me-ei deles.</p>\n<hr>\n<p><a href=\"capitulo_32.md\">&lt;- Jeremias 32</a> | <a href=\"capitulo_34.md\">Jeremias 34 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "34": "<h1>Jeremias - Capítulo 34</h1>\n<p><strong>1</strong> A palavra que do Senhor veio a Jeremias, quando Nabucodonosor, rei de Babilônia, e todo o seu exército, e todos os reinos da terra, que estavam sob o domínio da sua mão, e todos os povos, pelejavam contra Jerusalém, e contra todas as suas cidades, dizendo:</p>\n<p><strong>2</strong> Assim diz o Senhor, o Deus de Israel: Vai, e fala a Zedequias, rei de Judá, e dize-lhe: Assim diz o Senhor: Eis que eu entrego esta cidade na mão do rei de Babilônia, o qual queimá-la-á a fogo.</p>\n<p><strong>3</strong> E tu não escaparás da sua mão, antes certamente serás preso e entregue na sua mão; e teus olhos verão os olhos do rei de Babilônia, e ele te falará boca a boca, e entrarás em Babilônia.</p>\n<p><strong>4</strong> Todavia ouve a palavra do Senhor, ó Zedequias, rei de Judá; assim diz o Senhor acerca de ti: Não morrerás à espada.</p>\n<p><strong>5</strong> Em paz morrerás, e conforme as queimas para teus pais, os reis precedentes, que foram antes de ti, assim queimarão para ti, e prantear-te-ão, dizendo: Ah, Senhor! Pois eu disse a palavra, diz o Senhor.</p>\n<p><strong>6</strong> E falou Jeremias, o profeta, a Zedequias, rei de Judá, todas estas palavras, em Jerusalém,</p>\n<p><strong>7</strong> Quando o exército do rei de Babilônia pelejava contra Jerusalém, e contra todas as cidades que restavam de Judá, contra Laquis e contra Azeca; porque estas fortes cidades foram as que ficaram dentre as cidades de Judá.</p>\n<p><strong>8</strong> A palavra que do Senhor veio a Jeremias, depois que o rei Zedequias fez aliança com todo o povo que havia em Jerusalém, para lhes apregoar a liberdade;</p>\n<p><strong>9</strong> Que cada um despedisse livre o seu servo, e cada um a sua serva, hebreu ou hebreia; de maneira que ninguém se fizesse servir deles, sendo judeus, seus irmãos.</p>\n<p><strong>10</strong> E obedeceram todos os príncipes, e todo o povo que havia entrado na aliança, que cada um despedisse livre o seu servo, e cada um a sua serva, de maneira que não se fizessem mais servir deles; obedeceram, pois, e os soltaram,</p>\n<p><strong>11</strong> Mas depois se arrependeram, e fizeram voltar os servos e as servas que haviam despedido libertos, e os sujeitaram por servos e por servas.</p>\n<p><strong>12</strong> Veio, pois, a palavra do Senhor a Jeremias, da parte do Senhor, dizendo:</p>\n<p><strong>13</strong> Assim diz o Senhor, Deus de Israel: Eu fiz aliança com vossos pais, no dia em que os tirei da terra do Egito, da casa da servidão, dizendo:</p>\n<p><strong>14</strong> Ao fim de sete anos libertareis cada um a seu irmão hebreu, que te for vendido, e te houver servido seis anos, e despedi-lo-ás livre de ti; mas vossos pais não me ouviram, nem inclinaram os seus ouvidos.</p>\n<p><strong>15</strong> E vos havíeis hoje arrependido, e fizestes o que é reto aos meus olhos, apregoando liberdade cada um ao seu próximo; e fizestes diante de mim uma aliança, na casa que se chama pelo meu nome;</p>\n<p><strong>16</strong> Mudastes, porém, e profanastes o meu nome, e fizestes voltar cada um ao seu servo, e cada um à sua serva, os quais já tínheis despedido libertos conforme a vontade deles; e os sujeitastes, para que se vos fizessem servos e servas.</p>\n<p><strong>17</strong> Portanto assim diz o Senhor: Vós não me ouvistes a mim, para apregoardes a liberdade, cada um ao seu irmão, e cada um ao seu próximo; pois eis que eu vos apregoo a liberdade, diz o Senhor, para a espada, para a pestilência, e para a fome; e farei que sejais espanto a todos os reinos da terra.</p>\n<p><strong>18</strong> E entregarei os homens que transgrediram a minha aliança, que não cumpriram as palavras da aliança que fizeram diante de mim, com o bezerro, que dividiram em duas partes, e passaram pelo meio das suas porções;</p>\n<p><strong>19</strong> A saber, os príncipes de Judá, e os príncipes de Jerusalém, os eunucos, e os sacerdotes, e todo o povo da terra que passou por meio das porções do bezerro;</p>\n<p><strong>20</strong> Entregá-los-ei, digo, na mão de seus inimigos, e na mão dos que procuram a sua morte, e os cadáveres deles servirão de alimento para as aves dos céus e para os animais da terra.</p>\n<p><strong>21</strong> E até o rei Zedequias, rei de Judá, e seus príncipes entregarei na mão de seus inimigos e na mão dos que procuram a sua morte, a saber, na mão do exército do rei de Babilônia, que já se retirou de vós.</p>\n<p><strong>22</strong> Eis que eu darei ordem, diz o Senhor, e os farei voltar a esta cidade, e pelejarão contra ela, e a tomarão, e a queimarão a fogo; e as cidades de Judá porei em assolação, de sorte que ninguém habite nelas.</p>\n<hr>\n<p><a href=\"capitulo_33.md\">&lt;- Jeremias 33</a> | <a href=\"capitulo_35.md\">Jeremias 35 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "35": "<h1>Jeremias - Capítulo 35</h1>\n<p><strong>1</strong> A palavra que do Senhor veio a Jeremias, nos dias de Jeoiaquim, filho de Josias, rei de Judá, dizendo:</p>\n<p><strong>2</strong> Vai à casa dos recabitas, e fala com eles, e leva-os à casa do Senhor, a uma das câmaras e dá-lhes vinho a beber.</p>\n<p><strong>3</strong> Então tomei a Jazanias, filho de Jeremias, filho de Habazinias, e a seus irmãos, e a todos os seus filhos, e a toda a casa dos recabitas;</p>\n<p><strong>4</strong> E os levei à casa do Senhor, à câmara dos filhos de Hanã, filho de Jigdalias, homem de Deus, que estava junto à câmara dos príncipes, que ficava sobre a câmara de Maaseias, filho de Salum, guarda do vestíbulo;</p>\n<p><strong>5</strong> E pus diante dos filhos da casa dos recabitas taças cheias de vinho, e copos, e disse-lhes: Bebei vinho.</p>\n<p><strong>6</strong> Porém eles disseram: Não beberemos vinho, porque Jonadabe, filho de Recabe, nosso pai, nos ordenou, dizendo: Nunca jamais bebereis vinho, nem vós nem vossos filhos;</p>\n<p><strong>7</strong> Não edificareis casa, nem semeareis semente, nem plantareis vinha, nem a possuireis; mas habitareis em tendas todos os vossos dias, para que vivais muitos dias sobre a face da terra, em que vós andais peregrinando.</p>\n<p><strong>8</strong> Obedecemos, pois, à voz de Jonadabe, filho de Recabe, nosso pai, em tudo quanto nos ordenou; de maneira que não bebemos vinho em todos os nossos dias, nem nós, nem nossas mulheres, nem nossos filhos, nem nossas filhas;</p>\n<p><strong>9</strong> Nem edificamos casas para nossa habitação; nem temos vinha, nem campo, nem semente.</p>\n<p><strong>10</strong> Mas habitamos em tendas, e assim obedecemos e fazemos conforme tudo quanto nos ordenou Jonadabe, nosso pai.</p>\n<p><strong>11</strong> Sucedeu, porém, que, subindo Nabucodonosor, rei de Babilônia, a esta terra, dissemos: Vinde, e vamo-nos a Jerusalém, por causa do exército dos caldeus, e por causa do exército dos sírios; e assim ficamos em Jerusalém.</p>\n<p><strong>12</strong> Então veio a palavra do Senhor a Jeremias, dizendo:</p>\n<p><strong>13</strong> Assim diz o Senhor dos Exércitos, o Deus de Israel: Vai, e dize aos homens de Judá e aos moradores de Jerusalém: Porventura nunca aceitareis instrução, para ouvirdes as minhas palavras? Diz o Senhor.</p>\n<p><strong>14</strong> As palavras de Jonadabe, filho de Recabe, que ordenou a seus filhos que não bebessem vinho, foram guardadas; pois não beberam até este dia, antes obedeceram o mandamento de seu pai; a mim, porém, que vos tenho falado, madrugando e falando, não me ouvistes.</p>\n<p><strong>15</strong> E enviando-os, e dizendo todos os meus servos, os profetas, madrugando, e enviando-os, e dizendo: Convertei-vos, agora, cada um do seu mau caminho, e fazei boas as vossas ações, e não sigais a outros deuses para servi-los; e assim ficareis na terra que vos dei a vós e a vossos pais; porém não inclinastes o vosso ouvido, nem me obedecestes a mim.</p>\n<p><strong>16</strong> Visto que os filhos de Jonadabe, filho de Recabe, guardaram o mandamento de seu pai que ele lhes ordenou, mas este povo não me obedeceu,</p>\n<p><strong>17</strong> Por isso assim diz o Senhor Deus dos Exércitos, o Deus de Israel: Eis que trarei sobre Judá, e sobre todos os moradores de Jerusalém, todo o mal que falei contra eles; pois lhes tenho falado, e não ouviram; e clamei a eles, e não responderam.</p>\n<p><strong>18</strong> E à casa dos recabitas disse Jeremias: Assim diz o Senhor dos Exércitos, o Deus de Israel: Pois que obedecestes ao mandamento de Jonadabe, vosso pai, e guardastes todos os seus mandamentos, e fizestes conforme tudo quanto vos ordenou,</p>\n<p><strong>19</strong> Portanto assim diz o Senhor dos Exércitos, Deus de Israel: Nunca faltará homem a Jonadabe, filho de Recabe, que esteja na minha presença todos os dias.</p>\n<hr>\n<p><a href=\"capitulo_34.md\">&lt;- Jeremias 34</a> | <a href=\"capitulo_36.md\">Jeremias 36 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "36": "<h1>Jeremias - Capítulo 36</h1>\n<p><strong>1</strong> Sucedeu, pois, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá, que veio esta palavra do Senhor a Jeremias, dizendo:</p>\n<p><strong>2</strong> Toma o rolo de um livro, e escreve nele todas as palavras que te tenho falado de Israel, e de Judá, e de todas as nações, desde o dia em que eu te falei, desde os dias de Josias até ao dia de hoje.</p>\n<p><strong>3</strong> Porventura ouvirão os da casa de Judá todo o mal que eu intento fazer-lhes; para que cada qual se converta do seu mau caminho, e eu perdoe a sua maldade e o seu pecado.</p>\n<p><strong>4</strong> Então Jeremias chamou a Baruque, filho de Nerias; e escreveu Baruque da boca de Jeremias no rolo de um livro todas as palavras do Senhor, que ele lhe tinha falado.</p>\n<p><strong>5</strong> E Jeremias deu ordem a Baruque, dizendo: Eu estou encarcerado; não posso entrar na casa do Senhor.</p>\n<p><strong>6</strong> Entra, pois, tu, e pelo rolo que escreveste da minha boca, lê as palavras do Senhor aos ouvidos do povo, na casa do Senhor, no dia de jejum; e também, aos ouvidos de todos os de Judá, que vêm das suas cidades, as lerás.</p>\n<p><strong>7</strong> Pode ser que caia a sua súplica diante do Senhor, e se converta cada um do seu mau caminho; porque grande é a ira e o furor que o Senhor tem expressado contra este povo.</p>\n<p><strong>8</strong> E fez Baruque, filho de Nerias, conforme tudo quanto lhe havia ordenado Jeremias, o profeta, lendo naquele livro as palavras do Senhor, na casa do Senhor.</p>\n<p><strong>9</strong> E aconteceu, no quinto ano de Jeoiaquim, filho de Josias, rei de Judá, no mês nono, que apregoaram jejum diante do Senhor a todo o povo em Jerusalém, como também a todo o povo que vinha das cidades de Judá a Jerusalém.</p>\n<p><strong>10</strong> Leu, pois, Baruque naquele livro as palavras de Jeremias, na casa do Senhor, na câmara de Gemarias, filho de Safã, o escriba, no átrio superior, à entrada da porta nova da casa do Senhor, aos ouvidos de todo o povo.</p>\n<p><strong>11</strong> E, ouvindo Micaías, filho de Gemarias, filho de Safã, todas as palavras do Senhor, daquele livro,</p>\n<p><strong>12</strong> Desceu à casa do rei, à câmara do escriba. E eis que todos os príncipes estavam ali assentados, a saber: Elisama, o escriba, e Delaías, filho de Semaías, e Elnatã, filho de Acbor, e Gemarias, filho de Safã, e Zedequias, filho de Hananias, e todos os outros príncipes.</p>\n<p><strong>13</strong> E Micaías anunciou-lhes todas as palavras que ouvira, quando Baruque leu o livro, aos ouvidos do povo.</p>\n<p><strong>14</strong> Então todos os príncipes mandaram Jeudi, filho de Netanias, filho de Selemias, filho de Cusi, a Baruque, para lhe dizer: O rolo que leste aos ouvidos do povo, toma-o na tua mão, e vem. E Baruque, filho de Nerias, tomou o rolo na sua mão, e foi ter com eles.</p>\n<p><strong>15</strong> E disseram-lhe: Assenta-te agora, e lê-o aos nossos ouvidos. E leu Baruque aos ouvidos deles.</p>\n<p><strong>16</strong> E sucedeu que, ouvindo eles todas aquelas palavras, voltaram-se temerosos uns para os outros, e disseram a Baruque: Sem dúvida alguma anunciaremos ao rei todas estas palavras.</p>\n<p><strong>17</strong> E perguntaram a Baruque, dizendo: Declara-nos agora como escreveste da sua boca todas estas palavras.</p>\n<p><strong>18</strong> E disse-lhes Baruque: Da sua boca ele me ditava todas estas palavras, e eu com tinta as escrevia no livro.</p>\n<p><strong>19</strong> Então disseram os príncipes a Baruque: Vai, esconde-te, tu e Jeremias, e ninguém saiba onde estais.</p>\n<p><strong>20</strong> E foram ter com o rei ao átrio: mas depositaram o rolo na câmara de Elisama, o escriba, e anunciaram aos ouvidos do rei todas aquelas palavras.</p>\n<p><strong>21</strong> Então enviou o rei a Jeudi, para que tomasse o rolo; e Jeudi tomou-o da câmara de Elisama, o escriba, e leu-o aos ouvidos do rei e aos ouvidos de todos os príncipes que estavam em torno do rei.</p>\n<p><strong>22</strong> Ora, o rei estava assentado na casa de inverno, pelo nono mês; e diante dele estava um braseiro aceso.</p>\n<p><strong>23</strong> E sucedeu que, tendo Jeudi lido três ou quatro folhas, cortou-as com um canivete de escrivão, e lançou-as no fogo que havia no braseiro, até que todo o rolo se consumiu no fogo que estava sobre o braseiro.</p>\n<p><strong>24</strong> E não temeram, nem rasgaram as suas vestes, nem o rei, nem nenhum dos seus servos que ouviram todas aquelas palavras.</p>\n<p><strong>25</strong> E, posto que Elnatã, e Delaías, e Gemarias tivessem rogado ao rei que não queimasse o rolo, ele não lhes deu ouvidos.</p>\n<p><strong>26</strong> Antes deu ordem o rei a Jerameel, filho de Hamaleque, e a Seraías, filho de Azriel, e a Selemias, filho de Abdeel, que prendessem a Baruque, o escrivão, e a Jeremias, o profeta; mas o Senhor os escondera.</p>\n<p><strong>27</strong> Então veio a Jeremias a palavra do Senhor, depois que o rei queimara o rolo, com as palavras que Baruque escrevera da boca de Jeremias, dizendo:</p>\n<p><strong>28</strong> Toma ainda outro rolo, e escreve nele todas aquelas palavras que estavam no primeiro rolo, que queimou Jeoiaquim, rei de Judá.</p>\n<p><strong>29</strong> E a Jeoiaquim, rei de Judá, dirás: Assim diz o Senhor: Tu queimaste este rolo, dizendo: Por que escreveste nele, dizendo: Certamente virá o rei de Babilônia, e destruirá esta terra e fará cessar nela homens e animais?</p>\n<p><strong>30</strong> Portanto assim diz o Senhor, acerca de Jeoiaquim, rei de Judá: Não terá quem se assente sobre o trono de Davi, e será lançado o seu cadáver ao calor do dia, e à geada da noite.</p>\n<p><strong>31</strong> E castigarei a sua iniquidade nele, e na sua descendência, e nos seus servos; e trarei sobre ele e sobre os moradores de Jerusalém, e sobre os homens de Judá, todo aquele mal que lhes tenho falado, e não ouviram.</p>\n<p><strong>32</strong> Tomou, pois, Jeremias outro rolo, e deu-o a Baruque, filho de Nerias, o escrivão, o qual escreveu nele, da boca de Jeremias, todas as palavras do livro que Jeoiaquim, rei de Judá, tinha queimado no fogo; e ainda se lhes acrescentaram muitas palavras semelhantes.</p>\n<hr>\n<p><a href=\"capitulo_35.md\">&lt;- Jeremias 35</a> | <a href=\"capitulo_37.md\">Jeremias 37 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "37": "<h1>Jeremias - Capítulo 37</h1>\n<p><strong>1</strong> E Zedequias, filho de Josias, a quem Nabucodonosor, rei de Babilônia, constituiu rei na terra de Judá, reinou em lugar de Conias, filho de Jeoiaquim.</p>\n<p><strong>2</strong> Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do Senhor que falou pelo ministério de Jeremias, o profeta.</p>\n<p><strong>3</strong> Contudo mandou o rei Zedequias a Jucal, filho de Selemias, e a Sofonias, filho de Maaseias, o sacerdote, ao profeta Jeremias, para lhe dizer: Roga agora por nós ao Senhor nosso Deus.</p>\n<p><strong>4</strong> E entrava e saía Jeremias entre o povo, porque não o tinham posto na prisão.</p>\n<p><strong>5</strong> E o exército de Faraó saíra do Egito; e quando os caldeus, que tinham sitiado Jerusalém, ouviram esta notícia, retiraram-se de Jerusalém.</p>\n<p><strong>6</strong> Então veio a Jeremias, o profeta, a palavra do Senhor, dizendo:</p>\n<p><strong>7</strong> Assim diz o Senhor, Deus de Israel: Assim direis ao rei de Judá, que vos enviou a mim para me consultar: Eis que o exército de Faraó, que saiu em vosso socorro, voltará para a sua terra no Egito.</p>\n<p><strong>8</strong> E voltarão os caldeus, e pelejarão contra esta cidade, e a tomarão, e a queimarão a fogo.</p>\n<p><strong>9</strong> Assim diz o Senhor: Não enganeis as vossas almas, dizendo: Sem dúvida se retirarão os caldeus de nós, pois não se retirarão.</p>\n<p><strong>10</strong> Porque ainda que ferísseis a todo o exército dos caldeus, que peleja contra vós, e só ficassem deles homens feridos, cada um levantar-se-ia na sua tenda, e queimaria a fogo esta cidade.</p>\n<p><strong>11</strong> E sucedeu que, subindo de Jerusalém o exército dos caldeus, por causa do exército de Faraó,</p>\n<p><strong>12</strong> Saiu Jeremias de Jerusalém, a fim de ir à terra de Benjamim, para dali se separar no meio do povo.</p>\n<p><strong>13</strong> Mas, estando ele à porta de Benjamim, achava-se ali um capitão da guarda, cujo nome era Jerias, filho de Selemias, filho de Hananias, o qual prendeu a Jeremias, o profeta, dizendo: Tu foges para os caldeus.</p>\n<p><strong>14</strong> E Jeremias disse: Isso é falso, não fujo para os caldeus. Mas ele não lhe deu ouvidos; e assim Jerias prendeu a Jeremias, e o levou aos príncipes.</p>\n<p><strong>15</strong> E os príncipes se iraram muito contra Jeremias, e o feriram; e puseram-no na prisão, na casa de Jônatas, o escrivão; porque a tinham transformado em cárcere.</p>\n<p><strong>16</strong> Entrando, pois, Jeremias nas celas do calabouço, ali ficou muitos dias.</p>\n<p><strong>17</strong> E mandou o rei Zedequias soltá-lo; e o rei lhe perguntou em sua casa, em segredo, e disse: Há porventura alguma palavra do Senhor? E disse Jeremias: Há. E disse ainda: Na mão do rei de Babilônia serás entregue.</p>\n<p><strong>18</strong> Disse mais Jeremias ao rei Zedequias: Em que tenho pecado contra ti, e contra os teus servos, e contra este povo, para que me pusésseis na prisão?</p>\n<p><strong>19</strong> Onde estão agora os vossos profetas, que vos profetizavam, dizendo: O rei de Babilônia não virá contra vós nem contra esta terra?</p>\n<p><strong>20</strong> Ora, pois, ouve agora, ó rei meu senhor: Seja aceita agora a minha súplica diante de ti, e não me deixes tornar à casa de Jônatas, o escriba, para que eu não venha a morrer ali.</p>\n<p><strong>21</strong> Então ordenou o rei Zedequias que pusessem a Jeremias no átrio da guarda; e deram-lhe um pão cada dia, da rua dos padeiros, até que se acabou todo o pão da cidade; assim ficou Jeremias no átrio da guarda.</p>\n<hr>\n<p><a href=\"capitulo_36.md\">&lt;- Jeremias 36</a> | <a href=\"capitulo_38.md\">Jeremias 38 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "38": "<h1>Jeremias - Capítulo 38</h1>\n<p><strong>1</strong> Ouviram, pois, Sefatias, filho de Matã, e Gedalias, filho de Pasur, e Jucal, filho de Selemias, e Pasur, filho de Malquias, as palavras que anunciava Jeremias a todo o povo, dizendo:</p>\n<p><strong>2</strong> Assim diz o Senhor: O que ficar nesta cidade morrerá à espada, de fome e de pestilência; mas o que sair aos caldeus viverá; porque a sua alma lhe será por despojo, e viverá.</p>\n<p><strong>3</strong> Assim diz o Senhor: Esta cidade infalivelmente será entregue na mão do exército do rei de Babilônia, e ele a tomará.</p>\n<p><strong>4</strong> E disseram os príncipes ao rei: Morra este homem, visto que ele assim enfraquece as mãos dos homens de guerra que restam nesta cidade, e as mãos de todo o povo, dizendo-lhes tais palavras; porque este homem não busca a paz para este povo, porém o mal.</p>\n<p><strong>5</strong> E disse o rei Zedequias: Eis que ele está na vossa mão; porque o rei nada pode fazer contra vós.</p>\n<p><strong>6</strong> Então tomaram a Jeremias, e o lançaram na cisterna de Malquias, filho do rei, que estava no átrio da guarda; e desceram a Jeremias com cordas; mas na cisterna não havia água, senão lama; e atolou-se Jeremias na lama.</p>\n<p><strong>7</strong> E, ouvindo Ebede-Meleque, o etíope, um eunuco que então estava na casa do rei, que tinham posto a Jeremias na cisterna (estava, porém, o rei assentado à porta de Benjamim),</p>\n<p><strong>8</strong> Logo Ebede-Meleque saiu da casa do rei, e falou ao rei, dizendo:</p>\n<p><strong>9</strong> Ó rei, senhor meu, estes homens agiram mal em tudo quanto fizeram a Jeremias, o profeta, lançando-o na cisterna; decerto morrerá de fome no lugar onde se acha, pois não há mais pão na cidade.</p>\n<p><strong>10</strong> Então deu ordem o rei a Ebede-Meleque, o etíope, dizendo: Toma contigo daqui trinta homens, e tira a Jeremias, o profeta, da cisterna, antes que morra.</p>\n<p><strong>11</strong> E tomou Ebede-Meleque os homens consigo, e foi à casa do rei, por debaixo da tesouraria, e tomou dali uns trapos velhos e rotos, e roupas velhas, e desceu-os a Jeremias na cisterna por meio de cordas.</p>\n<p><strong>12</strong> E disse Ebede-Meleque, o etíope, a Jeremias: Põe agora estes trapos velhos e rotos, já apodrecidos, nas axilas, calçando as cordas. E Jeremias assim o fez.</p>\n<p><strong>13</strong> E puxaram a Jeremias com as cordas, e o alçaram da cisterna; e ficou Jeremias no átrio da guarda.</p>\n<p><strong>14</strong> Então o rei Zedequias mandou trazer à sua presença Jeremias, o profeta, à terceira entrada da casa do Senhor; e disse o rei a Jeremias: Pergunto-te uma coisa, não me encubras nada.</p>\n<p><strong>15</strong> E disse Jeremias a Zedequias: Se eu te declarar, porventura não me matarás? E se eu te aconselhar, não me ouvirás?</p>\n<p><strong>16</strong> Então jurou o rei Zedequias a Jeremias, em segredo, dizendo: Vive o Senhor, que nos fez esta alma, que não te matarei nem te entregarei na mão destes homens que procuram a tua morte.</p>\n<p><strong>17</strong> Então Jeremias disse a Zedequias: Assim diz o Senhor, Deus dos Exércitos, Deus de Israel: Se voluntariamente saíres aos príncipes do rei de Babilônia, então viverá a tua alma, e esta cidade não se queimará a fogo, e viverás tu e a tua casa.</p>\n<p><strong>18</strong> Mas, se não saíres aos príncipes do rei de Babilônia, então será entregue esta cidade na mão dos caldeus, e queimá-la-ão a fogo, e tu não escaparás da mão deles.</p>\n<p><strong>19</strong> E disse o rei Zedequias a Jeremias: Receio-me dos judeus, que se passaram para os caldeus; que estes me entreguem na mão deles, e escarneçam de mim.</p>\n<p><strong>20</strong> E disse Jeremias: Não te entregarão; ouve, peço-te, a voz do Senhor, conforme a qual eu te falo; e bem te irá, e viverá a tua alma.</p>\n<p><strong>21</strong> Mas, se tu não quiseres sair, esta é a palavra que me mostrou o Senhor:</p>\n<p><strong>22</strong> Eis que todas as mulheres que ficaram na casa do rei de Judá serão levadas aos príncipes do rei de Babilônia, e elas mesmas dirão: Teus pacificadores te incitaram e prevaleceram contra ti, mas agora que se atolaram os teus pés na lama, voltaram atrás.</p>\n<p><strong>23</strong> Assim que a todas as tuas mulheres e a teus filhos levarão aos caldeus, e nem tu escaparás da sua mão, antes pela mão do rei de Babilônia serás preso, e esta cidade será queimada a fogo.</p>\n<p><strong>24</strong> Então disse Zedequias a Jeremias: Ninguém saiba estas palavras, e não morrerás.</p>\n<p><strong>25</strong> E quando os príncipes, ouvindo que falei contigo, vierem a ti, e te disserem: Declara-nos agora o que disseste ao rei e o que ele te disse, não no-lo encubras, e não te mataremos;</p>\n<p><strong>26</strong> Então lhes dirás: Eu lancei a minha súplica diante do rei, que não me fizesse tornar à casa de Jônatas, para morrer ali.</p>\n<p><strong>27</strong> Vindo, pois, todos os príncipes a Jeremias, e interrogando-o, declarou-lhes todas as palavras que o rei lhe havia ordenado; e calados o deixaram, porque o assunto não foi revelado.</p>\n<p><strong>28</strong> E ficou Jeremias no átrio da guarda, até o dia em que Jerusalém foi tomada, e ainda ali estava quando Jerusalém foi tomada.</p>\n<hr>\n<p><a href=\"capitulo_37.md\">&lt;- Jeremias 37</a> | <a href=\"capitulo_39.md\">Jeremias 39 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "39": "<h1>Jeremias - Capítulo 39</h1>\n<p><strong>1</strong> No ano nono de Zedequias, rei de Judá, no décimo mês, veio Nabucodonosor, rei de Babilônia, e todo o seu exército, contra Jerusalém, e a cercaram.</p>\n<p><strong>2</strong> No ano undécimo de Zedequias, no quarto mês, aos nove do mês, fez-se uma brecha na cidade.</p>\n<p><strong>3</strong> Entraram nela todos os príncipes do rei de Babilônia, e pararam na porta do meio, a saber: Nergal-Sarezer, Sangar-Nebo, Sarsequim, Rabe-Saris, Nergal-Sarezer, Rabe-Mague, e todos os outros príncipes do rei de Babilônia.</p>\n<p><strong>4</strong> E sucedeu que, vendo-os Zedequias, rei de Judá, e todos os homens de guerra, fugiram, saindo de noite da cidade, pelo caminho do jardim do rei, pela porta que está entre os dois muros; e seguiram pelo caminho da campina.</p>\n<p><strong>5</strong> Mas o exército dos caldeus os perseguiu, e alcançou a Zedequias nas campinas de Jericó; e eles o prenderam, e fizeram-no subir a Nabucodonosor, rei de Babilônia, a Ribla, na terra de Hamate, e o rei o sentenciou.</p>\n<p><strong>6</strong> E o rei de Babilônia matou em Ribla os filhos de Zedequias, diante dos seus olhos; também matou o rei de Babilônia a todos os nobres de Judá.</p>\n<p><strong>7</strong> E cegou os olhos de Zedequias, e o atou com duas cadeias de bronze, para levá-lo a Babilônia.</p>\n<p><strong>8</strong> E os caldeus incendiaram a casa do rei e as casas do povo, e derrubaram os muros de Jerusalém.</p>\n<p><strong>9</strong> E o restante do povo, que ficou na cidade, e os desertores que se tinham passado para ele, e o restante do povo que ficou, Nebuzaradã, capitão da guarda, levou cativo para a Babilônia.</p>\n<p><strong>10</strong> Porém os pobres dentre o povo, que não tinham nada, Nebuzaradã, capitão da guarda, deixou na terra de Judá; e deu-lhes vinhas e campos naquele dia.</p>\n<p><strong>11</strong> Mas Nabucodonosor, rei de Babilônia, havia ordenado acerca de Jeremias, a Nebuzaradã, capitão da guarda, dizendo:</p>\n<p><strong>12</strong> Toma-o, e põe sobre ele os teus olhos, e não lhe faças nenhum mal; antes como ele te disser, assim procederás com ele.</p>\n<p><strong>13</strong> Por isso mandou Nebuzaradã, capitão da guarda, e Nebusazbã, Rabe-Saris, Nergal-Sarezer, Rabe-Mague, e todos os príncipes do rei de Babilônia,</p>\n<p><strong>14</strong> Mandaram retirar a Jeremias do átrio da guarda, e o entregaram a Gedalias, filho de Aicão, filho de Safã, para que o levassem à casa; e ele habitou entre o povo.</p>\n<p><strong>15</strong> Ora, tinha vindo a Jeremias a palavra do Senhor, estando ele ainda encarcerado no átrio da guarda, dizendo:</p>\n<p><strong>16</strong> Vai, e fala a Ebede-Meleque, o etíope, dizendo: Assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu trarei as minhas palavras sobre esta cidade para mal e não para bem; e cumprir-se-ão diante de ti naquele dia.</p>\n<p><strong>17</strong> A ti, porém, eu livrarei naquele dia, diz o Senhor, e não serás entregue na mão dos homens, a quem temes.</p>\n<p><strong>18</strong> Porque certamente te livrarei, e não cairás à espada; mas a tua alma terás por despojo, porquanto confiaste em mim, diz o Senhor.</p>\n<hr>\n<p><a href=\"capitulo_38.md\">&lt;- Jeremias 38</a> | <a href=\"capitulo_40.md\">Jeremias 40 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "40": "<h1>Jeremias - Capítulo 40</h1>\n<p><strong>1</strong> A palavra que veio a Jeremias da parte do Senhor, depois que Nebuzaradã, capitão da guarda, o deixara ir de Ramá, quando o tomou, estando ele atado com cadeias no meio de todos os do cativeiro de Jerusalém e de Judá, que foram levados cativos para Babilônia.</p>\n<p><strong>2</strong> Tomou o capitão da guarda a Jeremias, e disse-lhe: O Senhor teu Deus pronunciou este mal, contra este lugar.</p>\n<p><strong>3</strong> E o Senhor o trouxe, e fez como havia falado; porque pecastes contra o Senhor, e não obedecestes à sua voz, portanto vos sucedeu isto.</p>\n<p><strong>4</strong> Agora, pois, eis que te soltei hoje das cadeias que estavam sobre as tuas mãos. Se te apraz vir comigo para Babilônia, vem, e eu cuidarei de ti, mas se não te apraz vir comigo para Babilônia, deixa de vir. Olha, toda a terra está diante de ti; para onde parecer bom e reto aos teus olhos ir, para ali vai.</p>\n<p><strong>5</strong> Mas, como ele ainda não tinha voltado, disse-lhe: Volta a Gedalias, filho de Aicão, filho de Safã, a quem o rei de Babilônia pôs sobre as cidades de Judá, e habita com ele no meio do povo; ou se para qualquer outra parte te aprouver ir, vai. E deu-lhe o capitão da guarda sustento para o caminho, e um presente, e o deixou ir.</p>\n<p><strong>6</strong> Assim veio Jeremias a Gedalias, filho de Aicão, a Mizpá; e habitou com ele no meio do povo que havia ficado na terra.</p>\n<p><strong>7</strong> Ouvindo, pois, todos os capitães dos exércitos, que estavam no campo, eles e os seus homens, que o rei de Babilônia tinha nomeado a Gedalias, filho de Aicão, governador da terra, e que lhe havia confiado os homens, e as mulheres, e os meninos, e os mais pobres da terra, que não foram levados cativos a Babilônia,</p>\n<p><strong>8</strong> Vieram ter com Gedalias, a Mizpá; a saber: Ismael, filho de Netanias, e Joanã e Jônatas, filhos de Careá, e Seraías, filho de Tanumete, e os filhos de Efai, o netofatita, e Jezanias, filho de um maacatita, eles e os seus homens.</p>\n<p><strong>9</strong> E jurou Gedalias, filho de Aicão, filho de Safã, a eles e aos seus homens, dizendo: Não temais servir aos caldeus; ficai na terra, e servi o rei de Babilônia, e bem vos irá.</p>\n<p><strong>10</strong> Quanto a mim, eis que habito em Mizpá, para estar às ordens dos caldeus que vierem a nós; e vós recolhei o vinho, e as frutas de verão, e o azeite, e colocai-os nos vossos vasos, e habitai nas vossas cidades, que tomastes.</p>\n<p><strong>11</strong> Do mesmo modo todos os judeus que estavam em Moabe, e entre os filhos de Amom, e em Edom, e os que havia em todas aquelas terras, ouviram que o rei de Babilônia havia deixado alguns em Judá, e que havia posto sobre eles a Gedalias, filho de Aicão, filho de Safã,</p>\n<p><strong>12</strong> Então voltaram todos os judeus de todos os lugares, para onde foram lançados, e vieram à terra de Judá, a Gedalias, a Mizpá; e recolheram vinho e frutas do verão com muita abundância.</p>\n<p><strong>13</strong> Joanã, filho de Careá, e todos os capitães dos exércitos, que estavam no campo, vieram a Gedalias, a Mizpá.</p>\n<p><strong>14</strong> E disseram-lhe: Bem sabes que Baalis, rei dos filhos de Amom, enviou a Ismael, filho de Netanias, para tirar-te a vida. Mas, Gedalias, filho de Aicão, não lhes deu crédito.</p>\n<p><strong>15</strong> Todavia Joanã, filho de Careá, falou a Gedalias em segredo, em Mizpá, dizendo: Irei agora, e ferirei a Ismael, filho de Netanias, sem que ninguém o saiba; por que razão te tiraria ele a vida, de modo que todos os judeus, que se têm congregado a ti, fossem dispersos, e perecesse o restante de Judá?</p>\n<p><strong>16</strong> Mas disse Gedalias, filho de Aicão, a Joanã, filho de Careá: Não faças tal coisa; porque falas falsamente contra Ismael.</p>\n<hr>\n<p><a href=\"capitulo_39.md\">&lt;- Jeremias 39</a> | <a href=\"capitulo_41.md\">Jeremias 41 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "41": "<h1>Jeremias - Capítulo 41</h1>\n<p><strong>1</strong> Sucedeu, porém, no mês sétimo, que veio Ismael, filho de Netanias, filho de Elisama, da descendência real, e com ele dez homens, príncipes do rei, a Gedalias, filho de Aicão, a Mizpá; e comeram pão juntos ali em Mizpá.</p>\n<p><strong>2</strong> E levantou-se Ismael, filho de Netanias, com os dez homens que estavam com ele, e feriram à espada a Gedalias, filho de Aicão, filho de Safã, matando assim aquele que o rei de Babilônia havia posto por governador sobre a terra.</p>\n<p><strong>3</strong> Também matou Ismael a todos os judeus que com ele, com Gedalias, estavam em Mizpá, como também aos caldeus, homens de guerra, que se achavam ali.</p>\n<p><strong>4</strong> Sucedeu, pois, no dia seguinte, depois que ele matara a Gedalias, sem ninguém o saber,</p>\n<p><strong>5</strong> Que vieram homens de Siquém, de Siló, e de Samaria; oitenta homens, com a barba rapada, e as vestes rasgadas, e retalhando-se; e trazendo nas suas mãos ofertas e incenso, para levarem à casa do Senhor.</p>\n<p><strong>6</strong> E, saindo-lhes ao encontro Ismael, filho de Netanias, desde Mizpá, ia chorando; e sucedeu que, encontrando-os lhes disse: Vinde a Gedalias, filho de Aicão.</p>\n<p><strong>7</strong> Sucedeu, porém, que, entrando eles até ao meio da cidade, matou-os Ismael, filho de Netanias, e os lançou num poço, ele e os homens que estavam com ele.</p>\n<p><strong>8</strong> Mas houve entre eles dez homens que disseram a Ismael: Não nos mates, porque temos, no campo, tesouros, trigo, cevada, azeite e mel. E ele por isso os deixou, e não os matou entre seus irmãos.</p>\n<p><strong>9</strong> E o poço em que Ismael lançou todos os cadáveres dos homens que matou por causa de Gedalias é o mesmo que fez o rei Asa, por causa de Baasa, rei de Israel; foi esse mesmo que Ismael, filho de Netanias, encheu de mortos.</p>\n<p><strong>10</strong> E Ismael levou cativo a todo o restante do povo que estava em Mizpá, isto é, as filhas do rei, e todo o povo que ficara em Mizpá, que Nebuzaradã, capitão da guarda, havia confiado a Gedalias, filho de Aicão; e levou-os cativos Ismael, filho de Netanias, e se foi para passar aos filhos de Amom.</p>\n<p><strong>11</strong> Ouvindo, pois, Joanã, filho de Careá, e todos os capitães dos exércitos que estavam com ele, todo o mal que havia feito Ismael, filho de Netanias,</p>\n<p><strong>12</strong> Tomaram todos os seus homens, e foram pelejar contra Ismael, filho de Netanias; e acharam-no ao pé das grandes águas que há em Gibeom.</p>\n<p><strong>13</strong> E aconteceu que, vendo todo o povo, que estava com Ismael, a Joanã, filho de Careá, e a todos os capitães dos exércitos, que vinham com ele, se alegrou.</p>\n<p><strong>14</strong> E todo o povo que Ismael levara cativo de Mizpá virou as costas, e voltou, e foi para Joanã, filho de Careá.</p>\n<p><strong>15</strong> Mas Ismael, filho de Netanias, escapou com oito homens de diante de Joanã, e se foi para os filhos de Amom.</p>\n<p><strong>16</strong> Então tomou Joanã, filho de Careá, e todos os capitães dos exércitos que estavam com ele, a todo o restante do povo que ele havia recobrado de Ismael, filho de Netanias, desde Mizpá, depois de haver matado a Gedalias, filho de Aicão, isto é, aos homens poderosos de guerra, e às mulheres, e aos meninos, e aos eunucos que havia recobrado de Gibeom.</p>\n<p><strong>17</strong> E partiram, indo habitar em Gerute-Quimã, que está perto de Belém, para dali irem e entrarem no Egito,</p>\n<p><strong>18</strong> Por causa dos caldeus; porque os temiam, por ter Ismael, filho de Netanias, matado a Gedalias, filho de Aicão, a quem o rei de Babilônia tinha feito governador sobre a terra.</p>\n<hr>\n<p><a href=\"capitulo_40.md\">&lt;- Jeremias 40</a> | <a href=\"capitulo_42.md\">Jeremias 42 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "42": "<h1>Jeremias - Capítulo 42</h1>\n<p><strong>1</strong> Então chegaram todos os capitães dos exércitos, e Joanã, filho de Careá, e Jezanias, filho de Hosaías, e todo o povo, desde o menor até ao maior,</p>\n<p><strong>2</strong> E disseram a Jeremias, o profeta: Aceita agora a nossa súplica diante de ti, e roga ao Senhor teu Deus, por nós e por todo este remanescente; porque de muitos restamos uns poucos, como nos veem os teus olhos;</p>\n<p><strong>3</strong> Para que o Senhor teu Deus nos ensine o caminho por onde havemos de andar e aquilo que havemos de fazer.</p>\n<p><strong>4</strong> E disse-lhes Jeremias, o profeta: Eu vos tenho ouvido; eis que orarei ao Senhor vosso Deus conforme as vossas palavras; e seja o que for que o Senhor vos responder eu vo-lo declararei; não vos ocultarei uma só palavra.</p>\n<p><strong>5</strong> Então eles disseram a Jeremias: Seja o Senhor entre nós testemunha verdadeira e fiel, se não fizermos conforme toda a palavra com que te enviar a nós o Senhor teu Deus.</p>\n<p><strong>6</strong> Seja ela boa, ou seja má, à voz do Senhor nosso Deus, a quem te enviamos, obedeceremos, para que nos suceda bem, obedecendo à voz do Senhor nosso Deus.</p>\n<p><strong>7</strong> E sucedeu que ao fim de dez dias veio a palavra do Senhor a Jeremias.</p>\n<p><strong>8</strong> Então chamou a Joanã, filho de Careá, e a todos os capitães dos exércitos, que havia com ele, e a todo o povo, desde o menor até ao maior,</p>\n<p><strong>9</strong> E disse-lhes: Assim diz o Senhor, Deus de Israel, a quem me enviastes, para apresentar a vossa súplica diante dele:</p>\n<p><strong>10</strong> Se de boa mente ficardes nesta terra, então vos edificarei, e não vos derrubarei; e vos plantarei, e não vos arrancarei; porque estou arrependido do mal que vos tenho feito.</p>\n<p><strong>11</strong> Não temais o rei de Babilônia, a quem vós temeis; não o temais, diz o Senhor, porque eu sou convosco, para vos salvar e para vos livrar da sua mão.</p>\n<p><strong>12</strong> E vos concederei misericórdia, para que ele tenha misericórdia de vós, e vos faça voltar à vossa terra.</p>\n<p><strong>13</strong> Mas se vós disserdes: Não ficaremos nesta terra, não obedecendo à voz do Senhor vosso Deus,</p>\n<p><strong>14</strong> Dizendo: Não, antes iremos à terra do Egito, onde não veremos guerra, nem ouviremos som de trombeta, nem teremos fome de pão, e ali ficaremos,</p>\n<p><strong>15</strong> Nesse caso ouvi a palavra do Senhor, ó remanescente de Judá: Assim diz o Senhor dos Exércitos, Deus de Israel: Se vós absolutamente propuserdes a entrar no Egito, e entrardes para lá habitar,</p>\n<p><strong>16</strong> Acontecerá que a espada que vós temeis vos alcançará ali na terra do Egito, e a fome que vós receais vos seguirá de perto no Egito, e ali morrereis.</p>\n<p><strong>17</strong> Assim será com todos os homens que puseram os seus rostos para entrarem no Egito, a fim de lá habitarem: morrerão à espada, e de fome, e de peste; e deles não haverá quem reste e escape do mal que eu farei vir sobre eles.</p>\n<p><strong>18</strong> Porque assim diz o Senhor dos Exércitos, Deus de Israel: Como se derramou a minha ira e a minha indignação sobre os habitantes de Jerusalém, assim se derramará a minha indignação sobre vós, quando entrardes no Egito; e sereis objeto de maldição, e de espanto, e de execração, e de opróbrio, e não vereis mais este lugar.</p>\n<p><strong>19</strong> Falou o Senhor acerca de vós, ó remanescente de Judá! Não entreis no Egito; tende por certo que hoje testifiquei contra vós.</p>\n<p><strong>20</strong> Porque vos enganastes a vós mesmos, pois me enviastes ao Senhor vosso Deus, dizendo: Ora por nós ao Senhor nosso Deus; e conforme tudo o que disser o Senhor nosso Deus, declara-no-lo assim, e o faremos.</p>\n<p><strong>21</strong> E vo-lo tenho declarado hoje; mas não destes ouvidos à voz do Senhor vosso Deus, em coisa alguma pela qual ele me enviou a vós.</p>\n<p><strong>22</strong> Agora, pois, sabei por certo que morrereis à espada, de fome e de peste no mesmo lugar onde desejais ir, para lá morardes.</p>\n<hr>\n<p><a href=\"capitulo_41.md\">&lt;- Jeremias 41</a> | <a href=\"capitulo_43.md\">Jeremias 43 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "43": "<h1>Jeremias - Capítulo 43</h1>\n<p><strong>1</strong> E sucedeu que, acabando Jeremias de falar a todo o povo todas as palavras do Senhor seu Deus, com as quais o Senhor seu Deus lho havia enviado, para que lhes dissesse todas estas palavras,</p>\n<p><strong>2</strong> Então falaram Azarias, filho de Hosaías, e Joanã, filho de Careá, e todos os homens soberbos, dizendo a Jeremias: Tu dizes mentiras; o Senhor nosso Deus não te enviou a dizer: Não entreis no Egito, para ali habitar;</p>\n<p><strong>3</strong> Mas Baruque, filho de Nerias, te incita contra nós, para entregar-nos na mão dos caldeus, para nos matarem, ou para nos levarem cativos para Babilônia.</p>\n<p><strong>4</strong> Não obedeceu, pois, Joanã, filho de Careá, nem nenhum de todos os capitães dos exércitos, nem o povo todo, à voz do Senhor, para ficarem na terra de Judá.</p>\n<p><strong>5</strong> Antes tomou Joanã, filho de Careá, e todos os capitães dos exércitos a todo o restante de Judá, que havia voltado dentre todas as nações, para onde haviam sido lançados, para morarem na terra de Judá;</p>\n<p><strong>6</strong> Aos homens, e às mulheres, e aos meninos, e às filhas do rei, e a toda a alma que Nebuzaradã, capitão da guarda, deixara com Gedalias, filho de Aicão, filho de Safã; como também a Jeremias, o profeta, e a Baruque, filho de Nerias;</p>\n<p><strong>7</strong> E entraram na terra do Egito, porque não obedeceram à voz do Senhor; e vieram até Tafnes.</p>\n<p><strong>8</strong> Então veio a palavra do Senhor a Jeremias, em Tafnes, dizendo:</p>\n<p><strong>9</strong> Toma na tua mão pedras grandes, e esconde-as no barro, no forno que está à entrada da casa de Faraó, em Tafnes, perante os olhos dos homens de Judá,</p>\n<p><strong>10</strong> E dize-lhes: Assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu enviarei, e tomarei a Nabucodonosor, rei de Babilônia, meu servo, e porei o seu trono sobre estas pedras que escondi; e ele estenderá a sua tenda real sobre elas.</p>\n<p><strong>11</strong> E virá, e ferirá a terra do Egito; entregando para a morte, quem é para a morte; e quem é para o cativeiro, para o cativeiro; e quem é para a espada, para a espada.</p>\n<p><strong>12</strong> E lançarei fogo às casas dos deuses do Egito, e queimá-los-á, e levá-los-á cativos; e vestir-se-á da terra do Egito, como veste o pastor a sua roupa, e sairá dali em paz.</p>\n<p><strong>13</strong> E quebrará as estátuas de Bete-Semes, que está na terra do Egito; e as casas dos deuses do Egito queimará a fogo.</p>\n<hr>\n<p><a href=\"capitulo_42.md\">&lt;- Jeremias 42</a> | <a href=\"capitulo_44.md\">Jeremias 44 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "44": "<h1>Jeremias - Capítulo 44</h1>\n<p><strong>1</strong> A palavra que veio a Jeremias, acerca de todos os judeus, habitantes da terra do Egito, que habitavam em Migdol, e em Tafnes, e em Nofe, e na terra de Patros, dizendo:</p>\n<p><strong>2</strong> Assim diz o Senhor dos Exércitos, Deus de Israel: Vós vistes todo o mal que fiz vir sobre Jerusalém, e sobre todas as cidades de Judá; e eis que elas são hoje uma desolação, e ninguém habita nelas;</p>\n<p><strong>3</strong> Por causa da maldade que fizeram, para me irarem, indo queimar incenso, e servir a deuses estranhos, que nunca conheceram, nem eles, nem vós, nem vossos pais.</p>\n<p><strong>4</strong> E eu vos enviei todos os meus servos, os profetas, madrugando e enviando a dizer: Ora, não façais esta coisa abominável que odeio.</p>\n<p><strong>5</strong> Mas eles não escutaram, nem inclinaram os seus ouvidos, para se converterem da sua maldade, para não queimarem incenso a outros deuses.</p>\n<p><strong>6</strong> Derramou-se, pois, a minha indignação e a minha ira, e acendeu-se nas cidades de Judá, e nas ruas de Jerusalém, e elas tornaram-se em deserto e em desolação, como hoje se vê.</p>\n<p><strong>7</strong> Agora, pois, assim diz o Senhor, Deus dos Exércitos, Deus de Israel: Por que fazeis vós tão grande mal contra as vossas almas, para vos desarraigardes, ao homem e à mulher, à criança e ao que mama, do meio de Judá, a fim de não deixardes remanescente algum;</p>\n<p><strong>8</strong> Irando-me com as obras de vossas mãos, queimando incenso a deuses estranhos na terra do Egito, aonde vós entrastes para lá habitar; para que a vós mesmos vos desarraigueis, e para que sirvais de maldição, e de opróbrio entre todas as nações da terra?</p>\n<p><strong>9</strong> Esquecestes já as maldades de vossos pais, e as maldades dos reis de Judá, e as maldades de suas mulheres, e as vossas maldades, e as maldades de vossas mulheres, que cometeram na terra de Judá, e nas ruas de Jerusalém?</p>\n<p><strong>10</strong> Não se humilharam até ao dia de hoje, nem temeram, nem andaram na minha lei, nem nos meus estatutos, que pus diante de vós e diante de vossos pais.</p>\n<p><strong>11</strong> Portanto assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu ponho o meu rosto contra vós para mal, e para desarraigar a todo o Judá.</p>\n<p><strong>12</strong> E tomarei os que restam de Judá, os quais puseram os seus rostos para entrarem na terra do Egito, para lá habitar e todos eles serão consumidos na terra do Egito; cairão à espada, e de fome morrerão; consumir-se-ão, desde o menor até ao maior; à espada e de fome morrerão; e servirão de execração, e de espanto, e de maldição, e de opróbrio.</p>\n<p><strong>13</strong> Porque castigarei os que habitam na terra do Egito, como castiguei Jerusalém, com a espada, com a fome e com a peste.</p>\n<p><strong>14</strong> De maneira que da parte remanescente de Judá, que entrou na terra do Egito, para lá habitar, não haverá quem escape e fique para tornar à terra de Judá, à qual eles suspiram voltar para nela morar; porém não tornarão senão uns fugitivos.</p>\n<p><strong>15</strong> Então responderam a Jeremias todos os homens que sabiam que suas mulheres queimavam incenso a deuses estranhos, e todas as mulheres que estavam presentes em grande multidão, como também todo o povo que habitava na terra do Egito, em Patros, dizendo:</p>\n<p><strong>16</strong> Quanto à palavra que nos anunciaste em nome do Senhor, não obedeceremos a ti;</p>\n<p><strong>17</strong> Mas certamente cumpriremos toda a palavra que saiu da nossa boca, queimando incenso à rainha dos céus, e oferecendo-lhe libações, como nós e nossos pais, nossos reis e nossos príncipes, temos feito, nas cidades de Judá, e nas ruas de Jerusalém; e então tínhamos fartura de pão, e andávamos alegres, e não víamos mal algum.</p>\n<p><strong>18</strong> Mas desde que cessamos de queimar incenso à rainha dos céus, e de lhe oferecer libações, tivemos falta de tudo, e fomos consumidos pela espada e pela fome.</p>\n<p><strong>19</strong> E quando nós queimávamos incenso à rainha dos céus, e lhe oferecíamos libações, acaso lhe fizemos bolos, para a adorar, e oferecemos-lhe libações sem nossos maridos?</p>\n<p><strong>20</strong> Então disse Jeremias a todo o povo, aos homens e às mulheres, e a todo o povo que lhe havia dado esta resposta, dizendo:</p>\n<p><strong>21</strong> Porventura não se lembrou o Senhor, e não lhe veio ao coração o incenso que queimastes nas cidades de Judá e nas ruas de Jerusalém, vós e vossos pais, vossos reis e vossos príncipes, como também o povo da terra?</p>\n<p><strong>22</strong> De maneira que o Senhor não podia por mais tempo sofrer a maldade das vossas ações, as abominações que cometestes; por isso se tornou a vossa terra em desolação, e em espanto, e em maldição, sem habitantes, como hoje se vê.</p>\n<p><strong>23</strong> Porque queimastes incenso, e porque pecastes contra o Senhor, e não obedecestes à voz do Senhor, e na sua lei, e nos seus estatutos, e nos seus testemunhos não andastes, por isso vos sucedeu este mal, como se vê neste dia.</p>\n<p><strong>24</strong> Disse mais Jeremias a todo o povo e a todas as mulheres: Ouvi a palavra do Senhor, vós, todo o Judá, que estais na terra do Egito.</p>\n<p><strong>25</strong> Assim fala o Senhor dos Exércitos, Deus de Israel, dizendo: Vós e vossas mulheres não somente falastes por vossa boca, senão também o cumpristes por vossas mãos, dizendo: Certamente cumpriremos os nossos votos que fizemos de queimar incenso à rainha dos céus e de lhe oferecer libações; confirmai, pois, os vossos votos, e perfeitamente cumpri-os.</p>\n<p><strong>26</strong> Portanto ouvi a palavra do Senhor, todo o Judá, que habitais na terra do Egito: Eis que eu juro pelo meu grande nome, diz o Senhor, que nunca mais será pronunciado o meu nome pela boca de nenhum homem de Judá em toda a terra do Egito dizendo: Vive o Senhor Deus!</p>\n<p><strong>27</strong> Eis que velarei sobre eles para mal, e não para bem; e serão consumidos todos os homens de Judá, que estão na terra do Egito, pela espada e pela fome, até que de todo se acabem.</p>\n<p><strong>28</strong> E os que escaparem da espada voltarão da terra do Egito à terra de Judá, poucos em número; e todo o restante de Judá, que entrou na terra do Egito, para habitar ali, saberá se subsistirá a minha palavra ou a sua.</p>\n<p><strong>29</strong> E isto vos servirá de sinal, diz o Senhor, que eu vos castigarei neste lugar, para que saibais que certamente subsistirão as minhas palavras contra vós para mal.</p>\n<p><strong>30</strong> Assim diz o Senhor: Eis que eu darei Faraó-Hofra, rei do Egito, na mão de seus inimigos, e na mão dos que procuram a sua morte; como entreguei Zedequias, rei de Judá, na mão de Nabucodonosor, rei de Babilônia, seu inimigo, e que procurava a sua morte.</p>\n<hr>\n<p><a href=\"capitulo_43.md\">&lt;- Jeremias 43</a> | <a href=\"capitulo_45.md\">Jeremias 45 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "45": "<h1>Jeremias - Capítulo 45</h1>\n<p><strong>1</strong> A palavra que Jeremias, o profeta, falou a Baruque, filho de Nerias, quando este escrevia, num livro, estas palavras, da boca de Jeremias, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá, dizendo:</p>\n<p><strong>2</strong> Assim diz o Senhor, Deus de Israel, acerca de ti, ó Baruque:</p>\n<p><strong>3</strong> Disseste: Ai de mim agora, porque me acrescentou o Senhor tristeza sobre minha dor! Estou cansado do meu gemido, e não acho descanso.</p>\n<p><strong>4</strong> Assim lhe dirás: Isto diz o Senhor: Eis que o que edifiquei eu derrubo, e o que plantei eu arranco, e isso em toda esta terra.</p>\n<p><strong>5</strong> E procuras tu grandezas para ti mesmo? Não as procures; porque eis que trarei mal sobre toda a carne, diz o Senhor; porém te darei a tua alma por despojo, em todos os lugares para onde fores.</p>\n<hr>\n<p><a href=\"capitulo_44.md\">&lt;- Jeremias 44</a> | <a href=\"capitulo_46.md\">Jeremias 46 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "46": "<h1>Jeremias - Capítulo 46</h1>\n<p><strong>1</strong> A palavra do Senhor, que veio a Jeremias, o profeta, contra os gentios,</p>\n<p><strong>2</strong> Acerca do Egito, contra o exército de Faraó-Neco, rei do Egito, que estava junto ao rio Eufrates em Carquemis, ao qual feriu Nabucodonosor, rei de Babilônia, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá.</p>\n<p><strong>3</strong> Preparai o escudo e o pavês, e chegai-vos para a peleja.</p>\n<p><strong>4</strong> Selai os cavalos e montai, cavaleiros, e apresentai-vos com elmos; limpai as lanças, vesti-vos de couraças.</p>\n<p><strong>5</strong> Por que razão vejo os medrosos voltando as costas? Os seus valentes estão abatidos, e vão fugindo, sem olharem para trás; terror há ao redor, diz o Senhor.</p>\n<p><strong>6</strong> Não fuja o ligeiro, e não escape o valente; para o lado norte, junto à borda do rio Eufrates tropeçaram e caíram.</p>\n<p><strong>7</strong> Quem é este que vem subindo como o Nilo, cujas águas se movem como os rios?</p>\n<p><strong>8</strong> O Egito vem subindo como o Nilo, e como rios cujas águas se movem; e disse: Subirei, cobrirei a terra, destruirei a cidade, e os que nela habitam.</p>\n<p><strong>9</strong> Subi, ó cavalos, e estrondeai, ó carros, e saiam os valentes; os etíopes, e os do Líbano, que manejam o escudo, e os lídios, que manejam e entesam o arco.</p>\n<p><strong>10</strong> Porque este dia é o dia do Senhor Deus dos Exércitos, dia de vingança para ele se vingar dos seus adversários; e a espada devorará, e fartar-se-á, e embriagar-se-á com o sangue deles; porque o Senhor Deus dos Exércitos tem um sacrifício na terra do norte, junto ao rio Eufrates.</p>\n<p><strong>11</strong> Sobe a Gileade, e toma bálsamo, ó virgem filha do Egito; em vão multiplicas remédios, pois já não há cura para ti.</p>\n<p><strong>12</strong> As nações ouviram a tua vergonha, e a terra está cheia do teu clamor; porque o valente tropeçou com o valente e ambos caíram juntos.</p>\n<p><strong>13</strong> A palavra que falou o Senhor a Jeremias, o profeta, acerca da vinda de Nabucodonosor, rei de Babilônia, para ferir a terra do Egito.</p>\n<p><strong>14</strong> Anunciai no Egito, e fazei ouvir isto em Migdol; fazei também ouvi-lo em Nofe, e em Tafnes, dizei: Apresenta-te, e prepara-te; porque a espada já devorou o que está ao redor de ti.</p>\n<p><strong>15</strong> Por que foram derrubados os teus valentes? Não puderam manter-se firmes, porque o Senhor os abateu.</p>\n<p><strong>16</strong> Multiplicou os que tropeçavam; também caíram uns sobre os outros, e disseram: Levanta-te, e voltemos ao nosso povo, e à terra do nosso nascimento, por causa da espada que oprime.</p>\n<p><strong>17</strong> Clamaram ali: Faraó rei do Egito é apenas um barulho; deixou passar o tempo assinalado.</p>\n<p><strong>18</strong> Vivo eu, diz o rei, cujo nome é o Senhor dos Exércitos, que certamente como o Tabor entre os montes, e como o Carmelo junto ao mar, certamente assim ele virá.</p>\n<p><strong>19</strong> Prepara os utensílios para ires ao cativeiro, ó moradora, filha do Egito; porque Nofe será tornada em desolação, e será incendiada, até que ninguém mais aí more.</p>\n<p><strong>20</strong> Bezerra mui formosa é o Egito; mas já vem a destruição, vem do norte.</p>\n<p><strong>21</strong> Até os seus mercenários no meio dela são como bezerros cevados; mas também eles viraram as costas, fugiram juntos; não ficaram firmes; porque veio sobre eles o dia da sua ruína e o tempo do seu castigo.</p>\n<p><strong>22</strong> A sua voz irá como a da serpente; porque marcharão com um exército, e virão contra ela com machados, como cortadores de lenha.</p>\n<p><strong>23</strong> Cortarão o seu bosque, diz o Senhor, embora seja impenetrável; porque se multiplicaram mais do que os gafanhotos; são inumeráveis.</p>\n<p><strong>24</strong> A filha do Egito será envergonhada; será entregue na mão do povo do norte.</p>\n<p><strong>25</strong> Diz o Senhor dos Exércitos, o Deus de Israel: Eis que eu castigarei a Amom de Nô, e a Faraó, e ao Egito, e aos seus deuses, e aos seus reis; ao próprio Faraó, e aos que nele confiam.</p>\n<p><strong>26</strong> E os entregarei na mão dos que procuram a sua morte, na mão de Nabucodonosor, rei de Babilônia, e na mão dos seus servos; mas depois será habitada, como nos dias antigos, diz o Senhor.</p>\n<p><strong>27</strong> Mas não temas tu, servo meu, Jacó, nem te espantes, ó Israel; porque eis que te livrarei mesmo de longe, como também a tua descendência da terra do seu cativeiro; e Jacó voltará, e descansará, e sossegará, e não haverá quem o atemorize.</p>\n<p><strong>28</strong> Tu não temas, servo meu, Jacó, diz o Senhor, porque estou contigo; porque porei termo a todas as nações entre as quais te lancei; mas a ti não darei fim, mas castigar-te-ei com justiça, e não te darei de todo por inocente.</p>\n<hr>\n<p><a href=\"capitulo_45.md\">&lt;- Jeremias 45</a> | <a href=\"capitulo_47.md\">Jeremias 47 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "47": "<h1>Jeremias - Capítulo 47</h1>\n<p><strong>1</strong> A palavra do Senhor, que veio a Jeremias, o profeta, contra os filisteus, antes que Faraó ferisse a Gaza.</p>\n<p><strong>2</strong> Assim diz o Senhor: Eis que se levantam as águas do norte, e tornar-se-ão em torrente transbordante, e alagarão a terra e sua plenitude, a cidade, e os que nela habitam; e os homens clamarão, e todos os moradores da terra se lamentarão;</p>\n<p><strong>3</strong> Ao ruído estrepitoso dos cascos dos seus fortes cavalos, ao barulho de seus carros, ao estrondo das suas rodas; os pais não atendem aos filhos, por causa da fraqueza das mãos;</p>\n<p><strong>4</strong> Por causa do dia que vem, para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o restante que os socorra; porque o Senhor destruirá os filisteus, o remanescente da ilha de Caftor.</p>\n<p><strong>5</strong> A calvície veio sobre Gaza, foi desarraigada Ascalom, com o restante do seu vale; até quando te retalharás?</p>\n<p><strong>6</strong> Ah; espada do Senhor! Até quando deixarás de repousar? Volta para a tua bainha, descansa, e aquieta-te.</p>\n<p><strong>7</strong> Mas como te aquietarás? Pois o Senhor deu ordem à espada contra Ascalom, e contra a praia do mar, para onde ele a enviou.</p>\n<hr>\n<p><a href=\"capitulo_46.md\">&lt;- Jeremias 46</a> | <a href=\"capitulo_48.md\">Jeremias 48 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "48": "<h1>Jeremias - Capítulo 48</h1>\n<p><strong>1</strong> Contra Moabe, assim diz o Senhor dos Exércitos, Deus de Israel: Ai de Nebo, porque foi destruída; envergonhada está Quiriataim, já está tomada; Misgabe está envergonhada e desanimada.</p>\n<p><strong>2</strong> A glória de Moabe já não existe mais; em Hesbom tramaram mal contra ela, dizendo: Vinde, e exterminemo-la, para que não seja mais nação; também tu, ó Madmém, serás silenciada; a espada te perseguirá.</p>\n<p><strong>3</strong> Voz de clamor de Horonaim; ruína e grande destruição!</p>\n<p><strong>4</strong> Está destruída Moabe; seus filhinhos fizeram ouvir um clamor.</p>\n<p><strong>5</strong> Porque pela subida de Luíte eles irão com choro contínuo; porque na descida de Horonaim os adversários de Moabe ouviram as angústias do grito da destruição.</p>\n<p><strong>6</strong> Fugi, salvai a vossa vida; sede como a tamargueira no deserto;</p>\n<p><strong>7</strong> Porque, por causa da tua confiança nas tuas obras, e nos teus tesouros, também tu serás tomada; e Quemós sairá para o cativeiro, os seus sacerdotes e os seus príncipes juntamente.</p>\n<p><strong>8</strong> Porque virá o destruidor sobre cada uma das cidades, e nenhuma cidade escapará, e perecerá o vale, e destruir-se-á a campina; porque o Senhor o disse.</p>\n<p><strong>9</strong> Dai asas a Moabe; porque voando sairá, e as suas cidades se tornarão em desolação, e ninguém morará nelas.</p>\n<p><strong>10</strong> Maldito aquele que fizer a obra do Senhor fraudulosamente; e maldito aquele que retém a sua espada do sangue.</p>\n<p><strong>11</strong> Moabe esteve descansado desde a sua mocidade, e repousou nas suas borras, e não foi mudado de vasilha para vasilha, nem foi para o cativeiro; por isso conservou o seu sabor, e o seu cheiro não se alterou.</p>\n<p><strong>12</strong> Portanto, eis que dias vêm, diz o Senhor, em que lhe enviarei derramadores que o derramarão; e despejarão as suas vasilhas, e romperão os seus odres.</p>\n<p><strong>13</strong> E Moabe terá vergonha de Quemós como a casa de Israel se envergonhou de Betel, sua confiança.</p>\n<p><strong>14</strong> Como direis: Somos valentes e homens fortes para a guerra?</p>\n<p><strong>15</strong> Moabe está destruído, e subiu das suas cidades, e os seus jovens escolhidos desceram à matança, diz o Rei, cujo nome é o Senhor dos Exércitos.</p>\n<p><strong>16</strong> Está prestes a vir a calamidade de Moabe; e apressa-se muito a sua aflição.</p>\n<p><strong>17</strong> Condoei-vos dele todos os que estais ao seu redor, e todos os que sabeis o seu nome; dizei: Como se quebrou a vara forte, o cajado formoso?</p>\n<p><strong>18</strong> Desce da tua glória, e assenta-te em terra seca, ó moradora, filha de Dibom; porque o destruidor de Moabe subiu contra ti, e desfez as tuas fortalezas.</p>\n<p><strong>19</strong> Põe-te no caminho, e espia, ó moradora de Aroer; pergunta ao que vai fugindo; e à que escapou dize: Que sucedeu?</p>\n<p><strong>20</strong> Moabe está envergonhado, porque foi quebrantado; lamentai e gritai; anunciai em Arnom que Moabe está destruído.</p>\n<p><strong>21</strong> Também o julgamento veio sobre a terra da campina; sobre Holom, sobre Jaza, sobre Mefaate,</p>\n<p><strong>22</strong> Sobre Dibom, sobre Nebo, sobre Bete-Diblataim,</p>\n<p><strong>23</strong> Sobre Quiriataim, sobre Bete-Gamul, sobre Bete-Meom,</p>\n<p><strong>24</strong> Sobre Queriote, e sobre Bozra; e até sobre todas as cidades da terra de Moabe, as de longe e as de perto.</p>\n<p><strong>25</strong> Já é cortado o poder de Moabe, e é quebrantado o seu braço, diz o Senhor.</p>\n<p><strong>26</strong> Embriagai-o, porque contra o Senhor se engrandeceu; e Moabe se revolverá no seu vômito, e ele também se tornará objeto de escárnio.</p>\n<p><strong>27</strong> Pois não foi também Israel objeto de escárnio? Porventura foi achado entre ladrões, para que sempre que fales dele, saltes de alegria?</p>\n<p><strong>28</strong> Deixai as cidades, e habitai no rochedo, ó moradores de Moabe; e sede como a pomba que se aninha nos lados da boca da caverna.</p>\n<p><strong>29</strong> Ouvimos da soberba de Moabe, que é soberbíssimo, como também da sua arrogância, e da sua vaidade, e da sua altivez e do seu orgulhoso coração.</p>\n<p><strong>30</strong> Eu conheço, diz o Senhor, a sua indignação, mas isso nada é; as suas mentiras nada farão.</p>\n<p><strong>31</strong> Por isso gemerei por Moabe, sim, gritarei por todo o Moabe; pelos homens de Quir-Heres lamentarei;</p>\n<p><strong>32</strong> Com o choro de Jazer chorar-te-ei, ó vide de Sibma; os teus ramos passaram o mar, chegaram até ao mar de Jazer; porém o destruidor caiu sobre os teus frutos do verão, e sobre a tua vindima.</p>\n<p><strong>33</strong> Tirou-se, pois, o folguedo e a alegria do campo fértil e da terra de Moabe; porque fiz cessar o vinho nos lagares; já não pisarão uvas com júbilo; o júbilo não será júbilo.</p>\n<p><strong>34</strong> Por causa do grito de Hesbom até Eleale e até Jaaz, se ouviu a sua voz desde Zoar até Horonaim, como bezerra de três anos; porque até as águas do Ninrim se tornarão em assolação.</p>\n<p><strong>35</strong> E farei cessar em Moabe, diz o Senhor, quem sacrifique nos altos, e queime incenso aos seus deuses.</p>\n<p><strong>36</strong> Por isso ressoará como flauta o meu coração por Moabe, também ressoará como flauta o meu coração pelos homens de Quir-Heres; porquanto a abundância que ajuntou se perdeu.</p>\n<p><strong>37</strong> Porque toda a cabeça será tosquiada, e toda a barba será diminuída; sobre todas as mãos haverá sarjaduras, e sobre os lombos, sacos.</p>\n<p><strong>38</strong> Sobre todos os telhados de Moabe e nas suas ruas haverá um pranto geral; porque quebrei a Moabe, como a um vaso que não agrada, diz o Senhor.</p>\n<p><strong>39</strong> Como está quebrantado! Como gritam! Como virou Moabe a cerviz envergonhado! Assim será Moabe objeto de escárnio e de desmaio, para todos que estão em redor dele.</p>\n<p><strong>40</strong> Porque assim diz o Senhor: Eis que voará como a águia, e estenderá as suas asas sobre Moabe.</p>\n<p><strong>41</strong> São tomadas as cidades, e ocupadas as fortalezas; e naquele dia será o coração dos valentes de Moabe como o coração da mulher que está com dores de parto.</p>\n<p><strong>42</strong> E Moabe será destruído, para que não seja povo; porque se engrandeceu contra o Senhor.</p>\n<p><strong>43</strong> Temor, e cova, e laço, vêm sobre ti, ó morador de Moabe, diz o Senhor.</p>\n<p><strong>44</strong> O que fugir do temor cairá na cova, e o que subir da cova ficará preso no laço; porque trarei sobre ele, sobre Moabe, o ano do seu castigo, diz o Senhor.</p>\n<p><strong>45</strong> Os que fugiam sem força pararam à sombra de Hesbom; pois saiu fogo de Hesbom, e a labareda do meio de Siom, e devorou o canto de Moabe e o alto da cabeça dos turbulentos.</p>\n<p><strong>46</strong> Ai de ti, Moabe! Pereceu o povo de Quemós; porque teus filhos ficaram cativos, e tuas filhas em cativeiro.</p>\n<p><strong>47</strong> Mas nos últimos dias farei voltar os cativos de Moabe, diz o Senhor. Até aqui o juízo de Moabe.</p>\n<hr>\n<p><a href=\"capitulo_47.md\">&lt;- Jeremias 47</a> | <a href=\"capitulo_49.md\">Jeremias 49 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "49": "<h1>Jeremias - Capítulo 49</h1>\n<p><strong>1</strong> Contra os filhos de Amom. Assim diz o Senhor: Acaso Israel não tem filhos, nem tem herdeiro? Por que, pois, herdou o rei deles a Gade e o seu povo habitou nas suas cidades?</p>\n<p><strong>2</strong> Portanto, eis que vêm dias, diz o Senhor, em que farei ouvir em Rabá dos filhos de Amom o alarido de guerra, e tornar-se-á num montão de ruínas, e os lugares da sua jurisdição serão queimados a fogo; e Israel herdará aos que o herdaram, diz o Senhor.</p>\n<p><strong>3</strong> Lamenta, ó Hesbom, porque é destruída Ai; clamai, ó filhas de Rabá, cingi-vos de sacos, lamentai, e dai voltas pelos valados; porque o rei deles irá em cativeiro, juntamente com seus sacerdotes e os seus príncipes.</p>\n<p><strong>4</strong> Por que te glorias nos vales, teus luxuriantes vales, ó filha rebelde, que confias nos teus tesouros, dizendo: Quem virá contra mim?</p>\n<p><strong>5</strong> Eis que eu trarei temor sobre ti, diz o Senhor Deus dos Exércitos, de todos os que estão ao redor de ti; e sereis lançados fora cada um diante de si, e ninguém recolherá o desgarrado.</p>\n<p><strong>6</strong> Mas depois disto farei voltar os cativos dos filhos de Amom, diz o Senhor.</p>\n<p><strong>7</strong> Acerca de Edom. Assim diz o Senhor dos Exércitos: Acaso não há mais sabedoria em Temã? Pereceu o conselho dos entendidos? Corrompeu-se a sua sabedoria?</p>\n<p><strong>8</strong> Fugi, voltai-vos, buscai profundezas para habitar, ó moradores de Dedã, porque eu trarei sobre ele a ruína de Esaú, no tempo em que o castiguei.</p>\n<p><strong>9</strong> Se vindimadores viessem a ti, não deixariam rabiscos? Se ladrões de noite viessem, não te danificariam quanto lhes bastasse?</p>\n<p><strong>10</strong> Mas eu despi a Esaú, descobri os seus esconderijos, e não se poderá esconder; foi destruída a sua descendência, como também seus irmãos e seus vizinhos, e ele já não existe.</p>\n<p><strong>11</strong> Deixa os teus órfãos, eu os guardarei em vida; e as tuas viúvas confiem em mim.</p>\n<p><strong>12</strong> Porque assim diz o Senhor: Eis que os que não estavam condenados a beber do copo, totalmente o beberão; e tu ficarias inteiramente impune? Não ficarás impune, mas certamente o beberás.</p>\n<p><strong>13</strong> Porque por mim mesmo jurei, diz o Senhor, que Bozra servirá de espanto, de opróbrio, de assolação, e de maldição; e todas as suas cidades se tornarão em desolações perpétuas.</p>\n<p><strong>14</strong> Ouvi novas vindas do Senhor, que um embaixador é enviado aos gentios, para lhes dizer: Ajuntai-vos, e vinde contra ela, e levantai-vos para a guerra.</p>\n<p><strong>15</strong> Porque eis que te fiz pequeno entre os gentios, desprezado entre os homens.</p>\n<p><strong>16</strong> Quanto à tua terribilidade, enganou-te a arrogância do teu coração, tu que habitas nas cavernas das rochas, que ocupas as alturas dos outeiros; ainda que eleves o teu ninho como a águia, de lá te derrubarei, diz o Senhor.</p>\n<p><strong>17</strong> Assim servirá Edom de desolação; todo aquele que passar por ela se espantará, e assobiará por causa de todas as suas pragas.</p>\n<p><strong>18</strong> Será como a destruição de Sodoma e Gomorra, e dos seus vizinhos, diz o Senhor; não habitará ninguém ali, nem morará nela filho de homem.</p>\n<p><strong>19</strong> Eis que ele como leão subirá da enchente do Jordão contra a morada do forte; porque num momento o farei correr dali; e quem é o escolhido que porei sobre ela? Pois quem é semelhante a mim? E quem me fixará o tempo? E quem é o pastor que subsistirá perante mim?</p>\n<p><strong>20</strong> Portanto ouvi o conselho do Senhor, que ele decretou contra Edom, e os seus desígnios que ele intentou entre os moradores de Temã: Certamente os menores do rebanho serão arrastados; certamente ele assolará as suas moradas com eles.</p>\n<p><strong>21</strong> A terra estremeceu com o estrondo da sua queda; e do seu grito, até ao Mar Vermelho se ouviu o som.</p>\n<p><strong>22</strong> Eis que ele como águia subirá, e voará, e estenderá as suas asas contra Bozra; e o coração dos valentes de Edom naquele dia será como o coração da mulher que está com dores de parto.</p>\n<p><strong>23</strong> Acerca de Damasco. Envergonhou-se Hamate e Arpade, porquanto ouviram más novas, desmaiaram; no mar há angústia, não se pode sossegar.</p>\n<p><strong>24</strong> Enfraquecida está Damasco; virou as costas para fugir, e o tremor a tomou; angústia e dores a tomaram como da que está de parto.</p>\n<p><strong>25</strong> Como está abandonada a cidade do louvor, a cidade da minha alegria!</p>\n<p><strong>26</strong> Portanto cairão os seus jovens nas suas ruas; e todos os homens de guerra serão consumidos naquele dia, diz o Senhor dos Exércitos.</p>\n<p><strong>27</strong> E acenderei fogo no muro de Damasco, e consumirá os palácios de Ben-Hadade.</p>\n<p><strong>28</strong> Acerca de Quedar, e dos reinos de Hazor, que Nabucodonosor, rei de Babilônia, feriu. Assim diz o Senhor: Levantai-vos, subi contra Quedar, e destruí os filhos do oriente.</p>\n<p><strong>29</strong> Tomarão as suas tendas, os seus gados, as suas cortinas e todos os seus utensílios, e os seus camelos levarão para si; e lhes clamarão: Há medo por todos os lados.</p>\n<p><strong>30</strong> Fugi, desviai-vos para muito longe, buscai profundezas para habitar, ó moradores de Hazor, diz o Senhor; porque Nabucodonosor, rei de Babilônia, tomou conselho contra vós, e formou um desígnio contra vós.</p>\n<p><strong>31</strong> Levantai-vos, subi contra uma nação tranquila, que habita confiadamente, diz o Senhor, que não tem portas, nem ferrolhos; habitam sós.</p>\n<p><strong>32</strong> E os seus camelos serão para presa, e a multidão dos seus gados para despojo; e os espalharei a todo o vento, àqueles que estão nos lugares mais distantes, e de todos os seus lados lhes trarei a sua ruína, diz o Senhor.</p>\n<p><strong>33</strong> E Hazor se tornará em morada de chacais, em assolação para sempre; ninguém habitará ali, nem morará nela filho de homem.</p>\n<p><strong>34</strong> A palavra do Senhor, que veio a Jeremias, o profeta, contra Elão, no princípio do reinado de Zedequias, rei de Judá, dizendo:</p>\n<p><strong>35</strong> Assim diz o Senhor dos Exércitos: Eis que eu quebrarei o arco de Elão, o principal do seu poder.</p>\n<p><strong>36</strong> E trarei sobre Elão os quatro ventos dos quatro cantos dos céus, e os espalharei na direção de todos estes ventos; e não haverá nação aonde não cheguem os fugitivos de Elão.</p>\n<p><strong>37</strong> E farei que Elão tema diante de seus inimigos e diante dos que procuram a sua morte; e farei vir sobre eles o mal, o furor da minha ira, diz o Senhor; e enviarei após eles a espada, até que venha a consumi-los.</p>\n<p><strong>38</strong> E porei o meu trono em Elão; e destruirei dali o rei e os príncipes, diz o Senhor.</p>\n<p><strong>39</strong> Acontecerá, porém, nos últimos dias, que farei voltar os cativos de Elão, diz o Senhor.</p>\n<hr>\n<p><a href=\"capitulo_48.md\">&lt;- Jeremias 48</a> | <a href=\"capitulo_50.md\">Jeremias 50 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "50": "<h1>Jeremias - Capítulo 50</h1>\n<p><strong>1</strong> A palavra que falou o Senhor contra a Babilônia, contra a terra dos caldeus, por intermédio de Jeremias, o profeta.</p>\n<p><strong>2</strong> Anunciai entre as nações; e fazei ouvir, e arvorai um estandarte, fazei ouvir, não encubrais; dizei: Tomada está Babilônia, confundido está Bel, espatifado está Merodaque, confundidos estão os seus ídolos, e quebradas estão as suas imagens.</p>\n<p><strong>3</strong> Porque subiu contra ela uma nação do norte, que fará da sua terra uma solidão, e não haverá quem nela habite; tanto os homens como os animais fugiram, e se foram.</p>\n<p><strong>4</strong> Naqueles dias, e naquele tempo, diz o Senhor, os filhos de Israel virão, eles e os filhos de Judá juntamente; andando e chorando virão, e buscarão ao Senhor seu Deus.</p>\n<p><strong>5</strong> Pelo caminho de Sião perguntarão, para ali voltarão os seus rostos, dizendo: Vinde, e unamo-nos ao Senhor, numa aliança eterna que nunca será esquecida.</p>\n<p><strong>6</strong> Ovelhas perdidas têm sido o meu povo, os seus pastores as fizeram errar, para os montes as desviaram; de monte para outeiro andaram, esqueceram-se do lugar do seu repouso.</p>\n<p><strong>7</strong> Todos os que as achavam as devoravam, e os seus adversários diziam: Culpa nenhuma teremos; porque pecaram contra o Senhor, a morada da justiça, sim, o Senhor, a esperança de seus pais.</p>\n<p><strong>8</strong> Fugi do meio de Babilônia, e saí da terra dos caldeus, e sede como os bodes diante do rebanho.</p>\n<p><strong>9</strong> Porque eis que eu suscitarei e farei subir contra a Babilônia uma congregação de grandes nações da terra do norte, e se prepararão contra ela; dali será tomada; as suas flechas serão como as de valente herói, nenhuma tornará sem efeito.</p>\n<p><strong>10</strong> A Caldeia servirá de presa; todos os que a saquearam serão fartos, diz o Senhor.</p>\n<p><strong>11</strong> Porquanto vos alegrastes, e vos regozijastes, ó saqueadores da minha herança, porquanto vos engordastes como novilha no pasto, e mugistes como touros.</p>\n<p><strong>12</strong> Será mui confundida vossa mãe, ficará envergonhada a que vos deu à luz; eis que ela será a última das nações, um deserto, uma terra seca e uma solidão.</p>\n<p><strong>13</strong> Por causa do furor do Senhor não será habitada, antes se tornará em total assolação; qualquer que passar por Babilônia se espantará, assobiará por todas as suas pragas.</p>\n<p><strong>14</strong> Ordenai-vos contra Babilônia ao redor, todos os que armais arcos; atirai-lhe, não poupeis as flechas, porque pecou contra o Senhor.</p>\n<p><strong>15</strong> Gritai contra ela ao redor, ela já se submeteu; caíram seus fundamentos, estão derrubados os seus muros; porque esta é a vingança do Senhor; vingai-vos dela; como ela fez, assim lhe fazei.</p>\n<p><strong>16</strong> Arrancai de Babilônia o que semeia, e o que leva a foice no tempo da sega; por causa da espada aflitiva virar-se-á cada um para o seu povo, e fugirá cada um para a sua terra.</p>\n<p><strong>17</strong> Cordeiro desgarrado é Israel; os leões o afugentaram; o primeiro a devorá-lo foi o rei da Assíria; e, por último Nabucodonosor, rei de Babilônia, lhe quebrou os ossos.</p>\n<p><strong>18</strong> Portanto, assim diz o Senhor dos Exércitos, Deus de Israel: Eis que castigarei o rei de Babilônia, e a sua terra, como castiguei o rei da Assíria.</p>\n<p><strong>19</strong> E farei tornar Israel para a sua morada, e ele pastará no Carmelo e em Basã; e fartar-se-á a sua alma no monte de Efraim e em Gileade.</p>\n<p><strong>20</strong> Naqueles dias, e naquele tempo, diz o Senhor, buscar-se-á a maldade de Israel, e não será achada; e os pecados de Judá, mas não se acharão; porque perdoarei os remanescentes que eu deixar.</p>\n<p><strong>21</strong> Sobe contra a terra de Merataim, sim, contra ela, e contra os moradores de Pecode; assola e inteiramente destrói tudo após eles, diz o Senhor, e faze conforme tudo o que te mandei.</p>\n<p><strong>22</strong> Estrondo de batalha há na terra, e de grande destruição.</p>\n<p><strong>23</strong> Como foi cortado e quebrado o martelo de toda a terra! Como se tornou Babilônia objeto de espanto entre as nações!</p>\n<p><strong>24</strong> Laços te armei, e também foste presa, ó Babilônia, e tu não o soubeste; foste achada, e também apanhada; porque contra o Senhor te entremeteste.</p>\n<p><strong>25</strong> O Senhor abriu o seu depósito, e tirou os instrumentos da sua indignação; porque o Senhor Deus dos Exércitos, tem uma obra a realizar na terra dos caldeus.</p>\n<p><strong>26</strong> Vinde contra ela dos confins da terra, abri os seus celeiros; fazei dela montões de ruínas, e destruí-a de todo; nada lhe fique de sobra.</p>\n<p><strong>27</strong> Matai a todos os seus novilhos, desçam a matança. Ai deles, porque veio o seu dia, o tempo do seu castigo!</p>\n<p><strong>28</strong> Eis a voz dos que fugiram e escaparam da terra de Babilônia, para anunciarem em Sião a vingança do Senhor nosso Deus, a vingança do seu templo.</p>\n<p><strong>29</strong> Convocai contra Babilônia os flecheiros, a todos os que armam arcos; acampai-vos contra ela em redor, ninguém escape dela; pagai-lhe conforme a sua obra, conforme tudo o que fez, fazei-lhe; porque se houve arrogantemente contra o Senhor, contra o Santo de Israel.</p>\n<p><strong>30</strong> Portanto, cairão os seus jovens nas suas ruas; e todos os seus homens de guerra serão desarraigados naquele dia, diz o Senhor.</p>\n<p><strong>31</strong> Eis que eu sou contra ti, ó soberbo, diz o Senhor Deus dos Exércitos; porque veio o teu dia, o tempo em que te hei de castigar.</p>\n<p><strong>32</strong> Então tropeçará o soberbo, e cairá, e ninguém haverá que o levante; e porei fogo nas suas cidades, o qual consumirá todos os seus arredores.</p>\n<p><strong>33</strong> Assim diz o Senhor dos Exércitos: Os filhos de Israel e os filhos de Judá foram oprimidos juntamente; e todos os que os levaram cativos os retiveram, não os quiseram soltar.</p>\n<p><strong>34</strong> Mas o seu Redentor é forte, o Senhor dos Exércitos é o seu nome; certamente pleiteará a causa deles, para dar descanso à terra, e inquietar os moradores de Babilônia.</p>\n<p><strong>35</strong> A espada virá sobre os caldeus, diz o Senhor, e sobre os moradores de Babilônia, e sobre os seus príncipes, e sobre os seus sábios.</p>\n<p><strong>36</strong> A espada virá sobre os mentirosos, e ficarão insensatos; a espada virá sobre os seus poderosos, e desfalecerão.</p>\n<p><strong>37</strong> A espada virá sobre os seus cavalos, e sobre os seus carros, e sobre toda a mistura de povos, que está no meio dela; e tornar-se-ão como mulheres; a espada virá sobre os seus tesouros, e serão saqueados.</p>\n<p><strong>38</strong> Cairá a seca sobre as suas águas, e secarão; porque é uma terra de imagens esculpidas, e pelos seus ídolos andam enfurecidos.</p>\n<p><strong>39</strong> Por isso habitarão nela as feras do deserto, com os animais selvagens das ilhas; também habitarão nela as avestruzes; e nunca mais será povoada, nem será habitada de geração em geração.</p>\n<p><strong>40</strong> Como quando Deus subverteu a Sodoma e a Gomorra, e as suas cidades vizinhas, diz o Senhor, assim ninguém habitará ali, nem morará nela filho de homem.</p>\n<p><strong>41</strong> Eis que um povo vem do norte; uma grande nação e muitos reis se levantarão dos extremos da terra.</p>\n<p><strong>42</strong> Armam-se de arco e lança; eles são cruéis, e não têm piedade; a sua voz bramará como o mar, e sobre cavalos cavalgarão, todos postos em ordem como um homem para a batalha, contra ti, ó filha de Babilônia.</p>\n<p><strong>43</strong> O rei de Babilônia ouviu a sua fama, e desfaleceram as suas mãos; a angústia se apoderou dele, dores como da que está de parto.</p>\n<p><strong>44</strong> Eis que ele como leão subirá da enchente do Jordão, contra a morada forte, porque num momento o farei correr dali; e quem é o escolhido que porei sobre ela? Porque quem é semelhante a mim, e quem me fixará o tempo? E quem é o pastor que poderá permanecer perante mim?</p>\n<p><strong>45</strong> Portanto ouvi o conselho do Senhor, que ele decretou contra Babilônia, e os seus desígnios que intentou contra a terra dos caldeus: certamente os pequenos do rebanho os arrastarão; certamente ele assolará as suas moradas sobre eles.</p>\n<p><strong>46</strong> Ao estrondo da tomada de Babilônia estremeceu a terra; e o grito se ouviu entre as nações.</p>\n<hr>\n<p><a href=\"capitulo_49.md\">&lt;- Jeremias 49</a> | <a href=\"capitulo_51.md\">Jeremias 51 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "51": "<h1>Jeremias - Capítulo 51</h1>\n<p><strong>1</strong> Assim diz o Senhor: Eis que levantarei um vento destruidor contra Babilônia, e contra os que habitam no meio dos que se levantam contra mim.</p>\n<p><strong>2</strong> E enviarei padejadores contra Babilônia, que a padejarão, e despejarão a sua terra; porque virão contra ela em redor no dia da calamidade.</p>\n<p><strong>3</strong> O flecheiro arme o seu arco contra o que arma o seu arco, e contra o que se exalta na sua couraça; e não perdoeis aos seus jovens; destruí a todo o seu exército.</p>\n<p><strong>4</strong> E os mortos cairão na terra dos caldeus, e atravessados nas suas ruas.</p>\n<p><strong>5</strong> Porque Israel e Judá não foram abandonados do seu Deus, do Senhor dos Exércitos, ainda que a sua terra esteja cheia de culpas contra o Santo de Israel.</p>\n<p><strong>6</strong> Fugi do meio de Babilônia, e livrai cada um a sua alma, e não vos destruais na sua maldade; porque este é o tempo da vingança do Senhor; que lhe dará a sua recompensa.</p>\n<p><strong>7</strong> Babilônia era um copo de ouro na mão do Senhor, o qual embriagava a toda a terra; do seu vinho beberam as nações; por isso as nações enlouqueceram.</p>\n<p><strong>8</strong> Num momento caiu Babilônia, e ficou arruinada; lamentai por ela, tomai bálsamo para a sua dor, porventura sarará.</p>\n<p><strong>9</strong> Queríamos curar Babilônia, porém ela não sarou; deixai-a, e vamo-nos cada um para a sua terra; porque o seu juízo chegou até ao céu, e se elevou até às mais altas nuvens.</p>\n<p><strong>10</strong> O Senhor trouxe a nossa justiça à luz; vinde e contemos em Sião a obra do Senhor, nosso Deus.</p>\n<p><strong>11</strong> Aguçai as flechas, preparai os escudos; o Senhor despertou o espírito dos reis da Média; porque o seu intento é contra Babilônia para a destruir; porque esta é a vingança do Senhor, a vingança do seu templo.</p>\n<p><strong>12</strong> Arvorai um estandarte sobre os muros de Babilônia, reforçai a guarda, colocai sentinelas, preparai as ciladas; porque como o Senhor intentou, assim fez o que tinha falado contra os moradores de Babilônia.</p>\n<p><strong>13</strong> Ó tu, que habitas sobre muitas águas, rica de tesouros, é chegado o teu fim, a medida da tua avareza.</p>\n<p><strong>14</strong> Jurou o Senhor dos Exércitos por si mesmo, dizendo: Ainda que te enchi de homens, como de lagarta, contudo levantarão gritaria contra ti.</p>\n<p><strong>15</strong> Ele fez a terra com o seu poder, e ordenou o mundo com a sua sabedoria, e estendeu os céus com o seu entendimento.</p>\n<p><strong>16</strong> Fazendo ele ouvir a sua voz, grande estrondo de águas há nos céus, e faz subir os vapores desde o fim da terra; faz os relâmpagos com a chuva, e tira o vento dos seus tesouros,</p>\n<p><strong>17</strong> Embrutecido é todo o homem, no seu conhecimento; envergonha-se todo o artífice da imagem de escultura; porque a sua imagem de fundição é mentira, e nelas não há espírito.</p>\n<p><strong>18</strong> Vaidade são, obra de enganos; no tempo da sua visitação perecerão.</p>\n<p><strong>19</strong> Não é semelhante a estes a porção de Jacó; porque ele é o que formou tudo; e Israel é a tribo da sua herança; o Senhor dos Exércitos é o seu nome.</p>\n<p><strong>20</strong> Tu és meu machado de batalha e minhas armas de guerra, e por meio de ti despedaçarei as nações e por ti destruirei os reis;</p>\n<p><strong>21</strong> E por meio de ti despedaçarei o cavalo e o seu cavaleiro; e por meio de ti despedaçarei o carro e o que nele vai;</p>\n<p><strong>22</strong> E por meio de ti despedaçarei o homem e a mulher, e por meio de ti despedaçarei o velho e o moço, e por meio de ti despedaçarei o jovem e a virgem;</p>\n<p><strong>23</strong> E por meio de ti despedaçarei o pastor e o seu rebanho, e por meio de ti despedaçarei o lavrador e a sua junta de bois, e por meio de ti despedaçarei os capitães e os magistrados.</p>\n<p><strong>24</strong> E pagarei a Babilônia, e a todos os moradores da Caldeia, toda a maldade que fizeram em Sião, aos vossos olhos, diz o Senhor.</p>\n<p><strong>25</strong> Eis-me aqui contra ti, ó monte destruidor, diz o Senhor, que destróis toda a terra; e estenderei a minha mão contra ti, e te revolverei das rochas, e farei de ti um monte de queima.</p>\n<p><strong>26</strong> E não tomarão de ti pedra para esquina, nem pedra para fundamentos, porque te tornarás em assolação perpétua, diz o Senhor.</p>\n<p><strong>27</strong> Arvorai um estandarte na terra, tocai a trombeta entre as nações, preparai as nações contra ela, convocai contra ela os reinos de Ararate, Mini, e Asquenaz; ordenai contra ela um capitão, fazei subir cavalos, como lagartas eriçadas.</p>\n<p><strong>28</strong> Preparai contra ela as nações, os reis da Média, os seus capitães, e todos os seus magistrados, e toda a terra do seu domínio.</p>\n<p><strong>29</strong> Então tremerá a terra, e doer-se-á, porque cada um dos desígnios do Senhor está firme contra Babilônia, para fazer da terra de Babilônia uma desolação, sem habitantes.</p>\n<p><strong>30</strong> Os poderosos de Babilônia cessaram de pelejar, ficaram nas fortalezas, desfaleceu a sua força, tornaram-se como mulheres; incendiaram as suas moradas, quebrados foram os seus ferrolhos.</p>\n<p><strong>31</strong> Um correio correrá ao encontro de outro correio, e um mensageiro ao encontro de outro mensageiro, para anunciar ao rei de Babilônia que a sua cidade está tomada de todos os lados.</p>\n<p><strong>32</strong> E os vaus estão ocupados, e os canaviais queimados a fogo; e os homens de guerra ficaram assombrados.</p>\n<p><strong>33</strong> Porque assim diz o Senhor dos Exércitos, o Deus de Israel: A filha de Babilônia é como uma eira, no tempo da debulha; ainda um pouco, e o tempo da sega lhe virá.</p>\n<p><strong>34</strong> Nabucodonosor, rei de Babilônia, devorou-me, colocou-me de lado, fez de mim um vaso vazio, como chacal me tragou, encheu o seu ventre das minhas delicadezas; lançou-me fora.</p>\n<p><strong>35</strong> A violência que se fez a mim e à minha carne venha sobre Babilônia, dirá a moradora de Sião; e o meu sangue caia sobre os moradores da Caldeia, dirá Jerusalém.</p>\n<p><strong>36</strong> Portanto, assim diz o Senhor: Eis que pleitearei a tua causa, e tomarei vingança por ti; e secarei o seu mar, e farei que se esgote o seu manancial.</p>\n<p><strong>37</strong> E Babilônia se tornará em montões, morada de chacais, espanto e assobio, sem que haja quem nela habite.</p>\n<p><strong>38</strong> Juntamente rugirão como filhos dos leões; bramarão como filhotes de leões.</p>\n<p><strong>39</strong> Estando eles excitados, lhes darei a sua bebida, e os embriagarei, para que andem saltando; porém dormirão um perpétuo sono, e não acordarão, diz o Senhor.</p>\n<p><strong>40</strong> Os farei descer como cordeiros à matança, como carneiros e bodes.</p>\n<p><strong>41</strong> Como foi tomada Sesaque, e apanhada de surpresa a glória de toda a terra! Como se tornou Babilônia objeto de espanto entre as nações!</p>\n<p><strong>42</strong> O mar subiu sobre Babilônia; com a multidão das suas ondas se cobriu.</p>\n<p><strong>43</strong> Tornaram-se as suas cidades em desolação, terra seca e deserta, terra em que ninguém habita, nem passa por ela filho de homem.</p>\n<p><strong>44</strong> E castigarei a Bel em Babilônia, e tirarei da sua boca o que tragou, e nunca mais concorrerão a ele as nações; também o muro de Babilônia caiu.</p>\n<p><strong>45</strong> Saí do meio dela, ó povo meu, e livrai cada um a sua alma do ardor da ira do Senhor.</p>\n<p><strong>46</strong> E para que porventura não se enterneça o vosso coração, e não temais pelo rumor que se ouvir na terra; porque virá num ano um rumor, e depois noutro ano outro rumor; e haverá violência na terra, dominador contra dominador.</p>\n<p><strong>47</strong> Portanto, eis que vêm dias, em que farei juízo sobre as imagens de escultura de Babilônia, e toda a sua terra será envergonhada, e todos os seus mortos cairão no meio dela.</p>\n<p><strong>48</strong> E os céus e a terra, com tudo quanto neles há, jubilarão sobre Babilônia; porque do norte lhe virão os destruidores, diz o Senhor.</p>\n<p><strong>49</strong> Como Babilônia fez cair mortos os de Israel, assim em Babilônia cairão os mortos de toda a terra.</p>\n<p><strong>50</strong> Vós, que escapastes da espada, ide-vos, não pareis; de longe lembrai-vos do Senhor, e suba Jerusalém a vossa mente.</p>\n<p><strong>51</strong> Direis: Envergonhados estamos, porque ouvimos opróbrio; vergonha cobriu o nosso rosto, porquanto vieram estrangeiros contra os santuários da casa do Senhor.</p>\n<p><strong>52</strong> Portanto, eis que vêm dias, diz o Senhor, em que farei juízo sobre as suas imagens de escultura; e gemerão os feridos em toda a sua terra.</p>\n<p><strong>53</strong> Ainda que Babilônia subisse aos céus, e ainda que fortificasse a altura da sua fortaleza, todavia de mim virão destruidores sobre ela, diz o Senhor.</p>\n<p><strong>54</strong> De Babilônia se ouve clamor de grande destruição da terra dos caldeus;</p>\n<p><strong>55</strong> Porque o Senhor tem destruído Babilônia, e tem feito perecer nela a sua grande voz; quando as suas ondas bramam como muitas águas, é emitido o ruído da sua voz.</p>\n<p><strong>56</strong> Porque o destruidor vem sobre ela, sobre Babilônia, e os seus poderosos serão presos, já estão quebrados os seus arcos; porque o Senhor, Deus das recompensas, certamente lhe retribuirá.</p>\n<p><strong>57</strong> E embriagarei os seus príncipes, e os seus sábios e os seus capitães, e os seus magistrados, e os seus poderosos; e dormirão um sono eterno, e não acordarão, diz o Rei, cujo nome é o Senhor dos Exércitos.</p>\n<p><strong>58</strong> Assim diz o Senhor dos Exércitos: Os largos muros de Babilônia serão totalmente derrubados, e as suas altas portas serão abrasadas pelo fogo; e trabalharão os povos em vão, e as nações no fogo, e eles se cansarão.</p>\n<p><strong>59</strong> A palavra que Jeremias, o profeta, mandou a Seraías, filho de Nerias, filho de Maaseias, indo ele com Zedequias, rei de Judá, a Babilônia, no quarto ano do seu reinado. E Seraías era o camareiro-mor.</p>\n<p><strong>60</strong> Escreveu, pois, Jeremias num livro todo o mal que havia de vir sobre Babilônia, a saber, todas estas palavras que estavam escritas contra Babilônia.</p>\n<p><strong>61</strong> E disse Jeremias a Seraías: Quando chegares a Babilônia, verás e lerás todas estas palavras.</p>\n<p><strong>62</strong> E dirás: Senhor, tu falaste contra este lugar, que o havias de desarraigar, até não ficar nele morador algum, nem homem nem animal, e que se tornaria em perpétua desolação.</p>\n<p><strong>63</strong> E será que, acabando tu de ler este livro, atar-lhe-ás uma pedra e lançá-lo-ás no meio do Eufrates.</p>\n<p><strong>64</strong> E dirás: Assim será afundada Babilônia, e não se levantará, por causa do mal que eu hei de trazer sobre ela; e eles se cansarão. Até aqui são as palavras de Jeremias.</p>\n<hr>\n<p><a href=\"capitulo_50.md\">&lt;- Jeremias 50</a> | <a href=\"capitulo_52.md\">Jeremias 52 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n",
-  "52": "<h1>Jeremias - Capítulo 52</h1>\n<p><strong>1</strong> Era Zedequias da idade de vinte e um anos quando começou a reinar, e reinou onze anos em Jerusalém; e o nome de sua mãe era Hamutal, filha de Jeremias, de Libna.</p>\n<p><strong>2</strong> E fez o que era mau aos olhos do Senhor, conforme tudo o que fizera Jeoiaquim.</p>\n<p><strong>3</strong> Assim, por causa da ira do Senhor, contra Jerusalém e Judá, ele os lançou de diante dele, e Zedequias se rebelou contra o rei de Babilônia.</p>\n<p><strong>4</strong> E aconteceu, que no ano nono do seu reinado, no décimo mês, no décimo dia do mês, veio Nabucodonosor, rei de Babilônia, contra Jerusalém, ele e todo o seu exército, e se acamparam contra ela, e levantaram contra ela trincheiras ao redor.</p>\n<p><strong>5</strong> Assim esteve cercada a cidade, até ao undécimo ano do rei Zedequias.</p>\n<p><strong>6</strong> No quarto mês, aos nove dias do mês, quando já a fome prevalecia na cidade, e o povo da terra não tinha pão,</p>\n<p><strong>7</strong> Então foi aberta uma brecha na cidade, e todos os homens de guerra fugiram, e saíram da cidade de noite, pelo caminho da porta entre os dois muros, a qual estava perto do jardim do rei (porque os caldeus cercavam a cidade ao redor), e foram pelo caminho da campina.</p>\n<p><strong>8</strong> Mas o exército dos caldeus perseguiu o rei, e alcançou a Zedequias nas campinas de Jericó, e todo o seu exército se espalhou, abandonando-o.</p>\n<p><strong>9</strong> E prenderam o rei, e o fizeram subir ao rei de Babilônia, a Ribla, na terra de Hamate, o qual lhe pronunciou a sentença.</p>\n<p><strong>10</strong> E o rei de Babilônia degolou os filhos de Zedequias à sua vista, e também degolou a todos os príncipes de Judá em Ribla.</p>\n<p><strong>11</strong> E cegou os olhos a Zedequias, e o atou com cadeias; e o rei de Babilônia o levou para Babilônia, e o conservou na prisão até o dia da sua morte.</p>\n<p><strong>12</strong> E no quinto mês, no décimo dia do mês, que era o décimo nono ano do rei Nabucodonosor, rei de Babilônia, Nebuzaradã, capitão da guarda, que assistia na presença do rei de Babilônia, veio a Jerusalém.</p>\n<p><strong>13</strong> E queimou a casa do Senhor, e a casa do rei; e também a todas as casas de Jerusalém, e a todas as casas dos grandes ele as incendiou.</p>\n<p><strong>14</strong> E todo o exército dos caldeus, que estava com o capitão da guarda, derrubou a todos os muros em redor de Jerusalém.</p>\n<p><strong>15</strong> E dos mais pobres do povo, e a parte do povo, que tinha ficado na cidade, e os rebeldes que se haviam passado para o rei de Babilônia, e o mais da multidão, Nebuzaradã, capitão da guarda, levou presos.</p>\n<p><strong>16</strong> Mas dos mais pobres da terra Nebuzaradã, capitão da guarda, deixou ficar alguns, para serem vinhateiros e lavradores.</p>\n<p><strong>17</strong> Quebraram mais os caldeus as colunas de bronze, que estavam na casa do Senhor, e as bases, e o mar de bronze, que estavam na casa do Senhor, e levaram todo o bronze para Babilônia.</p>\n<p><strong>18</strong> Também tomaram os caldeirões, e as pás, e as espevitadeiras, e as bacias, e as colheres, e todos os utensílios de bronze, com que se ministrava.</p>\n<p><strong>19</strong> E tomou o capitão da guarda as bacias, e os braseiros, e as tigelas, e os caldeirões, e os castiçais, e as colheres, e os copos; tanto o que era de puro ouro, como o que era de prata maciça.</p>\n<p><strong>20</strong> Quanto às duas colunas, ao único mar, e aos doze bois de bronze, que estavam debaixo das bases, que fizera o rei Salomão para a casa do Senhor, o peso do bronze de todos estes utensílios era incalculável.</p>\n<p><strong>21</strong> Quanto às colunas, a altura de cada uma era de dezoito côvados, e um fio de doze côvados a cercava; e era a sua espessura de quatro dedos, e era oca.</p>\n<p><strong>22</strong> E havia sobre ela um capitel de bronze; e a altura do capitel era de cinco côvados; a rede e as romãs ao redor do capitel eram de bronze; e semelhante a esta era a segunda coluna, com as romãs.</p>\n<p><strong>23</strong> E havia noventa e seis romãs em cada lado; as romãs todas, em redor da rede, eram cem.</p>\n<p><strong>24</strong> Levou também o capitão da guarda a Seraías, o sacerdote chefe, e a Sofonias, o segundo sacerdote, e aos três guardas da porta.</p>\n<p><strong>25</strong> E da cidade tomou a um eunuco que tinha a seu cargo os homens de guerra, e a sete homens que estavam próximos à pessoa do rei, que se achavam na cidade, como também o escrivão-mor do exército, que alistava o povo da terra para a guerra, e a sessenta homens do povo da terra, que se achavam no meio da cidade.</p>\n<p><strong>26</strong> Tomando-os, pois, Nebuzaradã, capitão da guarda, levou-os ao rei de Babilônia, a Ribla.</p>\n<p><strong>27</strong> E o rei de Babilônia os feriu e os matou em Ribla, na terra de Hamate; assim Judá foi levado cativo para fora da sua terra.</p>\n<p><strong>28</strong> Este é o povo que Nabucodonosor levou cativo, no sétimo ano: três mil e vinte e três judeus.</p>\n<p><strong>29</strong> No ano décimo oitavo de Nabucodonosor, ele levou cativas de Jerusalém oitocentas e trinta e duas pessoas.</p>\n<p><strong>30</strong> No ano vinte e três de Nabucodonosor, Nebuzaradã, capitão da guarda, levou cativas, dos judeus, setecentas e quarenta e cinco pessoas; todas as pessoas foram quatro mil e seiscentas.</p>\n<p><strong>31</strong> Sucedeu, pois, no ano trigésimo sétimo do cativeiro de Joaquim, rei de Judá, no duodécimo mês, aos vinte e cinco dias do mês, que Evil-Merodaque, rei de Babilônia, no primeiro ano do seu reinado, levantou a cabeça de Joaquim, rei de Judá, e tirou-o do cárcere;</p>\n<p><strong>32</strong> E falou com ele benignamente, e pôs o seu trono acima dos tronos dos reis que estavam com ele em Babilônia;</p>\n<p><strong>33</strong> E lhe fez mudar as vestes da sua prisão; e passou a comer pão sempre na presença do rei, todos os dias da sua vida.</p>\n<p><strong>34</strong> E, quanto à sua alimentação, foi-lhe dada refeição contínua do rei de Babilônia, porção cotidiana, até o dia da sua morte, todos os dias da sua vida.</p>\n<hr>\n<p><a href=\"capitulo_51.md\">&lt;- Jeremias 51</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a> <a href=\"capitulo_22.md\">22</a> <a href=\"capitulo_23.md\">23</a> <a href=\"capitulo_24.md\">24</a> <a href=\"capitulo_25.md\">25</a> <a href=\"capitulo_26.md\">26</a> <a href=\"capitulo_27.md\">27</a> <a href=\"capitulo_28.md\">28</a> <a href=\"capitulo_29.md\">29</a> <a href=\"capitulo_30.md\">30</a>\n<a href=\"capitulo_31.md\">31</a> <a href=\"capitulo_32.md\">32</a> <a href=\"capitulo_33.md\">33</a> <a href=\"capitulo_34.md\">34</a> <a href=\"capitulo_35.md\">35</a> <a href=\"capitulo_36.md\">36</a> <a href=\"capitulo_37.md\">37</a> <a href=\"capitulo_38.md\">38</a> <a href=\"capitulo_39.md\">39</a> <a href=\"capitulo_40.md\">40</a>\n<a href=\"capitulo_41.md\">41</a> <a href=\"capitulo_42.md\">42</a> <a href=\"capitulo_43.md\">43</a> <a href=\"capitulo_44.md\">44</a> <a href=\"capitulo_45.md\">45</a> <a href=\"capitulo_46.md\">46</a> <a href=\"capitulo_47.md\">47</a> <a href=\"capitulo_48.md\">48</a> <a href=\"capitulo_49.md\">49</a> <a href=\"capitulo_50.md\">50</a>\n<a href=\"capitulo_51.md\">51</a> <a href=\"capitulo_52.md\">52</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['jr'] = {
+  "book": "jr",
+  "name": "Jeremias",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Palavras de Jeremias, filho de Hilquias, um dos sacerdotes que estavam em Anatote, na terra de Benjamim;"
+        },
+        {
+          "verse": 2,
+          "text": "Ao qual veio a palavra do Senhor, nos dias de Josias, filho de Amom, rei de Judá, no décimo terceiro ano do seu reinado."
+        },
+        {
+          "verse": 3,
+          "text": "E lhe veio também nos dias de Jeoiaquim, filho de Josias, rei de Judá, até ao fim do ano undécimo de Zedequias, filho de Josias, rei de Judá, até que Jerusalém foi levada em cativeiro no quinto mês."
+        },
+        {
+          "verse": 4,
+          "text": "Assim veio a mim a palavra do Senhor, dizendo:"
+        },
+        {
+          "verse": 5,
+          "text": "Antes que te formasse no ventre te conheci, e antes que saísses da madre, te santifiquei; às nações te dei por profeta."
+        },
+        {
+          "verse": 6,
+          "text": "Então disse eu: Ah, Senhor Deus! Eis que não sei falar; porque ainda sou um menino."
+        },
+        {
+          "verse": 7,
+          "text": "Mas o Senhor me disse: Não digas: Eu sou um menino; porque a todos a quem eu te enviar, irás; e tudo quanto te mandar, falarás."
+        },
+        {
+          "verse": 8,
+          "text": "Não temas diante deles; porque estou contigo para te livrar, diz o Senhor."
+        },
+        {
+          "verse": 9,
+          "text": "E estendeu o Senhor a sua mão, e tocou-me na boca; e disse-me o Senhor: Eis que ponho as minhas palavras na tua boca;"
+        },
+        {
+          "verse": 10,
+          "text": "Olha, ponho-te neste dia sobre as nações, e sobre os reinos, para arrancares, e para derrubares, e para destruíres, e para arruinares; e também para edificares e para plantares."
+        },
+        {
+          "verse": 11,
+          "text": "Ainda veio a mim a palavra do Senhor, dizendo: Que é que vês, Jeremias? E eu disse: Vejo uma vara de amendoeira."
+        },
+        {
+          "verse": 12,
+          "text": "E disse-me o Senhor: Viste bem; porque eu velo sobre a minha palavra para cumpri-la."
+        },
+        {
+          "verse": 13,
+          "text": "E veio a mim a palavra do Senhor segunda vez, dizendo: Que é que vês? E eu disse: Vejo uma panela a ferver, cuja face está para o lado do norte."
+        },
+        {
+          "verse": 14,
+          "text": "E disse-me o Senhor: Do norte se descobrirá o mal sobre todos os habitantes da terra."
+        },
+        {
+          "verse": 15,
+          "text": "Porque eis que eu convoco todas as famílias dos reinos do norte, diz o Senhor; e virão, e cada um porá o seu trono à entrada das portas de Jerusalém, e contra todos os seus muros em redor, e contra todas as cidades de Judá."
+        },
+        {
+          "verse": 16,
+          "text": "E eu pronunciarei contra eles os meus juízos, por causa de toda a sua malícia; pois me deixaram, e queimaram incenso a deuses estranhos, e se encurvaram diante das obras das suas mãos."
+        },
+        {
+          "verse": 17,
+          "text": "Tu, pois, cinge os teus lombos, e levanta-te, e dize-lhes tudo quanto eu te mandar; não te espantes diante deles, para que eu não te envergonhe diante deles."
+        },
+        {
+          "verse": 18,
+          "text": "Porque, eis que hoje te ponho por cidade forte, e por coluna de ferro, e por muros de bronze, contra toda a terra, contra os reis de Judá, contra os seus príncipes, contra os seus sacerdotes, e contra o povo da terra."
+        },
+        {
+          "verse": 19,
+          "text": "E pelejarão contra ti, mas não prevalecerão contra ti; porque eu sou contigo, diz o Senhor, para te livrar."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E veio a mim a palavra do Senhor, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Vai, e clama aos ouvidos de Jerusalém, dizendo: Assim diz o Senhor: Lembro-me de ti, da piedade da tua mocidade, e do amor do teu noivado, quando me seguias no deserto, numa terra que não se semeava."
+        },
+        {
+          "verse": 3,
+          "text": "Então Israel era santidade para o Senhor, e as primícias da sua novidade; todos os que o devoravam eram tidos por culpados; o mal vinha sobre eles, diz o Senhor."
+        },
+        {
+          "verse": 4,
+          "text": "Ouvi a palavra do Senhor, ó casa de Jacó, e todas as famílias da casa de Israel;"
+        },
+        {
+          "verse": 5,
+          "text": "Assim diz o Senhor: Que injustiça acharam vossos pais em mim, para se afastarem de mim, indo após a vaidade, e tornando-se levianos?"
+        },
+        {
+          "verse": 6,
+          "text": "E não disseram: Onde está o Senhor, que nos fez subir da terra do Egito, que nos guiou através do deserto, por uma terra árida, e de covas, por uma terra de sequidão e sombra de morte, por uma terra pela qual ninguém transitava, e na qual não morava homem algum?"
+        },
+        {
+          "verse": 7,
+          "text": "E eu vos introduzi numa terra fértil, para comerdes o seu fruto e o seu bem; mas quando nela entrastes contaminastes a minha terra, e da minha herança fizestes uma abominação."
+        },
+        {
+          "verse": 8,
+          "text": "Os sacerdotes não disseram: Onde está o Senhor? E os que tratavam da lei não me conheciam, e os pastores prevaricavam contra mim, e os profetas profetizavam por Baal, e andaram após o que é de nenhum proveito."
+        },
+        {
+          "verse": 9,
+          "text": "Portanto ainda contenderei convosco, diz o Senhor; e até com os filhos de vossos filhos contenderei."
+        },
+        {
+          "verse": 10,
+          "text": "Pois, passai às ilhas de Quitim, e vede; e enviai a Quedar, e atentai bem, e vede se jamais sucedeu coisa semelhante."
+        },
+        {
+          "verse": 11,
+          "text": "Houve alguma nação que trocasse os seus deuses, ainda que não fossem deuses? Todavia o meu povo trocou a sua glória por aquilo que é de nenhum proveito."
+        },
+        {
+          "verse": 12,
+          "text": "Espantai-vos disto, ó céus, e horrorizai-vos! Ficai verdadeiramente desolados, diz o Senhor."
+        },
+        {
+          "verse": 13,
+          "text": "Porque o meu povo fez duas maldades: a mim me deixaram, o manancial de águas vivas, e cavaram cisternas, cisternas rotas, que não retêm águas."
+        },
+        {
+          "verse": 14,
+          "text": "Acaso é Israel um servo? É ele um escravo nascido em casa? Por que, pois, veio a ser presa?"
+        },
+        {
+          "verse": 15,
+          "text": "Os filhos de leão rugiram sobre ele, levantaram a sua voz; e fizeram da sua terra uma desolação; as suas cidades se queimaram, e ninguém habita nelas."
+        },
+        {
+          "verse": 16,
+          "text": "Até os filhos de Nofe e de Tafnes te quebraram o alto da cabeça."
+        },
+        {
+          "verse": 17,
+          "text": "Porventura não fizeste isto a ti mesmo, deixando o Senhor teu Deus, no tempo em que ele te guiava pelo caminho?"
+        },
+        {
+          "verse": 18,
+          "text": "Agora, pois, que te importa a ti o caminho do Egito, para beberes as águas de Sior? E que te importa a ti o caminho da Assíria, para beberes as águas do rio?"
+        },
+        {
+          "verse": 19,
+          "text": "A tua malícia te castigará, e as tuas apostasias te repreenderão; sabe, pois, e vê, que mal e quão amargo é deixares ao Senhor teu Deus, e não teres em ti o meu temor, diz o Senhor Deus dos Exércitos."
+        },
+        {
+          "verse": 20,
+          "text": "Quando eu já há muito quebrava o teu jugo, e rompia as tuas ataduras, dizias tu: Nunca mais transgredirei; contudo em todo o outeiro alto e debaixo de toda a árvore verde te andas encurvando e prostituindo-te ."
+        },
+        {
+          "verse": 21,
+          "text": "Eu mesmo te plantei como vide excelente, uma semente inteiramente fiel; como, pois, te tornaste para mim uma planta degenerada como vide estranha?"
+        },
+        {
+          "verse": 22,
+          "text": "Por isso, ainda que te laves com salitre, e amontoes sabão, a tua iniquidade está gravada diante de mim, diz o Senhor Deus."
+        },
+        {
+          "verse": 23,
+          "text": "Como dizes logo: Não estou contaminada nem andei após os baalins? Vê o teu caminho no vale, conhece o que fizeste; dromedária ligeira és, que anda torcendo os seus caminhos."
+        },
+        {
+          "verse": 24,
+          "text": "Jumenta montês, acostumada ao deserto, que, conforme o desejo da sua alma, sorve o vento, quem a deteria no seu cio? Todos os que a buscarem não se cansarão; no mês dela a acharão."
+        },
+        {
+          "verse": 25,
+          "text": "Evita que o teu pé ande descalço, e a tua garganta tenha sede. Mas tu dizes: Não há esperança; porque amo os estranhos, após eles andarei."
+        },
+        {
+          "verse": 26,
+          "text": "Como fica confundido o ladrão quando o apanham, assim se confundem os da casa de Israel; eles, os seus reis, os seus príncipes, e os seus sacerdotes, e os seus profetas,"
+        },
+        {
+          "verse": 27,
+          "text": "Que dizem ao pau: Tu és meu pai; e à pedra: Tu me geraste; porque me viraram as costas, e não o rosto; mas no tempo da sua angústia dirão: Levanta-te, e livra-nos."
+        },
+        {
+          "verse": 28,
+          "text": "Onde, pois, estão os teus deuses, que fizeste para ti? Que se levantem, se te podem livrar no tempo da tua angústia; porque os teus deuses, ó Judá, são tão numerosos como as tuas cidades."
+        },
+        {
+          "verse": 29,
+          "text": "Por que contendeis comigo? Todos vós transgredistes contra mim, diz o Senhor."
+        },
+        {
+          "verse": 30,
+          "text": "Em vão castiguei os vossos filhos; eles não aceitaram a correção; a vossa espada devorou os vossos profetas como um leão destruidor."
+        },
+        {
+          "verse": 31,
+          "text": "Oh geração! Considerai vós a palavra do Senhor: Porventura tenho eu sido para Israel um deserto? Ou uma terra da mais espessa escuridão? Por que, pois, diz o meu povo: Temos determinado; não viremos mais a ti?"
+        },
+        {
+          "verse": 32,
+          "text": "Porventura esquece-se a virgem dos seus enfeites, ou a noiva dos seus adornos? Todavia o meu povo se esqueceu de mim por inumeráveis dias."
+        },
+        {
+          "verse": 33,
+          "text": "Por que ornamentas o teu caminho, para buscares o amor? Pois até às malignas ensinaste os teus caminhos."
+        },
+        {
+          "verse": 34,
+          "text": "Até nas orlas dos teus vestidos se achou o sangue das almas dos inocentes e necessitados; não cavei para achar, pois se vê em todas estas coisas."
+        },
+        {
+          "verse": 35,
+          "text": "E ainda dizes: Eu estou inocente; certamente a sua ira se desviou de mim. Eis que entrarei em juízo contigo, porquanto dizes: Não pequei."
+        },
+        {
+          "verse": 36,
+          "text": "Por que te desvias tanto, mudando o teu caminho? Também do Egito serás envergonhada, como foste envergonhada da Assíria."
+        },
+        {
+          "verse": 37,
+          "text": "Também daquele sairás com as mãos sobre a tua cabeça; porque o Senhor rejeitou a tua confiança, e não prosperarás com eles."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Eles dizem: Se um homem despedir sua mulher, e ela o deixar, e se ajuntar a outro homem, porventura tornará ele outra vez para ela? Não se poluirá de todo aquela terra? Ora, tu te prostituíste com muitos amantes; mas ainda assim, torna para mim, diz o Senhor."
+        },
+        {
+          "verse": 2,
+          "text": "Levanta os teus olhos aos altos, e vê: onde não te prostituíste? Nos caminhos te assentavas para eles, como o árabe no deserto; assim poluíste a terra com as tuas fornicações e com a tua malícia."
+        },
+        {
+          "verse": 3,
+          "text": "Por isso foram retiradas as chuvas, e não houve chuva serôdia; mas tu tens a fronte de uma prostituta, e não queres ter vergonha."
+        },
+        {
+          "verse": 4,
+          "text": "Ao menos desde agora não chamarás por mim, dizendo: Pai meu, tu és o guia da minha mocidade?"
+        },
+        {
+          "verse": 5,
+          "text": "Conservará ele para sempre a sua ira? Ou a guardará continuamente? Eis que tens falado e feito quantas maldades pudeste."
+        },
+        {
+          "verse": 6,
+          "text": "Disse mais o Senhor nos dias do rei Josias: Viste o que fez a rebelde Israel? Ela foi a todo o monte alto, e debaixo de toda a árvore verde, e ali andou prostituindo-se."
+        },
+        {
+          "verse": 7,
+          "text": "E eu disse: Depois que fizer tudo isto, voltará para mim; mas não voltou; e viu isto a sua aleivosa irmã Judá."
+        },
+        {
+          "verse": 8,
+          "text": "E vi que, por causa de tudo isto, por ter cometido adultério a rebelde Israel, a despedi, e lhe dei a sua carta de divórcio, que a aleivosa Judá, sua irmã, não temeu; mas se foi e também ela mesma se prostituiu."
+        },
+        {
+          "verse": 9,
+          "text": "E sucedeu que pela fama da sua prostituição, contaminou a terra; porque adulterou com a pedra e com a madeira."
+        },
+        {
+          "verse": 10,
+          "text": "E, contudo, apesar de tudo isso a sua aleivosa irmã Judá não voltou para mim de todo o seu coração, mas falsamente, diz o Senhor."
+        },
+        {
+          "verse": 11,
+          "text": "E o Senhor me disse: Já a rebelde Israel mostrou-se mais justa do que a aleivosa Judá."
+        },
+        {
+          "verse": 12,
+          "text": "Vai, pois, e apregoa estas palavras para o lado norte, e dize: Volta, ó rebelde Israel, diz o Senhor, e não farei cair a minha ira sobre ti; porque misericordioso sou, diz o Senhor, e não conservarei para sempre a minha ira."
+        },
+        {
+          "verse": 13,
+          "text": "Somente reconhece a tua iniquidade, que transgrediste contra o Senhor teu Deus; e estendeste os teus caminhos aos estranhos, debaixo de toda a árvore verde, e não deste ouvidos à minha voz, diz o Senhor."
+        },
+        {
+          "verse": 14,
+          "text": "Convertei-vos, ó filhos rebeldes, diz o Senhor; pois eu vos desposei; e vos tomarei, a um de uma cidade, e a dois de uma família; e vos levarei a Sião."
+        },
+        {
+          "verse": 15,
+          "text": "E dar-vos-ei pastores segundo o meu coração, os quais vos apascentarão com conhecimento e com inteligência."
+        },
+        {
+          "verse": 16,
+          "text": "E sucederá que, quando vos multiplicardes e frutificardes na terra, naqueles dias, diz o Senhor, nunca mais se dirá: A arca da aliança do Senhor, nem lhes virá ao coração; nem dela se lembrarão, nem a visitarão; nem se fará outra."
+        },
+        {
+          "verse": 17,
+          "text": "Naquele tempo chamarão a Jerusalém o trono do Senhor, e todas as nações se ajuntarão a ela, em nome do Senhor, em Jerusalém; e nunca mais andarão segundo o propósito do seu coração maligno."
+        },
+        {
+          "verse": 18,
+          "text": "Naqueles dias andará a casa de Judá com a casa de Israel; e virão juntas da terra do norte, para a terra que dei em herança a vossos pais."
+        },
+        {
+          "verse": 19,
+          "text": "Mas eu dizia: Como te porei entre os filhos, e te darei a terra desejável, a excelente herança dos exércitos das nações? Mas eu disse: Tu me chamarás meu pai, e de mim não te desviarás."
+        },
+        {
+          "verse": 20,
+          "text": "Deveras, como a mulher se aparta aleivosamente do seu marido, assim aleivosamente te houveste comigo, ó casa de Israel, diz o Senhor."
+        },
+        {
+          "verse": 21,
+          "text": "Nos lugares altos se ouviu uma voz, pranto e súplicas dos filhos de Israel; porquanto perverteram o seu caminho, e se esqueceram do Senhor seu Deus."
+        },
+        {
+          "verse": 22,
+          "text": "Voltai, ó filhos rebeldes, eu curarei as vossas rebeliões. Eis-nos aqui, vimos a ti; porque tu és o Senhor nosso Deus."
+        },
+        {
+          "verse": 23,
+          "text": "Certamente em vão se confia nos outeiros e na multidão das montanhas; deveras no Senhor nosso Deus está a salvação de Israel."
+        },
+        {
+          "verse": 24,
+          "text": "Porque a confusão devorou o trabalho de nossos pais desde a nossa mocidade; as suas ovelhas e o seu gado, os seus filhos e as suas filhas."
+        },
+        {
+          "verse": 25,
+          "text": "Deitemo-nos em nossa vergonha; e cubra-nos a nossa confusão, porque pecamos contra o Senhor nosso Deus, nós e nossos pais, desde a nossa mocidade até o dia de hoje; e não demos ouvidos à voz do Senhor nosso Deus."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Se voltares, ó Israel, diz o Senhor, volta para mim; e se tirares as tuas abominações de diante de mim, não andarás mais vagueando,"
+        },
+        {
+          "verse": 2,
+          "text": "E jurarás: Vive o Senhor na verdade, no juízo e na justiça; e nele se bendirão as nações, e nele se gloriarão."
+        },
+        {
+          "verse": 3,
+          "text": "Porque assim diz o Senhor aos homens de Judá e a Jerusalém: Preparai para vós o campo de lavoura, e não semeeis entre espinhos."
+        },
+        {
+          "verse": 4,
+          "text": "Circuncidai-vos ao Senhor, e tirai os prepúcios do vosso coração, ó homens de Judá e habitantes de Jerusalém, para que o meu furor não venha a sair como fogo, e arda de modo que não haja quem o apague, por causa da malícia das vossas obras."
+        },
+        {
+          "verse": 5,
+          "text": "Anunciai em Judá, e fazei ouvir em Jerusalém, e dizei: Tocai a trombeta na terra, gritai em alta voz, dizendo: Ajuntai-vos, e entremos nas cidades fortificadas."
+        },
+        {
+          "verse": 6,
+          "text": "Arvorai a bandeira rumo a Sião, fugi, não vos detenhais; porque eu trago do norte um mal, e uma grande destruição."
+        },
+        {
+          "verse": 7,
+          "text": "Já um leão subiu da sua ramada, e um destruidor dos gentios; ele já partiu, e saiu do seu lugar para fazer da tua terra uma desolação, a fim de que as tuas cidades sejam destruídas, e ninguém habite nelas."
+        },
+        {
+          "verse": 8,
+          "text": "Por isto cingi-vos de sacos, lamentai, e uivai, porque o ardor da ira do Senhor não se desviou de nós."
+        },
+        {
+          "verse": 9,
+          "text": "E sucederá naquele tempo, diz o Senhor, que se desfará o coração do rei e o coração dos príncipes; e os sacerdotes pasmarão, e os profetas se maravilharão."
+        },
+        {
+          "verse": 10,
+          "text": "Então disse eu: Ah, Senhor Deus! Verdadeiramente enganaste grandemente a este povo e a Jerusalém, dizendo: Tereis paz; pois a espada penetra-lhe até à alma."
+        },
+        {
+          "verse": 11,
+          "text": "Naquele tempo se dirá a este povo e a Jerusalém: Um vento seco das alturas do deserto veio ao caminho da filha do meu povo; não para padejar, nem para limpar;"
+        },
+        {
+          "verse": 12,
+          "text": "Mas um vento mais veemente virá da minha parte; agora também eu pronunciarei juízos contra eles."
+        },
+        {
+          "verse": 13,
+          "text": "Eis que virá subindo como nuvens e os seus carros como a tormenta; os seus cavalos serão mais ligeiros do que as águias; ai de nós, que somos assolados!"
+        },
+        {
+          "verse": 14,
+          "text": "Lava o teu coração da malícia, ó Jerusalém, para que sejas salva; até quando permanecerão no meio de ti os pensamentos da tua iniquidade?"
+        },
+        {
+          "verse": 15,
+          "text": "Porque uma voz anuncia desde Dã, e faz ouvir a calamidade desde o monte de Efraim."
+        },
+        {
+          "verse": 16,
+          "text": "Lembrai isto às nações; fazei ouvir contra Jerusalém, que vigias vêm de uma terra remota, e levantarão a sua voz contra as cidades de Judá."
+        },
+        {
+          "verse": 17,
+          "text": "Como os guardas de um campo, estão contra ela ao redor; porquanto ela se rebelou contra mim, diz o Senhor."
+        },
+        {
+          "verse": 18,
+          "text": "O teu caminho e as tuas obras te fizeram estas coisas; esta é a tua maldade, e amargosa é, que te chega até ao coração."
+        },
+        {
+          "verse": 19,
+          "text": "Ah, entranhas minhas, entranhas minhas! Estou com dores no meu coração! O meu coração se agita em mim. Não posso me calar; porque tu, ó minha alma, ouviste o som da trombeta e o alarido da guerra."
+        },
+        {
+          "verse": 20,
+          "text": "Destruição sobre destruição se apregoa; porque já toda a terra está destruída; de repente foram destruídas as minhas tendas, e as minhas cortinas num momento."
+        },
+        {
+          "verse": 21,
+          "text": "Até quando verei a bandeira, e ouvirei a voz da trombeta?"
+        },
+        {
+          "verse": 22,
+          "text": "Deveras o meu povo está louco, já não me conhece; são filhos néscios, e não entendidos; são sábios para fazer mal, mas não sabem fazer o bem."
+        },
+        {
+          "verse": 23,
+          "text": "Observei a terra, e eis que era sem forma e vazia; também os céus, e não tinham a sua luz."
+        },
+        {
+          "verse": 24,
+          "text": "Observei os montes, e eis que estavam tremendo; e todos os outeiros estremeciam."
+        },
+        {
+          "verse": 25,
+          "text": "Observei, e eis que não havia homem algum; e todas as aves do céu tinham fugido."
+        },
+        {
+          "verse": 26,
+          "text": "Vi também que a terra fértil era um deserto; e todas as suas cidades estavam derrubadas diante do Senhor, diante do furor da sua ira."
+        },
+        {
+          "verse": 27,
+          "text": "Porque assim diz o Senhor: Toda esta terra será assolada; de todo, porém, não a consumirei."
+        },
+        {
+          "verse": 28,
+          "text": "Por isto lamentará a terra, e os céus em cima se enegrecerão; porquanto assim o disse, assim o propus, e não me arrependi nem me desviarei disso."
+        },
+        {
+          "verse": 29,
+          "text": "Ao clamor dos cavaleiros e dos flecheiros fugiram todas as cidades; entraram pelas matas e treparam pelos penhascos; todas as cidades ficaram abandonadas, e já ninguém habita nelas."
+        },
+        {
+          "verse": 30,
+          "text": "Agora, pois, que farás, ó assolada? Ainda que te vistas de carmesim, ainda que te adornes com enfeites de ouro, ainda que te pintes em volta dos teus olhos, em vão te farias bela; os amantes te desprezam, e procuram tirar-te a vida."
+        },
+        {
+          "verse": 31,
+          "text": "Porquanto ouço uma voz, como a de uma mulher que está de parto, uma angústia como a de que está com dores de parto do primeiro filho; a voz da filha de Sião, ofegante, que estende as suas mãos, dizendo: Oh! Ai de mim agora, porque já a minha alma desmaia por causa dos assassinos."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Dai voltas às ruas de Jerusalém, e vede agora; e informai-vos, e buscai pelas suas praças, a ver se achais alguém, ou se há homem que pratique a justiça ou busque a verdade; e eu lhe perdoarei."
+        },
+        {
+          "verse": 2,
+          "text": "E ainda que digam: Vive o Senhor, decerto falsamente juram."
+        },
+        {
+          "verse": 3,
+          "text": "Ah Senhor, porventura não atentam os teus olhos para a verdade? Feriste-os, e não lhes doeu; consumiste-os, e não quiseram receber a correção; endureceram as suas faces mais do que uma rocha; não quiseram voltar."
+        },
+        {
+          "verse": 4,
+          "text": "Eu, porém, disse: Deveras estes são pobres; são loucos, pois não sabem o caminho do Senhor, nem o juízo do seu Deus."
+        },
+        {
+          "verse": 5,
+          "text": "Irei aos grandes, e falarei com eles; porque eles sabem o caminho do Senhor, o juízo do seu Deus; mas estes juntamente quebraram o jugo, e romperam as ataduras."
+        },
+        {
+          "verse": 6,
+          "text": "Por isso um leão do bosque os feriu, um lobo dos desertos os assolará; um leopardo vigia contra as suas cidades; qualquer que sair delas será despedaçado; porque as suas transgressões se avolumam, multiplicaram-se as suas apostasias."
+        },
+        {
+          "verse": 7,
+          "text": "Como, vendo isto, te perdoaria? Teus filhos me deixam a mim e juram pelos que não são deuses; quando os fartei, então adulteraram, e em casa de meretrizes se ajuntaram em bandos."
+        },
+        {
+          "verse": 8,
+          "text": "Como cavalos bem fartos, levantam-se pela manhã, rinchando cada um à mulher do seu próximo."
+        },
+        {
+          "verse": 9,
+          "text": "Deixaria eu de castigar por estas coisas, diz o Senhor, ou não se vingaria a minha alma de uma nação como esta?"
+        },
+        {
+          "verse": 10,
+          "text": "Subi aos seus muros, e destruí-os (porém não façais uma destruição final); tirai os seus ramos, porque não são do Senhor."
+        },
+        {
+          "verse": 11,
+          "text": "Porque aleivosissimamente se houveram contra mim a casa de Israel e a casa de Judá, diz o Senhor."
+        },
+        {
+          "verse": 12,
+          "text": "Negaram ao Senhor, e disseram: Não é ele; nem mal nos sobrevirá, nem veremos espada nem fome."
+        },
+        {
+          "verse": 13,
+          "text": "E até os profetas serão como vento, porque a palavra não está com eles; assim se lhes sucederá."
+        },
+        {
+          "verse": 14,
+          "text": "Portanto assim diz o Senhor Deus dos Exércitos: Porquanto disseste tal palavra, eis que converterei as minhas palavras na tua boca em fogo, e a este povo em lenha, eles serão consumidos."
+        },
+        {
+          "verse": 15,
+          "text": "Eis que trarei sobre vós uma nação de longe, ó casa de Israel, diz o Senhor; é uma nação robusta, é uma nação antiquíssima, uma nação cuja língua ignorarás, e não entenderás o que ela falar."
+        },
+        {
+          "verse": 16,
+          "text": "A sua aljava é como uma sepultura aberta; todos eles são poderosos."
+        },
+        {
+          "verse": 17,
+          "text": "E comerão a tua sega e o teu pão, que teus filhos e tuas filhas haviam de comer; comerão as tuas ovelhas e as tuas vacas; comerão a tua vide e a tua figueira; as tuas cidades fortificadas, em que confiavas, abatê-las-ão à espada."
+        },
+        {
+          "verse": 18,
+          "text": "Contudo, ainda naqueles dias, diz o Senhor, não farei de vós uma destruição final."
+        },
+        {
+          "verse": 19,
+          "text": "E sucederá que, quando disserdes: Por que nos fez o Senhor nosso Deus todas estas coisas? Então lhes dirás: Como vós me deixastes, e servistes a deuses estranhos na vossa terra, assim servireis a estrangeiros, em terra que não é vossa."
+        },
+        {
+          "verse": 20,
+          "text": "Anunciai isto na casa de Jacó, e fazei-o ouvir em Judá, dizendo:"
+        },
+        {
+          "verse": 21,
+          "text": "Ouvi agora isto, ó povo insensato, e sem coração, que tendes olhos e não vedes, que tendes ouvidos e não ouvis."
+        },
+        {
+          "verse": 22,
+          "text": "Porventura não me temereis a mim? Diz o Senhor; não temereis diante de mim, que pus a areia por limite ao mar, por ordenança eterna, que ele não traspassará? Ainda que se levantem as suas ondas, não prevalecerão; ainda que bramem, não a traspassarão."
+        },
+        {
+          "verse": 23,
+          "text": "Mas este povo é de coração rebelde e pertinaz: rebelaram-se e foram-se."
+        },
+        {
+          "verse": 24,
+          "text": "E não dizem no seu coração: Temamos agora ao Senhor nosso Deus, que dá chuva, a temporã e a tardia, ao seu tempo; e nos conserva as semanas determinadas da sega."
+        },
+        {
+          "verse": 25,
+          "text": "As vossas iniquidades desviam estas coisas, e os vossos pecados apartam de vós o bem."
+        },
+        {
+          "verse": 26,
+          "text": "Porque ímpios se acham entre o meu povo; andam espiando, como quem arma laços; põem armadilhas, com que prendem os homens."
+        },
+        {
+          "verse": 27,
+          "text": "Como uma gaiola está cheia de pássaros, assim as suas casas estão cheias de engano; por isso se engrandeceram, e enriqueceram;"
+        },
+        {
+          "verse": 28,
+          "text": "Engordam-se, estão nédios, e ultrapassam até os feitos dos malignos; não julgam a causa do órfão; todavia prosperam; nem julgam o direito dos necessitados."
+        },
+        {
+          "verse": 29,
+          "text": "Porventura não castigaria eu por causa destas coisas? Diz o Senhor; não me vingaria eu de uma nação como esta?"
+        },
+        {
+          "verse": 30,
+          "text": "Coisa espantosa e horrenda se anda fazendo na terra."
+        },
+        {
+          "verse": 31,
+          "text": "Os profetas profetizam falsamente, e os sacerdotes dominam pelas mãos deles, e o meu povo assim o deseja; mas que fareis ao fim disto?"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fugi para salvação vossa, filhos de Benjamim, do meio de Jerusalém; e tocai a trombeta em Tecoa, e levantai um sinal de fogo sobre Bete-Haquerém; porque do lado norte surge um mal e uma grande destruição."
+        },
+        {
+          "verse": 2,
+          "text": "À formosa e delicada assemelhei a filha de Sião."
+        },
+        {
+          "verse": 3,
+          "text": "Mas contra ela virão pastores com os seus rebanhos; levantarão contra ela tendas em redor, e cada um apascentará no seu lugar."
+        },
+        {
+          "verse": 4,
+          "text": "Preparai a guerra contra ela, levantai-vos, e subamos ao pino do meio-dia. Ai de nós! Já declina o dia, já se vão estendendo as sombras da tarde."
+        },
+        {
+          "verse": 5,
+          "text": "Levantai-vos, e subamos de noite, e destruamos os seus palácios."
+        },
+        {
+          "verse": 6,
+          "text": "Porque assim diz o Senhor dos Exércitos: Cortai árvores, e levantai trincheiras contra Jerusalém; esta é a cidade que há de ser castigada, só opressão há no meio dela."
+        },
+        {
+          "verse": 7,
+          "text": "Como a fonte produz as suas águas, assim ela produz a sua malícia; violência e estrago se ouvem nela; enfermidade e feridas há diante de mim continuamente."
+        },
+        {
+          "verse": 8,
+          "text": "Corrige-te, ó Jerusalém, para que a minha alma não se aparte de ti, para que não te torne em assolação e terra não habitada."
+        },
+        {
+          "verse": 9,
+          "text": "Assim diz o Senhor dos Exércitos: Diligentemente respigarão os resíduos de Israel como uma vinha; torna a tua mão, como o vindimador, aos cestos."
+        },
+        {
+          "verse": 10,
+          "text": "A quem falarei e testemunharei, para que ouça? Eis que os seus ouvidos estão incircuncisos, e não podem ouvir; eis que a palavra do Senhor é para eles coisa vergonhosa, e não gostam dela."
+        },
+        {
+          "verse": 11,
+          "text": "Por isso estou cheio do furor do Senhor; estou cansado de o conter; derramá-lo-ei sobre os meninos pelas ruas e na reunião de todos os jovens; porque até o marido com a mulher serão presos, e o velho com o que está cheio de dias."
+        },
+        {
+          "verse": 12,
+          "text": "E as suas casas passarão a outros, como também as suas herdades e as suas mulheres juntamente; porque estenderei a minha mão contra os habitantes desta terra, diz o Senhor."
+        },
+        {
+          "verse": 13,
+          "text": "Porque desde o menor deles até ao maior, cada um se dá à avareza; e desde o profeta até ao sacerdote, cada um usa de falsidade."
+        },
+        {
+          "verse": 14,
+          "text": "E curam superficialmente a ferida da filha do meu povo, dizendo: Paz, paz; quando não há paz."
+        },
+        {
+          "verse": 15,
+          "text": "Porventura envergonham-se de cometer abominação? Pelo contrário, de maneira nenhuma se envergonham, nem tampouco sabem que coisa é envergonhar-se; portanto cairão entre os que caem; no tempo em que eu os visitar, tropeçarão, diz o Senhor."
+        },
+        {
+          "verse": 16,
+          "text": "Assim diz o Senhor: Ponde-vos nos caminhos, e vede, e perguntai pelas veredas antigas, qual é o bom caminho, e andai por ele; e achareis descanso para as vossas almas; mas eles dizem: Não andaremos nele."
+        },
+        {
+          "verse": 17,
+          "text": "Também pus atalaias sobre vós, dizendo: Estai atentos ao som da trombeta; mas dizem: Não escutaremos."
+        },
+        {
+          "verse": 18,
+          "text": "Portanto ouvi, vós, nações; e informa-te tu, ó congregação, do que se faz entre eles!"
+        },
+        {
+          "verse": 19,
+          "text": "Ouve tu, ó terra! Eis que eu trarei mal sobre este povo, o próprio fruto dos seus pensamentos; porque não estão atentos às minhas palavras, e rejeitam a minha lei."
+        },
+        {
+          "verse": 20,
+          "text": "Para que, pois, me vem o incenso de Sabá e a melhor cana aromática de terras remotas? Vossos holocaustos não me agradam, nem me são suaves os vossos sacrifícios."
+        },
+        {
+          "verse": 21,
+          "text": "Portanto assim diz o Senhor: Eis que armarei tropeços a este povo; e tropeçarão neles pais e filhos juntamente; o vizinho e o seu companheiro perecerão."
+        },
+        {
+          "verse": 22,
+          "text": "Assim diz o Senhor: Eis que um povo vem da terra do norte, e uma grande nação se levantará das extremidades da terra."
+        },
+        {
+          "verse": 23,
+          "text": "Arco e lança trarão; são cruéis, e não usarão de misericórdia; a sua voz rugirá como o mar, e em cavalos virão montados, dispostos como homens de guerra contra ti, ó filha de Sião."
+        },
+        {
+          "verse": 24,
+          "text": "Ouvimos a sua fama, afrouxaram-se as nossas mãos; angústia nos tomou, e dores como as de parturiente."
+        },
+        {
+          "verse": 25,
+          "text": "Não saiais ao campo, nem andeis pelo caminho; porque espada do inimigo e espanto há ao redor."
+        },
+        {
+          "verse": 26,
+          "text": "Ó filha do meu povo, cinge-te de saco, e revolve-te na cinza; pranteia como por um filho único, pranto de amargura; porque de repente virá o destruidor sobre nós."
+        },
+        {
+          "verse": 27,
+          "text": "Por torre de guarda te pus entre o meu povo, por fortaleza, para que soubesses e examinasses o seu caminho."
+        },
+        {
+          "verse": 28,
+          "text": "Todos eles são os mais rebeldes, andam murmurando; são duros como bronze e ferro; todos eles são corruptores."
+        },
+        {
+          "verse": 29,
+          "text": "Já o fole se queimou, o chumbo se consumiu com o fogo; em vão fundiu o fundidor tão diligentemente, pois os maus não são arrancados."
+        },
+        {
+          "verse": 30,
+          "text": "Prata rejeitada lhes chamarão, porque o Senhor os rejeitou."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que da parte do Senhor, veio a Jeremias, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Põe-te à porta da casa do Senhor, e proclama ali esta palavra, e dize: Ouvi a palavra do Senhor, todos de Judá, os que entrais por estas portas, para adorardes ao Senhor."
+        },
+        {
+          "verse": 3,
+          "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Melhorai os vossos caminhos e as vossas obras, e vos farei habitar neste lugar."
+        },
+        {
+          "verse": 4,
+          "text": "Não vos fieis em palavras falsas, dizendo: Templo do Senhor, templo do Senhor, templo do Senhor é este."
+        },
+        {
+          "verse": 5,
+          "text": "Mas, se deveras melhorardes os vossos caminhos e as vossas obras; se deveras praticardes o juízo entre um homem e o seu próximo;"
+        },
+        {
+          "verse": 6,
+          "text": "Se não oprimirdes o estrangeiro, e o órfão, e a viúva, nem derramardes sangue inocente neste lugar, nem andardes após outros deuses para vosso próprio mal,"
+        },
+        {
+          "verse": 7,
+          "text": "Eu vos farei habitar neste lugar, na terra que dei a vossos pais, desde os tempos antigos e para sempre."
+        },
+        {
+          "verse": 8,
+          "text": "Eis que vós confiais em palavras falsas, que para nada vos aproveitam."
+        },
+        {
+          "verse": 9,
+          "text": "Porventura furtareis, e matareis, e adulterareis, e jurareis falsamente, e queimareis incenso a Baal, e andareis após outros deuses que não conhecestes,"
+        },
+        {
+          "verse": 10,
+          "text": "E então vireis, e vos poreis diante de mim nesta casa, que se chama pelo meu nome, e direis: Fomos libertados para fazermos todas estas abominações?"
+        },
+        {
+          "verse": 11,
+          "text": "É pois esta casa, que se chama pelo meu nome, uma caverna de salteadores aos vossos olhos? Eis que eu, eu mesmo, vi isto, diz o Senhor."
+        },
+        {
+          "verse": 12,
+          "text": "Mas ide agora ao meu lugar, que estava em Siló, onde, ao princípio, fiz habitar o meu nome, e vede o que lhe fiz, por causa da maldade do meu povo Israel."
+        },
+        {
+          "verse": 13,
+          "text": "Agora, pois, porquanto fazeis todas estas obras, diz o Senhor, e eu vos falei, madrugando, e falando, e não ouvistes, e chamei-vos, e não respondestes,"
+        },
+        {
+          "verse": 14,
+          "text": "Farei também a esta casa, que se chama pelo meu nome, na qual confiais, e a este lugar, que vos dei a vós e a vossos pais, como fiz a Siló."
+        },
+        {
+          "verse": 15,
+          "text": "E lançar-vos-ei de diante de minha face, como lancei a todos os vossos irmãos, a toda a geração de Efraim."
+        },
+        {
+          "verse": 16,
+          "text": "Tu, pois, não ores por este povo, nem levantes por ele clamor ou oração, nem me supliques, porque eu não te ouvirei."
+        },
+        {
+          "verse": 17,
+          "text": "Porventura não vês tu o que andam fazendo nas cidades de Judá, e nas ruas de Jerusalém?"
+        },
+        {
+          "verse": 18,
+          "text": "Os filhos apanham a lenha, e os pais acendem o fogo, e as mulheres preparam a massa, para fazerem bolos à rainha dos céus, e oferecem libações a outros deuses, para me provocarem à ira."
+        },
+        {
+          "verse": 19,
+          "text": "Acaso é a mim que eles provocam à ira? Diz o Senhor, e não a si mesmos, para confusão dos seus rostos?"
+        },
+        {
+          "verse": 20,
+          "text": "Portanto assim diz o Senhor Deus: Eis que a minha ira e o meu furor se derramarão sobre este lugar, sobre os homens e sobre os animais, e sobre as árvores do campo, e sobre os frutos da terra; e acender-se-á, e não se apagará."
+        },
+        {
+          "verse": 21,
+          "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Ajuntai os vossos holocaustos aos vossos sacrifícios, e comei carne."
+        },
+        {
+          "verse": 22,
+          "text": "Porque nunca falei a vossos pais, no dia em que os tirei da terra do Egito, nem lhes ordenei coisa alguma acerca de holocaustos ou sacrifícios."
+        },
+        {
+          "verse": 23,
+          "text": "Mas isto lhes ordenei, dizendo: Dai ouvidos à minha voz, e eu serei o vosso Deus, e vós sereis o meu povo; e andai em todo o caminho que eu vos mandar, para que vos vá bem."
+        },
+        {
+          "verse": 24,
+          "text": "Mas não ouviram, nem inclinaram os seus ouvidos, mas andaram nos seus próprios conselhos, no propósito do seu coração malvado; e andaram para trás, e não para diante."
+        },
+        {
+          "verse": 25,
+          "text": "Desde o dia em que vossos pais saíram da terra do Egito, até hoje, enviei-vos todos os meus servos, os profetas, todos os dias madrugando e enviando-os."
+        },
+        {
+          "verse": 26,
+          "text": "Mas não me deram ouvidos, nem inclinaram os seus ouvidos, mas endureceram a sua cerviz, e fizeram pior do que seus pais."
+        },
+        {
+          "verse": 27,
+          "text": "Dir-lhes-ás, pois, todas estas palavras, mas não te darão ouvidos; chamá-los-ás, mas não te responderão."
+        },
+        {
+          "verse": 28,
+          "text": "E lhes dirás: Esta é a nação que não deu ouvidos à voz do Senhor seu Deus e não aceitou a correção; já pereceu a verdade, e foi cortada da sua boca."
+        },
+        {
+          "verse": 29,
+          "text": "Corta o teu cabelo e lança-o de ti, e levanta um pranto sobre as alturas; porque já o Senhor rejeitou e desamparou a geração do seu furor."
+        },
+        {
+          "verse": 30,
+          "text": "Porque os filhos de Judá fizeram o que era mau aos meus olhos, diz o Senhor; puseram as suas abominações na casa que se chama pelo meu nome, para contaminá-la."
+        },
+        {
+          "verse": 31,
+          "text": "E edificaram os altos de Tofete, que está no Vale do Filho de Hinom, para queimarem no fogo a seus filhos e a suas filhas, o que nunca ordenei, nem me subiu ao coração."
+        },
+        {
+          "verse": 32,
+          "text": "Portanto, eis que vêm dias, diz o Senhor, em que não se chamará mais Tofete, nem Vale do Filho de Hinom, mas o Vale da Matança; e enterrarão em Tofete, por não haver outro lugar."
+        },
+        {
+          "verse": 33,
+          "text": "E os cadáveres deste povo servirão de pasto às aves dos céus e aos animais da terra; e ninguém os espantará."
+        },
+        {
+          "verse": 34,
+          "text": "E farei cessar nas cidades de Judá, e nas ruas de Jerusalém, a voz de gozo, e a voz de alegria, a voz de esposo e a voz de esposa; porque a terra se tornará em desolação."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Naquele tempo, diz o Senhor, tirarão para fora das suas sepulturas os ossos dos reis de Judá, e os ossos dos seus príncipes, e os ossos dos sacerdotes, e os ossos dos profetas, e os ossos dos habitantes de Jerusalém;"
+        },
+        {
+          "verse": 2,
+          "text": "E expô-los-ão ao sol, e à lua, e a todo o exército do céu, a quem tinham amado, e a quem tinham servido, e após quem tinham ido, e a quem tinham buscado e diante de quem se tinham prostrado; não serão recolhidos nem sepultados; serão como esterco sobre a face da terra."
+        },
+        {
+          "verse": 3,
+          "text": "E será escolhida antes a morte do que a vida por todos os que restarem desta raça maligna, que ficarem em todos os lugares onde os lancei, diz o Senhor dos Exércitos."
+        },
+        {
+          "verse": 4,
+          "text": "Dize-lhes mais: Assim diz o Senhor: Porventura cairão e não se tornarão a levantar? Desviar-se-ão, e não voltarão?"
+        },
+        {
+          "verse": 5,
+          "text": "Por que, pois, se desvia este povo de Jerusalém com uma apostasia tão contínua? Persiste no engano, não quer voltar."
+        },
+        {
+          "verse": 6,
+          "text": "Eu escutei e ouvi; não falam o que é reto, ninguém há que se arrependa da sua maldade, dizendo: Que fiz eu? Cada um se desvia na sua carreira, como um cavalo que arremete com ímpeto na batalha."
+        },
+        {
+          "verse": 7,
+          "text": "Até a cegonha no céu conhece os seus tempos determinados; e a rola, e o grou e a andorinha observam o tempo da sua arribação; mas o meu povo não conhece o juízo do Senhor."
+        },
+        {
+          "verse": 8,
+          "text": "Como, pois, dizeis: Nós somos sábios, e a lei do Senhor está conosco? Eis que em vão tem trabalhado a falsa pena dos escribas."
+        },
+        {
+          "verse": 9,
+          "text": "Os sábios são envergonhados, espantados e presos; eis que rejeitaram a palavra do Senhor; que sabedoria, pois, têm eles?"
+        },
+        {
+          "verse": 10,
+          "text": "Portanto darei suas mulheres a outros, e os seus campos a novos possuidores; porque desde o menor até ao maior, cada um deles se dá à avareza; desde o profeta até ao sacerdote, cada um deles usa de falsidade."
+        },
+        {
+          "verse": 11,
+          "text": "E curam a ferida da filha de meu povo levianamente, dizendo: Paz, paz; quando não há paz."
+        },
+        {
+          "verse": 12,
+          "text": "Porventura envergonham-se de cometerem abominação? Não; de maneira nenhuma se envergonham, nem sabem que coisa é envergonhar-se; portanto cairão entre os que caem e tropeçarão no tempo em que eu os visitar, diz o Senhor."
+        },
+        {
+          "verse": 13,
+          "text": "Certamente os apanharei, diz o Senhor; já não há uvas na vide, nem figos na figueira, e até a folha caiu; e o que lhes dei passará deles."
+        },
+        {
+          "verse": 14,
+          "text": "Por que nos assentamos ainda? Juntai-vos e entremos nas cidades fortificadas, e ali pereçamos; pois já o Senhor nosso Deus nos destinou a perecer e nos deu a beber água de fel; porquanto pecamos contra o Senhor."
+        },
+        {
+          "verse": 15,
+          "text": "Espera-se a paz, mas não há bem; o tempo da cura, e eis o terror."
+        },
+        {
+          "verse": 16,
+          "text": "Já desde Dã se ouve o resfolegar dos seus cavalos, toda a terra treme ao som dos rinchos dos seus fortes; e vêm, e devoram a terra, e sua abundância, a cidade e os que habitam nela."
+        },
+        {
+          "verse": 17,
+          "text": "Porque eis que envio entre vós serpentes e basiliscos, contra os quais não há encantamento, e vos morderão, diz o Senhor."
+        },
+        {
+          "verse": 18,
+          "text": "Oh! Se eu pudesse consolar-me na minha tristeza! O meu coração desfalece em mim."
+        },
+        {
+          "verse": 19,
+          "text": "Eis a voz do clamor da filha do meu povo de terra mui remota; não está o Senhor em Sião? Não está nela o seu rei? Por que me provocaram à ira com as suas imagens de escultura, com vaidades estranhas?"
+        },
+        {
+          "verse": 20,
+          "text": "Passou a sega, findou o verão, e nós não estamos salvos."
+        },
+        {
+          "verse": 21,
+          "text": "Estou quebrantado pela ferida da filha do meu povo; ando de luto; o espanto se apoderou de mim."
+        },
+        {
+          "verse": 22,
+          "text": "Porventura não há bálsamo em Gileade? Ou não há lá médico? Por que, pois, não se realizou a cura da filha do meu povo?"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Oh! Se a minha cabeça se tornasse em águas, e os meus olhos numa fonte de lágrimas! Então choraria de dia e de noite os mortos da filha do meu povo."
+        },
+        {
+          "verse": 2,
+          "text": "Oh! Se tivesse no deserto uma estalagem de caminhantes! Então deixaria o meu povo, e me apartaria dele, porque todos eles são adúlteros, um bando de aleivosos."
+        },
+        {
+          "verse": 3,
+          "text": "E encurvam a língua como se fosse o seu arco, para a mentira; fortalecem-se na terra, mas não para a verdade; porque avançam de malícia em malícia, e a mim não me conhecem, diz o Senhor."
+        },
+        {
+          "verse": 4,
+          "text": "Guardai-vos cada um do seu próximo, e de irmão nenhum vos fieis; porque todo o irmão não faz mais do que enganar, e todo o próximo anda caluniando."
+        },
+        {
+          "verse": 5,
+          "text": "E zombará cada um do seu próximo, e não falam a verdade; ensinam a sua língua a falar a mentira, andam-se cansando em proceder perversamente."
+        },
+        {
+          "verse": 6,
+          "text": "A tua habitação está no meio do engano; pelo engano recusam conhecer-me, diz o Senhor."
+        },
+        {
+          "verse": 7,
+          "text": "Portanto assim diz o Senhor dos Exércitos: Eis que eu os fundirei e os provarei; pois, de que outra maneira procederia com a filha do meu povo?"
+        },
+        {
+          "verse": 8,
+          "text": "Uma flecha mortífera é a língua deles; fala engano; com a sua boca fala cada um de paz com o seu próximo mas no seu coração arma-lhe ciladas."
+        },
+        {
+          "verse": 9,
+          "text": "Porventura por estas coisas não os castigaria? Diz o Senhor; ou não se vingaria a minha alma de nação tal como esta?"
+        },
+        {
+          "verse": 10,
+          "text": "Pelos montes levantarei choro e pranto, e pelas pastagens do deserto lamentação; porque já estão queimadas, e ninguém passa por elas; nem se ouve mugido de gado; desde as aves dos céus, até os animais, andaram vagueando, e fugiram."
+        },
+        {
+          "verse": 11,
+          "text": "E farei de Jerusalém montões de pedras, morada de chacais, e das cidades de Judá farei assolação, de sorte que não haja habitante."
+        },
+        {
+          "verse": 12,
+          "text": "Quem é o homem sábio, que entenda isto? E a quem falou a boca do Senhor, para que o possa anunciar? Por que razão pereceu a terra, e se queimou como deserto, sem que ninguém passa por ela?"
+        },
+        {
+          "verse": 13,
+          "text": "E disse o Senhor: Porque deixaram a minha lei, que pus perante eles, e não deram ouvidos à minha voz, nem andaram nela,"
+        },
+        {
+          "verse": 14,
+          "text": "Antes andaram após o propósito do seu próprio coração, e após os baalins, como lhes ensinaram os seus pais."
+        },
+        {
+          "verse": 15,
+          "text": "Portanto assim diz o Senhor dos Exércitos, Deus de Israel: Eis que darei de comer losna a este povo, e lhe darei a beber água de fel."
+        },
+        {
+          "verse": 16,
+          "text": "E os espalharei entre gentios, que não conheceram, nem eles nem seus pais, e mandarei a espada após eles, até que venha a consumi-los."
+        },
+        {
+          "verse": 17,
+          "text": "Assim diz o Senhor dos Exércitos: Considerai, e chamai carpideiras que venham; e mandai procurar mulheres hábeis, para que venham."
+        },
+        {
+          "verse": 18,
+          "text": "E se apressem, e levantem o seu lamento sobre nós; e desfaçam-se em lágrimas os nossos olhos, e as nossas pálpebras destilem águas."
+        },
+        {
+          "verse": 19,
+          "text": "Porque uma voz de pranto se ouviu de Sião: Como estamos arruinados! Estamos mui envergonhados, porque deixamos a terra, e por terem eles lançado fora as nossas moradas."
+        },
+        {
+          "verse": 20,
+          "text": "Ouvi, pois, vós, mulheres, a palavra do Senhor, e os vossos ouvidos recebam a palavra da sua boca; e ensinai o pranto a vossas filhas, e cada uma à sua vizinha a lamentação;"
+        },
+        {
+          "verse": 21,
+          "text": "Porque a morte subiu pelas nossas janelas, e entrou em nossos palácios, para exterminar as crianças das ruas e os jovens das praças."
+        },
+        {
+          "verse": 22,
+          "text": "Fala: Assim diz o Senhor: Até os cadáveres dos homens jazerão como esterco sobre a face do campo, e como gavela atrás do segador, e não há quem a recolha."
+        },
+        {
+          "verse": 23,
+          "text": "Assim diz o Senhor: Não se glorie o sábio na sua sabedoria, nem se glorie o forte na sua força; não se glorie o rico nas suas riquezas,"
+        },
+        {
+          "verse": 24,
+          "text": "Mas o que se gloriar, glorie-se nisto: em me entender e me conhecer, que eu sou o Senhor, que faço beneficência, juízo e justiça na terra; porque destas coisas me agrado, diz o Senhor."
+        },
+        {
+          "verse": 25,
+          "text": "Eis que vêm dias, diz o Senhor, em que castigarei a todo o circuncidado com o incircunciso."
+        },
+        {
+          "verse": 26,
+          "text": "Ao Egito, e a Judá, e a Edom, e aos filhos de Amom, e a Moabe, e a todos os que cortam os cantos do seu cabelo, que habitam no deserto; porque todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa de coração."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ouvi a palavra que o Senhor vos fala a vós, ó casa de Israel."
+        },
+        {
+          "verse": 2,
+          "text": "Assim diz o Senhor: Não aprendais o caminho dos gentios, nem vos espanteis dos sinais dos céus; porque com eles se atemorizam as nações."
+        },
+        {
+          "verse": 3,
+          "text": "Porque os costumes dos povos são vaidade; pois corta-se do bosque um madeiro, obra das mãos do artífice, feita com machado;"
+        },
+        {
+          "verse": 4,
+          "text": "Com prata e com ouro o enfeitam, com pregos e com martelos o firmam, para que não se mova."
+        },
+        {
+          "verse": 5,
+          "text": "São como a palmeira, obra torneada, porém não podem falar; certamente são levados, porquanto não podem andar. Não tenhais receio deles, pois não podem fazer mal, nem tampouco têm poder de fazer bem."
+        },
+        {
+          "verse": 6,
+          "text": "Ninguém há semelhante a ti, ó Senhor; tu és grande, e grande o teu nome em poder."
+        },
+        {
+          "verse": 7,
+          "text": "Quem não te temeria a ti, ó Rei das nações? Pois isto só a ti pertence; porquanto entre todos os sábios das nações, e em todo o seu reino, ninguém há semelhante a ti."
+        },
+        {
+          "verse": 8,
+          "text": "Mas eles todos se embruteceram e tornaram-se loucos; ensino de vaidade é o madeiro."
+        },
+        {
+          "verse": 9,
+          "text": "Trazem prata batida de Társis e ouro de Ufaz, trabalho do artífice, e das mãos do fundidor; fazem suas roupas de azul e púrpura; obra de peritos são todos eles."
+        },
+        {
+          "verse": 10,
+          "text": "Mas o Senhor Deus é a verdade; ele mesmo é o Deus vivo e o Rei eterno; ao seu furor treme a terra, e as nações não podem suportar a sua indignação."
+        },
+        {
+          "verse": 11,
+          "text": "Assim lhes direis: Os deuses que não fizeram os céus e a terra desaparecerão da terra e de debaixo deste céu."
+        },
+        {
+          "verse": 12,
+          "text": "Ele fez a terra com o seu poder; ele estabeleceu o mundo com a sua sabedoria, e com a sua inteligência estendeu os céus."
+        },
+        {
+          "verse": 13,
+          "text": "Fazendo ele soar a sua voz, logo há rumor de águas no céu, e faz subir os vapores da extremidade da terra; faz os relâmpagos para a chuva, e dos seus tesouros faz sair o vento."
+        },
+        {
+          "verse": 14,
+          "text": "Todo o homem é embrutecido no seu conhecimento; envergonha-se todo o fundidor da sua imagem de escultura; porque sua imagem fundida é mentira, e nelas não há espírito."
+        },
+        {
+          "verse": 15,
+          "text": "Vaidade são, obra de enganos: no tempo da sua visitação virão a perecer."
+        },
+        {
+          "verse": 16,
+          "text": "Não é semelhante a estes aquele que é a porção de Jacó; porque ele é o que formou tudo, e Israel é a vara da sua herança: Senhor dos Exércitos é o seu nome."
+        },
+        {
+          "verse": 17,
+          "text": "Ajunta da terra a tua mercadoria, ó tu que habitas em lugar sitiado."
+        },
+        {
+          "verse": 18,
+          "text": "Porque assim diz o Senhor: Eis que desta vez arrojarei como se fora com uma funda aos moradores da terra, e os angustiarei, para que venham a achá-lo, dizendo:"
+        },
+        {
+          "verse": 19,
+          "text": "Ai de mim por causa do meu quebrantamento! A minha chaga me causa grande dor; e eu havia dito: Certamente isto é enfermidade que eu poderei suportar."
+        },
+        {
+          "verse": 20,
+          "text": "A minha tenda está destruída, e todas as minhas cordas se romperam; os meus filhos foram-se de mim, e não existem; ninguém há mais que estenda a minha tenda, nem que levante as minhas cortinas,"
+        },
+        {
+          "verse": 21,
+          "text": "Porque os pastores se embruteceram, e não buscaram ao Senhor; por isso não prosperaram, e todos os seus rebanhos se espalharam."
+        },
+        {
+          "verse": 22,
+          "text": "Eis que vem uma voz de rumor, grande tremor da terra do norte, para fazer das cidades de Judá uma assolação, uma morada de chacais."
+        },
+        {
+          "verse": 23,
+          "text": "Eu sei, ó Senhor, que não é do homem o seu caminho; nem do homem que caminha o dirigir os seus passos."
+        },
+        {
+          "verse": 24,
+          "text": "Castiga-me, ó Senhor, porém com juízo, não na tua ira, para que não me reduzas a nada."
+        },
+        {
+          "verse": 25,
+          "text": "Derrama a tua indignação sobre os gentios que não te conhecem, e sobre as gerações que não invocam o teu nome; porque devoraram a Jacó, e devoraram-no e consumiram-no, e assolaram a sua morada."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que veio a Jeremias, da parte do Senhor, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Ouvi as palavras desta aliança, e falai aos homens de Judá, e aos habitantes de Jerusalém."
+        },
+        {
+          "verse": 3,
+          "text": "Dize-lhes pois: Assim diz o Senhor Deus de Israel: Maldito o homem que não escutar as palavras desta aliança,"
+        },
+        {
+          "verse": 4,
+          "text": "Que ordenei a vossos pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: Dai ouvidos à minha voz, e fazei conforme a tudo quanto vos mando; e vós sereis o meu povo, e eu serei o vosso Deus."
+        },
+        {
+          "verse": 5,
+          "text": "Para que confirme o juramento que fiz a vossos pais de dar-lhes uma terra que manasse leite e mel, como se vê neste dia. Então eu respondi, e disse: Amém, ó Senhor."
+        },
+        {
+          "verse": 6,
+          "text": "E disse-me o Senhor: Apregoa todas estas palavras nas cidades de Judá, e nas ruas de Jerusalém, dizendo: Ouvi as palavras desta aliança, e cumpri-as."
+        },
+        {
+          "verse": 7,
+          "text": "Porque deveras adverti a vossos pais, no dia em que os tirei da terra do Egito, até ao dia de hoje, madrugando, e protestando, e dizendo: Dai ouvidos à minha voz."
+        },
+        {
+          "verse": 8,
+          "text": "Mas não ouviram, nem inclinaram os seus ouvidos, antes andaram cada um conforme o propósito do seu coração malvado; por isso trouxe sobre eles todas as palavras desta aliança que lhes mandei que cumprissem, porém não cumpriram."
+        },
+        {
+          "verse": 9,
+          "text": "Disse-me mais o Senhor: Uma conspiração se achou entre os homens de Judá, entre os habitantes de Jerusalém."
+        },
+        {
+          "verse": 10,
+          "text": "Tornaram às maldades de seus primeiros pais, que não quiseram ouvir as minhas palavras; e eles andaram após outros deuses para os servir; a casa de Israel e a casa de Judá quebraram a minha aliança, que tinha feito com seus pais."
+        },
+        {
+          "verse": 11,
+          "text": "Portanto assim diz o Senhor: Eis que trarei mal sobre eles, de que não poderão escapar; e clamarão a mim, mas eu não os ouvirei."
+        },
+        {
+          "verse": 12,
+          "text": "Então irão as cidades de Judá e os habitantes de Jerusalém e clamarão aos deuses a quem eles queimaram incenso; estes, porém, de nenhum modo os livrarão no tempo do seu mal."
+        },
+        {
+          "verse": 13,
+          "text": "Porque, segundo o número das tuas cidades, são os teus deuses, ó Judá! E, segundo o número das ruas de Jerusalém, levantastes altares à impudência, altares para queimardes incenso a Baal."
+        },
+        {
+          "verse": 14,
+          "text": "Tu, pois, não ores por este povo, nem levantes por ele clamor nem oração; porque não os ouvirei no tempo em que eles clamarem a mim, por causa do seu mal."
+        },
+        {
+          "verse": 15,
+          "text": "Que direito tem a minha amada na minha casa, visto que com muitos tem cometido grande lascívia? Crês que os sacrifícios e as carnes santificadas poderão afastar de ti o mal? Então saltarias de prazer."
+        },
+        {
+          "verse": 16,
+          "text": "O Senhor chamou o teu nome de oliveira verde, formosa por seus deliciosos frutos, mas agora à voz de um grande tumulto acendeu fogo ao redor dela e se quebraram os seus ramos."
+        },
+        {
+          "verse": 17,
+          "text": "Porque o Senhor dos Exércitos, que te plantou, pronunciou contra ti o mal, pela maldade da casa de Israel e da casa de Judá, que para si mesma fizeram, pois me provocaram à ira, queimando incenso a Baal."
+        },
+        {
+          "verse": 18,
+          "text": "E o Senhor me fez saber, e assim o soube; então me fizeste ver as suas ações."
+        },
+        {
+          "verse": 19,
+          "text": "E eu era como um cordeiro, como um boi que levam à matança; porque não sabia que maquinavam propósitos contra mim, dizendo: Destruamos a árvore com o seu fruto, e cortemo-lo da terra dos viventes, e não haja mais memória do seu nome."
+        },
+        {
+          "verse": 20,
+          "text": "Mas, ó Senhor dos Exércitos, justo Juiz, que provas as entranhas e o coração, veja eu a tua vingança sobre eles; pois a ti descobri a minha causa."
+        },
+        {
+          "verse": 21,
+          "text": "Portanto, assim diz o Senhor acerca dos homens de Anatote, que buscam a tua vida, dizendo: Não profetizes no nome do Senhor, para que não morras às nossas mãos."
+        },
+        {
+          "verse": 22,
+          "text": "Portanto, assim diz o Senhor dos Exércitos: Eis que eu os castigarei; os jovens morrerão à espada, os seus filhos e suas filhas morrerão de fome."
+        },
+        {
+          "verse": 23,
+          "text": "E não haverá deles um remanescente, porque farei vir o mal sobre os homens de Anatote, no ano da sua visitação."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Justo serias, ó Senhor, ainda que eu entrasse contigo num pleito; contudo falarei contigo dos teus juízos. Por que prospera o caminho dos ímpios, e vivem em paz todos os que procedem aleivosamente?"
+        },
+        {
+          "verse": 2,
+          "text": "Plantaste-os, e eles se enraizaram; crescem, dão também fruto; chegado estás à sua boca, porém longe de suas entranhas."
+        },
+        {
+          "verse": 3,
+          "text": "Mas tu, ó Senhor, me conheces, tu me vês, e provas o meu coração para contigo; arranca-os como as ovelhas para o matadouro, e dedica-os para o dia da matança."
+        },
+        {
+          "verse": 4,
+          "text": "Até quando lamentará a terra, e se secará a erva de todo o campo? Pela maldade dos que habitam nela, perecem os animais e as aves; porquanto dizem: Ele não verá o nosso fim."
+        },
+        {
+          "verse": 5,
+          "text": "Se te fatigas correndo com homens que vão a pé, como poderás competir com os cavalos? Se tão somente numa terra de paz estás confiado, como farás na enchente do Jordão?"
+        },
+        {
+          "verse": 6,
+          "text": "Porque até os teus irmãos, e a casa de teu pai, eles próprios procedem deslealmente contigo; eles mesmos clamam após ti em altas vozes: Não te fies neles, ainda que te digam coisas boas."
+        },
+        {
+          "verse": 7,
+          "text": "Desamparei a minha casa, abandonei a minha herança; entreguei a amada da minha alma na mão de seus inimigos."
+        },
+        {
+          "verse": 8,
+          "text": "Tornou-se a minha herança para mim como leão numa floresta; levantou a sua voz contra mim, por isso eu a odiei."
+        },
+        {
+          "verse": 9,
+          "text": "A minha herança é para mim ave de rapina de várias cores. Andam as aves de rapina contra ela em redor. Vinde, pois, ajuntai todos os animais do campo, trazei-os para a devorarem."
+        },
+        {
+          "verse": 10,
+          "text": "Muitos pastores destruíram a minha vinha, pisaram o meu campo; tornaram em desolado deserto o meu campo desejado."
+        },
+        {
+          "verse": 11,
+          "text": "Em desolação a puseram, e clama a mim na sua desolação; e toda a terra está desolada, porquanto não há ninguém que tome isso a sério."
+        },
+        {
+          "verse": 12,
+          "text": "Sobre todos os lugares altos do deserto vieram destruidores; porque a espada do Senhor devora desde um extremo da terra até o outro; não há paz para nenhuma carne."
+        },
+        {
+          "verse": 13,
+          "text": "Semearam trigo, e segaram espinhos; cansaram-se, mas de nada se aproveitaram; envergonhados sereis das vossas colheitas, e por causa do ardor da ira do Senhor."
+        },
+        {
+          "verse": 14,
+          "text": "Assim diz o Senhor, acerca de todos os meus maus vizinhos, que tocam a minha herança, que fiz herdar ao meu povo Israel: Eis que os arrancarei da sua terra, e a casa de Judá arrancarei do meio deles."
+        },
+        {
+          "verse": 15,
+          "text": "E será que, depois de os haver arrancado, tornarei, e me compadecerei deles, e os farei voltar cada um à sua herança, e cada um à sua terra."
+        },
+        {
+          "verse": 16,
+          "text": "E será que, se diligentemente aprenderem os caminhos do meu povo, jurando pelo meu nome: Vive o Senhor, como ensinaram o meu povo a jurar por Baal; então edificar-se-ão no meio do meu povo."
+        },
+        {
+          "verse": 17,
+          "text": "Mas se não quiserem ouvir, totalmente arrancarei a tal nação, e a farei perecer, diz o Senhor."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Assim me disse o Senhor: Vai, e compra um cinto de linho e põe-no sobre os teus lombos, mas não o coloques na água."
+        },
+        {
+          "verse": 2,
+          "text": "E comprei o cinto, conforme a palavra do Senhor, e o pus sobre os meus lombos."
+        },
+        {
+          "verse": 3,
+          "text": "Então me veio a palavra do Senhor pela segunda vez, dizendo:"
+        },
+        {
+          "verse": 4,
+          "text": "Toma o cinto que compraste, e que trazes sobre os teus lombos, e levanta-te; vai ao Eufrates, e esconde-o ali na fenda de uma rocha."
+        },
+        {
+          "verse": 5,
+          "text": "E fui, e escondi-o junto ao Eufrates, como o Senhor me havia ordenado."
+        },
+        {
+          "verse": 6,
+          "text": "Sucedeu, ao final de muitos dias, que me disse o Senhor: Levanta-te, vai ao Eufrates, e toma dali o cinto que te ordenei que o escondesses ali."
+        },
+        {
+          "verse": 7,
+          "text": "E fui ao Eufrates, e cavei, e tomei o cinto do lugar onde o havia escondido; e eis que o cinto tinha apodrecido, e para nada prestava."
+        },
+        {
+          "verse": 8,
+          "text": "Então veio a mim a palavra do Senhor, dizendo:"
+        },
+        {
+          "verse": 9,
+          "text": "Assim diz o Senhor: Do mesmo modo farei apodrecer a soberba de Judá, e a muita soberba de Jerusalém."
+        },
+        {
+          "verse": 10,
+          "text": "Este povo maligno, que recusa ouvir as minhas palavras, que caminha segundo a dureza do seu coração, e anda após deuses alheios, para servi-los, e inclinar-se diante deles, será tal como este cinto, que para nada presta."
+        },
+        {
+          "verse": 11,
+          "text": "Porque, como o cinto está pegado aos lombos do homem, assim eu liguei a mim toda a casa de Israel, e toda a casa de Judá, diz o Senhor, para me serem por povo, e por nome, e por louvor, e por glória; mas não deram ouvidos."
+        },
+        {
+          "verse": 12,
+          "text": "Portanto, dize-lhes esta palavra: Assim diz o Senhor Deus de Israel: Todo o odre se encherá de vinho; e dir-te-ão: Porventura não sabemos nós muito bem que todo o odre se encherá de vinho?"
+        },
+        {
+          "verse": 13,
+          "text": "Mas tu dize-lhes: Assim diz o Senhor: Eis que eu encherei de embriaguez a todos os habitantes desta terra, e aos reis da estirpe de Davi, que estão assentados sobre o seu trono, e aos sacerdotes, e aos profetas, e a todos os habitantes de Jerusalém."
+        },
+        {
+          "verse": 14,
+          "text": "E lhes farei em pedaços atirando uns contra os outros, e juntamente os pais com os filhos, diz o Senhor; não perdoarei, nem pouparei, nem terei deles compaixão, para que não os destrua."
+        },
+        {
+          "verse": 15,
+          "text": "Escutai, e inclinai os ouvidos; não vos ensoberbeçais; porque o Senhor falou."
+        },
+        {
+          "verse": 16,
+          "text": "Dai glória ao Senhor vosso Deus, antes que venha a escuridão e antes que tropecem vossos pés nos montes tenebrosos; antes que, esperando vós luz, ele a mude em sombra de morte, e a reduza à escuridão."
+        },
+        {
+          "verse": 17,
+          "text": "E, se isto não ouvirdes, a minha alma chorará em lugares ocultos, por causa da vossa soberba; e amargamente chorarão os meus olhos, e se desfarão em lágrimas, porquanto o rebanho do Senhor foi levado cativo."
+        },
+        {
+          "verse": 18,
+          "text": "Dize ao rei e à rainha: Humilhai-vos, e assentai-vos no chão; porque já caiu todo o ornato de vossas cabeças, a coroa da vossa glória."
+        },
+        {
+          "verse": 19,
+          "text": "As cidades do sul estão fechadas, e ninguém há que as abra; todo o Judá foi levado cativo, sim, inteiramente cativo."
+        },
+        {
+          "verse": 20,
+          "text": "Levantai os vossos olhos, e vede os que vêm do norte; onde está o rebanho que se te deu, o rebanho da tua glória?"
+        },
+        {
+          "verse": 21,
+          "text": "Que dirás, quando ele te castigar porque os ensinaste a serem capitães, e chefe sobre ti? Porventura não te tomarão as dores, como à mulher que está de parto?"
+        },
+        {
+          "verse": 22,
+          "text": "Quando, pois, disseres no teu coração: Por que me sobrevieram estas coisas? Pela multidão das tuas maldades se descobriram as tuas saias, e os teus calcanhares sofrem violência."
+        },
+        {
+          "verse": 23,
+          "text": "Porventura pode o etíope mudar a sua pele, ou o leopardo as suas manchas? Então podereis vós fazer o bem, sendo ensinados a fazer o mal."
+        },
+        {
+          "verse": 24,
+          "text": "Assim os espalharei como o restolho, que passa com o vento do deserto."
+        },
+        {
+          "verse": 25,
+          "text": "Esta será a tua sorte, a porção que te será medida por mim, diz o Senhor; pois te esqueceste de mim, e confiaste em mentiras."
+        },
+        {
+          "verse": 26,
+          "text": "Assim também eu levantarei as tuas saias sobre o teu rosto; e aparecerá a tua ignomínia."
+        },
+        {
+          "verse": 27,
+          "text": "Já vi as tuas abominações, e os teus adultérios, e os teus rinchos, e a enormidade da tua prostituição sobre os outeiros no campo; ai de ti, Jerusalém! Até quando ainda não te purificarás?"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra do Senhor, que veio a Jeremias, a respeito da grande seca."
+        },
+        {
+          "verse": 2,
+          "text": "Anda chorando Judá, e as suas portas estão enfraquecidas; andam de luto até ao chão, e o clamor de Jerusalém vai subindo."
+        },
+        {
+          "verse": 3,
+          "text": "E os seus mais ilustres enviam os seus pequenos a buscar água; vão às cisternas, e não acham água; voltam com os seus cântaros vazios; envergonham-se e confundem-se, e cobrem as suas cabeças."
+        },
+        {
+          "verse": 4,
+          "text": "Por causa da terra que se fendeu, porque não há chuva sobre a terra, os lavradores se envergonham e cobrem as suas cabeças."
+        },
+        {
+          "verse": 5,
+          "text": "Porque até as cervas no campo têm as suas crias, e abandonam seus filhos, porquanto não há erva."
+        },
+        {
+          "verse": 6,
+          "text": "E os jumentos monteses se põem nos lugares altos, sorvem o vento como os chacais; desfalecem os seus olhos, porquanto não há erva."
+        },
+        {
+          "verse": 7,
+          "text": "Posto que as nossas maldades testificam contra nós, ó Senhor, age por amor do teu nome; porque as nossas rebeldias se multiplicaram; contra ti pecamos."
+        },
+        {
+          "verse": 8,
+          "text": "Ó esperança de Israel, e Redentor seu no tempo da angústia, por que serias como um estrangeiro na terra e como o viandante que se retira a passar a noite?"
+        },
+        {
+          "verse": 9,
+          "text": "Por que serias como homem surpreendido, como poderoso que não pode livrar? Mas tu estás no meio de nós, ó Senhor, e nós somos chamados pelo teu nome; não nos desampares."
+        },
+        {
+          "verse": 10,
+          "text": "Assim diz o Senhor, acerca deste povo: Pois que tanto gostaram de andar errantes, e não retiveram os seus pés, por isso o Senhor não se agrada deles, mas agora se lembrará da iniquidade deles, e visitará os seus pecados."
+        },
+        {
+          "verse": 11,
+          "text": "Disse-me mais o Senhor: Não rogues por este povo para seu bem."
+        },
+        {
+          "verse": 12,
+          "text": "Quando jejuarem, não ouvirei o seu clamor, e quando oferecerem holocaustos e ofertas de alimentos, não me agradarei deles; antes eu os consumirei pela espada, e pela fome e pela peste."
+        },
+        {
+          "verse": 13,
+          "text": "Então disse eu: Ah! Senhor Deus, eis que os profetas lhes dizem: Não vereis espada, e não tereis fome; antes vos darei paz verdadeira neste lugar."
+        },
+        {
+          "verse": 14,
+          "text": "E disse-me o Senhor: Os profetas profetizam falsamente no meu nome; nunca os enviei, nem lhes dei ordem, nem lhes falei; visão falsa, e adivinhação, e vaidade, e o engano do seu coração é o que eles vos profetizam."
+        },
+        {
+          "verse": 15,
+          "text": "Portanto assim diz o Senhor acerca dos profetas que profetizam no meu nome, sem que eu os tenha mandado, e que dizem: Nem espada, nem fome haverá nesta terra: À espada e à fome, serão consumidos esses profetas."
+        },
+        {
+          "verse": 16,
+          "text": "E o povo a quem eles profetizam será lançado nas ruas de Jerusalém, por causa da fome e da espada; e não haverá quem os sepultem, tanto a eles, como as suas mulheres, e os seus filhos e as suas filhas; porque derramarei sobre eles a sua maldade."
+        },
+        {
+          "verse": 17,
+          "text": "Portanto lhes dirás esta palavra: Os meus olhos derramem lágrimas de noite e de dia, e não cessem; porque a virgem, filha do meu povo, está gravemente ferida, de chaga mui dolorosa."
+        },
+        {
+          "verse": 18,
+          "text": "Se eu saio ao campo, eis ali os mortos à espada, e, se entro na cidade, estão ali os debilitados pela fome; e até os profetas e os sacerdotes percorrem uma terra, que não conhecem."
+        },
+        {
+          "verse": 19,
+          "text": "Porventura já de todo rejeitaste a Judá? Ou repugna a tua alma a Sião? Por que nos feriste de tal modo que já não há cura para nós? Aguardamos a paz, e não aparece o bem; e o tempo da cura, e eis aqui turbação."
+        },
+        {
+          "verse": 20,
+          "text": "Ah! Senhor! Conhecemos a nossa impiedade e a maldade de nossos pais; porque pecamos contra ti."
+        },
+        {
+          "verse": 21,
+          "text": "Não nos rejeites por amor do teu nome; não desonres o trono da tua glória; lembra-te, e não anules a tua aliança conosco."
+        },
+        {
+          "verse": 22,
+          "text": "Porventura há, entre as vaidades dos gentios, alguém que faça chover? Ou podem os céus dar chuvas? Não és tu, ó Senhor nosso Deus? Portanto em ti esperamos, pois tu fazes todas estas coisas."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Disse-me, porém, o Senhor: Ainda que Moisés e Samuel se pusessem diante de mim, não estaria a minha alma com este povo; lança-os de diante da minha face, e saiam."
+        },
+        {
+          "verse": 2,
+          "text": "E será que, quando te disserem: Para onde iremos? Dir-lhes-ás: Assim diz o Senhor: Os que para a morte, para a morte, e os que para a espada, para a espada; e os que para a fome, para a fome; e os que para o cativeiro, para o cativeiro."
+        },
+        {
+          "verse": 3,
+          "text": "Porque visitá-los-ei com quatro gêneros de males, diz o Senhor: com espada para matar, e com cães, para os arrastarem, e com aves dos céus, e com animais da terra, para os devorarem e destruírem."
+        },
+        {
+          "verse": 4,
+          "text": "Entregá-los-ei ao desterro em todos os reinos da terra; por causa de Manassés, filho de Ezequias, rei de Judá, e por tudo quanto fez em Jerusalém."
+        },
+        {
+          "verse": 5,
+          "text": "Porque quem se compadeceria de ti, ó Jerusalém? Ou quem se entristeceria por ti? Ou quem se desviaria a perguntar pela tua paz?"
+        },
+        {
+          "verse": 6,
+          "text": "Tu me deixaste, diz o Senhor, e tornaste-te para trás; por isso estenderei a minha mão contra ti, e te destruirei; já estou cansado de me arrepender."
+        },
+        {
+          "verse": 7,
+          "text": "E padejá-los-ei com a pá nas portas da terra; já desfilhei, e destruí o meu povo; não voltaram dos seus caminhos."
+        },
+        {
+          "verse": 8,
+          "text": "As suas viúvas mais se multiplicaram do que a areia dos mares; trouxe ao meio-dia um destruidor sobre a mãe dos jovens; fiz que caísse de repente sobre ela, e enchesse a cidade de terrores."
+        },
+        {
+          "verse": 9,
+          "text": "A que dava à luz sete se enfraqueceu; expirou a sua alma; pôs-se-lhe o sol sendo ainda de dia, confundiu-se, e envergonhou-se; e os que ficarem dela entregarei à espada, diante dos seus inimigos, diz o Senhor."
+        },
+        {
+          "verse": 10,
+          "text": "Ai de mim, minha mãe, por que me deste à luz homem de rixa e homem de contendas para toda a terra? Nunca lhes emprestei com usura, nem eles me emprestaram com usura, todavia cada um deles me amaldiçoa."
+        },
+        {
+          "verse": 11,
+          "text": "Disse o Senhor: Decerto que o teu remanescente será para o bem; decerto, no tempo da calamidade, e no tempo da angústia, farei que o inimigo te dirija súplicas."
+        },
+        {
+          "verse": 12,
+          "text": "Pode alguém quebrar o ferro, o ferro do norte, ou o aço?"
+        },
+        {
+          "verse": 13,
+          "text": "As tuas riquezas e os teus tesouros entregarei sem preço ao saque; e isso por todos os teus pecados, mesmo em todos os teus limites."
+        },
+        {
+          "verse": 14,
+          "text": "E te farei passar aos teus inimigos numa terra que não conheces; porque o fogo se acendeu em minha ira, e sobre vós arderá;"
+        },
+        {
+          "verse": 15,
+          "text": "Tu, ó Senhor, o sabes; lembra-te de mim, e visita-me, e vinga-me dos meus perseguidores; não me arrebates por tua longanimidade; sabe que por amor de ti tenho sofrido afronta."
+        },
+        {
+          "verse": 16,
+          "text": "Achando-se as tuas palavras, logo as comi, e a tua palavra foi para mim o gozo e alegria do meu coração; porque pelo teu nome sou chamado, ó Senhor Deus dos Exércitos."
+        },
+        {
+          "verse": 17,
+          "text": "Nunca me assentei na assembleia dos zombadores, nem me regozijei; por causa da tua mão me assentei solitário; pois me encheste de indignação."
+        },
+        {
+          "verse": 18,
+          "text": "Por que dura a minha dor continuamente, e a minha ferida me dói, e já não admite cura? Serias tu para mim como coisa mentirosa e como águas inconstantes?"
+        },
+        {
+          "verse": 19,
+          "text": "Portanto assim diz o Senhor: Se tu voltares, então te trarei, e estarás diante de mim; e se apartares o precioso do vil, serás como a minha boca; tornem-se eles para ti, mas não voltes tu para eles."
+        },
+        {
+          "verse": 20,
+          "text": "E eu te porei contra este povo como forte muro de bronze; e pelejarão contra ti, mas não prevalecerão contra ti; porque eu sou contigo para te guardar, para te livrar deles, diz o Senhor."
+        },
+        {
+          "verse": 21,
+          "text": "E arrebatar-te-ei da mão dos malignos, e livrar-te-ei da mão dos fortes."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E veio a mim a palavra do Senhor, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Não tomarás para ti mulher, nem terás filhos nem filhas neste lugar."
+        },
+        {
+          "verse": 3,
+          "text": "Porque assim diz o Senhor, acerca dos filhos e das filhas que nascerem neste lugar, acerca de suas mães, que os tiverem, e de seus pais que os gerarem nesta terra:"
+        },
+        {
+          "verse": 4,
+          "text": "Morrerão de enfermidades dolorosas, e não serão pranteados nem sepultados; servirão de esterco sobre a face da terra; e pela espada e pela fome serão consumidos, e os seus cadáveres servirão de mantimento para as aves do céu e para os animais da terra."
+        },
+        {
+          "verse": 5,
+          "text": "Porque assim diz o Senhor: Não entres na casa do luto, nem vás a lamentar, nem te compadeças deles; porque deste povo, diz o Senhor, retirei a minha paz, benignidade e misericórdia."
+        },
+        {
+          "verse": 6,
+          "text": "E morrerão grandes e pequenos nesta terra, e não serão sepultados, e não os prantearão, nem se farão por eles incisões, nem por eles se raparão os cabelos."
+        },
+        {
+          "verse": 7,
+          "text": "E não se partirá pão para consolá-los por causa de seus mortos; nem lhes darão a beber do copo de consolação, pelo pai ou pela mãe de alguém."
+        },
+        {
+          "verse": 8,
+          "text": "Nem entres na casa do banquete, para te assentares com eles a comer e a beber."
+        },
+        {
+          "verse": 9,
+          "text": "Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que farei cessar, neste lugar, perante os vossos olhos, e em vossos dias, a voz de gozo e a voz de alegria, a voz do esposo e a voz da esposa."
+        },
+        {
+          "verse": 10,
+          "text": "E será que, quando anunciares a este povo todas estas palavras, e eles te disserem: Por que pronuncia o Senhor sobre nós todo este grande mal? E qual é a nossa iniquidade, e qual é o nosso pecado, que cometemos contra o Senhor nosso Deus?"
+        },
+        {
+          "verse": 11,
+          "text": "Então lhes dirás: Porquanto vossos pais me deixaram, diz o Senhor, e se foram após outros deuses, e os serviram, e se inclinaram diante deles, e a mim me deixaram, e a minha lei não a guardaram."
+        },
+        {
+          "verse": 12,
+          "text": "E vós fizestes pior do que vossos pais; porque, eis que cada um de vós anda segundo o propósito do seu mau coração, para não me dar ouvidos a mim."
+        },
+        {
+          "verse": 13,
+          "text": "Portanto lançar-vos-ei fora desta terra, para uma terra que não conhecestes, nem vós nem vossos pais; e ali servireis a deuses alheios de dia e de noite, porque não usarei de misericórdia convosco."
+        },
+        {
+          "verse": 14,
+          "text": "Portanto, eis que dias vêm, diz o Senhor, em que nunca mais se dirá: Vive o Senhor, que fez subir os filhos de Israel da terra do Egito."
+        },
+        {
+          "verse": 15,
+          "text": "Mas: Vive o Senhor, que fez subir os filhos de Israel da terra do norte, e de todas as terras para onde os tinha lançado; porque eu os farei voltar à sua terra, a qual dei a seus pais."
+        },
+        {
+          "verse": 16,
+          "text": "Eis que mandarei muitos pescadores, diz o Senhor, os quais os pescarão; e depois enviarei muitos caçadores, os quais os caçarão de sobre todo o monte, e de sobre todo o outeiro, e até das fendas das rochas."
+        },
+        {
+          "verse": 17,
+          "text": "Porque os meus olhos estão sobre todos os seus caminhos; não se escondem da minha face, nem a sua maldade se encobre aos meus olhos."
+        },
+        {
+          "verse": 18,
+          "text": "E primeiramente pagarei em dobro a sua maldade e o seu pecado, porque profanaram a minha terra com os cadáveres das suas coisas detestáveis, e das suas abominações encheram a minha herança."
+        },
+        {
+          "verse": 19,
+          "text": "Ó Senhor, fortaleza minha, e força minha, e refúgio meu no dia da angústia; a ti virão os gentios desde os fins da terra, e dirão: Nossos pais herdaram só mentiras, e vaidade, em que não havia proveito."
+        },
+        {
+          "verse": 20,
+          "text": "Porventura fará um homem deuses para si, que contudo não são deuses?"
+        },
+        {
+          "verse": 21,
+          "text": "Portanto, eis que lhes farei conhecer, desta vez lhes farei conhecer a minha mão e o meu poder; e saberão que o meu nome é o Senhor."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O pecado de Judá está escrito com um ponteiro de ferro, com ponta de diamante, gravado na tábua do seu coração e nas pontas dos vossos altares;"
+        },
+        {
+          "verse": 2,
+          "text": "Como também seus filhos se lembram dos seus altares, e dos seus bosques, junto às árvores frondosas, sobre os altos outeiros."
+        },
+        {
+          "verse": 3,
+          "text": "Ó meu monte no campo! A tua riqueza e todos os teus tesouros darei por presa, como também os teus altos, por causa do pecado, em todos os teus termos."
+        },
+        {
+          "verse": 4,
+          "text": "Assim por ti mesmo te privarás da tua herança que te dei, e far-te-ei servir os teus inimigos, na terra que não conheces; porque o fogo que acendeste na minha ira arderá para sempre."
+        },
+        {
+          "verse": 5,
+          "text": "Assim diz o Senhor: Maldito o homem que confia no homem, e faz da carne o seu braço, e aparta o seu coração do Senhor!"
+        },
+        {
+          "verse": 6,
+          "text": "Porque será como a tamargueira no deserto, e não verá quando vem o bem; antes morará nos lugares secos do deserto, na terra salgada e inabitável."
+        },
+        {
+          "verse": 7,
+          "text": "Bendito o homem que confia no Senhor, e cuja confiança é o Senhor."
+        },
+        {
+          "verse": 8,
+          "text": "Porque será como a árvore plantada junto às águas, que estende as suas raízes para o ribeiro, e não receia quando vem o calor, mas a sua folha fica verde; e no ano de sequidão não se preocupa, nem deixa de dar fruto."
+        },
+        {
+          "verse": 9,
+          "text": "Enganoso é o coração, mais do que todas as coisas, e perverso; quem o conhecerá?"
+        },
+        {
+          "verse": 10,
+          "text": "Eu, o Senhor, esquadrinho o coração e provo as entranhas; e isto para dar a cada um segundo os seus caminhos e segundo o fruto das suas ações."
+        },
+        {
+          "verse": 11,
+          "text": "Como a perdiz, que choca ovos que não pôs, assim é aquele que ajunta riquezas, mas não retamente; no meio de seus dias as deixará, e no seu fim será um insensato."
+        },
+        {
+          "verse": 12,
+          "text": "Um trono de glória, posto bem alto desde o princípio, é o lugar do nosso santuário."
+        },
+        {
+          "verse": 13,
+          "text": "Ó Senhor, esperança de Israel, todos aqueles que te deixam serão envergonhados; os que se apartam de mim serão escritos sobre a terra; porque abandonam o Senhor, a fonte das águas vivas."
+        },
+        {
+          "verse": 14,
+          "text": "Cura-me, Senhor, e sararei; salva-me, e serei salvo; porque tu és o meu louvor."
+        },
+        {
+          "verse": 15,
+          "text": "Eis que eles me dizem: Onde está a palavra do Senhor? Venha agora."
+        },
+        {
+          "verse": 16,
+          "text": "Porém eu não me apressei em ser o pastor seguindo-te; nem tampouco desejei o dia da aflição, tu o sabes; o que saiu dos meus lábios está diante de tua face."
+        },
+        {
+          "verse": 17,
+          "text": "Não me sejas por espanto; meu refúgio és tu no dia do mal."
+        },
+        {
+          "verse": 18,
+          "text": "Envergonhem-se os que me perseguem, e não me envergonhe eu; assombrem-se eles, e não me assombre eu; traze sobre eles o dia do mal, e destrói-os com dobrada destruição."
+        },
+        {
+          "verse": 19,
+          "text": "Assim me disse o Senhor: Vai, e põe-te à porta dos filhos do povo, pela qual entram os reis de Judá, e pela qual saem; como também em todas as portas de Jerusalém."
+        },
+        {
+          "verse": 20,
+          "text": "E dize-lhes: Ouvi a palavra do Senhor, vós, reis de Judá e todo o Judá, e todos os moradores de Jerusalém que entrais por estas portas."
+        },
+        {
+          "verse": 21,
+          "text": "Assim diz o Senhor: Guardai as vossas almas, e não tragais cargas no dia de sábado, nem as introduzais pelas portas de Jerusalém;"
+        },
+        {
+          "verse": 22,
+          "text": "Nem tireis cargas de vossas casas no dia de sábado, nem façais obra alguma; antes santificai o dia de sábado, como eu ordenei a vossos pais."
+        },
+        {
+          "verse": 23,
+          "text": "Mas não escutaram, nem inclinaram os seus ouvidos; antes endureceram a sua cerviz, para não ouvirem, e para não receberem correção."
+        },
+        {
+          "verse": 24,
+          "text": "Mas se vós diligentemente me ouvirdes, diz o Senhor, não introduzindo cargas pelas portas desta cidade no dia de sábado, e santificardes o dia de sábado, não fazendo nele obra alguma,"
+        },
+        {
+          "verse": 25,
+          "text": "Então entrarão pelas portas desta cidade reis e príncipes, que se assentem sobre o trono de Davi, andando em carros e em cavalos; e eles e seus príncipes, os homens de Judá, e os moradores de Jerusalém; e esta cidade será habitada para sempre."
+        },
+        {
+          "verse": 26,
+          "text": "E virão das cidades de Judá, e dos arredores de Jerusalém, e da terra de Benjamim, e das planícies, e das montanhas, e do sul, trazendo holocaustos, e sacrifícios, e ofertas de alimentos, e incenso, trazendo também sacrifícios de louvores à casa do Senhor."
+        },
+        {
+          "verse": 27,
+          "text": "Mas, se não me ouvirdes, para santificardes o dia de sábado, e para não trazerdes carga alguma, quando entrardes pelas portas de Jerusalém no dia de sábado, então acenderei fogo nas suas portas, o qual consumirá os palácios de Jerusalém, e não se apagará."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra do Senhor, que veio a Jeremias, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Levanta-te, e desce à casa do oleiro, e lá te farei ouvir as minhas palavras."
+        },
+        {
+          "verse": 3,
+          "text": "E desci à casa do oleiro, e eis que ele estava fazendo a sua obra sobre as rodas,"
+        },
+        {
+          "verse": 4,
+          "text": "Como o vaso, que ele fazia de barro, quebrou-se na mão do oleiro, tornou a fazer dele outro vaso, conforme o que pareceu bem aos olhos do oleiro fazer."
+        },
+        {
+          "verse": 5,
+          "text": "Então veio a mim a palavra do Senhor, dizendo:"
+        },
+        {
+          "verse": 6,
+          "text": "Não poderei eu fazer de vós como fez este oleiro, ó casa de Israel? diz o Senhor. Eis que, como o barro na mão do oleiro, assim sois vós na minha mão, ó casa de Israel."
+        },
+        {
+          "verse": 7,
+          "text": "No momento em que falar contra uma nação, e contra um reino para arrancar, e para derrubar, e para destruir,"
+        },
+        {
+          "verse": 8,
+          "text": "Se a tal nação, porém, contra a qual falar se converter da sua maldade, também eu me arrependerei do mal que pensava fazer-lhe."
+        },
+        {
+          "verse": 9,
+          "text": "No momento em que falar de uma nação e de um reino, para edificar e para plantar,"
+        },
+        {
+          "verse": 10,
+          "text": "Se fizer o mal diante dos meus olhos, não dando ouvidos à minha voz, então me arrependerei do bem que tinha falado que lhe faria."
+        },
+        {
+          "verse": 11,
+          "text": "Ora, pois, fala agora aos homens de Judá, e aos moradores de Jerusalém, dizendo: Assim diz o Senhor: Eis que estou forjando mal contra vós; e projeto um plano contra vós; convertei-vos, pois, agora cada um do seu mau caminho, e melhorai os vossos caminhos e as vossas ações."
+        },
+        {
+          "verse": 12,
+          "text": "Mas eles dizem: Não há esperança, porque andaremos segundo as nossas imaginações; e cada um fará segundo o propósito do seu mau coração."
+        },
+        {
+          "verse": 13,
+          "text": "Portanto, assim diz o Senhor: Perguntai agora entre os gentios quem ouviu tal coisa? Coisa mui horrenda fez a virgem de Israel."
+        },
+        {
+          "verse": 14,
+          "text": "Porventura a neve do Líbano deixará a rocha do campo ou esgotar-se-ão as águas frias que correm de terras estranhas?"
+        },
+        {
+          "verse": 15,
+          "text": "Contudo o meu povo se tem esquecido de mim, queimando incenso à vaidade, que os fez tropeçar nos seus caminhos, e nas veredas antigas, para que andassem por veredas afastadas, não aplainadas;"
+        },
+        {
+          "verse": 16,
+          "text": "Para fazerem da sua terra objeto de espanto e de perpétuos assobios; todo aquele que passar por ela se espantará, e meneará a sua cabeça;"
+        },
+        {
+          "verse": 17,
+          "text": "Com vento oriental os espalharei diante do inimigo; mostrar-lhes-ei as costas e não o rosto, no dia da sua perdição."
+        },
+        {
+          "verse": 18,
+          "text": "Então disseram: Vinde, e maquinemos projetos contra Jeremias; porque não perecerá a lei do sacerdote, nem o conselho do sábio, nem a palavra do profeta; vinde e firamo-lo com a língua, e não atendamos a nenhuma das suas palavras."
+        },
+        {
+          "verse": 19,
+          "text": "Olha para mim, Senhor, e ouve a voz dos que contendem comigo."
+        },
+        {
+          "verse": 20,
+          "text": "Porventura pagar-se-á mal por bem? Pois cavaram uma cova para a minha alma. Lembra-te de que eu compareci à tua presença, para falar a favor deles, e para desviar deles a tua indignação;"
+        },
+        {
+          "verse": 21,
+          "text": "Portanto entrega seus filhos à fome, e entrega-os ao poder da espada, e sejam suas mulheres roubadas dos filhos, e fiquem viúvas; e seus maridos sejam feridos de morte, e os seus jovens sejam feridos à espada na peleja."
+        },
+        {
+          "verse": 22,
+          "text": "Ouça-se o clamor de suas casas, quando de repente trouxeres uma tropa sobre eles. Porquanto cavaram uma cova para prender-me e armaram laços aos meus pés."
+        },
+        {
+          "verse": 23,
+          "text": "Mas tu, ó Senhor, sabes todo o seu conselho contra mim para matar-me; não perdoes a sua maldade, nem apagues o seu pecado de diante da tua face; mas tropecem diante de ti; trata-os assim no tempo da tua ira."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Assim disse o Senhor: Vai, e compra uma botija de oleiro, e leva contigo alguns dos anciãos do povo e alguns dos anciãos dos sacerdotes;"
+        },
+        {
+          "verse": 2,
+          "text": "E sai ao Vale do Filho de Hinom, que está à entrada da porta do sol, e apregoa ali as palavras que eu te disser;"
+        },
+        {
+          "verse": 3,
+          "text": "E dirás: Ouvi a palavra do Senhor, ó reis de Judá, e moradores de Jerusalém. Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei um mal sobre este lugar, e quem quer que dele ouvir retinir-lhe-ão os ouvidos."
+        },
+        {
+          "verse": 4,
+          "text": "Porquanto me deixaram e alienaram este lugar, e nele queimaram incenso a outros deuses, que nunca conheceram, nem eles nem seus pais, nem os reis de Judá; e encheram este lugar de sangue de inocentes."
+        },
+        {
+          "verse": 5,
+          "text": "Porque edificaram os altos de Baal, para queimarem seus filhos no fogo em holocaustos a Baal; o que nunca lhes ordenei, nem falei, nem me veio ao pensamento."
+        },
+        {
+          "verse": 6,
+          "text": "Por isso eis que dias vêm, diz o Senhor, em que este lugar não se chamará mais Tofete, nem o Vale do Filho de Hinom, mas o Vale da Matança."
+        },
+        {
+          "verse": 7,
+          "text": "Porque dissiparei o conselho de Judá e de Jerusalém neste lugar, e os farei cair à espada diante de seus inimigos, e pela mão dos que buscam a vida deles; e darei os seus cadáveres para pasto às aves dos céus e aos animais da terra."
+        },
+        {
+          "verse": 8,
+          "text": "E farei esta cidade objeto de espanto e de assobio; todo aquele que passar por ela se espantará, e assobiará por causa de todas as suas pragas."
+        },
+        {
+          "verse": 9,
+          "text": "E lhes farei comer a carne de seus filhos e a carne de suas filhas, e comerá cada um a carne do seu amigo, no cerco e no aperto em que os apertarão os seus inimigos, e os que buscam a vida deles."
+        },
+        {
+          "verse": 10,
+          "text": "Então quebrarás a botija à vista dos homens que forem contigo."
+        },
+        {
+          "verse": 11,
+          "text": "E dir-lhes-ás: Assim diz o Senhor dos Exércitos: Deste modo quebrarei eu a este povo, e a esta cidade, como se quebra o vaso do oleiro, que não pode mais refazer-se, e os enterrarão em Tofete, porque não haverá mais lugar para os enterrar."
+        },
+        {
+          "verse": 12,
+          "text": "Assim farei a este lugar, diz o Senhor, e aos seus moradores; sim, para pôr a esta cidade como a Tofete."
+        },
+        {
+          "verse": 13,
+          "text": "E as casas de Jerusalém, e as casas dos reis de Judá, serão imundas como o lugar de Tofete, como também todas as casas, sobre cujos terraços queimaram incenso a todo o exército dos céus, e ofereceram libações a deuses estranhos."
+        },
+        {
+          "verse": 14,
+          "text": "Vindo, pois, Jeremias de Tofete onde o tinha enviado o Senhor a profetizar, se pôs em pé no átrio da casa do Senhor, e disse a todo o povo:"
+        },
+        {
+          "verse": 15,
+          "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que trarei sobre esta cidade, e sobre todas as suas vilas, todo o mal que pronunciei contra ela, porquanto endureceram a sua cerviz, para não ouvirem as minhas palavras."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E Pasur, filho de Imer, o sacerdote, que havia sido nomeado presidente na casa do Senhor, ouviu a Jeremias, que profetizava estas palavras."
+        },
+        {
+          "verse": 2,
+          "text": "E feriu Pasur ao profeta Jeremias, e o colocou no cepo que está na porta superior de Benjamim, na casa do Senhor."
+        },
+        {
+          "verse": 3,
+          "text": "E sucedeu que no dia seguinte Pasur tirou a Jeremias do cepo. Então disse-lhe Jeremias: O Senhor não chama o teu nome Pasur, mas, Terror por todos os lados."
+        },
+        {
+          "verse": 4,
+          "text": "Porque assim diz o Senhor: Eis que farei de ti um terror para ti mesmo, e para todos os teus amigos. Eles cairão à espada de seus inimigos, e teus olhos o verão. Entregarei todo o Judá na mão do rei de Babilônia; ele os levará presos a Babilônia, e feri-los-á à espada."
+        },
+        {
+          "verse": 5,
+          "text": "Também entregarei toda a riqueza desta cidade, e todo o seu trabalho, e todas as suas coisas preciosas, sim, todos os tesouros dos reis de Judá entregarei na mão de seus inimigos, e saqueá-los-ão, e tomá-los-ão e levá-los-ão a Babilônia."
+        },
+        {
+          "verse": 6,
+          "text": "E tu, Pasur, e todos os moradores da tua casa ireis para o cativeiro; e virás a Babilônia, e ali morrerás, e ali serás sepultado, tu, e todos os teus amigos, aos quais profetizaste falsamente."
+        },
+        {
+          "verse": 7,
+          "text": "Persuadiste-me, ó Senhor, e persuadido fiquei; mais forte foste do que eu, e prevaleceste; sirvo de escárnio todo o dia; cada um deles zomba de mim."
+        },
+        {
+          "verse": 8,
+          "text": "Porque desde que falo, grito, clamo: Violência e destruição; porque se tornou a palavra do Senhor um opróbrio e ludíbrio todo o dia."
+        },
+        {
+          "verse": 9,
+          "text": "Então disse eu: Não me lembrarei dele, e não falarei mais no seu nome; mas isso foi no meu coração como fogo ardente, encerrado nos meus ossos; e estou fatigado de sofrer, e não posso mais."
+        },
+        {
+          "verse": 10,
+          "text": "Porque ouvi a murmuração de muitos, terror de todos os lados: Denunciai, e o denunciaremos; todos os que têm paz comigo aguardam o meu manquejar, dizendo: Bem pode ser que se deixe persuadir; então prevaleceremos contra ele e nos vingaremos dele."
+        },
+        {
+          "verse": 11,
+          "text": "Mas o Senhor está comigo como um valente temível; por isso tropeçarão os meus perseguidores, e não prevalecerão; ficarão muito confundidos; porque não se houveram prudentemente, terão uma confusão perpétua que nunca será esquecida."
+        },
+        {
+          "verse": 12,
+          "text": "Tu, pois, ó Senhor dos Exércitos, que provas o justo, e vês as entranhas e o coração, permite que eu veja a tua vingança contra eles; pois já te revelei a minha causa."
+        },
+        {
+          "verse": 13,
+          "text": "Cantai ao Senhor, louvai ao Senhor; pois livrou a alma do necessitado da mão dos malfeitores."
+        },
+        {
+          "verse": 14,
+          "text": "Maldito o dia em que nasci; não seja bendito o dia em que minha mãe me deu à luz."
+        },
+        {
+          "verse": 15,
+          "text": "Maldito o homem que deu as novas a meu pai, dizendo: Nasceu-te um filho; alegrando-o com isso grandemente."
+        },
+        {
+          "verse": 16,
+          "text": "E seja esse homem como as cidades que o Senhor destruiu e não se arrependeu; e ouça clamor pela manhã, e ao tempo do meio-dia um alarido."
+        },
+        {
+          "verse": 17,
+          "text": "Por que não me matou na madre? Assim minha mãe teria sido a minha sepultura, e teria ficado grávida perpetuamente!"
+        },
+        {
+          "verse": 18,
+          "text": "Por que saí da madre, para ver trabalho e tristeza, e para que os meus dias se consumam na vergonha?"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que veio a Jeremias da parte do Senhor, quando o rei Zedequias lhe enviou a Pasur, filho de Malquias, e a Sofonias, filho de Maaseias, o sacerdote, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Pergunta agora por nós ao Senhor, por que Nabucodonosor, rei de Babilônia, guerreia contra nós; bem pode ser que o Senhor trate conosco segundo todas as suas maravilhas, e o faça retirar-se de nós."
+        },
+        {
+          "verse": 3,
+          "text": "Então Jeremias lhes disse: Assim direis a Zedequias:"
+        },
+        {
+          "verse": 4,
+          "text": "Assim diz o Senhor Deus de Israel: Eis que virarei contra vós as armas de guerra, que estão nas vossas mãos, com que vós pelejais contra o rei de Babilônia, e contra os caldeus, que vos têm cercado de fora dos muros, e ajuntá-los-ei no meio desta cidade."
+        },
+        {
+          "verse": 5,
+          "text": "E eu pelejarei contra vós com mão estendida e com braço forte, e com ira, e com indignação e com grande furor."
+        },
+        {
+          "verse": 6,
+          "text": "E ferirei os habitantes desta cidade, assim os homens como os animais; de grande pestilência morrerão."
+        },
+        {
+          "verse": 7,
+          "text": "E depois disto, diz o Senhor, entregarei Zedequias, rei de Judá, e seus servos, e o povo, e os que desta cidade restarem da pestilência, e da espada, e da fome, na mão de Nabucodonosor, rei de Babilônia, e na mão de seus inimigos, e na mão dos que buscam a sua vida; e feri-los-á ao fio da espada; não os poupará, nem se compadecerá, nem terá misericórdia."
+        },
+        {
+          "verse": 8,
+          "text": "E a este povo dirás: Assim diz o Senhor: Eis que ponho diante de vós o caminho da vida e o caminho da morte."
+        },
+        {
+          "verse": 9,
+          "text": "O que ficar nesta cidade há de morrer à espada, ou de fome, ou de pestilência; mas o que sair, e se render aos caldeus, que vos têm cercado, viverá, e terá a sua vida por despojo."
+        },
+        {
+          "verse": 10,
+          "text": "Porque pus o meu rosto contra esta cidade para mal, e não para bem, diz o Senhor; na mão do rei de Babilônia se entregará, e ele queimá-la-á a fogo."
+        },
+        {
+          "verse": 11,
+          "text": "E à casa do rei de Judá dirás: Ouvi a palavra do Senhor:"
+        },
+        {
+          "verse": 12,
+          "text": "Ó casa de Davi, assim diz o Senhor: Julgai pela manhã justamente, e livrai o espoliado da mão do opressor; para que não saia o meu furor como fogo, e se acenda, sem que haja quem o apague, por causa da maldade de vossas ações."
+        },
+        {
+          "verse": 13,
+          "text": "Eis que eu sou contra ti, ó moradora do vale, ó rocha da campina, diz o Senhor; contra vós que dizeis: Quem descerá contra nós? Ou quem entrará nas nossas moradas?"
+        },
+        {
+          "verse": 14,
+          "text": "Eu vos castigarei segundo o fruto das vossas ações, diz o Senhor; e acenderei o fogo no seu bosque, que consumirá a tudo o que está em redor dela."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Assim diz o Senhor: Desce à casa do rei de Judá, e anuncia ali esta palavra,"
+        },
+        {
+          "verse": 2,
+          "text": "E dize: Ouve a palavra do Senhor, ó rei de Judá, que te assentas no trono de Davi, tu, e os teus servos, o teu povo, que entrais por estas portas."
+        },
+        {
+          "verse": 3,
+          "text": "Assim diz o Senhor: Exercei o juízo e a justiça, e livrai o espoliado da mão do opressor; e não oprimais ao estrangeiro, nem ao órfão, nem à viúva; não façais violência, nem derrameis sangue inocente neste lugar."
+        },
+        {
+          "verse": 4,
+          "text": "Porque, se deveras cumprirdes esta palavra, entrarão pelas portas desta casa os reis que se assentarão em lugar de Davi sobre o seu trono, andando em carros e montados em cavalos, eles, e os seus servos, e o seu povo."
+        },
+        {
+          "verse": 5,
+          "text": "Mas, se não derdes ouvidos a estas palavras, por mim mesmo tenho jurado, diz o Senhor, que esta casa se tornará em assolação."
+        },
+        {
+          "verse": 6,
+          "text": "Porque assim diz o Senhor acerca da casa do rei de Judá: Tu és para mim Gileade, e a cabeça do Líbano; mas por certo que farei de ti um deserto e cidades desabitadas."
+        },
+        {
+          "verse": 7,
+          "text": "Porque preparei contra ti destruidores, cada um com as suas armas; e cortarão os teus cedros escolhidos, e lançá-los-ão no fogo."
+        },
+        {
+          "verse": 8,
+          "text": "E muitas nações passarão por esta cidade, e dirá cada um ao seu próximo: Por que procedeu o Senhor assim com esta grande cidade?"
+        },
+        {
+          "verse": 9,
+          "text": "E dirão: Porque deixaram a aliança do Senhor seu Deus, e se inclinaram diante de outros deuses, e os serviram."
+        },
+        {
+          "verse": 10,
+          "text": "Não choreis o morto, nem o lastimeis; chorai abundantemente aquele que sai, porque nunca mais tornará nem verá a terra onde nasceu."
+        },
+        {
+          "verse": 11,
+          "text": "Porque assim diz o Senhor acerca de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai, e que saiu deste lugar: Nunca mais ali tornará."
+        },
+        {
+          "verse": 12,
+          "text": "Mas no lugar para onde o levaram cativo ali morrerá, e nunca mais verá esta terra."
+        },
+        {
+          "verse": 13,
+          "text": "Ai daquele que edifica a sua casa com injustiça, e os seus aposentos sem direito, que se serve do serviço do seu próximo sem remunerá-lo, e não lhe dá o salário do seu trabalho."
+        },
+        {
+          "verse": 14,
+          "text": "Que diz: Edificarei para mim uma casa espaçosa, e aposentos largos; e que lhe abre janelas, forrando-a de cedro, e pintando-a de vermelhão."
+        },
+        {
+          "verse": 15,
+          "text": "Porventura reinarás tu, porque te encerras em cedro? Acaso teu pai não comeu e bebeu, e não praticou o juízo e a justiça? Por isso lhe sucedeu bem."
+        },
+        {
+          "verse": 16,
+          "text": "Julgou a causa do aflito e necessitado; então lhe sucedeu bem; porventura não é isto conhecer-me? Diz o Senhor."
+        },
+        {
+          "verse": 17,
+          "text": "Mas os teus olhos e o teu coração não atentam senão para a tua avareza, e para derramar sangue inocente, e para praticar a opressão, e a violência."
+        },
+        {
+          "verse": 18,
+          "text": "Portanto assim diz o Senhor acerca de Jeoiaquim, filho de Josias, rei de Judá: Não o lamentarão, dizendo: Ai, meu irmão, ou ai, minha irmã! Nem o lamentarão, dizendo: Ai, senhor, ou, ai, sua glória!"
+        },
+        {
+          "verse": 19,
+          "text": "Em sepultura de jumento será sepultado, sendo arrastado e lançado para bem longe, fora das portas de Jerusalém."
+        },
+        {
+          "verse": 20,
+          "text": "Sobe ao Líbano, e clama, e levanta a tua voz em Basã, e clama pelas passagens; porque estão destruídos todos os teus namorados."
+        },
+        {
+          "verse": 21,
+          "text": "Falei contigo na tua prosperidade, mas tu disseste: Não ouvirei. Este tem sido o teu caminho, desde a tua mocidade, pois nunca deste ouvidos à minha voz."
+        },
+        {
+          "verse": 22,
+          "text": "O vento apascentará a todos os teus pastores, e os teus namorados irão para o cativeiro; certamente então te confundirás, e te envergonharás por causa de toda a tua maldade."
+        },
+        {
+          "verse": 23,
+          "text": "Ó tu, que habitas no Líbano e fazes o teu ninho nos cedros, quão lastimada serás quando te vierem as dores e os ais como da que está de parto."
+        },
+        {
+          "verse": 24,
+          "text": "Vivo eu, diz o Senhor, que ainda que Conias, filho de Jeoiaquim, rei de Judá, fosse o anel do selo na minha mão direita, contudo dali te arrancaria."
+        },
+        {
+          "verse": 25,
+          "text": "E entregar-te-ei na mão dos que buscam a tua vida, e na mão daqueles diante de quem tu temes, a saber, na mão de Nabucodonosor, rei de Babilônia, e na mão dos caldeus."
+        },
+        {
+          "verse": 26,
+          "text": "E lançar-te-ei, a ti e à tua mãe que te deu à luz, para uma terra estranha, em que não nasceste, e ali morrereis."
+        },
+        {
+          "verse": 27,
+          "text": "Mas à terra, para a qual eles com toda a alma desejam voltar, para lá não voltarão."
+        },
+        {
+          "verse": 28,
+          "text": "É, pois, este homem Conias um ídolo desprezado e quebrado, ou um vaso de que ninguém se agrada? Por que razão foram arremessados fora, ele e a sua geração, e arrojados para uma terra que não conhecem?"
+        },
+        {
+          "verse": 29,
+          "text": "Ó terra, terra, terra! Ouve a palavra do Senhor."
+        },
+        {
+          "verse": 30,
+          "text": "Assim diz o Senhor: Escrevei que este homem está privado de filhos, homem que não prosperará nos seus dias; porque nenhum da sua geração prosperará, para se assentar no trono de Davi, e reinar ainda em Judá."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ai dos pastores que destroem e dispersam as ovelhas do meu pasto, diz o Senhor."
+        },
+        {
+          "verse": 2,
+          "text": "Portanto assim diz o Senhor Deus de Israel, contra os pastores que apascentam o meu povo: Vós dispersastes as minhas ovelhas, e as afugentastes, e não as visitastes; eis que visitarei sobre vós a maldade das vossas ações, diz o Senhor."
+        },
+        {
+          "verse": 3,
+          "text": "E eu mesmo recolherei o restante das minhas ovelhas, de todas as terras para onde as tiver afugentado, e as farei voltar aos seus apriscos; e frutificarão, e se multiplicarão."
+        },
+        {
+          "verse": 4,
+          "text": "E levantarei sobre elas pastores que as apascentem, e nunca mais temerão, nem se assombrarão, e nem uma delas faltará, diz o Senhor."
+        },
+        {
+          "verse": 5,
+          "text": "Eis que vêm dias, diz o Senhor, em que levantarei a Davi um Renovo justo; e, sendo rei, reinará e agirá sabiamente, e praticará o juízo e a justiça na terra."
+        },
+        {
+          "verse": 6,
+          "text": "Nos seus dias Judá será salvo, e Israel habitará seguro; e este será o seu nome, com o qual Deus o chamará: o Senhor justiça nossa."
+        },
+        {
+          "verse": 7,
+          "text": "Portanto, eis que vêm dias, diz o Senhor, em que nunca mais dirão: Vive o Senhor, que fez subir os filhos de Israel da terra do Egito;"
+        },
+        {
+          "verse": 8,
+          "text": "Mas: Vive o Senhor, que fez subir, e que trouxe a geração da casa de Israel da terra do norte, e de todas as terras para onde os tinha arrojado; e habitarão na sua terra."
+        },
+        {
+          "verse": 9,
+          "text": "Quanto aos profetas, já o meu coração está quebrantado dentro de mim; todos os meus ossos estremecem; sou como um homem embriagado, e como um homem vencido de vinho, por causa do Senhor, e por causa das suas santas palavras."
+        },
+        {
+          "verse": 10,
+          "text": "Porque a terra está cheia de adúlteros, e a terra chora por causa da maldição; os pastos do deserto se secam; porque a sua carreira é má, e a sua força não é reta."
+        },
+        {
+          "verse": 11,
+          "text": "Porque tanto o profeta, como o sacerdote, estão contaminados; até na minha casa achei a sua maldade, diz o Senhor."
+        },
+        {
+          "verse": 12,
+          "text": "Portanto o seu caminho lhes será como lugares escorregadios na escuridão; serão empurrados, e cairão nele; porque trarei sobre eles mal, no ano da sua visitação, diz o Senhor."
+        },
+        {
+          "verse": 13,
+          "text": "Nos profetas de Samaria bem vi loucura; profetizavam da parte de Baal, e faziam errar o meu povo Israel."
+        },
+        {
+          "verse": 14,
+          "text": "Mas nos profetas de Jerusalém vejo uma coisa horrenda: cometem adultérios, e andam com falsidade, e fortalecem as mãos dos malfeitores, para que não se convertam da sua maldade; eles têm-se tornado para mim como Sodoma, e os seus moradores como Gomorra."
+        },
+        {
+          "verse": 15,
+          "text": "Portanto assim diz o Senhor dos Exércitos acerca dos profetas: Eis que lhes darei a comer losna, e lhes farei beber águas de fel; porque dos profetas de Jerusalém saiu a contaminação sobre toda a terra."
+        },
+        {
+          "verse": 16,
+          "text": "Assim diz o Senhor dos Exércitos: Não deis ouvidos às palavras dos profetas, que entre vós profetizam; fazem-vos desvanecer; falam da visão do seu coração, não da boca do Senhor."
+        },
+        {
+          "verse": 17,
+          "text": "Dizem continuamente aos que me desprezam: O Senhor disse: Paz tereis; e a qualquer que anda segundo a dureza do seu coração, dizem: Não virá mal sobre vós."
+        },
+        {
+          "verse": 18,
+          "text": "Porque, quem esteve no conselho do Senhor, e viu, e ouviu a sua palavra? Quem esteve atento à sua palavra, e ouviu?"
+        },
+        {
+          "verse": 19,
+          "text": "Eis que saiu com indignação a tempestade do Senhor; e uma tempestade penosa cairá cruelmente sobre a cabeça dos ímpios."
+        },
+        {
+          "verse": 20,
+          "text": "Não se desviará a ira do Senhor, até que execute e cumpra os desígnios do seu coração; nos últimos dias entendereis isso claramente."
+        },
+        {
+          "verse": 21,
+          "text": "Não mandei esses profetas, contudo eles foram correndo; não lhes falei, contudo eles profetizaram."
+        },
+        {
+          "verse": 22,
+          "text": "Mas, se estivessem estado no meu conselho, então teriam feito o meu povo ouvir as minhas palavras, e o teriam feito voltar do seu mau caminho, e da maldade das suas ações."
+        },
+        {
+          "verse": 23,
+          "text": "Porventura sou eu Deus de perto, diz o Senhor, e não também Deus de longe?"
+        },
+        {
+          "verse": 24,
+          "text": "Esconder-se-ia alguém em esconderijos, de modo que eu não o veja? Diz o Senhor. Porventura não encho eu os céus e a terra? Diz o Senhor."
+        },
+        {
+          "verse": 25,
+          "text": "Tenho ouvido o que dizem aqueles profetas, profetizando mentiras em meu nome, dizendo: Sonhei, sonhei."
+        },
+        {
+          "verse": 26,
+          "text": "Até quando sucederá isso no coração dos profetas que profetizam mentiras, e que só profetizam do engano do seu coração?"
+        },
+        {
+          "verse": 27,
+          "text": "Os quais cuidam fazer com que o meu povo se esqueça do meu nome pelos seus sonhos que cada um conta ao seu próximo, assim como seus pais se esqueceram do meu nome por causa de Baal."
+        },
+        {
+          "verse": 28,
+          "text": "O profeta que tem um sonho conte o sonho; e aquele que tem a minha palavra, fale a minha palavra com verdade. Que tem a palha com o trigo? Diz o Senhor."
+        },
+        {
+          "verse": 29,
+          "text": "Porventura a minha palavra não é como o fogo, diz o Senhor, e como um martelo que esmiúça a pedra?"
+        },
+        {
+          "verse": 30,
+          "text": "Portanto, eis que eu sou contra os profetas, diz o Senhor, que furtam as minhas palavras, cada um ao seu próximo."
+        },
+        {
+          "verse": 31,
+          "text": "Eis que eu sou contra os profetas, diz o Senhor, que usam de sua própria linguagem, e dizem: Ele disse."
+        },
+        {
+          "verse": 32,
+          "text": "Eis que eu sou contra os que profetizam sonhos mentirosos, diz o Senhor, e os contam, e fazem errar o meu povo com as suas mentiras e com as suas leviandades; pois eu não os enviei, nem lhes dei ordem; e não trouxeram proveito algum a este povo, diz o Senhor."
+        },
+        {
+          "verse": 33,
+          "text": "Quando, pois, te perguntar este povo, ou qualquer profeta, ou sacerdote, dizendo: Qual é o peso do Senhor? Então lhe dirás: Este é o peso: Que vos deixarei, diz o Senhor."
+        },
+        {
+          "verse": 34,
+          "text": "E, quanto ao profeta, e ao sacerdote, e ao povo, que disser: Peso do Senhor, eu castigarei o tal homem e a sua casa."
+        },
+        {
+          "verse": 35,
+          "text": "Assim direis, cada um ao seu próximo, e cada um ao seu irmão: Que respondeu o Senhor? E que falou o Senhor?"
+        },
+        {
+          "verse": 36,
+          "text": "Mas nunca mais vos lembrareis do peso do Senhor; porque a cada um lhe servirá de peso a sua própria palavra; pois torceis as palavras do Deus vivo, do Senhor dos Exércitos, o nosso Deus."
+        },
+        {
+          "verse": 37,
+          "text": "Assim dirás ao profeta: Que te respondeu o Senhor, e que falou o Senhor?"
+        },
+        {
+          "verse": 38,
+          "text": "Mas, porque dizeis: Peso do Senhor; assim o diz o Senhor: Porque dizeis esta palavra: Peso do Senhor, havendo-vos ordenado, dizendo: Não direis: Peso do Senhor;"
+        },
+        {
+          "verse": 39,
+          "text": "Por isso, eis que também eu me esquecerei totalmente de vós, e tirarei da minha presença, a vós e a cidade que vos dei a vós e a vossos pais;"
+        },
+        {
+          "verse": 40,
+          "text": "E porei sobre vós perpétuo opróbrio, e eterna vergonha, que não será esquecida."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fez-me o Senhor ver, e eis dois cestos de figos, postos diante do templo do Senhor, depois que Nabucodonosor, rei de Babilônia, levou em cativeiro a Jeconias, filho de Jeoiaquim, rei de Judá, e os príncipes de Judá, e os carpinteiros, e os ferreiros de Jerusalém, e os trouxe a Babilônia."
+        },
+        {
+          "verse": 2,
+          "text": "Um cesto tinha figos muito bons, como os figos temporãos; mas o outro cesto tinha figos muito ruins, que não se podiam comer, de ruins que eram."
+        },
+        {
+          "verse": 3,
+          "text": "E disse-me o Senhor: Que vês tu, Jeremias? E eu disse: Figos: os figos bons, muito bons e os ruins, muito ruins, que não se podem comer, de ruins que são."
+        },
+        {
+          "verse": 4,
+          "text": "Então veio a mim a palavra do Senhor, dizendo:"
+        },
+        {
+          "verse": 5,
+          "text": "Assim diz o Senhor, o Deus de Israel: Como a estes bons figos, assim também conhecerei aos de Judá, levados em cativeiro; os quais enviei deste lugar para a terra dos caldeus, para o seu bem."
+        },
+        {
+          "verse": 6,
+          "text": "Porei os meus olhos sobre eles, para o seu bem, e os farei voltar a esta terra, e edificá-los-ei, e não os destruirei; e plantá-los-ei, e não os arrancarei."
+        },
+        {
+          "verse": 7,
+          "text": "E dar-lhes-ei coração para que me conheçam, porque eu sou o Senhor; e ser-me-ão por povo, e eu lhes serei por Deus; porque se converterão a mim de todo o seu coração."
+        },
+        {
+          "verse": 8,
+          "text": "E como os figos ruins, que se não podem comer, de ruins que são (porque assim diz o Senhor), assim entregarei Zedequias, rei de Judá, e os seus príncipes, e o restante de Jerusalém, que ficou nesta terra, e os que habitam na terra do Egito."
+        },
+        {
+          "verse": 9,
+          "text": "E entregá-los-ei para que sejam um prejuízo, uma ofensa para todos os reinos da terra, um opróbrio e um provérbio, e um escárnio, e uma maldição em todos os lugares para onde eu os arrojar."
+        },
+        {
+          "verse": 10,
+          "text": "E enviarei entre eles a espada, a fome, e a peste, até que se consumam de sobre a terra que lhes dei a eles e a seus pais."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que veio a Jeremias acerca de todo o povo de Judá no quarto ano de Jeoiaquim, filho de Josias, rei de Judá (que é o primeiro ano de Nabucodonosor, rei de Babilônia),"
+        },
+        {
+          "verse": 2,
+          "text": "A qual anunciou o profeta Jeremias a todo o povo de Judá, e a todos os habitantes de Jerusalém, dizendo:"
+        },
+        {
+          "verse": 3,
+          "text": "Desde o ano treze de Josias, filho de Amom, rei de Judá, até o dia de hoje, período de vinte e três anos, tem vindo a mim a palavra do Senhor, e vo-la tenho anunciado, madrugando e falando; mas vós não escutastes."
+        },
+        {
+          "verse": 4,
+          "text": "Também vos enviou o Senhor todos os seus servos, os profetas, madrugando e enviando-os, mas vós não escutastes, nem inclinastes os vossos ouvidos para ouvir,"
+        },
+        {
+          "verse": 5,
+          "text": "Quando diziam: Convertei-vos agora cada um do seu mau caminho, e da maldade das suas ações, e habitai na terra que o Senhor vos deu, e a vossos pais, para sempre."
+        },
+        {
+          "verse": 6,
+          "text": "E não andeis após outros deuses para os servirdes, e para vos inclinardes diante deles, nem me provoqueis à ira com a obra de vossas mãos, para que não vos faça mal."
+        },
+        {
+          "verse": 7,
+          "text": "Porém não me destes ouvidos, diz o Senhor, mas me provocastes à ira com a obra de vossas mãos, para vosso mal."
+        },
+        {
+          "verse": 8,
+          "text": "Portanto assim diz o Senhor dos Exércitos: Visto que não escutastes as minhas palavras,"
+        },
+        {
+          "verse": 9,
+          "text": "Eis que eu enviarei, e tomarei a todas as famílias do norte, diz o Senhor, como também a Nabucodonosor, rei de Babilônia, meu servo, e os trarei sobre esta terra, e sobre os seus moradores, e sobre todas estas nações em redor, e os destruirei totalmente, e farei que sejam objeto de espanto, e de assobio, e de perpétuas desolações."
+        },
+        {
+          "verse": 10,
+          "text": "E farei desaparecer dentre eles a voz de gozo, e a voz de alegria, a voz do esposo, e a voz da esposa, como também o som das mós, e a luz do candeeiro."
+        },
+        {
+          "verse": 11,
+          "text": "E toda esta terra virá a ser um deserto e um espanto; e estas nações servirão ao rei de Babilônia setenta anos."
+        },
+        {
+          "verse": 12,
+          "text": "Acontecerá, porém, que, quando se cumprirem os setenta anos, visitarei o rei de Babilônia, e esta nação, diz o Senhor, castigando a sua iniquidade, e a da terra dos caldeus; farei deles ruínas perpétuas."
+        },
+        {
+          "verse": 13,
+          "text": "E trarei sobre aquela terra todas as minhas palavras, que disse contra ela, a saber, tudo quanto está escrito neste livro, que profetizou Jeremias contra todas estas nações."
+        },
+        {
+          "verse": 14,
+          "text": "Porque também deles se servirão muitas nações e grandes reis; assim lhes retribuirei segundo os seus feitos, e segundo as obras das suas mãos."
+        },
+        {
+          "verse": 15,
+          "text": "Porque assim me disse o Senhor Deus de Israel: Toma da minha mão este copo do vinho do furor, e darás a beber dele a todas as nações, às quais eu te enviarei."
+        },
+        {
+          "verse": 16,
+          "text": "Para que bebam e tremam, e enlouqueçam, por causa da espada, que eu enviarei entre eles."
+        },
+        {
+          "verse": 17,
+          "text": "E tomei o copo da mão do Senhor, e dei a beber a todas as nações, às quais o Senhor me enviou;"
+        },
+        {
+          "verse": 18,
+          "text": "A Jerusalém, e às cidades de Judá, e aos seus reis, e aos seus príncipes, para fazer deles uma desolação, um espanto, um assobio, e uma maldição, como hoje se vê;"
+        },
+        {
+          "verse": 19,
+          "text": "A Faraó, rei do Egito, e a seus servos, e a seus príncipes, e a todo o seu povo;"
+        },
+        {
+          "verse": 20,
+          "text": "E a toda a mistura de povo, e a todos os reis da terra de Uz, e a todos os reis da terra dos filisteus, e a Ascalom, e a Gaza, e a Ecrom, e ao remanescente de Asdode,"
+        },
+        {
+          "verse": 21,
+          "text": "E a Edom, e a Moabe, e aos filhos de Amom;"
+        },
+        {
+          "verse": 22,
+          "text": "E a todos os reis de Tiro, e a todos os reis de Sidom; e aos reis das ilhas que estão além do mar;"
+        },
+        {
+          "verse": 23,
+          "text": "A Dedã, e a Tema, e a Buz e a todos os que estão nos lugares mais distantes."
+        },
+        {
+          "verse": 24,
+          "text": "E a todos os reis da Arábia, e todos os reis do povo misto que habita no deserto;"
+        },
+        {
+          "verse": 25,
+          "text": "E a todos os reis de Zinri, e a todos os reis de Elão, e a todos os reis da Média;"
+        },
+        {
+          "verse": 26,
+          "text": "E a todos os reis do norte, os de perto, e os de longe, tanto um como o outro, e a todos os reinos do mundo, que estão sobre a face da terra, e o rei de Sesaque beberá depois deles."
+        },
+        {
+          "verse": 27,
+          "text": "Pois lhes dirás: Assim diz o Senhor dos Exércitos, o Deus de Israel: Bebei, e embebedai-vos, e vomitai, e caí, e não torneis a levantar-vos, por causa da espada que eu vos enviarei."
+        },
+        {
+          "verse": 28,
+          "text": "E será que, se não quiserem tomar o copo da tua mão para beber, então lhes dirás: Assim diz o Senhor dos Exércitos: Certamente bebereis."
+        },
+        {
+          "verse": 29,
+          "text": "Porque, eis que na cidade que se chama pelo meu nome começo a castigar; e ficareis vós totalmente impunes? Não ficareis impunes, porque eu chamo a espada sobre todos os moradores da terra, diz o Senhor dos Exércitos."
+        },
+        {
+          "verse": 30,
+          "text": "Tu, pois, lhes profetizarás todas estas palavras, e lhes dirás: O Senhor desde o alto bramirá, e fará ouvir a sua voz desde a morada da sua santidade; terrivelmente bramirá contra a sua habitação, com grito de alegria, como dos que pisam as uvas, contra todos os moradores da terra."
+        },
+        {
+          "verse": 31,
+          "text": "Chegará o estrondo até à extremidade da terra, porque o Senhor tem contenda com as nações, entrará em juízo com toda a carne; os ímpios entregará à espada, diz o Senhor."
+        },
+        {
+          "verse": 32,
+          "text": "Assim diz o Senhor dos Exércitos: Eis que o mal passa de nação para nação, e grande tormenta se levantará dos confins da terra."
+        },
+        {
+          "verse": 33,
+          "text": "E serão os mortos do Senhor, naquele dia, desde uma extremidade da terra até à outra; não serão pranteados, nem recolhidos, nem sepultados; mas serão por esterco sobre a face da terra."
+        },
+        {
+          "verse": 34,
+          "text": "Uivai, pastores, e clamai, e revolvei-vos na cinza, principais do rebanho, porque já se cumpriram os vossos dias para serdes mortos, e dispersos, e vós então caireis como um vaso precioso."
+        },
+        {
+          "verse": 35,
+          "text": "E não haverá refúgio para os pastores, nem salvamento para os principais do rebanho."
+        },
+        {
+          "verse": 36,
+          "text": "Voz de grito dos pastores, e uivos dos principais do rebanho; porque o Senhor está destruindo o pasto deles."
+        },
+        {
+          "verse": 37,
+          "text": "Porque as suas malhadas pacíficas serão desarraigadas, por causa do furor da ira do Senhor."
+        },
+        {
+          "verse": 38,
+          "text": "Deixou a sua tenda, como o filho de leão; porque a sua terra foi posta em desolação, por causa do furor do opressor, e por causa do furor da sua ira."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "No princípio do reinado de Jeoiaquim, filho de Josias, rei de Judá, veio esta palavra do Senhor, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Assim diz o Senhor: Põe-te no átrio da casa do Senhor e dize a todas as cidades de Judá, que vêm adorar na casa do Senhor, todas as palavras que te mandei que lhes dissesses; não omitas nenhuma palavra."
+        },
+        {
+          "verse": 3,
+          "text": "Bem pode ser que ouçam, e se convertam cada um do seu mau caminho, e eu me arrependa do mal que intento fazer-lhes por causa da maldade das suas ações."
+        },
+        {
+          "verse": 4,
+          "text": "Dize-lhes pois: Assim diz o Senhor: Se não me derdes ouvidos para andardes na minha lei, que pus diante de vós,"
+        },
+        {
+          "verse": 5,
+          "text": "Para que ouvísseis as palavras dos meus servos, os profetas, que eu vos envio, madrugando e enviando, mas não ouvistes;"
+        },
+        {
+          "verse": 6,
+          "text": "Então farei que esta casa seja como Siló, e farei desta cidade uma maldição para todas as nações da terra."
+        },
+        {
+          "verse": 7,
+          "text": "Os sacerdotes, e os profetas, e todo o povo, ouviram a Jeremias, falando estas palavras na casa do Senhor."
+        },
+        {
+          "verse": 8,
+          "text": "E sucedeu que, acabando Jeremias de dizer tudo quanto o Senhor lhe havia ordenado que dissesse a todo o povo, pegaram nele os sacerdotes, e os profetas, e todo o povo, dizendo: Certamente morrerás,"
+        },
+        {
+          "verse": 9,
+          "text": "Por que profetizaste no nome do Senhor, dizendo: Como Siló será esta casa, e esta cidade será assolada, de sorte que não fique nenhum morador nela? E ajuntou-se todo o povo contra Jeremias, na casa do Senhor."
+        },
+        {
+          "verse": 10,
+          "text": "E, ouvindo os príncipes de Judá estas palavras, subiram da casa do rei à casa do Senhor, e se assentaram à entrada da porta nova do Senhor."
+        },
+        {
+          "verse": 11,
+          "text": "Então falaram os sacerdotes e os profetas aos príncipes e a todo o povo, dizendo: Este homem é réu de morte, porque profetizou contra esta cidade, como ouvistes com os vossos ouvidos."
+        },
+        {
+          "verse": 12,
+          "text": "E falou Jeremias a todos os príncipes e a todo o povo, dizendo: O Senhor me enviou a profetizar contra esta casa, e contra esta cidade, todas as palavras que ouvistes."
+        },
+        {
+          "verse": 13,
+          "text": "Agora, pois, melhorai os vossos caminhos e as vossas ações, e ouvi a voz do Senhor vosso Deus, e arrepender-se-á o Senhor do mal que falou contra vós."
+        },
+        {
+          "verse": 14,
+          "text": "Quanto a mim, eis que estou nas vossas mãos; fazei de mim conforme o que for bom e reto aos vossos olhos."
+        },
+        {
+          "verse": 15,
+          "text": "Sabei, porém, com certeza que, se me matardes, trareis sangue inocente sobre vós, e sobre esta cidade, e sobre os seus habitantes; porque, na verdade, o Senhor me enviou a vós, para dizer aos vossos ouvidos todas estas palavras."
+        },
+        {
+          "verse": 16,
+          "text": "Então disseram os príncipes, e todo o povo aos sacerdotes e aos profetas: Este homem não é réu de morte, porque em nome do Senhor, nosso Deus, nos falou."
+        },
+        {
+          "verse": 17,
+          "text": "Também se levantaram alguns homens dentre os anciãos da terra, e falaram a toda a congregação do povo, dizendo:"
+        },
+        {
+          "verse": 18,
+          "text": "Miqueias, o morastita, profetizou nos dias de Ezequias, rei de Judá, e falou a todo o povo de Judá, dizendo: Assim disse o Senhor dos Exércitos: Sião será lavrada como um campo, e Jerusalém se tornará em montões de pedras, e o monte desta casa como os altos de um bosque."
+        },
+        {
+          "verse": 19,
+          "text": "Mataram-no, porventura, Ezequias, rei de Judá, e todo o Judá? Antes não temeu ao Senhor, e não implorou o favor do Senhor? E o Senhor não se arrependeu do mal que falara contra eles? Nós fazemos um grande mal contra as nossas almas."
+        },
+        {
+          "verse": 20,
+          "text": "Também houve outro homem que profetizava em nome do Senhor, a saber: Urias, filho de Semaías de Quiriate-Jearim, o qual profetizou contra esta cidade, e contra esta terra, conforme todas as palavras de Jeremias."
+        },
+        {
+          "verse": 21,
+          "text": "E, ouvindo o rei Jeoiaquim, e todos os seus poderosos e todos os príncipes, as suas palavras, procurou o rei matá-lo; mas ouvindo isto, Urias temeu e fugiu, e foi para o Egito;"
+        },
+        {
+          "verse": 22,
+          "text": "Mas o rei Jeoiaquim enviou alguns homens ao Egito, a saber: Elnatã, filho de Acbor, e outros homens com ele, ao Egito."
+        },
+        {
+          "verse": 23,
+          "text": "Os quais tiraram a Urias do Egito, e o trouxeram ao rei Jeoiaquim, que o feriu à espada, e lançou o seu cadáver nas sepulturas dos filhos do povo."
+        },
+        {
+          "verse": 24,
+          "text": "Porém a mão de Aicão, filho de Safã, foi com Jeremias, para que o não entregassem na mão do povo, para ser morto."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "No princípio do reinado de Jeoiaquim, filho de Josias, rei de Judá, veio esta palavra a Jeremias da parte do Senhor, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Assim me disse o Senhor: Faze uns grilhões e jugos, e põe-nos ao teu pescoço."
+        },
+        {
+          "verse": 3,
+          "text": "E envia-os ao rei de Edom, e ao rei de Moabe, e ao rei dos filhos de Amom, e ao rei de Tiro, e ao rei de Sidom, pela mão dos mensageiros que vêm a Jerusalém a ter com Zedequias, rei de Judá."
+        },
+        {
+          "verse": 4,
+          "text": "E lhes ordenarás, que digam aos seus senhores: Assim diz o Senhor dos Exércitos, o Deus de Israel: Assim direis a vossos senhores:"
+        },
+        {
+          "verse": 5,
+          "text": "Eu fiz a terra, o homem, e os animais que estão sobre a face da terra, com o meu grande poder, e com o meu braço estendido, e a dou a quem é reto aos meus olhos."
+        },
+        {
+          "verse": 6,
+          "text": "E agora eu entreguei todas estas terras na mão de Nabucodonosor, rei de Babilônia, meu servo; e ainda até os animais do campo lhe dei, para que o sirvam."
+        },
+        {
+          "verse": 7,
+          "text": "E todas as nações servirão a ele, e a seu filho, e ao filho de seu filho, até que também venha o tempo da sua própria terra, quando muitas nações e grandes reis se servirão dele."
+        },
+        {
+          "verse": 8,
+          "text": "E acontecerá que, se alguma nação e reino não servirem o mesmo Nabucodonosor, rei de Babilônia, e não puserem o seu pescoço debaixo do jugo do rei de Babilônia, a essa nação castigarei com espada, e com fome, e com peste, diz o Senhor, até que a consuma pela sua mão;"
+        },
+        {
+          "verse": 9,
+          "text": "E vós não deis ouvidos aos vossos profetas, e aos vossos adivinhos, e aos vossos sonhos, e aos vossos agoureiros, e aos vossos encantadores, que vos falam, dizendo: Não servireis ao rei de Babilônia."
+        },
+        {
+          "verse": 10,
+          "text": "Porque mentiras vos profetizam, para vos mandarem para longe da vossa terra, e para que eu vos expulse dela, e pereçais."
+        },
+        {
+          "verse": 11,
+          "text": "Mas a nação que colocar o seu pescoço sob o jugo do rei de Babilônia, e o servir, eu a deixarei na sua terra, diz o Senhor, e lavrá-la-á e habitará nela."
+        },
+        {
+          "verse": 12,
+          "text": "E falei com Zedequias, rei de Judá, conforme todas estas palavras, dizendo: Colocai os vossos pescoços no jugo do rei de Babilônia, e servi-o, a ele e ao seu povo, e vivereis."
+        },
+        {
+          "verse": 13,
+          "text": "Por que morrerias tu e o teu povo, à espada, e à fome, e de peste, como o Senhor disse contra a nação que não servir ao rei de Babilônia?"
+        },
+        {
+          "verse": 14,
+          "text": "E não deis ouvidos às palavras dos profetas, que vos falam, dizendo: Não servireis ao rei de Babilônia; porque vos profetizam mentiras."
+        },
+        {
+          "verse": 15,
+          "text": "Porque não os enviei, diz o Senhor, e profetizam falsamente em meu nome; para que eu vos lance fora, e pereçais, vós e os profetas que vos profetizam."
+        },
+        {
+          "verse": 16,
+          "text": "Também falei aos sacerdotes, e a todo este povo, dizendo: Assim diz o Senhor: Não deis ouvidos às palavras dos vossos profetas, que vos profetizam, dizendo: Eis que os utensílios da casa do Senhor cedo voltarão de Babilônia, porque vos profetizam mentiras."
+        },
+        {
+          "verse": 17,
+          "text": "Não lhes deis ouvidos, servi ao rei de Babilônia, e vivereis; por que se tornaria esta cidade em desolação?"
+        },
+        {
+          "verse": 18,
+          "text": "Porém, se são profetas, e se há palavras do Senhor com eles, orem agora ao Senhor dos Exércitos, para que os utensílios que ficaram na casa do Senhor, e na casa do rei de Judá, e em Jerusalém, não vão para a Babilônia."
+        },
+        {
+          "verse": 19,
+          "text": "Porque assim diz o Senhor dos Exércitos acerca das colunas, e do mar, e das bases, e dos demais utensílios que ficaram na cidade,"
+        },
+        {
+          "verse": 20,
+          "text": "Os quais Nabucodonosor, rei de Babilônia, não levou, quando transportou de Jerusalém para Babilônia a Jeconias, filho de Jeoiaquim, rei de Judá, como também a todos os nobres de Judá e de Jerusalém;"
+        },
+        {
+          "verse": 21,
+          "text": "Assim, pois, diz o Senhor dos Exércitos, o Deus de Israel, acerca dos utensílios que ficaram na casa do Senhor, e na casa do rei de Judá, e em Jerusalém:"
+        },
+        {
+          "verse": 22,
+          "text": "À Babilônia serão levados, e ali ficarão até o dia em que eu os visitarei, diz o Senhor; então os farei subir, e os tornarei a trazer a este lugar."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E sucedeu no mesmo ano, no princípio do reinado de Zedequias, rei de Judá, no ano quarto, no mês quinto, que Hananias, filho de Azur, o profeta que era de Gibeom, me falou na casa do Senhor, na presença dos sacerdotes e de todo o povo, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Assim fala o Senhor dos Exércitos, o Deus de Israel, dizendo: Eu quebrei o jugo do rei de Babilônia."
+        },
+        {
+          "verse": 3,
+          "text": "Depois de passados dois anos completos, eu tornarei a trazer a este lugar todos os utensílios da casa do Senhor, que deste lugar tomou Nabucodonosor, rei de Babilônia, levando-os a Babilônia."
+        },
+        {
+          "verse": 4,
+          "text": "Também a Jeconias, filho de Jeoiaquim, rei de Judá, e a todos os do cativeiro de Judá, que entraram em Babilônia, eu tornarei a trazer a este lugar, diz o Senhor; porque quebrarei o jugo do rei de Babilônia."
+        },
+        {
+          "verse": 5,
+          "text": "Então falou o profeta Jeremias ao profeta Hananias, na presença dos sacerdotes, e na presença de todo o povo que estava na casa do Senhor."
+        },
+        {
+          "verse": 6,
+          "text": "Disse, pois, Jeremias, o profeta: Amém! Assim faça o Senhor; confirme o Senhor as tuas palavras, que profetizaste, e torne ele a trazer os utensílios da casa do Senhor, e todos os do cativeiro de Babilônia a este lugar."
+        },
+        {
+          "verse": 7,
+          "text": "Mas ouve agora esta palavra, que eu falo aos teus ouvidos e aos ouvidos de todo o povo:"
+        },
+        {
+          "verse": 8,
+          "text": "Os profetas que houve antes de mim e antes de ti, desde a antiguidade, profetizaram contra muitas terras, e contra grandes reinos, acerca de guerra, e de mal, e de peste."
+        },
+        {
+          "verse": 9,
+          "text": "O profeta que profetizar de paz, quando se cumprir a palavra desse profeta, será conhecido como o profeta a quem o Senhor na verdade enviou."
+        },
+        {
+          "verse": 10,
+          "text": "Então Hananias, o profeta, tomou o jugo do pescoço do profeta Jeremias, e o quebrou."
+        },
+        {
+          "verse": 11,
+          "text": "E falou Hananias na presença de todo o povo, dizendo: Assim diz o Senhor: Assim, passados dois anos completos, quebrarei o jugo de Nabucodonosor, rei de Babilônia, de sobre o pescoço de todas as nações. E Jeremias, o profeta, seguiu o seu caminho."
+        },
+        {
+          "verse": 12,
+          "text": "Mas veio a palavra do Senhor a Jeremias, depois que Hananias, o profeta, quebrou o jugo de sobre o pescoço de Jeremias, o profeta, dizendo:"
+        },
+        {
+          "verse": 13,
+          "text": "Vai, e fala a Hananias, dizendo: Assim diz o Senhor: Jugos de madeira quebraste, mas em vez deles farás jugos de ferro."
+        },
+        {
+          "verse": 14,
+          "text": "Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Jugo de ferro pus sobre o pescoço de todas estas nações, para servirem a Nabucodonosor, rei de Babilônia, e servi-lo-ão, e até os animais do campo lhe dei."
+        },
+        {
+          "verse": 15,
+          "text": "E disse o profeta Jeremias ao profeta Hananias: Ouve agora, Hananias: Não te enviou o Senhor, mas tu fizeste que este povo confiasse em mentiras."
+        },
+        {
+          "verse": 16,
+          "text": "Portanto, assim diz o Senhor: Eis que te lançarei de sobre a face da terra; este ano morrerás, porque falaste em rebeldia contra o Senhor."
+        },
+        {
+          "verse": 17,
+          "text": "E morreu Hananias, o profeta, no mesmo ano, no sétimo mês."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E estas são as palavras da carta que Jeremias, o profeta, enviou de Jerusalém, aos que restaram dos anciãos do cativeiro, como também aos sacerdotes, e aos profetas, e a todo o povo que Nabucodonosor havia deportado de Jerusalém para Babilônia"
+        },
+        {
+          "verse": 2,
+          "text": "(Depois que saíram de Jerusalém o rei Jeconias, e a rainha, e os eunucos, e os príncipes de Judá e Jerusalém, e os carpinteiros e ferreiros),"
+        },
+        {
+          "verse": 3,
+          "text": "Pela mão de Elasa, filho de Safã, e de Gemarias, filho de Hilquias (os quais Zedequias, rei de Judá, tinha enviado a Babilônia, a Nabucodonosor, rei de Babilônia), dizendo:"
+        },
+        {
+          "verse": 4,
+          "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel, a todos os do cativeiro, os quais fiz transportar de Jerusalém para Babilônia:"
+        },
+        {
+          "verse": 5,
+          "text": "Edificai casas e habitai-as; e plantai jardins, e comei o seu fruto."
+        },
+        {
+          "verse": 6,
+          "text": "Tomai mulheres e gerai filhos e filhas, e tomai mulheres para vossos filhos, e dai vossas filhas a maridos, para que tenham filhos e filhas; e multiplicai-vos ali, e não vos diminuais."
+        },
+        {
+          "verse": 7,
+          "text": "E procurai a paz da cidade, para onde vos fiz transportar em cativeiro, e orai por ela ao Senhor; porque na sua paz vós tereis paz."
+        },
+        {
+          "verse": 8,
+          "text": "Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Não vos enganem os vossos profetas que estão no meio de vós, nem os vossos adivinhos, nem deis ouvidos aos vossos sonhos, que sonhais;"
+        },
+        {
+          "verse": 9,
+          "text": "Porque eles vos profetizam falsamente em meu nome; não os enviei, diz o Senhor."
+        },
+        {
+          "verse": 10,
+          "text": "Porque assim diz o Senhor: Certamente que passados setenta anos em Babilônia, vos visitarei, e cumprirei sobre vós a minha boa palavra, tornando a trazer-vos a este lugar."
+        },
+        {
+          "verse": 11,
+          "text": "Porque eu bem sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar o fim que esperais."
+        },
+        {
+          "verse": 12,
+          "text": "Então me invocareis, e ireis, e orareis a mim, e eu vos ouvirei."
+        },
+        {
+          "verse": 13,
+          "text": "E buscar-me-eis, e me achareis, quando me buscardes com todo o vosso coração."
+        },
+        {
+          "verse": 14,
+          "text": "E serei achado de vós, diz o Senhor, e farei voltar os vossos cativos e congregar-vos-ei de todas as nações, e de todos os lugares para onde vos lancei, diz o Senhor, e tornarei a trazer-vos ao lugar de onde vos transportei."
+        },
+        {
+          "verse": 15,
+          "text": "Porque dizeis: O Senhor nos levantou profetas em Babilônia."
+        },
+        {
+          "verse": 16,
+          "text": "Porque assim diz o Senhor acerca do rei que se assenta no trono de Davi, e de todo o povo que habita nesta cidade, vossos irmãos, que não saíram conosco para o cativeiro."
+        },
+        {
+          "verse": 17,
+          "text": "Assim diz o Senhor dos Exércitos: Eis que enviarei entre eles a espada, a fome e a peste, e lhes farei como a figos podres que não se podem comer, de ruins que são."
+        },
+        {
+          "verse": 18,
+          "text": "E persegui-los-ei com a espada, com a fome, e com a peste; e dá-los-ei para deslocarem-se por todos os reinos da terra, para serem uma maldição, e um espanto, e um assobio, e um opróbrio entre todas as nações para onde os tiver lançado."
+        },
+        {
+          "verse": 19,
+          "text": "Porquanto não deram ouvidos às minhas palavras, diz o Senhor, mandando-lhes eu os meus servos, os profetas, madrugando e enviando; mas vós não escutastes, diz o Senhor."
+        },
+        {
+          "verse": 20,
+          "text": "Vós, pois, ouvi a palavra do Senhor, todos os do cativeiro que enviei de Jerusalém a Babilônia."
+        },
+        {
+          "verse": 21,
+          "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel, acerca de Acabe, filho de Colaías, e de Zedequias, filho de Maaseias, que vos profetizam falsamente em meu nome: Eis que os entregarei na mão de Nabucodonosor, rei de Babilônia, e ele os ferirá diante dos vossos olhos."
+        },
+        {
+          "verse": 22,
+          "text": "E todos os transportados de Judá, que estão em Babilônia, tomarão deles uma maldição, dizendo: O Senhor te faça como Zedequias, e como Acabe, os quais o rei de Babilônia assou no fogo;"
+        },
+        {
+          "verse": 23,
+          "text": "Porquanto fizeram loucura em Israel, e cometeram adultério com as mulheres dos seus vizinhos, e anunciaram falsamente, em meu nome uma palavra, que não lhes mandei, e eu o sei e sou testemunha disso, diz o Senhor."
+        },
+        {
+          "verse": 24,
+          "text": "E a Semaías, o neelamita, falarás, dizendo:"
+        },
+        {
+          "verse": 25,
+          "text": "Assim fala o Senhor dos Exércitos, o Deus de Israel, dizendo: Porquanto tu enviaste no teu nome cartas a todo o povo que está em Jerusalém, como também a Sofonias, filho de Maaseias, o sacerdote, e a todos os sacerdotes, dizendo:"
+        },
+        {
+          "verse": 26,
+          "text": "O Senhor te pôs por sacerdote em lugar de Joiada, o sacerdote, para que sejas encarregado da casa do Senhor sobre todo o homem fanático, e que profetiza, para o lançares na prisão e no tronco."
+        },
+        {
+          "verse": 27,
+          "text": "Agora, pois, por que não repreendeste a Jeremias, o anatotita, que vos profetiza?"
+        },
+        {
+          "verse": 28,
+          "text": "Porque até nos mandou dizer em Babilônia: Ainda o cativeiro muito há de durar; edificai casas, e habitai nelas; e plantai pomares, e comei o seu fruto."
+        },
+        {
+          "verse": 29,
+          "text": "E leu Sofonias, o sacerdote, esta carta aos ouvidos de Jeremias, o profeta."
+        },
+        {
+          "verse": 30,
+          "text": "E veio a palavra do Senhor a Jeremias, dizendo:"
+        },
+        {
+          "verse": 31,
+          "text": "Manda a todos os do cativeiro, dizendo: Assim diz o Senhor acerca de Semaías, o neelamita: Porquanto Semaías vos profetizou, e eu não o enviei, e vos fez confiar em mentiras,"
+        },
+        {
+          "verse": 32,
+          "text": "Portanto assim diz o Senhor: Eis que castigarei a Semaías, o neelamita, e a sua descendência; ele não terá ninguém que habite entre este povo, e não verá o bem que hei de fazer ao meu povo, diz o Senhor, porque falou em rebeldia contra o Senhor."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que do Senhor veio a Jeremias, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Assim falou o Senhor Deus de Israel, dizendo: Escreve num livro todas as palavras que te tenho falado."
+        },
+        {
+          "verse": 3,
+          "text": "Porque eis que vêm dias, diz o Senhor, em que farei voltar do cativeiro o meu povo Israel, e de Judá, diz o Senhor; e tornarei a trazê-los à terra que dei a seus pais, e a possuirão."
+        },
+        {
+          "verse": 4,
+          "text": "E estas são as palavras que disse o Senhor, acerca de Israel e de Judá."
+        },
+        {
+          "verse": 5,
+          "text": "Porque assim diz o Senhor: Ouvimos uma voz de tremor, de temor mas não de paz."
+        },
+        {
+          "verse": 6,
+          "text": "Perguntai, pois, e vede, se um homem pode dar à luz. Por que, pois, vejo a cada homem com as mãos sobre os lombos como a que está dando à luz? E por que se tornaram pálidos todos os rostos?"
+        },
+        {
+          "verse": 7,
+          "text": "Ah! Porque aquele dia é tão grande, que não houve outro semelhante; e é tempo de angústia para Jacó; ele, porém, será salvo dela."
+        },
+        {
+          "verse": 8,
+          "text": "Porque será naquele dia, diz o Senhor dos Exércitos, que eu quebrarei o seu jugo de sobre o teu pescoço, e quebrarei os teus grilhões; e nunca mais se servirão dele os estrangeiros."
+        },
+        {
+          "verse": 9,
+          "text": "Mas servirão ao Senhor, seu Deus, como também a Davi, seu rei, que lhes levantarei."
+        },
+        {
+          "verse": 10,
+          "text": "Não temas, pois, tu, ó meu servo Jacó, diz o Senhor, nem te espantes, ó Israel; porque eis que te livrarei de terras de longe, e à tua descendência da terra do seu cativeiro; e Jacó voltará, e descansará, e ficará em sossego, e não haverá quem o atemorize."
+        },
+        {
+          "verse": 11,
+          "text": "Porque eu sou contigo, diz o Senhor, para te salvar; porquanto darei fim a todas as nações entre as quais te espalhei; a ti, porém, não darei fim, mas castigar-te-ei com medida, e de todo não te terei por inocente."
+        },
+        {
+          "verse": 12,
+          "text": "Porque assim diz o Senhor: A tua ferida é incurável; a tua chaga é dolorosa."
+        },
+        {
+          "verse": 13,
+          "text": "Não há quem defenda a tua causa para te aplicar curativo; não tens remédios que possam curar."
+        },
+        {
+          "verse": 14,
+          "text": "Todos os teus amantes se esqueceram de ti, e não perguntam por ti; porque te feri com ferida de inimigo, e com castigo de quem é cruel, pela grandeza da tua maldade e multidão de teus pecados."
+        },
+        {
+          "verse": 15,
+          "text": "Por que gritas por causa da tua ferida? Tua dor é incurável. Pela grandeza de tua maldade, e multidão de teus pecados, eu fiz estas coisas."
+        },
+        {
+          "verse": 16,
+          "text": "Por isso todos os que te devoram serão devorados; e todos os teus adversários irão, todos eles, para o cativeiro; e os que te roubam serão roubados, e a todos os que te despojam entregarei ao saque."
+        },
+        {
+          "verse": 17,
+          "text": "Porque te restaurarei a saúde, e te curarei as tuas chagas, diz o Senhor; porquanto te chamaram a repudiada, dizendo: É Sião, já ninguém pergunta por ela."
+        },
+        {
+          "verse": 18,
+          "text": "Assim diz o Senhor: Eis que farei voltar do cativeiro as tendas de Jacó, e apiedar-me-ei das suas moradas; e a cidade será reedificada sobre o seu montão, e o palácio permanecerá como habitualmente."
+        },
+        {
+          "verse": 19,
+          "text": "E sairá deles o louvor e a voz de júbilo; e multiplicá-los-ei, e não serão diminuídos, e glorificá-los-ei, e não serão apoucados."
+        },
+        {
+          "verse": 20,
+          "text": "E seus filhos serão como na antiguidade, e a sua congregação será confirmada diante de mim; e castigarei todos os seus opressores."
+        },
+        {
+          "verse": 21,
+          "text": "E os seus nobres serão deles; e o seu governador sairá do meio deles, e o farei aproximar, e ele se chegará a mim; pois, quem de si mesmo se empenharia para chegar-se a mim? Diz o Senhor."
+        },
+        {
+          "verse": 22,
+          "text": "E ser-me-eis por povo, e eu vos serei por Deus."
+        },
+        {
+          "verse": 23,
+          "text": "Eis que a tempestade do Senhor, a sua indignação, já saiu; uma tempestade varredora, cairá cruelmente sobre a cabeça dos ímpios."
+        },
+        {
+          "verse": 24,
+          "text": "Não voltará atrás o furor da ira do Senhor, até que tenha executado e até que tenha cumprido os desígnios do seu coração; no fim dos dias entendereis isto."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Naquele tempo, diz o Senhor, serei o Deus de todas as famílias de Israel, e elas serão o meu povo."
+        },
+        {
+          "verse": 2,
+          "text": "Assim diz o Senhor: O povo dos que escaparam da espada achou graça no deserto. Israel mesmo, quando eu o fizer descansar."
+        },
+        {
+          "verse": 3,
+          "text": "Há muito que o Senhor me apareceu, dizendo: Porquanto com amor eterno te amei, por isso com benignidade te atraí."
+        },
+        {
+          "verse": 4,
+          "text": "Ainda te edificarei, e serás edificada, ó virgem de Israel! Ainda serás adornada com os teus tamboris, e sairás nas danças dos que se alegram."
+        },
+        {
+          "verse": 5,
+          "text": "Ainda plantarás vinhas nos montes de Samaria; os plantadores as plantarão e comerão como coisas comuns."
+        },
+        {
+          "verse": 6,
+          "text": "Porque haverá um dia em que gritarão os vigias sobre o monte de Efraim: Levantai-vos, e subamos a Sião, ao Senhor nosso Deus."
+        },
+        {
+          "verse": 7,
+          "text": "Porque assim diz o Senhor: Cantai sobre Jacó com alegria, e exultai por causa do chefe das nações; proclamai, cantai louvores, e dizei: Salva, Senhor, ao teu povo, o restante de Israel."
+        },
+        {
+          "verse": 8,
+          "text": "Eis que os trarei da terra do norte, e os congregarei das extremidades da terra; entre os quais haverá cegos e aleijados, grávidas e as de parto juntamente; em grande congregação voltarão para aqui."
+        },
+        {
+          "verse": 9,
+          "text": "Virão com choro, e com súplicas os levarei; guiá-los-ei aos ribeiros de águas, por caminho direito, no qual não tropeçarão, porque sou um pai para Israel, e Efraim é o meu primogênito."
+        },
+        {
+          "verse": 10,
+          "text": "Ouvi a palavra do Senhor, ó nações, e anunciai-a nas ilhas longínquas, e dizei: Aquele que espalhou a Israel o congregará e o guardará, como o pastor ao seu rebanho."
+        },
+        {
+          "verse": 11,
+          "text": "Porque o Senhor resgatou a Jacó, e o livrou da mão do que era mais forte do que ele."
+        },
+        {
+          "verse": 12,
+          "text": "Assim que virão, e exultarão no alto de Sião, e correrão aos bens do Senhor, ao trigo, e ao mosto, e ao azeite, e aos cordeiros e bezerros; e a sua alma será como um jardim regado, e nunca mais andarão tristes."
+        },
+        {
+          "verse": 13,
+          "text": "Então a virgem se alegrará na dança, como também os jovens e os velhos juntamente; e tornarei o seu pranto em alegria, e os consolarei, e lhes darei alegria em lugar de tristeza."
+        },
+        {
+          "verse": 14,
+          "text": "E saciarei a alma dos sacerdotes com gordura, e o meu povo se fartará dos meus bens, diz o Senhor."
+        },
+        {
+          "verse": 15,
+          "text": "Assim diz o Senhor: Uma voz se ouviu em Ramá, lamentação, choro amargo; Raquel chora seus filhos; não quer ser consolada quanto a seus filhos, porque já não existem."
+        },
+        {
+          "verse": 16,
+          "text": "Assim diz o Senhor: Reprime a tua voz de choro, e as lágrimas de teus olhos; porque há galardão para o teu trabalho, diz o Senhor, pois eles voltarão da terra do inimigo."
+        },
+        {
+          "verse": 17,
+          "text": "E há esperança quanto ao teu futuro, diz o Senhor, porque teus filhos voltarão para os seus termos."
+        },
+        {
+          "verse": 18,
+          "text": "Bem ouvi eu que Efraim se queixava, dizendo: Castigaste-me e fui castigado, como novilho ainda não domado; converte-me, e converter-me-ei, porque tu és o Senhor meu Deus."
+        },
+        {
+          "verse": 19,
+          "text": "Na verdade que, depois que me converti, tive arrependimento; e depois que fui instruído, bati na minha coxa; fiquei confuso, e também me envergonhei; porque suportei o opróbrio da minha mocidade."
+        },
+        {
+          "verse": 20,
+          "text": "Não é Efraim para mim um filho precioso, criança das minhas delícias? Porque depois que falo contra ele, ainda me lembro dele solicitamente; por isso se comovem por ele as minhas entranhas; deveras me compadecerei dele, diz o Senhor."
+        },
+        {
+          "verse": 21,
+          "text": "Levanta para ti sinais, faze para ti altos marcos, aplica o teu coração à vereda, ao caminho por onde andaste; volta, pois, ó virgem de Israel, regressa a estas tuas cidades."
+        },
+        {
+          "verse": 22,
+          "text": "Até quando andarás errante, ó filha rebelde? Porque o Senhor criou uma coisa nova sobre a terra; uma mulher cercará a um homem."
+        },
+        {
+          "verse": 23,
+          "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Ainda dirão esta palavra na terra de Judá, e nas suas cidades, quando eu vos restaurar do seu cativeiro: O Senhor te abençoe, ó morada de justiça, ó monte de santidade!"
+        },
+        {
+          "verse": 24,
+          "text": "E nela habitarão Judá, e todas as suas cidades juntamente; como também os lavradores e os que pastoreiam o rebanho."
+        },
+        {
+          "verse": 25,
+          "text": "Porque satisfiz a alma cansada, e toda a alma entristecida saciei."
+        },
+        {
+          "verse": 26,
+          "text": "Nisto despertei, e olhei, e o meu sono foi doce para mim."
+        },
+        {
+          "verse": 27,
+          "text": "Eis que dias vêm, diz o Senhor, em que semearei a casa de Israel, e a casa de Judá, com a semente de homens, e com a semente de animais."
+        },
+        {
+          "verse": 28,
+          "text": "E será que, como velei sobre eles, para arrancar, e para derrubar, e para transtornar, e para destruir, e para afligir, assim velarei sobre eles, para edificar e para plantar, diz o Senhor."
+        },
+        {
+          "verse": 29,
+          "text": "Naqueles dias nunca mais dirão: Os pais comeram uvas verdes, e os dentes dos filhos se embotaram."
+        },
+        {
+          "verse": 30,
+          "text": "Mas cada um morrerá pela sua iniquidade; de todo o homem que comer as uvas verdes os dentes se embotarão."
+        },
+        {
+          "verse": 31,
+          "text": "Eis que dias vêm, diz o Senhor, em que farei uma aliança nova com a casa de Israel e com a casa de Judá."
+        },
+        {
+          "verse": 32,
+          "text": "Não conforme a aliança que fiz com seus pais, no dia em que os tomei pela mão, para os tirar da terra do Egito; porque eles invalidaram a minha aliança apesar de eu os haver desposado, diz o Senhor."
+        },
+        {
+          "verse": 33,
+          "text": "Mas esta é a aliança que farei com a casa de Israel depois daqueles dias, diz o Senhor: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo."
+        },
+        {
+          "verse": 34,
+          "text": "E não ensinará mais cada um a seu próximo, nem cada um a seu irmão, dizendo: Conhecei ao Senhor; porque todos me conhecerão, desde o menor até ao maior deles, diz o Senhor; porque lhes perdoarei a sua maldade, e nunca mais me lembrarei dos seus pecados."
+        },
+        {
+          "verse": 35,
+          "text": "Assim diz o Senhor, que dá o sol para luz do dia, e as ordenanças da lua e das estrelas para luz da noite, que agita o mar, bramando as suas ondas; o Senhor dos Exércitos é o seu nome."
+        },
+        {
+          "verse": 36,
+          "text": "Se falharem estas ordenanças de diante de mim, diz o Senhor, deixará também a descendência de Israel de ser uma nação diante de mim para sempre."
+        },
+        {
+          "verse": 37,
+          "text": "Assim disse o Senhor: Se puderem ser medidos os céus lá em cima, e sondados os fundamentos da terra cá em baixo, também eu rejeitarei toda a descendência de Israel, por tudo quanto fizeram, diz o Senhor."
+        },
+        {
+          "verse": 38,
+          "text": "Eis que vêm dias, diz o Senhor, em que esta cidade será reedificada para o Senhor, desde a torre de Hananeel até à porta da esquina."
+        },
+        {
+          "verse": 39,
+          "text": "E a linha de medir estender-se-á para diante dela, até ao outeiro de Garebe, e virar-se-á para Goa."
+        },
+        {
+          "verse": 40,
+          "text": "E todo o vale dos cadáveres e da cinza, e todos os campos até ao ribeiro de Cedrom, até à esquina da porta dos cavalos para o oriente, serão consagrados ao Senhor; não se arrancará nem se derrubará mais eternamente."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que veio a Jeremias da parte do Senhor, no ano décimo de Zedequias, rei de Judá, o qual foi o décimo oitavo ano de Nabucodonosor."
+        },
+        {
+          "verse": 2,
+          "text": "Ora, nesse tempo o exército do rei de Babilônia cercava Jerusalém; e Jeremias, o profeta, estava encerrado no pátio da guarda que estava na casa do rei de Judá;"
+        },
+        {
+          "verse": 3,
+          "text": "Porque Zedequias, rei de Judá, o tinha encerrado, dizendo: Por que profetizas tu, dizendo: Assim diz o Senhor: Eis que entrego esta cidade na mão do rei de Babilônia, e ele a tomará;"
+        },
+        {
+          "verse": 4,
+          "text": "E Zedequias, rei de Judá, não escapará das mãos dos caldeus; mas certamente será entregue na mão do rei de Babilônia, e com ele falará boca a boca, e os seus olhos verão os dele;"
+        },
+        {
+          "verse": 5,
+          "text": "E ele levará Zedequias para Babilônia, e ali estará, até que eu o visite, diz o Senhor e, ainda que pelejeis contra os caldeus, não ganhareis?"
+        },
+        {
+          "verse": 6,
+          "text": "Disse, pois, Jeremias: Veio a mim a palavra do Senhor, dizendo:"
+        },
+        {
+          "verse": 7,
+          "text": "Eis que Hanameel, filho de Salum, teu tio, virá a ti dizendo: Compra para ti a minha herdade que está em Anatote, pois tens o direito de resgate para comprá-la."
+        },
+        {
+          "verse": 8,
+          "text": "Veio, pois, a mim Hanameel, filho de meu tio, segundo a palavra do Senhor, ao pátio da guarda, e me disse: Compra agora a minha herdade que está em Anatote, na terra de Benjamim; porque teu é o direito de herança, e tens o resgate; compra-a para ti. Então entendi que isto era a palavra do Senhor."
+        },
+        {
+          "verse": 9,
+          "text": "Comprei, pois, a herdade de Hanameel, filho de meu tio, a qual está em Anatote; e pesei-lhe o dinheiro, dezessete siclos de prata."
+        },
+        {
+          "verse": 10,
+          "text": "E assinei a escritura, e selei-a, e fiz confirmar por testemunhas; e pesei-lhe o dinheiro numa balança."
+        },
+        {
+          "verse": 11,
+          "text": "E tomei a escritura da compra, selada segundo a lei e os estatutos, e a cópia aberta."
+        },
+        {
+          "verse": 12,
+          "text": "E dei a escritura da compra a Baruque, filho de Nerias, filho de Maaseias, na presença de Hanameel, filho de meu tio e na presença das testemunhas, que subscreveram a escritura da compra, e na presença de todos os judeus que se assentavam no pátio da guarda."
+        },
+        {
+          "verse": 13,
+          "text": "E dei ordem a Baruque, na presença deles, dizendo:"
+        },
+        {
+          "verse": 14,
+          "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Toma estas escrituras, este auto de compra, tanto a selada, como a aberta, e coloca-as num vaso de barro, para que se possam conservar muitos dias."
+        },
+        {
+          "verse": 15,
+          "text": "Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Ainda se comprarão casas, e campos, e vinhas nesta terra."
+        },
+        {
+          "verse": 16,
+          "text": "E depois que dei a escritura da compra a Baruque, filho de Nerias, orei ao Senhor, dizendo:"
+        },
+        {
+          "verse": 17,
+          "text": "Ah Senhor Deus! Eis que tu fizeste os céus e a terra com o teu grande poder, e com o teu braço estendido; nada há que te seja demasiado difícil;"
+        },
+        {
+          "verse": 18,
+          "text": "Tu que usas de benignidade com milhares, e retribuis a maldade dos pais ao seio dos filhos depois deles; o grande, o poderoso Deus cujo nome é o Senhor dos Exércitos;"
+        },
+        {
+          "verse": 19,
+          "text": "Grande em conselho, e magnífico em obras; porque os teus olhos estão abertos sobre todos os caminhos dos filhos dos homens, para dar a cada um segundo os seus caminhos e segundo o fruto das suas obras;"
+        },
+        {
+          "verse": 20,
+          "text": "Tu puseste sinais e maravilhas na terra do Egito até ao dia de hoje, tanto em Israel, como entre os outros homens, e te fizeste um nome, o qual tu tens neste dia."
+        },
+        {
+          "verse": 21,
+          "text": "E tiraste o teu povo Israel da terra do Egito, com sinais e com maravilhas, e com mão forte, e com braço estendido, e com grande espanto,"
+        },
+        {
+          "verse": 22,
+          "text": "E lhes deste esta terra, que juraste a seus pais que lhes havias de dar, terra que mana leite e mel."
+        },
+        {
+          "verse": 23,
+          "text": "E entraram nela, e a possuíram, mas não obedeceram à tua voz, nem andaram na tua lei; tudo o que lhes mandaste que fizessem, eles não o fizeram; por isso ordenaste lhes sucedesse todo este mal."
+        },
+        {
+          "verse": 24,
+          "text": "Eis aqui os valados; já vieram contra a cidade para tomá-la, e a cidade está entregue na mão dos caldeus, que pelejam contra ela, pela espada, pela fome e pela pestilência; e o que disseste se cumpriu, e eis aqui o estás presenciando."
+        },
+        {
+          "verse": 25,
+          "text": "Contudo tu me disseste, ó Senhor Deus: Compra para ti o campo por dinheiro, e faze que o confirmem testemunhas, embora a cidade já esteja entregue na mão dos caldeus."
+        },
+        {
+          "verse": 26,
+          "text": "Então veio a palavra do Senhor a Jeremias, dizendo:"
+        },
+        {
+          "verse": 27,
+          "text": "Eis que eu sou o Senhor, o Deus de toda a carne; acaso haveria alguma coisa demasiado difícil para mim?"
+        },
+        {
+          "verse": 28,
+          "text": "Portanto assim diz o Senhor: Eis que eu entrego esta cidade na mão dos caldeus, e na mão de Nabucodonosor, rei de Babilônia, e ele a tomará."
+        },
+        {
+          "verse": 29,
+          "text": "E os caldeus, que pelejam contra esta cidade, entrarão nela, e pôr-lhe-ão fogo, e queimarão, as casas sobre cujos terraços queimaram incenso a Baal e ofereceram libações a outros deuses, para me provocarem à ira."
+        },
+        {
+          "verse": 30,
+          "text": "Porque os filhos de Israel e os filhos de Judá não fizeram senão mal aos meus olhos, desde a sua mocidade; porque os filhos de Israel nada fizeram senão provocar-me à ira com as obras das suas mãos, diz o Senhor."
+        },
+        {
+          "verse": 31,
+          "text": "Porque para a minha ira e para o meu furor me tem sido esta cidade, desde o dia em que a edificaram, e até ao dia de hoje, para que a tirasse da minha presença;"
+        },
+        {
+          "verse": 32,
+          "text": "Por causa de toda a maldade dos filhos de Israel, e dos filhos de Judá, que fizeram, para me provocarem à ira, eles e os seus reis, os seus príncipes, os seus sacerdotes, e os seus profetas, como também os homens de Judá e os moradores de Jerusalém."
+        },
+        {
+          "verse": 33,
+          "text": "E viraram-me as costas, e não o rosto; ainda que eu os ensinava, madrugando e ensinando-os, contudo eles não deram ouvidos, para receberem o ensino."
+        },
+        {
+          "verse": 34,
+          "text": "Antes puseram as suas abominações na casa que se chama pelo meu nome, para a profanarem."
+        },
+        {
+          "verse": 35,
+          "text": "E edificaram os altos de Baal, que estão no Vale do Filho de Hinom, para fazerem passar seus filhos e suas filhas pelo fogo a Moloque; o que nunca lhes ordenei, nem veio ao meu coração, que fizessem tal abominação, para fazerem pecar a Judá."
+        },
+        {
+          "verse": 36,
+          "text": "E por isso agora assim diz o Senhor, o Deus de Israel, acerca desta cidade, da qual vós dizeis: Já está dada na mão do rei de Babilônia, pela espada, pela fome, e pela pestilência:"
+        },
+        {
+          "verse": 37,
+          "text": "Eis que eu os congregarei de todas as terras, para onde os tenho lançado na minha ira, e no meu furor, e na minha grande indignação; e os tornarei a trazer a este lugar, e farei que habitem nele seguramente."
+        },
+        {
+          "verse": 38,
+          "text": "E eles serão o meu povo, e eu lhes serei o seu Deus;"
+        },
+        {
+          "verse": 39,
+          "text": "E lhes darei um mesmo coração, e um só caminho, para que me temam todos os dias, para seu bem, e o bem de seus filhos, depois deles."
+        },
+        {
+          "verse": 40,
+          "text": "E farei com eles uma aliança eterna de não me desviar de fazer-lhes o bem; e porei o meu temor nos seus corações, para que nunca se apartem de mim."
+        },
+        {
+          "verse": 41,
+          "text": "E alegrar-me-ei deles, fazendo-lhes bem; e plantá-los-ei nesta terra firmemente, com todo o meu coração e com toda a minha alma."
+        },
+        {
+          "verse": 42,
+          "text": "Porque assim diz o Senhor: Como eu trouxe sobre este povo todo este grande mal, assim eu trarei sobre ele todo o bem que lhes tenho declarado."
+        },
+        {
+          "verse": 43,
+          "text": "E comprar-se-ão campos nesta terra, da qual vós dizeis: Está desolada, sem homens, sem animais; está entregue na mão dos caldeus."
+        },
+        {
+          "verse": 44,
+          "text": "Comprarão campos por dinheiro, e assinarão as escrituras, e as selarão, e farão que confirmem testemunhas, na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, e nas cidades das montanhas, e nas cidades das planícies, e nas cidades do sul; porque os farei voltar do seu cativeiro, diz o Senhor."
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E veio a palavra do Senhor a Jeremias, segunda vez, estando ele ainda encarcerado no pátio da guarda, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Assim diz o Senhor que faz isto, o Senhor que forma isto, para o estabelecer; o Senhor é o seu nome."
+        },
+        {
+          "verse": 3,
+          "text": "Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes."
+        },
+        {
+          "verse": 4,
+          "text": "Porque assim diz o Senhor, o Deus de Israel, acerca das casas desta cidade, e das casas dos reis de Judá, que foram derrubadas com os aríetes e à espada."
+        },
+        {
+          "verse": 5,
+          "text": "Eles entraram a pelejar contra os caldeus, mas isso é para os encher de cadáveres de homens, que feri na minha ira e no meu furor; porquanto escondi o meu rosto desta cidade, por causa de toda a sua maldade."
+        },
+        {
+          "verse": 6,
+          "text": "Eis que eu trarei a ela saúde e cura, e os sararei, e lhes manifestarei abundância de paz e de verdade."
+        },
+        {
+          "verse": 7,
+          "text": "E removerei o cativeiro de Judá e o cativeiro de Israel, e os edificarei como ao princípio."
+        },
+        {
+          "verse": 8,
+          "text": "E os purificarei de toda a sua maldade com que pecaram contra mim; e perdoarei todas as suas maldades, com que pecaram e transgrediram contra mim;"
+        },
+        {
+          "verse": 9,
+          "text": "E este lugar me servirá de nome, de gozo, de louvor, e de glória, entre todas as nações da terra, que ouvirem todo o bem que eu lhe faço; e espantar-se-ão e perturbar-se-ão por causa de todo o bem, e por causa de toda a paz que eu lhe dou."
+        },
+        {
+          "verse": 10,
+          "text": "Assim diz o Senhor: Neste lugar de que vós dizeis que está desolado, e sem homem, sem animal nas cidades de Judá, e nas ruas de Jerusalém, que estão assoladas, sem homem, sem morador, sem animal, ainda se ouvirá:"
+        },
+        {
+          "verse": 11,
+          "text": "A voz de gozo, e a voz de alegria, a voz do esposo e a voz da esposa, e a voz dos que dizem: Louvai ao Senhor dos Exércitos, porque bom é o Senhor, porque a sua benignidade dura para sempre; dos que trazem ofertas de ação de graças à casa do Senhor; pois farei voltar os cativos da terra como ao princípio, diz o Senhor."
+        },
+        {
+          "verse": 12,
+          "text": "Assim diz o Senhor dos Exércitos: Ainda neste lugar, que está deserto, sem homem nem animal, e em todas as suas cidades, haverá uma morada de pastores, que façam repousar aos seus rebanhos."
+        },
+        {
+          "verse": 13,
+          "text": "Nas cidades das montanhas, nas cidades das planícies, e nas cidades do sul, e na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, ainda passarão os rebanhos pelas mãos dos contadores, diz o Senhor."
+        },
+        {
+          "verse": 14,
+          "text": "Eis que vêm dias, diz o Senhor, em que cumprirei a boa palavra que falei à casa de Israel e à casa de Judá;"
+        },
+        {
+          "verse": 15,
+          "text": "Naqueles dias e naquele tempo farei brotar a Davi um Renovo de justiça, e ele fará juízo e justiça na terra."
+        },
+        {
+          "verse": 16,
+          "text": "Naqueles dias Judá será salvo e Jerusalém habitará seguramente; e este é o nome com o qual Deus a chamará: O Senhor é a nossa justiça."
+        },
+        {
+          "verse": 17,
+          "text": "Porque assim diz o Senhor: Nunca faltará a Davi homem que se assente sobre o trono da casa de Israel;"
+        },
+        {
+          "verse": 18,
+          "text": "Nem aos sacerdotes levíticos faltará homem diante de mim, que ofereça holocausto, queime oferta de alimentos e faça sacrifício todos os dias."
+        },
+        {
+          "verse": 19,
+          "text": "E veio a palavra do Senhor a Jeremias, dizendo:"
+        },
+        {
+          "verse": 20,
+          "text": "Assim diz o Senhor: Se puderdes invalidar a minha aliança com o dia, e a minha aliança com a noite, de tal modo que não haja dia e noite a seu tempo,"
+        },
+        {
+          "verse": 21,
+          "text": "Também se poderá invalidar a minha aliança com Davi, meu servo, para que não tenha filho que reine no seu trono; como também com os levitas, sacerdotes, meus ministros."
+        },
+        {
+          "verse": 22,
+          "text": "Como não se pode contar o exército dos céus, nem medir-se a areia do mar, assim multiplicarei a descendência de Davi, meu servo, e os levitas que ministram diante de mim."
+        },
+        {
+          "verse": 23,
+          "text": "E veio ainda a palavra do Senhor a Jeremias, dizendo:"
+        },
+        {
+          "verse": 24,
+          "text": "Porventura não tens visto o que tem falado este povo, dizendo: As duas gerações, que o Senhor escolheu, agora as rejeitou? Assim desprezam o meu povo, como se não fora mais uma nação diante deles."
+        },
+        {
+          "verse": 25,
+          "text": "Assim diz o Senhor: Se a minha aliança com o dia e com a noite não permanecer, e eu não puser as ordenanças dos céus e da terra,"
+        },
+        {
+          "verse": 26,
+          "text": "Também rejeitarei a descendência de Jacó, e de Davi, meu servo, para que não tome da sua descendência os que dominem sobre a descendência de Abraão, Isaque, e Jacó; porque removerei o seu cativeiro, e apiedar-me-ei deles."
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que do Senhor veio a Jeremias, quando Nabucodonosor, rei de Babilônia, e todo o seu exército, e todos os reinos da terra, que estavam sob o domínio da sua mão, e todos os povos, pelejavam contra Jerusalém, e contra todas as suas cidades, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Assim diz o Senhor, o Deus de Israel: Vai, e fala a Zedequias, rei de Judá, e dize-lhe: Assim diz o Senhor: Eis que eu entrego esta cidade na mão do rei de Babilônia, o qual queimá-la-á a fogo."
+        },
+        {
+          "verse": 3,
+          "text": "E tu não escaparás da sua mão, antes certamente serás preso e entregue na sua mão; e teus olhos verão os olhos do rei de Babilônia, e ele te falará boca a boca, e entrarás em Babilônia."
+        },
+        {
+          "verse": 4,
+          "text": "Todavia ouve a palavra do Senhor, ó Zedequias, rei de Judá; assim diz o Senhor acerca de ti: Não morrerás à espada."
+        },
+        {
+          "verse": 5,
+          "text": "Em paz morrerás, e conforme as queimas para teus pais, os reis precedentes, que foram antes de ti, assim queimarão para ti, e prantear-te-ão, dizendo: Ah, Senhor! Pois eu disse a palavra, diz o Senhor."
+        },
+        {
+          "verse": 6,
+          "text": "E falou Jeremias, o profeta, a Zedequias, rei de Judá, todas estas palavras, em Jerusalém,"
+        },
+        {
+          "verse": 7,
+          "text": "Quando o exército do rei de Babilônia pelejava contra Jerusalém, e contra todas as cidades que restavam de Judá, contra Laquis e contra Azeca; porque estas fortes cidades foram as que ficaram dentre as cidades de Judá."
+        },
+        {
+          "verse": 8,
+          "text": "A palavra que do Senhor veio a Jeremias, depois que o rei Zedequias fez aliança com todo o povo que havia em Jerusalém, para lhes apregoar a liberdade;"
+        },
+        {
+          "verse": 9,
+          "text": "Que cada um despedisse livre o seu servo, e cada um a sua serva, hebreu ou hebreia; de maneira que ninguém se fizesse servir deles, sendo judeus, seus irmãos."
+        },
+        {
+          "verse": 10,
+          "text": "E obedeceram todos os príncipes, e todo o povo que havia entrado na aliança, que cada um despedisse livre o seu servo, e cada um a sua serva, de maneira que não se fizessem mais servir deles; obedeceram, pois, e os soltaram,"
+        },
+        {
+          "verse": 11,
+          "text": "Mas depois se arrependeram, e fizeram voltar os servos e as servas que haviam despedido libertos, e os sujeitaram por servos e por servas."
+        },
+        {
+          "verse": 12,
+          "text": "Veio, pois, a palavra do Senhor a Jeremias, da parte do Senhor, dizendo:"
+        },
+        {
+          "verse": 13,
+          "text": "Assim diz o Senhor, Deus de Israel: Eu fiz aliança com vossos pais, no dia em que os tirei da terra do Egito, da casa da servidão, dizendo:"
+        },
+        {
+          "verse": 14,
+          "text": "Ao fim de sete anos libertareis cada um a seu irmão hebreu, que te for vendido, e te houver servido seis anos, e despedi-lo-ás livre de ti; mas vossos pais não me ouviram, nem inclinaram os seus ouvidos."
+        },
+        {
+          "verse": 15,
+          "text": "E vos havíeis hoje arrependido, e fizestes o que é reto aos meus olhos, apregoando liberdade cada um ao seu próximo; e fizestes diante de mim uma aliança, na casa que se chama pelo meu nome;"
+        },
+        {
+          "verse": 16,
+          "text": "Mudastes, porém, e profanastes o meu nome, e fizestes voltar cada um ao seu servo, e cada um à sua serva, os quais já tínheis despedido libertos conforme a vontade deles; e os sujeitastes, para que se vos fizessem servos e servas."
+        },
+        {
+          "verse": 17,
+          "text": "Portanto assim diz o Senhor: Vós não me ouvistes a mim, para apregoardes a liberdade, cada um ao seu irmão, e cada um ao seu próximo; pois eis que eu vos apregoo a liberdade, diz o Senhor, para a espada, para a pestilência, e para a fome; e farei que sejais espanto a todos os reinos da terra."
+        },
+        {
+          "verse": 18,
+          "text": "E entregarei os homens que transgrediram a minha aliança, que não cumpriram as palavras da aliança que fizeram diante de mim, com o bezerro, que dividiram em duas partes, e passaram pelo meio das suas porções;"
+        },
+        {
+          "verse": 19,
+          "text": "A saber, os príncipes de Judá, e os príncipes de Jerusalém, os eunucos, e os sacerdotes, e todo o povo da terra que passou por meio das porções do bezerro;"
+        },
+        {
+          "verse": 20,
+          "text": "Entregá-los-ei, digo, na mão de seus inimigos, e na mão dos que procuram a sua morte, e os cadáveres deles servirão de alimento para as aves dos céus e para os animais da terra."
+        },
+        {
+          "verse": 21,
+          "text": "E até o rei Zedequias, rei de Judá, e seus príncipes entregarei na mão de seus inimigos e na mão dos que procuram a sua morte, a saber, na mão do exército do rei de Babilônia, que já se retirou de vós."
+        },
+        {
+          "verse": 22,
+          "text": "Eis que eu darei ordem, diz o Senhor, e os farei voltar a esta cidade, e pelejarão contra ela, e a tomarão, e a queimarão a fogo; e as cidades de Judá porei em assolação, de sorte que ninguém habite nelas."
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que do Senhor veio a Jeremias, nos dias de Jeoiaquim, filho de Josias, rei de Judá, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Vai à casa dos recabitas, e fala com eles, e leva-os à casa do Senhor, a uma das câmaras e dá-lhes vinho a beber."
+        },
+        {
+          "verse": 3,
+          "text": "Então tomei a Jazanias, filho de Jeremias, filho de Habazinias, e a seus irmãos, e a todos os seus filhos, e a toda a casa dos recabitas;"
+        },
+        {
+          "verse": 4,
+          "text": "E os levei à casa do Senhor, à câmara dos filhos de Hanã, filho de Jigdalias, homem de Deus, que estava junto à câmara dos príncipes, que ficava sobre a câmara de Maaseias, filho de Salum, guarda do vestíbulo;"
+        },
+        {
+          "verse": 5,
+          "text": "E pus diante dos filhos da casa dos recabitas taças cheias de vinho, e copos, e disse-lhes: Bebei vinho."
+        },
+        {
+          "verse": 6,
+          "text": "Porém eles disseram: Não beberemos vinho, porque Jonadabe, filho de Recabe, nosso pai, nos ordenou, dizendo: Nunca jamais bebereis vinho, nem vós nem vossos filhos;"
+        },
+        {
+          "verse": 7,
+          "text": "Não edificareis casa, nem semeareis semente, nem plantareis vinha, nem a possuireis; mas habitareis em tendas todos os vossos dias, para que vivais muitos dias sobre a face da terra, em que vós andais peregrinando."
+        },
+        {
+          "verse": 8,
+          "text": "Obedecemos, pois, à voz de Jonadabe, filho de Recabe, nosso pai, em tudo quanto nos ordenou; de maneira que não bebemos vinho em todos os nossos dias, nem nós, nem nossas mulheres, nem nossos filhos, nem nossas filhas;"
+        },
+        {
+          "verse": 9,
+          "text": "Nem edificamos casas para nossa habitação; nem temos vinha, nem campo, nem semente."
+        },
+        {
+          "verse": 10,
+          "text": "Mas habitamos em tendas, e assim obedecemos e fazemos conforme tudo quanto nos ordenou Jonadabe, nosso pai."
+        },
+        {
+          "verse": 11,
+          "text": "Sucedeu, porém, que, subindo Nabucodonosor, rei de Babilônia, a esta terra, dissemos: Vinde, e vamo-nos a Jerusalém, por causa do exército dos caldeus, e por causa do exército dos sírios; e assim ficamos em Jerusalém."
+        },
+        {
+          "verse": 12,
+          "text": "Então veio a palavra do Senhor a Jeremias, dizendo:"
+        },
+        {
+          "verse": 13,
+          "text": "Assim diz o Senhor dos Exércitos, o Deus de Israel: Vai, e dize aos homens de Judá e aos moradores de Jerusalém: Porventura nunca aceitareis instrução, para ouvirdes as minhas palavras? Diz o Senhor."
+        },
+        {
+          "verse": 14,
+          "text": "As palavras de Jonadabe, filho de Recabe, que ordenou a seus filhos que não bebessem vinho, foram guardadas; pois não beberam até este dia, antes obedeceram o mandamento de seu pai; a mim, porém, que vos tenho falado, madrugando e falando, não me ouvistes."
+        },
+        {
+          "verse": 15,
+          "text": "E enviando-os, e dizendo todos os meus servos, os profetas, madrugando, e enviando-os, e dizendo: Convertei-vos, agora, cada um do seu mau caminho, e fazei boas as vossas ações, e não sigais a outros deuses para servi-los; e assim ficareis na terra que vos dei a vós e a vossos pais; porém não inclinastes o vosso ouvido, nem me obedecestes a mim."
+        },
+        {
+          "verse": 16,
+          "text": "Visto que os filhos de Jonadabe, filho de Recabe, guardaram o mandamento de seu pai que ele lhes ordenou, mas este povo não me obedeceu,"
+        },
+        {
+          "verse": 17,
+          "text": "Por isso assim diz o Senhor Deus dos Exércitos, o Deus de Israel: Eis que trarei sobre Judá, e sobre todos os moradores de Jerusalém, todo o mal que falei contra eles; pois lhes tenho falado, e não ouviram; e clamei a eles, e não responderam."
+        },
+        {
+          "verse": 18,
+          "text": "E à casa dos recabitas disse Jeremias: Assim diz o Senhor dos Exércitos, o Deus de Israel: Pois que obedecestes ao mandamento de Jonadabe, vosso pai, e guardastes todos os seus mandamentos, e fizestes conforme tudo quanto vos ordenou,"
+        },
+        {
+          "verse": 19,
+          "text": "Portanto assim diz o Senhor dos Exércitos, Deus de Israel: Nunca faltará homem a Jonadabe, filho de Recabe, que esteja na minha presença todos os dias."
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sucedeu, pois, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá, que veio esta palavra do Senhor a Jeremias, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Toma o rolo de um livro, e escreve nele todas as palavras que te tenho falado de Israel, e de Judá, e de todas as nações, desde o dia em que eu te falei, desde os dias de Josias até ao dia de hoje."
+        },
+        {
+          "verse": 3,
+          "text": "Porventura ouvirão os da casa de Judá todo o mal que eu intento fazer-lhes; para que cada qual se converta do seu mau caminho, e eu perdoe a sua maldade e o seu pecado."
+        },
+        {
+          "verse": 4,
+          "text": "Então Jeremias chamou a Baruque, filho de Nerias; e escreveu Baruque da boca de Jeremias no rolo de um livro todas as palavras do Senhor, que ele lhe tinha falado."
+        },
+        {
+          "verse": 5,
+          "text": "E Jeremias deu ordem a Baruque, dizendo: Eu estou encarcerado; não posso entrar na casa do Senhor."
+        },
+        {
+          "verse": 6,
+          "text": "Entra, pois, tu, e pelo rolo que escreveste da minha boca, lê as palavras do Senhor aos ouvidos do povo, na casa do Senhor, no dia de jejum; e também, aos ouvidos de todos os de Judá, que vêm das suas cidades, as lerás."
+        },
+        {
+          "verse": 7,
+          "text": "Pode ser que caia a sua súplica diante do Senhor, e se converta cada um do seu mau caminho; porque grande é a ira e o furor que o Senhor tem expressado contra este povo."
+        },
+        {
+          "verse": 8,
+          "text": "E fez Baruque, filho de Nerias, conforme tudo quanto lhe havia ordenado Jeremias, o profeta, lendo naquele livro as palavras do Senhor, na casa do Senhor."
+        },
+        {
+          "verse": 9,
+          "text": "E aconteceu, no quinto ano de Jeoiaquim, filho de Josias, rei de Judá, no mês nono, que apregoaram jejum diante do Senhor a todo o povo em Jerusalém, como também a todo o povo que vinha das cidades de Judá a Jerusalém."
+        },
+        {
+          "verse": 10,
+          "text": "Leu, pois, Baruque naquele livro as palavras de Jeremias, na casa do Senhor, na câmara de Gemarias, filho de Safã, o escriba, no átrio superior, à entrada da porta nova da casa do Senhor, aos ouvidos de todo o povo."
+        },
+        {
+          "verse": 11,
+          "text": "E, ouvindo Micaías, filho de Gemarias, filho de Safã, todas as palavras do Senhor, daquele livro,"
+        },
+        {
+          "verse": 12,
+          "text": "Desceu à casa do rei, à câmara do escriba. E eis que todos os príncipes estavam ali assentados, a saber: Elisama, o escriba, e Delaías, filho de Semaías, e Elnatã, filho de Acbor, e Gemarias, filho de Safã, e Zedequias, filho de Hananias, e todos os outros príncipes."
+        },
+        {
+          "verse": 13,
+          "text": "E Micaías anunciou-lhes todas as palavras que ouvira, quando Baruque leu o livro, aos ouvidos do povo."
+        },
+        {
+          "verse": 14,
+          "text": "Então todos os príncipes mandaram Jeudi, filho de Netanias, filho de Selemias, filho de Cusi, a Baruque, para lhe dizer: O rolo que leste aos ouvidos do povo, toma-o na tua mão, e vem. E Baruque, filho de Nerias, tomou o rolo na sua mão, e foi ter com eles."
+        },
+        {
+          "verse": 15,
+          "text": "E disseram-lhe: Assenta-te agora, e lê-o aos nossos ouvidos. E leu Baruque aos ouvidos deles."
+        },
+        {
+          "verse": 16,
+          "text": "E sucedeu que, ouvindo eles todas aquelas palavras, voltaram-se temerosos uns para os outros, e disseram a Baruque: Sem dúvida alguma anunciaremos ao rei todas estas palavras."
+        },
+        {
+          "verse": 17,
+          "text": "E perguntaram a Baruque, dizendo: Declara-nos agora como escreveste da sua boca todas estas palavras."
+        },
+        {
+          "verse": 18,
+          "text": "E disse-lhes Baruque: Da sua boca ele me ditava todas estas palavras, e eu com tinta as escrevia no livro."
+        },
+        {
+          "verse": 19,
+          "text": "Então disseram os príncipes a Baruque: Vai, esconde-te, tu e Jeremias, e ninguém saiba onde estais."
+        },
+        {
+          "verse": 20,
+          "text": "E foram ter com o rei ao átrio: mas depositaram o rolo na câmara de Elisama, o escriba, e anunciaram aos ouvidos do rei todas aquelas palavras."
+        },
+        {
+          "verse": 21,
+          "text": "Então enviou o rei a Jeudi, para que tomasse o rolo; e Jeudi tomou-o da câmara de Elisama, o escriba, e leu-o aos ouvidos do rei e aos ouvidos de todos os príncipes que estavam em torno do rei."
+        },
+        {
+          "verse": 22,
+          "text": "Ora, o rei estava assentado na casa de inverno, pelo nono mês; e diante dele estava um braseiro aceso."
+        },
+        {
+          "verse": 23,
+          "text": "E sucedeu que, tendo Jeudi lido três ou quatro folhas, cortou-as com um canivete de escrivão, e lançou-as no fogo que havia no braseiro, até que todo o rolo se consumiu no fogo que estava sobre o braseiro."
+        },
+        {
+          "verse": 24,
+          "text": "E não temeram, nem rasgaram as suas vestes, nem o rei, nem nenhum dos seus servos que ouviram todas aquelas palavras."
+        },
+        {
+          "verse": 25,
+          "text": "E, posto que Elnatã, e Delaías, e Gemarias tivessem rogado ao rei que não queimasse o rolo, ele não lhes deu ouvidos."
+        },
+        {
+          "verse": 26,
+          "text": "Antes deu ordem o rei a Jerameel, filho de Hamaleque, e a Seraías, filho de Azriel, e a Selemias, filho de Abdeel, que prendessem a Baruque, o escrivão, e a Jeremias, o profeta; mas o Senhor os escondera."
+        },
+        {
+          "verse": 27,
+          "text": "Então veio a Jeremias a palavra do Senhor, depois que o rei queimara o rolo, com as palavras que Baruque escrevera da boca de Jeremias, dizendo:"
+        },
+        {
+          "verse": 28,
+          "text": "Toma ainda outro rolo, e escreve nele todas aquelas palavras que estavam no primeiro rolo, que queimou Jeoiaquim, rei de Judá."
+        },
+        {
+          "verse": 29,
+          "text": "E a Jeoiaquim, rei de Judá, dirás: Assim diz o Senhor: Tu queimaste este rolo, dizendo: Por que escreveste nele, dizendo: Certamente virá o rei de Babilônia, e destruirá esta terra e fará cessar nela homens e animais?"
+        },
+        {
+          "verse": 30,
+          "text": "Portanto assim diz o Senhor, acerca de Jeoiaquim, rei de Judá: Não terá quem se assente sobre o trono de Davi, e será lançado o seu cadáver ao calor do dia, e à geada da noite."
+        },
+        {
+          "verse": 31,
+          "text": "E castigarei a sua iniquidade nele, e na sua descendência, e nos seus servos; e trarei sobre ele e sobre os moradores de Jerusalém, e sobre os homens de Judá, todo aquele mal que lhes tenho falado, e não ouviram."
+        },
+        {
+          "verse": 32,
+          "text": "Tomou, pois, Jeremias outro rolo, e deu-o a Baruque, filho de Nerias, o escrivão, o qual escreveu nele, da boca de Jeremias, todas as palavras do livro que Jeoiaquim, rei de Judá, tinha queimado no fogo; e ainda se lhes acrescentaram muitas palavras semelhantes."
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E Zedequias, filho de Josias, a quem Nabucodonosor, rei de Babilônia, constituiu rei na terra de Judá, reinou em lugar de Conias, filho de Jeoiaquim."
+        },
+        {
+          "verse": 2,
+          "text": "Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do Senhor que falou pelo ministério de Jeremias, o profeta."
+        },
+        {
+          "verse": 3,
+          "text": "Contudo mandou o rei Zedequias a Jucal, filho de Selemias, e a Sofonias, filho de Maaseias, o sacerdote, ao profeta Jeremias, para lhe dizer: Roga agora por nós ao Senhor nosso Deus."
+        },
+        {
+          "verse": 4,
+          "text": "E entrava e saía Jeremias entre o povo, porque não o tinham posto na prisão."
+        },
+        {
+          "verse": 5,
+          "text": "E o exército de Faraó saíra do Egito; e quando os caldeus, que tinham sitiado Jerusalém, ouviram esta notícia, retiraram-se de Jerusalém."
+        },
+        {
+          "verse": 6,
+          "text": "Então veio a Jeremias, o profeta, a palavra do Senhor, dizendo:"
+        },
+        {
+          "verse": 7,
+          "text": "Assim diz o Senhor, Deus de Israel: Assim direis ao rei de Judá, que vos enviou a mim para me consultar: Eis que o exército de Faraó, que saiu em vosso socorro, voltará para a sua terra no Egito."
+        },
+        {
+          "verse": 8,
+          "text": "E voltarão os caldeus, e pelejarão contra esta cidade, e a tomarão, e a queimarão a fogo."
+        },
+        {
+          "verse": 9,
+          "text": "Assim diz o Senhor: Não enganeis as vossas almas, dizendo: Sem dúvida se retirarão os caldeus de nós, pois não se retirarão."
+        },
+        {
+          "verse": 10,
+          "text": "Porque ainda que ferísseis a todo o exército dos caldeus, que peleja contra vós, e só ficassem deles homens feridos, cada um levantar-se-ia na sua tenda, e queimaria a fogo esta cidade."
+        },
+        {
+          "verse": 11,
+          "text": "E sucedeu que, subindo de Jerusalém o exército dos caldeus, por causa do exército de Faraó,"
+        },
+        {
+          "verse": 12,
+          "text": "Saiu Jeremias de Jerusalém, a fim de ir à terra de Benjamim, para dali se separar no meio do povo."
+        },
+        {
+          "verse": 13,
+          "text": "Mas, estando ele à porta de Benjamim, achava-se ali um capitão da guarda, cujo nome era Jerias, filho de Selemias, filho de Hananias, o qual prendeu a Jeremias, o profeta, dizendo: Tu foges para os caldeus."
+        },
+        {
+          "verse": 14,
+          "text": "E Jeremias disse: Isso é falso, não fujo para os caldeus. Mas ele não lhe deu ouvidos; e assim Jerias prendeu a Jeremias, e o levou aos príncipes."
+        },
+        {
+          "verse": 15,
+          "text": "E os príncipes se iraram muito contra Jeremias, e o feriram; e puseram-no na prisão, na casa de Jônatas, o escrivão; porque a tinham transformado em cárcere."
+        },
+        {
+          "verse": 16,
+          "text": "Entrando, pois, Jeremias nas celas do calabouço, ali ficou muitos dias."
+        },
+        {
+          "verse": 17,
+          "text": "E mandou o rei Zedequias soltá-lo; e o rei lhe perguntou em sua casa, em segredo, e disse: Há porventura alguma palavra do Senhor? E disse Jeremias: Há. E disse ainda: Na mão do rei de Babilônia serás entregue."
+        },
+        {
+          "verse": 18,
+          "text": "Disse mais Jeremias ao rei Zedequias: Em que tenho pecado contra ti, e contra os teus servos, e contra este povo, para que me pusésseis na prisão?"
+        },
+        {
+          "verse": 19,
+          "text": "Onde estão agora os vossos profetas, que vos profetizavam, dizendo: O rei de Babilônia não virá contra vós nem contra esta terra?"
+        },
+        {
+          "verse": 20,
+          "text": "Ora, pois, ouve agora, ó rei meu senhor: Seja aceita agora a minha súplica diante de ti, e não me deixes tornar à casa de Jônatas, o escriba, para que eu não venha a morrer ali."
+        },
+        {
+          "verse": 21,
+          "text": "Então ordenou o rei Zedequias que pusessem a Jeremias no átrio da guarda; e deram-lhe um pão cada dia, da rua dos padeiros, até que se acabou todo o pão da cidade; assim ficou Jeremias no átrio da guarda."
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ouviram, pois, Sefatias, filho de Matã, e Gedalias, filho de Pasur, e Jucal, filho de Selemias, e Pasur, filho de Malquias, as palavras que anunciava Jeremias a todo o povo, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Assim diz o Senhor: O que ficar nesta cidade morrerá à espada, de fome e de pestilência; mas o que sair aos caldeus viverá; porque a sua alma lhe será por despojo, e viverá."
+        },
+        {
+          "verse": 3,
+          "text": "Assim diz o Senhor: Esta cidade infalivelmente será entregue na mão do exército do rei de Babilônia, e ele a tomará."
+        },
+        {
+          "verse": 4,
+          "text": "E disseram os príncipes ao rei: Morra este homem, visto que ele assim enfraquece as mãos dos homens de guerra que restam nesta cidade, e as mãos de todo o povo, dizendo-lhes tais palavras; porque este homem não busca a paz para este povo, porém o mal."
+        },
+        {
+          "verse": 5,
+          "text": "E disse o rei Zedequias: Eis que ele está na vossa mão; porque o rei nada pode fazer contra vós."
+        },
+        {
+          "verse": 6,
+          "text": "Então tomaram a Jeremias, e o lançaram na cisterna de Malquias, filho do rei, que estava no átrio da guarda; e desceram a Jeremias com cordas; mas na cisterna não havia água, senão lama; e atolou-se Jeremias na lama."
+        },
+        {
+          "verse": 7,
+          "text": "E, ouvindo Ebede-Meleque, o etíope, um eunuco que então estava na casa do rei, que tinham posto a Jeremias na cisterna (estava, porém, o rei assentado à porta de Benjamim),"
+        },
+        {
+          "verse": 8,
+          "text": "Logo Ebede-Meleque saiu da casa do rei, e falou ao rei, dizendo:"
+        },
+        {
+          "verse": 9,
+          "text": "Ó rei, senhor meu, estes homens agiram mal em tudo quanto fizeram a Jeremias, o profeta, lançando-o na cisterna; decerto morrerá de fome no lugar onde se acha, pois não há mais pão na cidade."
+        },
+        {
+          "verse": 10,
+          "text": "Então deu ordem o rei a Ebede-Meleque, o etíope, dizendo: Toma contigo daqui trinta homens, e tira a Jeremias, o profeta, da cisterna, antes que morra."
+        },
+        {
+          "verse": 11,
+          "text": "E tomou Ebede-Meleque os homens consigo, e foi à casa do rei, por debaixo da tesouraria, e tomou dali uns trapos velhos e rotos, e roupas velhas, e desceu-os a Jeremias na cisterna por meio de cordas."
+        },
+        {
+          "verse": 12,
+          "text": "E disse Ebede-Meleque, o etíope, a Jeremias: Põe agora estes trapos velhos e rotos, já apodrecidos, nas axilas, calçando as cordas. E Jeremias assim o fez."
+        },
+        {
+          "verse": 13,
+          "text": "E puxaram a Jeremias com as cordas, e o alçaram da cisterna; e ficou Jeremias no átrio da guarda."
+        },
+        {
+          "verse": 14,
+          "text": "Então o rei Zedequias mandou trazer à sua presença Jeremias, o profeta, à terceira entrada da casa do Senhor; e disse o rei a Jeremias: Pergunto-te uma coisa, não me encubras nada."
+        },
+        {
+          "verse": 15,
+          "text": "E disse Jeremias a Zedequias: Se eu te declarar, porventura não me matarás? E se eu te aconselhar, não me ouvirás?"
+        },
+        {
+          "verse": 16,
+          "text": "Então jurou o rei Zedequias a Jeremias, em segredo, dizendo: Vive o Senhor, que nos fez esta alma, que não te matarei nem te entregarei na mão destes homens que procuram a tua morte."
+        },
+        {
+          "verse": 17,
+          "text": "Então Jeremias disse a Zedequias: Assim diz o Senhor, Deus dos Exércitos, Deus de Israel: Se voluntariamente saíres aos príncipes do rei de Babilônia, então viverá a tua alma, e esta cidade não se queimará a fogo, e viverás tu e a tua casa."
+        },
+        {
+          "verse": 18,
+          "text": "Mas, se não saíres aos príncipes do rei de Babilônia, então será entregue esta cidade na mão dos caldeus, e queimá-la-ão a fogo, e tu não escaparás da mão deles."
+        },
+        {
+          "verse": 19,
+          "text": "E disse o rei Zedequias a Jeremias: Receio-me dos judeus, que se passaram para os caldeus; que estes me entreguem na mão deles, e escarneçam de mim."
+        },
+        {
+          "verse": 20,
+          "text": "E disse Jeremias: Não te entregarão; ouve, peço-te, a voz do Senhor, conforme a qual eu te falo; e bem te irá, e viverá a tua alma."
+        },
+        {
+          "verse": 21,
+          "text": "Mas, se tu não quiseres sair, esta é a palavra que me mostrou o Senhor:"
+        },
+        {
+          "verse": 22,
+          "text": "Eis que todas as mulheres que ficaram na casa do rei de Judá serão levadas aos príncipes do rei de Babilônia, e elas mesmas dirão: Teus pacificadores te incitaram e prevaleceram contra ti, mas agora que se atolaram os teus pés na lama, voltaram atrás."
+        },
+        {
+          "verse": 23,
+          "text": "Assim que a todas as tuas mulheres e a teus filhos levarão aos caldeus, e nem tu escaparás da sua mão, antes pela mão do rei de Babilônia serás preso, e esta cidade será queimada a fogo."
+        },
+        {
+          "verse": 24,
+          "text": "Então disse Zedequias a Jeremias: Ninguém saiba estas palavras, e não morrerás."
+        },
+        {
+          "verse": 25,
+          "text": "E quando os príncipes, ouvindo que falei contigo, vierem a ti, e te disserem: Declara-nos agora o que disseste ao rei e o que ele te disse, não no-lo encubras, e não te mataremos;"
+        },
+        {
+          "verse": 26,
+          "text": "Então lhes dirás: Eu lancei a minha súplica diante do rei, que não me fizesse tornar à casa de Jônatas, para morrer ali."
+        },
+        {
+          "verse": 27,
+          "text": "Vindo, pois, todos os príncipes a Jeremias, e interrogando-o, declarou-lhes todas as palavras que o rei lhe havia ordenado; e calados o deixaram, porque o assunto não foi revelado."
+        },
+        {
+          "verse": 28,
+          "text": "E ficou Jeremias no átrio da guarda, até o dia em que Jerusalém foi tomada, e ainda ali estava quando Jerusalém foi tomada."
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "No ano nono de Zedequias, rei de Judá, no décimo mês, veio Nabucodonosor, rei de Babilônia, e todo o seu exército, contra Jerusalém, e a cercaram."
+        },
+        {
+          "verse": 2,
+          "text": "No ano undécimo de Zedequias, no quarto mês, aos nove do mês, fez-se uma brecha na cidade."
+        },
+        {
+          "verse": 3,
+          "text": "Entraram nela todos os príncipes do rei de Babilônia, e pararam na porta do meio, a saber: Nergal-Sarezer, Sangar-Nebo, Sarsequim, Rabe-Saris, Nergal-Sarezer, Rabe-Mague, e todos os outros príncipes do rei de Babilônia."
+        },
+        {
+          "verse": 4,
+          "text": "E sucedeu que, vendo-os Zedequias, rei de Judá, e todos os homens de guerra, fugiram, saindo de noite da cidade, pelo caminho do jardim do rei, pela porta que está entre os dois muros; e seguiram pelo caminho da campina."
+        },
+        {
+          "verse": 5,
+          "text": "Mas o exército dos caldeus os perseguiu, e alcançou a Zedequias nas campinas de Jericó; e eles o prenderam, e fizeram-no subir a Nabucodonosor, rei de Babilônia, a Ribla, na terra de Hamate, e o rei o sentenciou."
+        },
+        {
+          "verse": 6,
+          "text": "E o rei de Babilônia matou em Ribla os filhos de Zedequias, diante dos seus olhos; também matou o rei de Babilônia a todos os nobres de Judá."
+        },
+        {
+          "verse": 7,
+          "text": "E cegou os olhos de Zedequias, e o atou com duas cadeias de bronze, para levá-lo a Babilônia."
+        },
+        {
+          "verse": 8,
+          "text": "E os caldeus incendiaram a casa do rei e as casas do povo, e derrubaram os muros de Jerusalém."
+        },
+        {
+          "verse": 9,
+          "text": "E o restante do povo, que ficou na cidade, e os desertores que se tinham passado para ele, e o restante do povo que ficou, Nebuzaradã, capitão da guarda, levou cativo para a Babilônia."
+        },
+        {
+          "verse": 10,
+          "text": "Porém os pobres dentre o povo, que não tinham nada, Nebuzaradã, capitão da guarda, deixou na terra de Judá; e deu-lhes vinhas e campos naquele dia."
+        },
+        {
+          "verse": 11,
+          "text": "Mas Nabucodonosor, rei de Babilônia, havia ordenado acerca de Jeremias, a Nebuzaradã, capitão da guarda, dizendo:"
+        },
+        {
+          "verse": 12,
+          "text": "Toma-o, e põe sobre ele os teus olhos, e não lhe faças nenhum mal; antes como ele te disser, assim procederás com ele."
+        },
+        {
+          "verse": 13,
+          "text": "Por isso mandou Nebuzaradã, capitão da guarda, e Nebusazbã, Rabe-Saris, Nergal-Sarezer, Rabe-Mague, e todos os príncipes do rei de Babilônia,"
+        },
+        {
+          "verse": 14,
+          "text": "Mandaram retirar a Jeremias do átrio da guarda, e o entregaram a Gedalias, filho de Aicão, filho de Safã, para que o levassem à casa; e ele habitou entre o povo."
+        },
+        {
+          "verse": 15,
+          "text": "Ora, tinha vindo a Jeremias a palavra do Senhor, estando ele ainda encarcerado no átrio da guarda, dizendo:"
+        },
+        {
+          "verse": 16,
+          "text": "Vai, e fala a Ebede-Meleque, o etíope, dizendo: Assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu trarei as minhas palavras sobre esta cidade para mal e não para bem; e cumprir-se-ão diante de ti naquele dia."
+        },
+        {
+          "verse": 17,
+          "text": "A ti, porém, eu livrarei naquele dia, diz o Senhor, e não serás entregue na mão dos homens, a quem temes."
+        },
+        {
+          "verse": 18,
+          "text": "Porque certamente te livrarei, e não cairás à espada; mas a tua alma terás por despojo, porquanto confiaste em mim, diz o Senhor."
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que veio a Jeremias da parte do Senhor, depois que Nebuzaradã, capitão da guarda, o deixara ir de Ramá, quando o tomou, estando ele atado com cadeias no meio de todos os do cativeiro de Jerusalém e de Judá, que foram levados cativos para Babilônia."
+        },
+        {
+          "verse": 2,
+          "text": "Tomou o capitão da guarda a Jeremias, e disse-lhe: O Senhor teu Deus pronunciou este mal, contra este lugar."
+        },
+        {
+          "verse": 3,
+          "text": "E o Senhor o trouxe, e fez como havia falado; porque pecastes contra o Senhor, e não obedecestes à sua voz, portanto vos sucedeu isto."
+        },
+        {
+          "verse": 4,
+          "text": "Agora, pois, eis que te soltei hoje das cadeias que estavam sobre as tuas mãos. Se te apraz vir comigo para Babilônia, vem, e eu cuidarei de ti, mas se não te apraz vir comigo para Babilônia, deixa de vir. Olha, toda a terra está diante de ti; para onde parecer bom e reto aos teus olhos ir, para ali vai."
+        },
+        {
+          "verse": 5,
+          "text": "Mas, como ele ainda não tinha voltado, disse-lhe: Volta a Gedalias, filho de Aicão, filho de Safã, a quem o rei de Babilônia pôs sobre as cidades de Judá, e habita com ele no meio do povo; ou se para qualquer outra parte te aprouver ir, vai. E deu-lhe o capitão da guarda sustento para o caminho, e um presente, e o deixou ir."
+        },
+        {
+          "verse": 6,
+          "text": "Assim veio Jeremias a Gedalias, filho de Aicão, a Mizpá; e habitou com ele no meio do povo que havia ficado na terra."
+        },
+        {
+          "verse": 7,
+          "text": "Ouvindo, pois, todos os capitães dos exércitos, que estavam no campo, eles e os seus homens, que o rei de Babilônia tinha nomeado a Gedalias, filho de Aicão, governador da terra, e que lhe havia confiado os homens, e as mulheres, e os meninos, e os mais pobres da terra, que não foram levados cativos a Babilônia,"
+        },
+        {
+          "verse": 8,
+          "text": "Vieram ter com Gedalias, a Mizpá; a saber: Ismael, filho de Netanias, e Joanã e Jônatas, filhos de Careá, e Seraías, filho de Tanumete, e os filhos de Efai, o netofatita, e Jezanias, filho de um maacatita, eles e os seus homens."
+        },
+        {
+          "verse": 9,
+          "text": "E jurou Gedalias, filho de Aicão, filho de Safã, a eles e aos seus homens, dizendo: Não temais servir aos caldeus; ficai na terra, e servi o rei de Babilônia, e bem vos irá."
+        },
+        {
+          "verse": 10,
+          "text": "Quanto a mim, eis que habito em Mizpá, para estar às ordens dos caldeus que vierem a nós; e vós recolhei o vinho, e as frutas de verão, e o azeite, e colocai-os nos vossos vasos, e habitai nas vossas cidades, que tomastes."
+        },
+        {
+          "verse": 11,
+          "text": "Do mesmo modo todos os judeus que estavam em Moabe, e entre os filhos de Amom, e em Edom, e os que havia em todas aquelas terras, ouviram que o rei de Babilônia havia deixado alguns em Judá, e que havia posto sobre eles a Gedalias, filho de Aicão, filho de Safã,"
+        },
+        {
+          "verse": 12,
+          "text": "Então voltaram todos os judeus de todos os lugares, para onde foram lançados, e vieram à terra de Judá, a Gedalias, a Mizpá; e recolheram vinho e frutas do verão com muita abundância."
+        },
+        {
+          "verse": 13,
+          "text": "Joanã, filho de Careá, e todos os capitães dos exércitos, que estavam no campo, vieram a Gedalias, a Mizpá."
+        },
+        {
+          "verse": 14,
+          "text": "E disseram-lhe: Bem sabes que Baalis, rei dos filhos de Amom, enviou a Ismael, filho de Netanias, para tirar-te a vida. Mas, Gedalias, filho de Aicão, não lhes deu crédito."
+        },
+        {
+          "verse": 15,
+          "text": "Todavia Joanã, filho de Careá, falou a Gedalias em segredo, em Mizpá, dizendo: Irei agora, e ferirei a Ismael, filho de Netanias, sem que ninguém o saiba; por que razão te tiraria ele a vida, de modo que todos os judeus, que se têm congregado a ti, fossem dispersos, e perecesse o restante de Judá?"
+        },
+        {
+          "verse": 16,
+          "text": "Mas disse Gedalias, filho de Aicão, a Joanã, filho de Careá: Não faças tal coisa; porque falas falsamente contra Ismael."
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sucedeu, porém, no mês sétimo, que veio Ismael, filho de Netanias, filho de Elisama, da descendência real, e com ele dez homens, príncipes do rei, a Gedalias, filho de Aicão, a Mizpá; e comeram pão juntos ali em Mizpá."
+        },
+        {
+          "verse": 2,
+          "text": "E levantou-se Ismael, filho de Netanias, com os dez homens que estavam com ele, e feriram à espada a Gedalias, filho de Aicão, filho de Safã, matando assim aquele que o rei de Babilônia havia posto por governador sobre a terra."
+        },
+        {
+          "verse": 3,
+          "text": "Também matou Ismael a todos os judeus que com ele, com Gedalias, estavam em Mizpá, como também aos caldeus, homens de guerra, que se achavam ali."
+        },
+        {
+          "verse": 4,
+          "text": "Sucedeu, pois, no dia seguinte, depois que ele matara a Gedalias, sem ninguém o saber,"
+        },
+        {
+          "verse": 5,
+          "text": "Que vieram homens de Siquém, de Siló, e de Samaria; oitenta homens, com a barba rapada, e as vestes rasgadas, e retalhando-se; e trazendo nas suas mãos ofertas e incenso, para levarem à casa do Senhor."
+        },
+        {
+          "verse": 6,
+          "text": "E, saindo-lhes ao encontro Ismael, filho de Netanias, desde Mizpá, ia chorando; e sucedeu que, encontrando-os lhes disse: Vinde a Gedalias, filho de Aicão."
+        },
+        {
+          "verse": 7,
+          "text": "Sucedeu, porém, que, entrando eles até ao meio da cidade, matou-os Ismael, filho de Netanias, e os lançou num poço, ele e os homens que estavam com ele."
+        },
+        {
+          "verse": 8,
+          "text": "Mas houve entre eles dez homens que disseram a Ismael: Não nos mates, porque temos, no campo, tesouros, trigo, cevada, azeite e mel. E ele por isso os deixou, e não os matou entre seus irmãos."
+        },
+        {
+          "verse": 9,
+          "text": "E o poço em que Ismael lançou todos os cadáveres dos homens que matou por causa de Gedalias é o mesmo que fez o rei Asa, por causa de Baasa, rei de Israel; foi esse mesmo que Ismael, filho de Netanias, encheu de mortos."
+        },
+        {
+          "verse": 10,
+          "text": "E Ismael levou cativo a todo o restante do povo que estava em Mizpá, isto é, as filhas do rei, e todo o povo que ficara em Mizpá, que Nebuzaradã, capitão da guarda, havia confiado a Gedalias, filho de Aicão; e levou-os cativos Ismael, filho de Netanias, e se foi para passar aos filhos de Amom."
+        },
+        {
+          "verse": 11,
+          "text": "Ouvindo, pois, Joanã, filho de Careá, e todos os capitães dos exércitos que estavam com ele, todo o mal que havia feito Ismael, filho de Netanias,"
+        },
+        {
+          "verse": 12,
+          "text": "Tomaram todos os seus homens, e foram pelejar contra Ismael, filho de Netanias; e acharam-no ao pé das grandes águas que há em Gibeom."
+        },
+        {
+          "verse": 13,
+          "text": "E aconteceu que, vendo todo o povo, que estava com Ismael, a Joanã, filho de Careá, e a todos os capitães dos exércitos, que vinham com ele, se alegrou."
+        },
+        {
+          "verse": 14,
+          "text": "E todo o povo que Ismael levara cativo de Mizpá virou as costas, e voltou, e foi para Joanã, filho de Careá."
+        },
+        {
+          "verse": 15,
+          "text": "Mas Ismael, filho de Netanias, escapou com oito homens de diante de Joanã, e se foi para os filhos de Amom."
+        },
+        {
+          "verse": 16,
+          "text": "Então tomou Joanã, filho de Careá, e todos os capitães dos exércitos que estavam com ele, a todo o restante do povo que ele havia recobrado de Ismael, filho de Netanias, desde Mizpá, depois de haver matado a Gedalias, filho de Aicão, isto é, aos homens poderosos de guerra, e às mulheres, e aos meninos, e aos eunucos que havia recobrado de Gibeom."
+        },
+        {
+          "verse": 17,
+          "text": "E partiram, indo habitar em Gerute-Quimã, que está perto de Belém, para dali irem e entrarem no Egito,"
+        },
+        {
+          "verse": 18,
+          "text": "Por causa dos caldeus; porque os temiam, por ter Ismael, filho de Netanias, matado a Gedalias, filho de Aicão, a quem o rei de Babilônia tinha feito governador sobre a terra."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então chegaram todos os capitães dos exércitos, e Joanã, filho de Careá, e Jezanias, filho de Hosaías, e todo o povo, desde o menor até ao maior,"
+        },
+        {
+          "verse": 2,
+          "text": "E disseram a Jeremias, o profeta: Aceita agora a nossa súplica diante de ti, e roga ao Senhor teu Deus, por nós e por todo este remanescente; porque de muitos restamos uns poucos, como nos veem os teus olhos;"
+        },
+        {
+          "verse": 3,
+          "text": "Para que o Senhor teu Deus nos ensine o caminho por onde havemos de andar e aquilo que havemos de fazer."
+        },
+        {
+          "verse": 4,
+          "text": "E disse-lhes Jeremias, o profeta: Eu vos tenho ouvido; eis que orarei ao Senhor vosso Deus conforme as vossas palavras; e seja o que for que o Senhor vos responder eu vo-lo declararei; não vos ocultarei uma só palavra."
+        },
+        {
+          "verse": 5,
+          "text": "Então eles disseram a Jeremias: Seja o Senhor entre nós testemunha verdadeira e fiel, se não fizermos conforme toda a palavra com que te enviar a nós o Senhor teu Deus."
+        },
+        {
+          "verse": 6,
+          "text": "Seja ela boa, ou seja má, à voz do Senhor nosso Deus, a quem te enviamos, obedeceremos, para que nos suceda bem, obedecendo à voz do Senhor nosso Deus."
+        },
+        {
+          "verse": 7,
+          "text": "E sucedeu que ao fim de dez dias veio a palavra do Senhor a Jeremias."
+        },
+        {
+          "verse": 8,
+          "text": "Então chamou a Joanã, filho de Careá, e a todos os capitães dos exércitos, que havia com ele, e a todo o povo, desde o menor até ao maior,"
+        },
+        {
+          "verse": 9,
+          "text": "E disse-lhes: Assim diz o Senhor, Deus de Israel, a quem me enviastes, para apresentar a vossa súplica diante dele:"
+        },
+        {
+          "verse": 10,
+          "text": "Se de boa mente ficardes nesta terra, então vos edificarei, e não vos derrubarei; e vos plantarei, e não vos arrancarei; porque estou arrependido do mal que vos tenho feito."
+        },
+        {
+          "verse": 11,
+          "text": "Não temais o rei de Babilônia, a quem vós temeis; não o temais, diz o Senhor, porque eu sou convosco, para vos salvar e para vos livrar da sua mão."
+        },
+        {
+          "verse": 12,
+          "text": "E vos concederei misericórdia, para que ele tenha misericórdia de vós, e vos faça voltar à vossa terra."
+        },
+        {
+          "verse": 13,
+          "text": "Mas se vós disserdes: Não ficaremos nesta terra, não obedecendo à voz do Senhor vosso Deus,"
+        },
+        {
+          "verse": 14,
+          "text": "Dizendo: Não, antes iremos à terra do Egito, onde não veremos guerra, nem ouviremos som de trombeta, nem teremos fome de pão, e ali ficaremos,"
+        },
+        {
+          "verse": 15,
+          "text": "Nesse caso ouvi a palavra do Senhor, ó remanescente de Judá: Assim diz o Senhor dos Exércitos, Deus de Israel: Se vós absolutamente propuserdes a entrar no Egito, e entrardes para lá habitar,"
+        },
+        {
+          "verse": 16,
+          "text": "Acontecerá que a espada que vós temeis vos alcançará ali na terra do Egito, e a fome que vós receais vos seguirá de perto no Egito, e ali morrereis."
+        },
+        {
+          "verse": 17,
+          "text": "Assim será com todos os homens que puseram os seus rostos para entrarem no Egito, a fim de lá habitarem: morrerão à espada, e de fome, e de peste; e deles não haverá quem reste e escape do mal que eu farei vir sobre eles."
+        },
+        {
+          "verse": 18,
+          "text": "Porque assim diz o Senhor dos Exércitos, Deus de Israel: Como se derramou a minha ira e a minha indignação sobre os habitantes de Jerusalém, assim se derramará a minha indignação sobre vós, quando entrardes no Egito; e sereis objeto de maldição, e de espanto, e de execração, e de opróbrio, e não vereis mais este lugar."
+        },
+        {
+          "verse": 19,
+          "text": "Falou o Senhor acerca de vós, ó remanescente de Judá! Não entreis no Egito; tende por certo que hoje testifiquei contra vós."
+        },
+        {
+          "verse": 20,
+          "text": "Porque vos enganastes a vós mesmos, pois me enviastes ao Senhor vosso Deus, dizendo: Ora por nós ao Senhor nosso Deus; e conforme tudo o que disser o Senhor nosso Deus, declara-no-lo assim, e o faremos."
+        },
+        {
+          "verse": 21,
+          "text": "E vo-lo tenho declarado hoje; mas não destes ouvidos à voz do Senhor vosso Deus, em coisa alguma pela qual ele me enviou a vós."
+        },
+        {
+          "verse": 22,
+          "text": "Agora, pois, sabei por certo que morrereis à espada, de fome e de peste no mesmo lugar onde desejais ir, para lá morardes."
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E sucedeu que, acabando Jeremias de falar a todo o povo todas as palavras do Senhor seu Deus, com as quais o Senhor seu Deus lho havia enviado, para que lhes dissesse todas estas palavras,"
+        },
+        {
+          "verse": 2,
+          "text": "Então falaram Azarias, filho de Hosaías, e Joanã, filho de Careá, e todos os homens soberbos, dizendo a Jeremias: Tu dizes mentiras; o Senhor nosso Deus não te enviou a dizer: Não entreis no Egito, para ali habitar;"
+        },
+        {
+          "verse": 3,
+          "text": "Mas Baruque, filho de Nerias, te incita contra nós, para entregar-nos na mão dos caldeus, para nos matarem, ou para nos levarem cativos para Babilônia."
+        },
+        {
+          "verse": 4,
+          "text": "Não obedeceu, pois, Joanã, filho de Careá, nem nenhum de todos os capitães dos exércitos, nem o povo todo, à voz do Senhor, para ficarem na terra de Judá."
+        },
+        {
+          "verse": 5,
+          "text": "Antes tomou Joanã, filho de Careá, e todos os capitães dos exércitos a todo o restante de Judá, que havia voltado dentre todas as nações, para onde haviam sido lançados, para morarem na terra de Judá;"
+        },
+        {
+          "verse": 6,
+          "text": "Aos homens, e às mulheres, e aos meninos, e às filhas do rei, e a toda a alma que Nebuzaradã, capitão da guarda, deixara com Gedalias, filho de Aicão, filho de Safã; como também a Jeremias, o profeta, e a Baruque, filho de Nerias;"
+        },
+        {
+          "verse": 7,
+          "text": "E entraram na terra do Egito, porque não obedeceram à voz do Senhor; e vieram até Tafnes."
+        },
+        {
+          "verse": 8,
+          "text": "Então veio a palavra do Senhor a Jeremias, em Tafnes, dizendo:"
+        },
+        {
+          "verse": 9,
+          "text": "Toma na tua mão pedras grandes, e esconde-as no barro, no forno que está à entrada da casa de Faraó, em Tafnes, perante os olhos dos homens de Judá,"
+        },
+        {
+          "verse": 10,
+          "text": "E dize-lhes: Assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu enviarei, e tomarei a Nabucodonosor, rei de Babilônia, meu servo, e porei o seu trono sobre estas pedras que escondi; e ele estenderá a sua tenda real sobre elas."
+        },
+        {
+          "verse": 11,
+          "text": "E virá, e ferirá a terra do Egito; entregando para a morte, quem é para a morte; e quem é para o cativeiro, para o cativeiro; e quem é para a espada, para a espada."
+        },
+        {
+          "verse": 12,
+          "text": "E lançarei fogo às casas dos deuses do Egito, e queimá-los-á, e levá-los-á cativos; e vestir-se-á da terra do Egito, como veste o pastor a sua roupa, e sairá dali em paz."
+        },
+        {
+          "verse": 13,
+          "text": "E quebrará as estátuas de Bete-Semes, que está na terra do Egito; e as casas dos deuses do Egito queimará a fogo."
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que veio a Jeremias, acerca de todos os judeus, habitantes da terra do Egito, que habitavam em Migdol, e em Tafnes, e em Nofe, e na terra de Patros, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Assim diz o Senhor dos Exércitos, Deus de Israel: Vós vistes todo o mal que fiz vir sobre Jerusalém, e sobre todas as cidades de Judá; e eis que elas são hoje uma desolação, e ninguém habita nelas;"
+        },
+        {
+          "verse": 3,
+          "text": "Por causa da maldade que fizeram, para me irarem, indo queimar incenso, e servir a deuses estranhos, que nunca conheceram, nem eles, nem vós, nem vossos pais."
+        },
+        {
+          "verse": 4,
+          "text": "E eu vos enviei todos os meus servos, os profetas, madrugando e enviando a dizer: Ora, não façais esta coisa abominável que odeio."
+        },
+        {
+          "verse": 5,
+          "text": "Mas eles não escutaram, nem inclinaram os seus ouvidos, para se converterem da sua maldade, para não queimarem incenso a outros deuses."
+        },
+        {
+          "verse": 6,
+          "text": "Derramou-se, pois, a minha indignação e a minha ira, e acendeu-se nas cidades de Judá, e nas ruas de Jerusalém, e elas tornaram-se em deserto e em desolação, como hoje se vê."
+        },
+        {
+          "verse": 7,
+          "text": "Agora, pois, assim diz o Senhor, Deus dos Exércitos, Deus de Israel: Por que fazeis vós tão grande mal contra as vossas almas, para vos desarraigardes, ao homem e à mulher, à criança e ao que mama, do meio de Judá, a fim de não deixardes remanescente algum;"
+        },
+        {
+          "verse": 8,
+          "text": "Irando-me com as obras de vossas mãos, queimando incenso a deuses estranhos na terra do Egito, aonde vós entrastes para lá habitar; para que a vós mesmos vos desarraigueis, e para que sirvais de maldição, e de opróbrio entre todas as nações da terra?"
+        },
+        {
+          "verse": 9,
+          "text": "Esquecestes já as maldades de vossos pais, e as maldades dos reis de Judá, e as maldades de suas mulheres, e as vossas maldades, e as maldades de vossas mulheres, que cometeram na terra de Judá, e nas ruas de Jerusalém?"
+        },
+        {
+          "verse": 10,
+          "text": "Não se humilharam até ao dia de hoje, nem temeram, nem andaram na minha lei, nem nos meus estatutos, que pus diante de vós e diante de vossos pais."
+        },
+        {
+          "verse": 11,
+          "text": "Portanto assim diz o Senhor dos Exércitos, Deus de Israel: Eis que eu ponho o meu rosto contra vós para mal, e para desarraigar a todo o Judá."
+        },
+        {
+          "verse": 12,
+          "text": "E tomarei os que restam de Judá, os quais puseram os seus rostos para entrarem na terra do Egito, para lá habitar e todos eles serão consumidos na terra do Egito; cairão à espada, e de fome morrerão; consumir-se-ão, desde o menor até ao maior; à espada e de fome morrerão; e servirão de execração, e de espanto, e de maldição, e de opróbrio."
+        },
+        {
+          "verse": 13,
+          "text": "Porque castigarei os que habitam na terra do Egito, como castiguei Jerusalém, com a espada, com a fome e com a peste."
+        },
+        {
+          "verse": 14,
+          "text": "De maneira que da parte remanescente de Judá, que entrou na terra do Egito, para lá habitar, não haverá quem escape e fique para tornar à terra de Judá, à qual eles suspiram voltar para nela morar; porém não tornarão senão uns fugitivos."
+        },
+        {
+          "verse": 15,
+          "text": "Então responderam a Jeremias todos os homens que sabiam que suas mulheres queimavam incenso a deuses estranhos, e todas as mulheres que estavam presentes em grande multidão, como também todo o povo que habitava na terra do Egito, em Patros, dizendo:"
+        },
+        {
+          "verse": 16,
+          "text": "Quanto à palavra que nos anunciaste em nome do Senhor, não obedeceremos a ti;"
+        },
+        {
+          "verse": 17,
+          "text": "Mas certamente cumpriremos toda a palavra que saiu da nossa boca, queimando incenso à rainha dos céus, e oferecendo-lhe libações, como nós e nossos pais, nossos reis e nossos príncipes, temos feito, nas cidades de Judá, e nas ruas de Jerusalém; e então tínhamos fartura de pão, e andávamos alegres, e não víamos mal algum."
+        },
+        {
+          "verse": 18,
+          "text": "Mas desde que cessamos de queimar incenso à rainha dos céus, e de lhe oferecer libações, tivemos falta de tudo, e fomos consumidos pela espada e pela fome."
+        },
+        {
+          "verse": 19,
+          "text": "E quando nós queimávamos incenso à rainha dos céus, e lhe oferecíamos libações, acaso lhe fizemos bolos, para a adorar, e oferecemos-lhe libações sem nossos maridos?"
+        },
+        {
+          "verse": 20,
+          "text": "Então disse Jeremias a todo o povo, aos homens e às mulheres, e a todo o povo que lhe havia dado esta resposta, dizendo:"
+        },
+        {
+          "verse": 21,
+          "text": "Porventura não se lembrou o Senhor, e não lhe veio ao coração o incenso que queimastes nas cidades de Judá e nas ruas de Jerusalém, vós e vossos pais, vossos reis e vossos príncipes, como também o povo da terra?"
+        },
+        {
+          "verse": 22,
+          "text": "De maneira que o Senhor não podia por mais tempo sofrer a maldade das vossas ações, as abominações que cometestes; por isso se tornou a vossa terra em desolação, e em espanto, e em maldição, sem habitantes, como hoje se vê."
+        },
+        {
+          "verse": 23,
+          "text": "Porque queimastes incenso, e porque pecastes contra o Senhor, e não obedecestes à voz do Senhor, e na sua lei, e nos seus estatutos, e nos seus testemunhos não andastes, por isso vos sucedeu este mal, como se vê neste dia."
+        },
+        {
+          "verse": 24,
+          "text": "Disse mais Jeremias a todo o povo e a todas as mulheres: Ouvi a palavra do Senhor, vós, todo o Judá, que estais na terra do Egito."
+        },
+        {
+          "verse": 25,
+          "text": "Assim fala o Senhor dos Exércitos, Deus de Israel, dizendo: Vós e vossas mulheres não somente falastes por vossa boca, senão também o cumpristes por vossas mãos, dizendo: Certamente cumpriremos os nossos votos que fizemos de queimar incenso à rainha dos céus e de lhe oferecer libações; confirmai, pois, os vossos votos, e perfeitamente cumpri-os."
+        },
+        {
+          "verse": 26,
+          "text": "Portanto ouvi a palavra do Senhor, todo o Judá, que habitais na terra do Egito: Eis que eu juro pelo meu grande nome, diz o Senhor, que nunca mais será pronunciado o meu nome pela boca de nenhum homem de Judá em toda a terra do Egito dizendo: Vive o Senhor Deus!"
+        },
+        {
+          "verse": 27,
+          "text": "Eis que velarei sobre eles para mal, e não para bem; e serão consumidos todos os homens de Judá, que estão na terra do Egito, pela espada e pela fome, até que de todo se acabem."
+        },
+        {
+          "verse": 28,
+          "text": "E os que escaparem da espada voltarão da terra do Egito à terra de Judá, poucos em número; e todo o restante de Judá, que entrou na terra do Egito, para habitar ali, saberá se subsistirá a minha palavra ou a sua."
+        },
+        {
+          "verse": 29,
+          "text": "E isto vos servirá de sinal, diz o Senhor, que eu vos castigarei neste lugar, para que saibais que certamente subsistirão as minhas palavras contra vós para mal."
+        },
+        {
+          "verse": 30,
+          "text": "Assim diz o Senhor: Eis que eu darei Faraó-Hofra, rei do Egito, na mão de seus inimigos, e na mão dos que procuram a sua morte; como entreguei Zedequias, rei de Judá, na mão de Nabucodonosor, rei de Babilônia, seu inimigo, e que procurava a sua morte."
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que Jeremias, o profeta, falou a Baruque, filho de Nerias, quando este escrevia, num livro, estas palavras, da boca de Jeremias, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Assim diz o Senhor, Deus de Israel, acerca de ti, ó Baruque:"
+        },
+        {
+          "verse": 3,
+          "text": "Disseste: Ai de mim agora, porque me acrescentou o Senhor tristeza sobre minha dor! Estou cansado do meu gemido, e não acho descanso."
+        },
+        {
+          "verse": 4,
+          "text": "Assim lhe dirás: Isto diz o Senhor: Eis que o que edifiquei eu derrubo, e o que plantei eu arranco, e isso em toda esta terra."
+        },
+        {
+          "verse": 5,
+          "text": "E procuras tu grandezas para ti mesmo? Não as procures; porque eis que trarei mal sobre toda a carne, diz o Senhor; porém te darei a tua alma por despojo, em todos os lugares para onde fores."
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra do Senhor, que veio a Jeremias, o profeta, contra os gentios,"
+        },
+        {
+          "verse": 2,
+          "text": "Acerca do Egito, contra o exército de Faraó-Neco, rei do Egito, que estava junto ao rio Eufrates em Carquemis, ao qual feriu Nabucodonosor, rei de Babilônia, no ano quarto de Jeoiaquim, filho de Josias, rei de Judá."
+        },
+        {
+          "verse": 3,
+          "text": "Preparai o escudo e o pavês, e chegai-vos para a peleja."
+        },
+        {
+          "verse": 4,
+          "text": "Selai os cavalos e montai, cavaleiros, e apresentai-vos com elmos; limpai as lanças, vesti-vos de couraças."
+        },
+        {
+          "verse": 5,
+          "text": "Por que razão vejo os medrosos voltando as costas? Os seus valentes estão abatidos, e vão fugindo, sem olharem para trás; terror há ao redor, diz o Senhor."
+        },
+        {
+          "verse": 6,
+          "text": "Não fuja o ligeiro, e não escape o valente; para o lado norte, junto à borda do rio Eufrates tropeçaram e caíram."
+        },
+        {
+          "verse": 7,
+          "text": "Quem é este que vem subindo como o Nilo, cujas águas se movem como os rios?"
+        },
+        {
+          "verse": 8,
+          "text": "O Egito vem subindo como o Nilo, e como rios cujas águas se movem; e disse: Subirei, cobrirei a terra, destruirei a cidade, e os que nela habitam."
+        },
+        {
+          "verse": 9,
+          "text": "Subi, ó cavalos, e estrondeai, ó carros, e saiam os valentes; os etíopes, e os do Líbano, que manejam o escudo, e os lídios, que manejam e entesam o arco."
+        },
+        {
+          "verse": 10,
+          "text": "Porque este dia é o dia do Senhor Deus dos Exércitos, dia de vingança para ele se vingar dos seus adversários; e a espada devorará, e fartar-se-á, e embriagar-se-á com o sangue deles; porque o Senhor Deus dos Exércitos tem um sacrifício na terra do norte, junto ao rio Eufrates."
+        },
+        {
+          "verse": 11,
+          "text": "Sobe a Gileade, e toma bálsamo, ó virgem filha do Egito; em vão multiplicas remédios, pois já não há cura para ti."
+        },
+        {
+          "verse": 12,
+          "text": "As nações ouviram a tua vergonha, e a terra está cheia do teu clamor; porque o valente tropeçou com o valente e ambos caíram juntos."
+        },
+        {
+          "verse": 13,
+          "text": "A palavra que falou o Senhor a Jeremias, o profeta, acerca da vinda de Nabucodonosor, rei de Babilônia, para ferir a terra do Egito."
+        },
+        {
+          "verse": 14,
+          "text": "Anunciai no Egito, e fazei ouvir isto em Migdol; fazei também ouvi-lo em Nofe, e em Tafnes, dizei: Apresenta-te, e prepara-te; porque a espada já devorou o que está ao redor de ti."
+        },
+        {
+          "verse": 15,
+          "text": "Por que foram derrubados os teus valentes? Não puderam manter-se firmes, porque o Senhor os abateu."
+        },
+        {
+          "verse": 16,
+          "text": "Multiplicou os que tropeçavam; também caíram uns sobre os outros, e disseram: Levanta-te, e voltemos ao nosso povo, e à terra do nosso nascimento, por causa da espada que oprime."
+        },
+        {
+          "verse": 17,
+          "text": "Clamaram ali: Faraó rei do Egito é apenas um barulho; deixou passar o tempo assinalado."
+        },
+        {
+          "verse": 18,
+          "text": "Vivo eu, diz o rei, cujo nome é o Senhor dos Exércitos, que certamente como o Tabor entre os montes, e como o Carmelo junto ao mar, certamente assim ele virá."
+        },
+        {
+          "verse": 19,
+          "text": "Prepara os utensílios para ires ao cativeiro, ó moradora, filha do Egito; porque Nofe será tornada em desolação, e será incendiada, até que ninguém mais aí more."
+        },
+        {
+          "verse": 20,
+          "text": "Bezerra mui formosa é o Egito; mas já vem a destruição, vem do norte."
+        },
+        {
+          "verse": 21,
+          "text": "Até os seus mercenários no meio dela são como bezerros cevados; mas também eles viraram as costas, fugiram juntos; não ficaram firmes; porque veio sobre eles o dia da sua ruína e o tempo do seu castigo."
+        },
+        {
+          "verse": 22,
+          "text": "A sua voz irá como a da serpente; porque marcharão com um exército, e virão contra ela com machados, como cortadores de lenha."
+        },
+        {
+          "verse": 23,
+          "text": "Cortarão o seu bosque, diz o Senhor, embora seja impenetrável; porque se multiplicaram mais do que os gafanhotos; são inumeráveis."
+        },
+        {
+          "verse": 24,
+          "text": "A filha do Egito será envergonhada; será entregue na mão do povo do norte."
+        },
+        {
+          "verse": 25,
+          "text": "Diz o Senhor dos Exércitos, o Deus de Israel: Eis que eu castigarei a Amom de Nô, e a Faraó, e ao Egito, e aos seus deuses, e aos seus reis; ao próprio Faraó, e aos que nele confiam."
+        },
+        {
+          "verse": 26,
+          "text": "E os entregarei na mão dos que procuram a sua morte, na mão de Nabucodonosor, rei de Babilônia, e na mão dos seus servos; mas depois será habitada, como nos dias antigos, diz o Senhor."
+        },
+        {
+          "verse": 27,
+          "text": "Mas não temas tu, servo meu, Jacó, nem te espantes, ó Israel; porque eis que te livrarei mesmo de longe, como também a tua descendência da terra do seu cativeiro; e Jacó voltará, e descansará, e sossegará, e não haverá quem o atemorize."
+        },
+        {
+          "verse": 28,
+          "text": "Tu não temas, servo meu, Jacó, diz o Senhor, porque estou contigo; porque porei termo a todas as nações entre as quais te lancei; mas a ti não darei fim, mas castigar-te-ei com justiça, e não te darei de todo por inocente."
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra do Senhor, que veio a Jeremias, o profeta, contra os filisteus, antes que Faraó ferisse a Gaza."
+        },
+        {
+          "verse": 2,
+          "text": "Assim diz o Senhor: Eis que se levantam as águas do norte, e tornar-se-ão em torrente transbordante, e alagarão a terra e sua plenitude, a cidade, e os que nela habitam; e os homens clamarão, e todos os moradores da terra se lamentarão;"
+        },
+        {
+          "verse": 3,
+          "text": "Ao ruído estrepitoso dos cascos dos seus fortes cavalos, ao barulho de seus carros, ao estrondo das suas rodas; os pais não atendem aos filhos, por causa da fraqueza das mãos;"
+        },
+        {
+          "verse": 4,
+          "text": "Por causa do dia que vem, para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o restante que os socorra; porque o Senhor destruirá os filisteus, o remanescente da ilha de Caftor."
+        },
+        {
+          "verse": 5,
+          "text": "A calvície veio sobre Gaza, foi desarraigada Ascalom, com o restante do seu vale; até quando te retalharás?"
+        },
+        {
+          "verse": 6,
+          "text": "Ah; espada do Senhor! Até quando deixarás de repousar? Volta para a tua bainha, descansa, e aquieta-te."
+        },
+        {
+          "verse": 7,
+          "text": "Mas como te aquietarás? Pois o Senhor deu ordem à espada contra Ascalom, e contra a praia do mar, para onde ele a enviou."
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Contra Moabe, assim diz o Senhor dos Exércitos, Deus de Israel: Ai de Nebo, porque foi destruída; envergonhada está Quiriataim, já está tomada; Misgabe está envergonhada e desanimada."
+        },
+        {
+          "verse": 2,
+          "text": "A glória de Moabe já não existe mais; em Hesbom tramaram mal contra ela, dizendo: Vinde, e exterminemo-la, para que não seja mais nação; também tu, ó Madmém, serás silenciada; a espada te perseguirá."
+        },
+        {
+          "verse": 3,
+          "text": "Voz de clamor de Horonaim; ruína e grande destruição!"
+        },
+        {
+          "verse": 4,
+          "text": "Está destruída Moabe; seus filhinhos fizeram ouvir um clamor."
+        },
+        {
+          "verse": 5,
+          "text": "Porque pela subida de Luíte eles irão com choro contínuo; porque na descida de Horonaim os adversários de Moabe ouviram as angústias do grito da destruição."
+        },
+        {
+          "verse": 6,
+          "text": "Fugi, salvai a vossa vida; sede como a tamargueira no deserto;"
+        },
+        {
+          "verse": 7,
+          "text": "Porque, por causa da tua confiança nas tuas obras, e nos teus tesouros, também tu serás tomada; e Quemós sairá para o cativeiro, os seus sacerdotes e os seus príncipes juntamente."
+        },
+        {
+          "verse": 8,
+          "text": "Porque virá o destruidor sobre cada uma das cidades, e nenhuma cidade escapará, e perecerá o vale, e destruir-se-á a campina; porque o Senhor o disse."
+        },
+        {
+          "verse": 9,
+          "text": "Dai asas a Moabe; porque voando sairá, e as suas cidades se tornarão em desolação, e ninguém morará nelas."
+        },
+        {
+          "verse": 10,
+          "text": "Maldito aquele que fizer a obra do Senhor fraudulosamente; e maldito aquele que retém a sua espada do sangue."
+        },
+        {
+          "verse": 11,
+          "text": "Moabe esteve descansado desde a sua mocidade, e repousou nas suas borras, e não foi mudado de vasilha para vasilha, nem foi para o cativeiro; por isso conservou o seu sabor, e o seu cheiro não se alterou."
+        },
+        {
+          "verse": 12,
+          "text": "Portanto, eis que dias vêm, diz o Senhor, em que lhe enviarei derramadores que o derramarão; e despejarão as suas vasilhas, e romperão os seus odres."
+        },
+        {
+          "verse": 13,
+          "text": "E Moabe terá vergonha de Quemós como a casa de Israel se envergonhou de Betel, sua confiança."
+        },
+        {
+          "verse": 14,
+          "text": "Como direis: Somos valentes e homens fortes para a guerra?"
+        },
+        {
+          "verse": 15,
+          "text": "Moabe está destruído, e subiu das suas cidades, e os seus jovens escolhidos desceram à matança, diz o Rei, cujo nome é o Senhor dos Exércitos."
+        },
+        {
+          "verse": 16,
+          "text": "Está prestes a vir a calamidade de Moabe; e apressa-se muito a sua aflição."
+        },
+        {
+          "verse": 17,
+          "text": "Condoei-vos dele todos os que estais ao seu redor, e todos os que sabeis o seu nome; dizei: Como se quebrou a vara forte, o cajado formoso?"
+        },
+        {
+          "verse": 18,
+          "text": "Desce da tua glória, e assenta-te em terra seca, ó moradora, filha de Dibom; porque o destruidor de Moabe subiu contra ti, e desfez as tuas fortalezas."
+        },
+        {
+          "verse": 19,
+          "text": "Põe-te no caminho, e espia, ó moradora de Aroer; pergunta ao que vai fugindo; e à que escapou dize: Que sucedeu?"
+        },
+        {
+          "verse": 20,
+          "text": "Moabe está envergonhado, porque foi quebrantado; lamentai e gritai; anunciai em Arnom que Moabe está destruído."
+        },
+        {
+          "verse": 21,
+          "text": "Também o julgamento veio sobre a terra da campina; sobre Holom, sobre Jaza, sobre Mefaate,"
+        },
+        {
+          "verse": 22,
+          "text": "Sobre Dibom, sobre Nebo, sobre Bete-Diblataim,"
+        },
+        {
+          "verse": 23,
+          "text": "Sobre Quiriataim, sobre Bete-Gamul, sobre Bete-Meom,"
+        },
+        {
+          "verse": 24,
+          "text": "Sobre Queriote, e sobre Bozra; e até sobre todas as cidades da terra de Moabe, as de longe e as de perto."
+        },
+        {
+          "verse": 25,
+          "text": "Já é cortado o poder de Moabe, e é quebrantado o seu braço, diz o Senhor."
+        },
+        {
+          "verse": 26,
+          "text": "Embriagai-o, porque contra o Senhor se engrandeceu; e Moabe se revolverá no seu vômito, e ele também se tornará objeto de escárnio."
+        },
+        {
+          "verse": 27,
+          "text": "Pois não foi também Israel objeto de escárnio? Porventura foi achado entre ladrões, para que sempre que fales dele, saltes de alegria?"
+        },
+        {
+          "verse": 28,
+          "text": "Deixai as cidades, e habitai no rochedo, ó moradores de Moabe; e sede como a pomba que se aninha nos lados da boca da caverna."
+        },
+        {
+          "verse": 29,
+          "text": "Ouvimos da soberba de Moabe, que é soberbíssimo, como também da sua arrogância, e da sua vaidade, e da sua altivez e do seu orgulhoso coração."
+        },
+        {
+          "verse": 30,
+          "text": "Eu conheço, diz o Senhor, a sua indignação, mas isso nada é; as suas mentiras nada farão."
+        },
+        {
+          "verse": 31,
+          "text": "Por isso gemerei por Moabe, sim, gritarei por todo o Moabe; pelos homens de Quir-Heres lamentarei;"
+        },
+        {
+          "verse": 32,
+          "text": "Com o choro de Jazer chorar-te-ei, ó vide de Sibma; os teus ramos passaram o mar, chegaram até ao mar de Jazer; porém o destruidor caiu sobre os teus frutos do verão, e sobre a tua vindima."
+        },
+        {
+          "verse": 33,
+          "text": "Tirou-se, pois, o folguedo e a alegria do campo fértil e da terra de Moabe; porque fiz cessar o vinho nos lagares; já não pisarão uvas com júbilo; o júbilo não será júbilo."
+        },
+        {
+          "verse": 34,
+          "text": "Por causa do grito de Hesbom até Eleale e até Jaaz, se ouviu a sua voz desde Zoar até Horonaim, como bezerra de três anos; porque até as águas do Ninrim se tornarão em assolação."
+        },
+        {
+          "verse": 35,
+          "text": "E farei cessar em Moabe, diz o Senhor, quem sacrifique nos altos, e queime incenso aos seus deuses."
+        },
+        {
+          "verse": 36,
+          "text": "Por isso ressoará como flauta o meu coração por Moabe, também ressoará como flauta o meu coração pelos homens de Quir-Heres; porquanto a abundância que ajuntou se perdeu."
+        },
+        {
+          "verse": 37,
+          "text": "Porque toda a cabeça será tosquiada, e toda a barba será diminuída; sobre todas as mãos haverá sarjaduras, e sobre os lombos, sacos."
+        },
+        {
+          "verse": 38,
+          "text": "Sobre todos os telhados de Moabe e nas suas ruas haverá um pranto geral; porque quebrei a Moabe, como a um vaso que não agrada, diz o Senhor."
+        },
+        {
+          "verse": 39,
+          "text": "Como está quebrantado! Como gritam! Como virou Moabe a cerviz envergonhado! Assim será Moabe objeto de escárnio e de desmaio, para todos que estão em redor dele."
+        },
+        {
+          "verse": 40,
+          "text": "Porque assim diz o Senhor: Eis que voará como a águia, e estenderá as suas asas sobre Moabe."
+        },
+        {
+          "verse": 41,
+          "text": "São tomadas as cidades, e ocupadas as fortalezas; e naquele dia será o coração dos valentes de Moabe como o coração da mulher que está com dores de parto."
+        },
+        {
+          "verse": 42,
+          "text": "E Moabe será destruído, para que não seja povo; porque se engrandeceu contra o Senhor."
+        },
+        {
+          "verse": 43,
+          "text": "Temor, e cova, e laço, vêm sobre ti, ó morador de Moabe, diz o Senhor."
+        },
+        {
+          "verse": 44,
+          "text": "O que fugir do temor cairá na cova, e o que subir da cova ficará preso no laço; porque trarei sobre ele, sobre Moabe, o ano do seu castigo, diz o Senhor."
+        },
+        {
+          "verse": 45,
+          "text": "Os que fugiam sem força pararam à sombra de Hesbom; pois saiu fogo de Hesbom, e a labareda do meio de Siom, e devorou o canto de Moabe e o alto da cabeça dos turbulentos."
+        },
+        {
+          "verse": 46,
+          "text": "Ai de ti, Moabe! Pereceu o povo de Quemós; porque teus filhos ficaram cativos, e tuas filhas em cativeiro."
+        },
+        {
+          "verse": 47,
+          "text": "Mas nos últimos dias farei voltar os cativos de Moabe, diz o Senhor. Até aqui o juízo de Moabe."
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Contra os filhos de Amom. Assim diz o Senhor: Acaso Israel não tem filhos, nem tem herdeiro? Por que, pois, herdou o rei deles a Gade e o seu povo habitou nas suas cidades?"
+        },
+        {
+          "verse": 2,
+          "text": "Portanto, eis que vêm dias, diz o Senhor, em que farei ouvir em Rabá dos filhos de Amom o alarido de guerra, e tornar-se-á num montão de ruínas, e os lugares da sua jurisdição serão queimados a fogo; e Israel herdará aos que o herdaram, diz o Senhor."
+        },
+        {
+          "verse": 3,
+          "text": "Lamenta, ó Hesbom, porque é destruída Ai; clamai, ó filhas de Rabá, cingi-vos de sacos, lamentai, e dai voltas pelos valados; porque o rei deles irá em cativeiro, juntamente com seus sacerdotes e os seus príncipes."
+        },
+        {
+          "verse": 4,
+          "text": "Por que te glorias nos vales, teus luxuriantes vales, ó filha rebelde, que confias nos teus tesouros, dizendo: Quem virá contra mim?"
+        },
+        {
+          "verse": 5,
+          "text": "Eis que eu trarei temor sobre ti, diz o Senhor Deus dos Exércitos, de todos os que estão ao redor de ti; e sereis lançados fora cada um diante de si, e ninguém recolherá o desgarrado."
+        },
+        {
+          "verse": 6,
+          "text": "Mas depois disto farei voltar os cativos dos filhos de Amom, diz o Senhor."
+        },
+        {
+          "verse": 7,
+          "text": "Acerca de Edom. Assim diz o Senhor dos Exércitos: Acaso não há mais sabedoria em Temã? Pereceu o conselho dos entendidos? Corrompeu-se a sua sabedoria?"
+        },
+        {
+          "verse": 8,
+          "text": "Fugi, voltai-vos, buscai profundezas para habitar, ó moradores de Dedã, porque eu trarei sobre ele a ruína de Esaú, no tempo em que o castiguei."
+        },
+        {
+          "verse": 9,
+          "text": "Se vindimadores viessem a ti, não deixariam rabiscos? Se ladrões de noite viessem, não te danificariam quanto lhes bastasse?"
+        },
+        {
+          "verse": 10,
+          "text": "Mas eu despi a Esaú, descobri os seus esconderijos, e não se poderá esconder; foi destruída a sua descendência, como também seus irmãos e seus vizinhos, e ele já não existe."
+        },
+        {
+          "verse": 11,
+          "text": "Deixa os teus órfãos, eu os guardarei em vida; e as tuas viúvas confiem em mim."
+        },
+        {
+          "verse": 12,
+          "text": "Porque assim diz o Senhor: Eis que os que não estavam condenados a beber do copo, totalmente o beberão; e tu ficarias inteiramente impune? Não ficarás impune, mas certamente o beberás."
+        },
+        {
+          "verse": 13,
+          "text": "Porque por mim mesmo jurei, diz o Senhor, que Bozra servirá de espanto, de opróbrio, de assolação, e de maldição; e todas as suas cidades se tornarão em desolações perpétuas."
+        },
+        {
+          "verse": 14,
+          "text": "Ouvi novas vindas do Senhor, que um embaixador é enviado aos gentios, para lhes dizer: Ajuntai-vos, e vinde contra ela, e levantai-vos para a guerra."
+        },
+        {
+          "verse": 15,
+          "text": "Porque eis que te fiz pequeno entre os gentios, desprezado entre os homens."
+        },
+        {
+          "verse": 16,
+          "text": "Quanto à tua terribilidade, enganou-te a arrogância do teu coração, tu que habitas nas cavernas das rochas, que ocupas as alturas dos outeiros; ainda que eleves o teu ninho como a águia, de lá te derrubarei, diz o Senhor."
+        },
+        {
+          "verse": 17,
+          "text": "Assim servirá Edom de desolação; todo aquele que passar por ela se espantará, e assobiará por causa de todas as suas pragas."
+        },
+        {
+          "verse": 18,
+          "text": "Será como a destruição de Sodoma e Gomorra, e dos seus vizinhos, diz o Senhor; não habitará ninguém ali, nem morará nela filho de homem."
+        },
+        {
+          "verse": 19,
+          "text": "Eis que ele como leão subirá da enchente do Jordão contra a morada do forte; porque num momento o farei correr dali; e quem é o escolhido que porei sobre ela? Pois quem é semelhante a mim? E quem me fixará o tempo? E quem é o pastor que subsistirá perante mim?"
+        },
+        {
+          "verse": 20,
+          "text": "Portanto ouvi o conselho do Senhor, que ele decretou contra Edom, e os seus desígnios que ele intentou entre os moradores de Temã: Certamente os menores do rebanho serão arrastados; certamente ele assolará as suas moradas com eles."
+        },
+        {
+          "verse": 21,
+          "text": "A terra estremeceu com o estrondo da sua queda; e do seu grito, até ao Mar Vermelho se ouviu o som."
+        },
+        {
+          "verse": 22,
+          "text": "Eis que ele como águia subirá, e voará, e estenderá as suas asas contra Bozra; e o coração dos valentes de Edom naquele dia será como o coração da mulher que está com dores de parto."
+        },
+        {
+          "verse": 23,
+          "text": "Acerca de Damasco. Envergonhou-se Hamate e Arpade, porquanto ouviram más novas, desmaiaram; no mar há angústia, não se pode sossegar."
+        },
+        {
+          "verse": 24,
+          "text": "Enfraquecida está Damasco; virou as costas para fugir, e o tremor a tomou; angústia e dores a tomaram como da que está de parto."
+        },
+        {
+          "verse": 25,
+          "text": "Como está abandonada a cidade do louvor, a cidade da minha alegria!"
+        },
+        {
+          "verse": 26,
+          "text": "Portanto cairão os seus jovens nas suas ruas; e todos os homens de guerra serão consumidos naquele dia, diz o Senhor dos Exércitos."
+        },
+        {
+          "verse": 27,
+          "text": "E acenderei fogo no muro de Damasco, e consumirá os palácios de Ben-Hadade."
+        },
+        {
+          "verse": 28,
+          "text": "Acerca de Quedar, e dos reinos de Hazor, que Nabucodonosor, rei de Babilônia, feriu. Assim diz o Senhor: Levantai-vos, subi contra Quedar, e destruí os filhos do oriente."
+        },
+        {
+          "verse": 29,
+          "text": "Tomarão as suas tendas, os seus gados, as suas cortinas e todos os seus utensílios, e os seus camelos levarão para si; e lhes clamarão: Há medo por todos os lados."
+        },
+        {
+          "verse": 30,
+          "text": "Fugi, desviai-vos para muito longe, buscai profundezas para habitar, ó moradores de Hazor, diz o Senhor; porque Nabucodonosor, rei de Babilônia, tomou conselho contra vós, e formou um desígnio contra vós."
+        },
+        {
+          "verse": 31,
+          "text": "Levantai-vos, subi contra uma nação tranquila, que habita confiadamente, diz o Senhor, que não tem portas, nem ferrolhos; habitam sós."
+        },
+        {
+          "verse": 32,
+          "text": "E os seus camelos serão para presa, e a multidão dos seus gados para despojo; e os espalharei a todo o vento, àqueles que estão nos lugares mais distantes, e de todos os seus lados lhes trarei a sua ruína, diz o Senhor."
+        },
+        {
+          "verse": 33,
+          "text": "E Hazor se tornará em morada de chacais, em assolação para sempre; ninguém habitará ali, nem morará nela filho de homem."
+        },
+        {
+          "verse": 34,
+          "text": "A palavra do Senhor, que veio a Jeremias, o profeta, contra Elão, no princípio do reinado de Zedequias, rei de Judá, dizendo:"
+        },
+        {
+          "verse": 35,
+          "text": "Assim diz o Senhor dos Exércitos: Eis que eu quebrarei o arco de Elão, o principal do seu poder."
+        },
+        {
+          "verse": 36,
+          "text": "E trarei sobre Elão os quatro ventos dos quatro cantos dos céus, e os espalharei na direção de todos estes ventos; e não haverá nação aonde não cheguem os fugitivos de Elão."
+        },
+        {
+          "verse": 37,
+          "text": "E farei que Elão tema diante de seus inimigos e diante dos que procuram a sua morte; e farei vir sobre eles o mal, o furor da minha ira, diz o Senhor; e enviarei após eles a espada, até que venha a consumi-los."
+        },
+        {
+          "verse": 38,
+          "text": "E porei o meu trono em Elão; e destruirei dali o rei e os príncipes, diz o Senhor."
+        },
+        {
+          "verse": 39,
+          "text": "Acontecerá, porém, nos últimos dias, que farei voltar os cativos de Elão, diz o Senhor."
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "A palavra que falou o Senhor contra a Babilônia, contra a terra dos caldeus, por intermédio de Jeremias, o profeta."
+        },
+        {
+          "verse": 2,
+          "text": "Anunciai entre as nações; e fazei ouvir, e arvorai um estandarte, fazei ouvir, não encubrais; dizei: Tomada está Babilônia, confundido está Bel, espatifado está Merodaque, confundidos estão os seus ídolos, e quebradas estão as suas imagens."
+        },
+        {
+          "verse": 3,
+          "text": "Porque subiu contra ela uma nação do norte, que fará da sua terra uma solidão, e não haverá quem nela habite; tanto os homens como os animais fugiram, e se foram."
+        },
+        {
+          "verse": 4,
+          "text": "Naqueles dias, e naquele tempo, diz o Senhor, os filhos de Israel virão, eles e os filhos de Judá juntamente; andando e chorando virão, e buscarão ao Senhor seu Deus."
+        },
+        {
+          "verse": 5,
+          "text": "Pelo caminho de Sião perguntarão, para ali voltarão os seus rostos, dizendo: Vinde, e unamo-nos ao Senhor, numa aliança eterna que nunca será esquecida."
+        },
+        {
+          "verse": 6,
+          "text": "Ovelhas perdidas têm sido o meu povo, os seus pastores as fizeram errar, para os montes as desviaram; de monte para outeiro andaram, esqueceram-se do lugar do seu repouso."
+        },
+        {
+          "verse": 7,
+          "text": "Todos os que as achavam as devoravam, e os seus adversários diziam: Culpa nenhuma teremos; porque pecaram contra o Senhor, a morada da justiça, sim, o Senhor, a esperança de seus pais."
+        },
+        {
+          "verse": 8,
+          "text": "Fugi do meio de Babilônia, e saí da terra dos caldeus, e sede como os bodes diante do rebanho."
+        },
+        {
+          "verse": 9,
+          "text": "Porque eis que eu suscitarei e farei subir contra a Babilônia uma congregação de grandes nações da terra do norte, e se prepararão contra ela; dali será tomada; as suas flechas serão como as de valente herói, nenhuma tornará sem efeito."
+        },
+        {
+          "verse": 10,
+          "text": "A Caldeia servirá de presa; todos os que a saquearam serão fartos, diz o Senhor."
+        },
+        {
+          "verse": 11,
+          "text": "Porquanto vos alegrastes, e vos regozijastes, ó saqueadores da minha herança, porquanto vos engordastes como novilha no pasto, e mugistes como touros."
+        },
+        {
+          "verse": 12,
+          "text": "Será mui confundida vossa mãe, ficará envergonhada a que vos deu à luz; eis que ela será a última das nações, um deserto, uma terra seca e uma solidão."
+        },
+        {
+          "verse": 13,
+          "text": "Por causa do furor do Senhor não será habitada, antes se tornará em total assolação; qualquer que passar por Babilônia se espantará, assobiará por todas as suas pragas."
+        },
+        {
+          "verse": 14,
+          "text": "Ordenai-vos contra Babilônia ao redor, todos os que armais arcos; atirai-lhe, não poupeis as flechas, porque pecou contra o Senhor."
+        },
+        {
+          "verse": 15,
+          "text": "Gritai contra ela ao redor, ela já se submeteu; caíram seus fundamentos, estão derrubados os seus muros; porque esta é a vingança do Senhor; vingai-vos dela; como ela fez, assim lhe fazei."
+        },
+        {
+          "verse": 16,
+          "text": "Arrancai de Babilônia o que semeia, e o que leva a foice no tempo da sega; por causa da espada aflitiva virar-se-á cada um para o seu povo, e fugirá cada um para a sua terra."
+        },
+        {
+          "verse": 17,
+          "text": "Cordeiro desgarrado é Israel; os leões o afugentaram; o primeiro a devorá-lo foi o rei da Assíria; e, por último Nabucodonosor, rei de Babilônia, lhe quebrou os ossos."
+        },
+        {
+          "verse": 18,
+          "text": "Portanto, assim diz o Senhor dos Exércitos, Deus de Israel: Eis que castigarei o rei de Babilônia, e a sua terra, como castiguei o rei da Assíria."
+        },
+        {
+          "verse": 19,
+          "text": "E farei tornar Israel para a sua morada, e ele pastará no Carmelo e em Basã; e fartar-se-á a sua alma no monte de Efraim e em Gileade."
+        },
+        {
+          "verse": 20,
+          "text": "Naqueles dias, e naquele tempo, diz o Senhor, buscar-se-á a maldade de Israel, e não será achada; e os pecados de Judá, mas não se acharão; porque perdoarei os remanescentes que eu deixar."
+        },
+        {
+          "verse": 21,
+          "text": "Sobe contra a terra de Merataim, sim, contra ela, e contra os moradores de Pecode; assola e inteiramente destrói tudo após eles, diz o Senhor, e faze conforme tudo o que te mandei."
+        },
+        {
+          "verse": 22,
+          "text": "Estrondo de batalha há na terra, e de grande destruição."
+        },
+        {
+          "verse": 23,
+          "text": "Como foi cortado e quebrado o martelo de toda a terra! Como se tornou Babilônia objeto de espanto entre as nações!"
+        },
+        {
+          "verse": 24,
+          "text": "Laços te armei, e também foste presa, ó Babilônia, e tu não o soubeste; foste achada, e também apanhada; porque contra o Senhor te entremeteste."
+        },
+        {
+          "verse": 25,
+          "text": "O Senhor abriu o seu depósito, e tirou os instrumentos da sua indignação; porque o Senhor Deus dos Exércitos, tem uma obra a realizar na terra dos caldeus."
+        },
+        {
+          "verse": 26,
+          "text": "Vinde contra ela dos confins da terra, abri os seus celeiros; fazei dela montões de ruínas, e destruí-a de todo; nada lhe fique de sobra."
+        },
+        {
+          "verse": 27,
+          "text": "Matai a todos os seus novilhos, desçam a matança. Ai deles, porque veio o seu dia, o tempo do seu castigo!"
+        },
+        {
+          "verse": 28,
+          "text": "Eis a voz dos que fugiram e escaparam da terra de Babilônia, para anunciarem em Sião a vingança do Senhor nosso Deus, a vingança do seu templo."
+        },
+        {
+          "verse": 29,
+          "text": "Convocai contra Babilônia os flecheiros, a todos os que armam arcos; acampai-vos contra ela em redor, ninguém escape dela; pagai-lhe conforme a sua obra, conforme tudo o que fez, fazei-lhe; porque se houve arrogantemente contra o Senhor, contra o Santo de Israel."
+        },
+        {
+          "verse": 30,
+          "text": "Portanto, cairão os seus jovens nas suas ruas; e todos os seus homens de guerra serão desarraigados naquele dia, diz o Senhor."
+        },
+        {
+          "verse": 31,
+          "text": "Eis que eu sou contra ti, ó soberbo, diz o Senhor Deus dos Exércitos; porque veio o teu dia, o tempo em que te hei de castigar."
+        },
+        {
+          "verse": 32,
+          "text": "Então tropeçará o soberbo, e cairá, e ninguém haverá que o levante; e porei fogo nas suas cidades, o qual consumirá todos os seus arredores."
+        },
+        {
+          "verse": 33,
+          "text": "Assim diz o Senhor dos Exércitos: Os filhos de Israel e os filhos de Judá foram oprimidos juntamente; e todos os que os levaram cativos os retiveram, não os quiseram soltar."
+        },
+        {
+          "verse": 34,
+          "text": "Mas o seu Redentor é forte, o Senhor dos Exércitos é o seu nome; certamente pleiteará a causa deles, para dar descanso à terra, e inquietar os moradores de Babilônia."
+        },
+        {
+          "verse": 35,
+          "text": "A espada virá sobre os caldeus, diz o Senhor, e sobre os moradores de Babilônia, e sobre os seus príncipes, e sobre os seus sábios."
+        },
+        {
+          "verse": 36,
+          "text": "A espada virá sobre os mentirosos, e ficarão insensatos; a espada virá sobre os seus poderosos, e desfalecerão."
+        },
+        {
+          "verse": 37,
+          "text": "A espada virá sobre os seus cavalos, e sobre os seus carros, e sobre toda a mistura de povos, que está no meio dela; e tornar-se-ão como mulheres; a espada virá sobre os seus tesouros, e serão saqueados."
+        },
+        {
+          "verse": 38,
+          "text": "Cairá a seca sobre as suas águas, e secarão; porque é uma terra de imagens esculpidas, e pelos seus ídolos andam enfurecidos."
+        },
+        {
+          "verse": 39,
+          "text": "Por isso habitarão nela as feras do deserto, com os animais selvagens das ilhas; também habitarão nela as avestruzes; e nunca mais será povoada, nem será habitada de geração em geração."
+        },
+        {
+          "verse": 40,
+          "text": "Como quando Deus subverteu a Sodoma e a Gomorra, e as suas cidades vizinhas, diz o Senhor, assim ninguém habitará ali, nem morará nela filho de homem."
+        },
+        {
+          "verse": 41,
+          "text": "Eis que um povo vem do norte; uma grande nação e muitos reis se levantarão dos extremos da terra."
+        },
+        {
+          "verse": 42,
+          "text": "Armam-se de arco e lança; eles são cruéis, e não têm piedade; a sua voz bramará como o mar, e sobre cavalos cavalgarão, todos postos em ordem como um homem para a batalha, contra ti, ó filha de Babilônia."
+        },
+        {
+          "verse": 43,
+          "text": "O rei de Babilônia ouviu a sua fama, e desfaleceram as suas mãos; a angústia se apoderou dele, dores como da que está de parto."
+        },
+        {
+          "verse": 44,
+          "text": "Eis que ele como leão subirá da enchente do Jordão, contra a morada forte, porque num momento o farei correr dali; e quem é o escolhido que porei sobre ela? Porque quem é semelhante a mim, e quem me fixará o tempo? E quem é o pastor que poderá permanecer perante mim?"
+        },
+        {
+          "verse": 45,
+          "text": "Portanto ouvi o conselho do Senhor, que ele decretou contra Babilônia, e os seus desígnios que intentou contra a terra dos caldeus: certamente os pequenos do rebanho os arrastarão; certamente ele assolará as suas moradas sobre eles."
+        },
+        {
+          "verse": 46,
+          "text": "Ao estrondo da tomada de Babilônia estremeceu a terra; e o grito se ouviu entre as nações."
+        }
+      ]
+    },
+    {
+      "chapter": 51,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Assim diz o Senhor: Eis que levantarei um vento destruidor contra Babilônia, e contra os que habitam no meio dos que se levantam contra mim."
+        },
+        {
+          "verse": 2,
+          "text": "E enviarei padejadores contra Babilônia, que a padejarão, e despejarão a sua terra; porque virão contra ela em redor no dia da calamidade."
+        },
+        {
+          "verse": 3,
+          "text": "O flecheiro arme o seu arco contra o que arma o seu arco, e contra o que se exalta na sua couraça; e não perdoeis aos seus jovens; destruí a todo o seu exército."
+        },
+        {
+          "verse": 4,
+          "text": "E os mortos cairão na terra dos caldeus, e atravessados nas suas ruas."
+        },
+        {
+          "verse": 5,
+          "text": "Porque Israel e Judá não foram abandonados do seu Deus, do Senhor dos Exércitos, ainda que a sua terra esteja cheia de culpas contra o Santo de Israel."
+        },
+        {
+          "verse": 6,
+          "text": "Fugi do meio de Babilônia, e livrai cada um a sua alma, e não vos destruais na sua maldade; porque este é o tempo da vingança do Senhor; que lhe dará a sua recompensa."
+        },
+        {
+          "verse": 7,
+          "text": "Babilônia era um copo de ouro na mão do Senhor, o qual embriagava a toda a terra; do seu vinho beberam as nações; por isso as nações enlouqueceram."
+        },
+        {
+          "verse": 8,
+          "text": "Num momento caiu Babilônia, e ficou arruinada; lamentai por ela, tomai bálsamo para a sua dor, porventura sarará."
+        },
+        {
+          "verse": 9,
+          "text": "Queríamos curar Babilônia, porém ela não sarou; deixai-a, e vamo-nos cada um para a sua terra; porque o seu juízo chegou até ao céu, e se elevou até às mais altas nuvens."
+        },
+        {
+          "verse": 10,
+          "text": "O Senhor trouxe a nossa justiça à luz; vinde e contemos em Sião a obra do Senhor, nosso Deus."
+        },
+        {
+          "verse": 11,
+          "text": "Aguçai as flechas, preparai os escudos; o Senhor despertou o espírito dos reis da Média; porque o seu intento é contra Babilônia para a destruir; porque esta é a vingança do Senhor, a vingança do seu templo."
+        },
+        {
+          "verse": 12,
+          "text": "Arvorai um estandarte sobre os muros de Babilônia, reforçai a guarda, colocai sentinelas, preparai as ciladas; porque como o Senhor intentou, assim fez o que tinha falado contra os moradores de Babilônia."
+        },
+        {
+          "verse": 13,
+          "text": "Ó tu, que habitas sobre muitas águas, rica de tesouros, é chegado o teu fim, a medida da tua avareza."
+        },
+        {
+          "verse": 14,
+          "text": "Jurou o Senhor dos Exércitos por si mesmo, dizendo: Ainda que te enchi de homens, como de lagarta, contudo levantarão gritaria contra ti."
+        },
+        {
+          "verse": 15,
+          "text": "Ele fez a terra com o seu poder, e ordenou o mundo com a sua sabedoria, e estendeu os céus com o seu entendimento."
+        },
+        {
+          "verse": 16,
+          "text": "Fazendo ele ouvir a sua voz, grande estrondo de águas há nos céus, e faz subir os vapores desde o fim da terra; faz os relâmpagos com a chuva, e tira o vento dos seus tesouros,"
+        },
+        {
+          "verse": 17,
+          "text": "Embrutecido é todo o homem, no seu conhecimento; envergonha-se todo o artífice da imagem de escultura; porque a sua imagem de fundição é mentira, e nelas não há espírito."
+        },
+        {
+          "verse": 18,
+          "text": "Vaidade são, obra de enganos; no tempo da sua visitação perecerão."
+        },
+        {
+          "verse": 19,
+          "text": "Não é semelhante a estes a porção de Jacó; porque ele é o que formou tudo; e Israel é a tribo da sua herança; o Senhor dos Exércitos é o seu nome."
+        },
+        {
+          "verse": 20,
+          "text": "Tu és meu machado de batalha e minhas armas de guerra, e por meio de ti despedaçarei as nações e por ti destruirei os reis;"
+        },
+        {
+          "verse": 21,
+          "text": "E por meio de ti despedaçarei o cavalo e o seu cavaleiro; e por meio de ti despedaçarei o carro e o que nele vai;"
+        },
+        {
+          "verse": 22,
+          "text": "E por meio de ti despedaçarei o homem e a mulher, e por meio de ti despedaçarei o velho e o moço, e por meio de ti despedaçarei o jovem e a virgem;"
+        },
+        {
+          "verse": 23,
+          "text": "E por meio de ti despedaçarei o pastor e o seu rebanho, e por meio de ti despedaçarei o lavrador e a sua junta de bois, e por meio de ti despedaçarei os capitães e os magistrados."
+        },
+        {
+          "verse": 24,
+          "text": "E pagarei a Babilônia, e a todos os moradores da Caldeia, toda a maldade que fizeram em Sião, aos vossos olhos, diz o Senhor."
+        },
+        {
+          "verse": 25,
+          "text": "Eis-me aqui contra ti, ó monte destruidor, diz o Senhor, que destróis toda a terra; e estenderei a minha mão contra ti, e te revolverei das rochas, e farei de ti um monte de queima."
+        },
+        {
+          "verse": 26,
+          "text": "E não tomarão de ti pedra para esquina, nem pedra para fundamentos, porque te tornarás em assolação perpétua, diz o Senhor."
+        },
+        {
+          "verse": 27,
+          "text": "Arvorai um estandarte na terra, tocai a trombeta entre as nações, preparai as nações contra ela, convocai contra ela os reinos de Ararate, Mini, e Asquenaz; ordenai contra ela um capitão, fazei subir cavalos, como lagartas eriçadas."
+        },
+        {
+          "verse": 28,
+          "text": "Preparai contra ela as nações, os reis da Média, os seus capitães, e todos os seus magistrados, e toda a terra do seu domínio."
+        },
+        {
+          "verse": 29,
+          "text": "Então tremerá a terra, e doer-se-á, porque cada um dos desígnios do Senhor está firme contra Babilônia, para fazer da terra de Babilônia uma desolação, sem habitantes."
+        },
+        {
+          "verse": 30,
+          "text": "Os poderosos de Babilônia cessaram de pelejar, ficaram nas fortalezas, desfaleceu a sua força, tornaram-se como mulheres; incendiaram as suas moradas, quebrados foram os seus ferrolhos."
+        },
+        {
+          "verse": 31,
+          "text": "Um correio correrá ao encontro de outro correio, e um mensageiro ao encontro de outro mensageiro, para anunciar ao rei de Babilônia que a sua cidade está tomada de todos os lados."
+        },
+        {
+          "verse": 32,
+          "text": "E os vaus estão ocupados, e os canaviais queimados a fogo; e os homens de guerra ficaram assombrados."
+        },
+        {
+          "verse": 33,
+          "text": "Porque assim diz o Senhor dos Exércitos, o Deus de Israel: A filha de Babilônia é como uma eira, no tempo da debulha; ainda um pouco, e o tempo da sega lhe virá."
+        },
+        {
+          "verse": 34,
+          "text": "Nabucodonosor, rei de Babilônia, devorou-me, colocou-me de lado, fez de mim um vaso vazio, como chacal me tragou, encheu o seu ventre das minhas delicadezas; lançou-me fora."
+        },
+        {
+          "verse": 35,
+          "text": "A violência que se fez a mim e à minha carne venha sobre Babilônia, dirá a moradora de Sião; e o meu sangue caia sobre os moradores da Caldeia, dirá Jerusalém."
+        },
+        {
+          "verse": 36,
+          "text": "Portanto, assim diz o Senhor: Eis que pleitearei a tua causa, e tomarei vingança por ti; e secarei o seu mar, e farei que se esgote o seu manancial."
+        },
+        {
+          "verse": 37,
+          "text": "E Babilônia se tornará em montões, morada de chacais, espanto e assobio, sem que haja quem nela habite."
+        },
+        {
+          "verse": 38,
+          "text": "Juntamente rugirão como filhos dos leões; bramarão como filhotes de leões."
+        },
+        {
+          "verse": 39,
+          "text": "Estando eles excitados, lhes darei a sua bebida, e os embriagarei, para que andem saltando; porém dormirão um perpétuo sono, e não acordarão, diz o Senhor."
+        },
+        {
+          "verse": 40,
+          "text": "Os farei descer como cordeiros à matança, como carneiros e bodes."
+        },
+        {
+          "verse": 41,
+          "text": "Como foi tomada Sesaque, e apanhada de surpresa a glória de toda a terra! Como se tornou Babilônia objeto de espanto entre as nações!"
+        },
+        {
+          "verse": 42,
+          "text": "O mar subiu sobre Babilônia; com a multidão das suas ondas se cobriu."
+        },
+        {
+          "verse": 43,
+          "text": "Tornaram-se as suas cidades em desolação, terra seca e deserta, terra em que ninguém habita, nem passa por ela filho de homem."
+        },
+        {
+          "verse": 44,
+          "text": "E castigarei a Bel em Babilônia, e tirarei da sua boca o que tragou, e nunca mais concorrerão a ele as nações; também o muro de Babilônia caiu."
+        },
+        {
+          "verse": 45,
+          "text": "Saí do meio dela, ó povo meu, e livrai cada um a sua alma do ardor da ira do Senhor."
+        },
+        {
+          "verse": 46,
+          "text": "E para que porventura não se enterneça o vosso coração, e não temais pelo rumor que se ouvir na terra; porque virá num ano um rumor, e depois noutro ano outro rumor; e haverá violência na terra, dominador contra dominador."
+        },
+        {
+          "verse": 47,
+          "text": "Portanto, eis que vêm dias, em que farei juízo sobre as imagens de escultura de Babilônia, e toda a sua terra será envergonhada, e todos os seus mortos cairão no meio dela."
+        },
+        {
+          "verse": 48,
+          "text": "E os céus e a terra, com tudo quanto neles há, jubilarão sobre Babilônia; porque do norte lhe virão os destruidores, diz o Senhor."
+        },
+        {
+          "verse": 49,
+          "text": "Como Babilônia fez cair mortos os de Israel, assim em Babilônia cairão os mortos de toda a terra."
+        },
+        {
+          "verse": 50,
+          "text": "Vós, que escapastes da espada, ide-vos, não pareis; de longe lembrai-vos do Senhor, e suba Jerusalém a vossa mente."
+        },
+        {
+          "verse": 51,
+          "text": "Direis: Envergonhados estamos, porque ouvimos opróbrio; vergonha cobriu o nosso rosto, porquanto vieram estrangeiros contra os santuários da casa do Senhor."
+        },
+        {
+          "verse": 52,
+          "text": "Portanto, eis que vêm dias, diz o Senhor, em que farei juízo sobre as suas imagens de escultura; e gemerão os feridos em toda a sua terra."
+        },
+        {
+          "verse": 53,
+          "text": "Ainda que Babilônia subisse aos céus, e ainda que fortificasse a altura da sua fortaleza, todavia de mim virão destruidores sobre ela, diz o Senhor."
+        },
+        {
+          "verse": 54,
+          "text": "De Babilônia se ouve clamor de grande destruição da terra dos caldeus;"
+        },
+        {
+          "verse": 55,
+          "text": "Porque o Senhor tem destruído Babilônia, e tem feito perecer nela a sua grande voz; quando as suas ondas bramam como muitas águas, é emitido o ruído da sua voz."
+        },
+        {
+          "verse": 56,
+          "text": "Porque o destruidor vem sobre ela, sobre Babilônia, e os seus poderosos serão presos, já estão quebrados os seus arcos; porque o Senhor, Deus das recompensas, certamente lhe retribuirá."
+        },
+        {
+          "verse": 57,
+          "text": "E embriagarei os seus príncipes, e os seus sábios e os seus capitães, e os seus magistrados, e os seus poderosos; e dormirão um sono eterno, e não acordarão, diz o Rei, cujo nome é o Senhor dos Exércitos."
+        },
+        {
+          "verse": 58,
+          "text": "Assim diz o Senhor dos Exércitos: Os largos muros de Babilônia serão totalmente derrubados, e as suas altas portas serão abrasadas pelo fogo; e trabalharão os povos em vão, e as nações no fogo, e eles se cansarão."
+        },
+        {
+          "verse": 59,
+          "text": "A palavra que Jeremias, o profeta, mandou a Seraías, filho de Nerias, filho de Maaseias, indo ele com Zedequias, rei de Judá, a Babilônia, no quarto ano do seu reinado. E Seraías era o camareiro-mor."
+        },
+        {
+          "verse": 60,
+          "text": "Escreveu, pois, Jeremias num livro todo o mal que havia de vir sobre Babilônia, a saber, todas estas palavras que estavam escritas contra Babilônia."
+        },
+        {
+          "verse": 61,
+          "text": "E disse Jeremias a Seraías: Quando chegares a Babilônia, verás e lerás todas estas palavras."
+        },
+        {
+          "verse": 62,
+          "text": "E dirás: Senhor, tu falaste contra este lugar, que o havias de desarraigar, até não ficar nele morador algum, nem homem nem animal, e que se tornaria em perpétua desolação."
+        },
+        {
+          "verse": 63,
+          "text": "E será que, acabando tu de ler este livro, atar-lhe-ás uma pedra e lançá-lo-ás no meio do Eufrates."
+        },
+        {
+          "verse": 64,
+          "text": "E dirás: Assim será afundada Babilônia, e não se levantará, por causa do mal que eu hei de trazer sobre ela; e eles se cansarão. Até aqui são as palavras de Jeremias."
+        }
+      ]
+    },
+    {
+      "chapter": 52,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Era Zedequias da idade de vinte e um anos quando começou a reinar, e reinou onze anos em Jerusalém; e o nome de sua mãe era Hamutal, filha de Jeremias, de Libna."
+        },
+        {
+          "verse": 2,
+          "text": "E fez o que era mau aos olhos do Senhor, conforme tudo o que fizera Jeoiaquim."
+        },
+        {
+          "verse": 3,
+          "text": "Assim, por causa da ira do Senhor, contra Jerusalém e Judá, ele os lançou de diante dele, e Zedequias se rebelou contra o rei de Babilônia."
+        },
+        {
+          "verse": 4,
+          "text": "E aconteceu, que no ano nono do seu reinado, no décimo mês, no décimo dia do mês, veio Nabucodonosor, rei de Babilônia, contra Jerusalém, ele e todo o seu exército, e se acamparam contra ela, e levantaram contra ela trincheiras ao redor."
+        },
+        {
+          "verse": 5,
+          "text": "Assim esteve cercada a cidade, até ao undécimo ano do rei Zedequias."
+        },
+        {
+          "verse": 6,
+          "text": "No quarto mês, aos nove dias do mês, quando já a fome prevalecia na cidade, e o povo da terra não tinha pão,"
+        },
+        {
+          "verse": 7,
+          "text": "Então foi aberta uma brecha na cidade, e todos os homens de guerra fugiram, e saíram da cidade de noite, pelo caminho da porta entre os dois muros, a qual estava perto do jardim do rei (porque os caldeus cercavam a cidade ao redor), e foram pelo caminho da campina."
+        },
+        {
+          "verse": 8,
+          "text": "Mas o exército dos caldeus perseguiu o rei, e alcançou a Zedequias nas campinas de Jericó, e todo o seu exército se espalhou, abandonando-o."
+        },
+        {
+          "verse": 9,
+          "text": "E prenderam o rei, e o fizeram subir ao rei de Babilônia, a Ribla, na terra de Hamate, o qual lhe pronunciou a sentença."
+        },
+        {
+          "verse": 10,
+          "text": "E o rei de Babilônia degolou os filhos de Zedequias à sua vista, e também degolou a todos os príncipes de Judá em Ribla."
+        },
+        {
+          "verse": 11,
+          "text": "E cegou os olhos a Zedequias, e o atou com cadeias; e o rei de Babilônia o levou para Babilônia, e o conservou na prisão até o dia da sua morte."
+        },
+        {
+          "verse": 12,
+          "text": "E no quinto mês, no décimo dia do mês, que era o décimo nono ano do rei Nabucodonosor, rei de Babilônia, Nebuzaradã, capitão da guarda, que assistia na presença do rei de Babilônia, veio a Jerusalém."
+        },
+        {
+          "verse": 13,
+          "text": "E queimou a casa do Senhor, e a casa do rei; e também a todas as casas de Jerusalém, e a todas as casas dos grandes ele as incendiou."
+        },
+        {
+          "verse": 14,
+          "text": "E todo o exército dos caldeus, que estava com o capitão da guarda, derrubou a todos os muros em redor de Jerusalém."
+        },
+        {
+          "verse": 15,
+          "text": "E dos mais pobres do povo, e a parte do povo, que tinha ficado na cidade, e os rebeldes que se haviam passado para o rei de Babilônia, e o mais da multidão, Nebuzaradã, capitão da guarda, levou presos."
+        },
+        {
+          "verse": 16,
+          "text": "Mas dos mais pobres da terra Nebuzaradã, capitão da guarda, deixou ficar alguns, para serem vinhateiros e lavradores."
+        },
+        {
+          "verse": 17,
+          "text": "Quebraram mais os caldeus as colunas de bronze, que estavam na casa do Senhor, e as bases, e o mar de bronze, que estavam na casa do Senhor, e levaram todo o bronze para Babilônia."
+        },
+        {
+          "verse": 18,
+          "text": "Também tomaram os caldeirões, e as pás, e as espevitadeiras, e as bacias, e as colheres, e todos os utensílios de bronze, com que se ministrava."
+        },
+        {
+          "verse": 19,
+          "text": "E tomou o capitão da guarda as bacias, e os braseiros, e as tigelas, e os caldeirões, e os castiçais, e as colheres, e os copos; tanto o que era de puro ouro, como o que era de prata maciça."
+        },
+        {
+          "verse": 20,
+          "text": "Quanto às duas colunas, ao único mar, e aos doze bois de bronze, que estavam debaixo das bases, que fizera o rei Salomão para a casa do Senhor, o peso do bronze de todos estes utensílios era incalculável."
+        },
+        {
+          "verse": 21,
+          "text": "Quanto às colunas, a altura de cada uma era de dezoito côvados, e um fio de doze côvados a cercava; e era a sua espessura de quatro dedos, e era oca."
+        },
+        {
+          "verse": 22,
+          "text": "E havia sobre ela um capitel de bronze; e a altura do capitel era de cinco côvados; a rede e as romãs ao redor do capitel eram de bronze; e semelhante a esta era a segunda coluna, com as romãs."
+        },
+        {
+          "verse": 23,
+          "text": "E havia noventa e seis romãs em cada lado; as romãs todas, em redor da rede, eram cem."
+        },
+        {
+          "verse": 24,
+          "text": "Levou também o capitão da guarda a Seraías, o sacerdote chefe, e a Sofonias, o segundo sacerdote, e aos três guardas da porta."
+        },
+        {
+          "verse": 25,
+          "text": "E da cidade tomou a um eunuco que tinha a seu cargo os homens de guerra, e a sete homens que estavam próximos à pessoa do rei, que se achavam na cidade, como também o escrivão-mor do exército, que alistava o povo da terra para a guerra, e a sessenta homens do povo da terra, que se achavam no meio da cidade."
+        },
+        {
+          "verse": 26,
+          "text": "Tomando-os, pois, Nebuzaradã, capitão da guarda, levou-os ao rei de Babilônia, a Ribla."
+        },
+        {
+          "verse": 27,
+          "text": "E o rei de Babilônia os feriu e os matou em Ribla, na terra de Hamate; assim Judá foi levado cativo para fora da sua terra."
+        },
+        {
+          "verse": 28,
+          "text": "Este é o povo que Nabucodonosor levou cativo, no sétimo ano: três mil e vinte e três judeus."
+        },
+        {
+          "verse": 29,
+          "text": "No ano décimo oitavo de Nabucodonosor, ele levou cativas de Jerusalém oitocentas e trinta e duas pessoas."
+        },
+        {
+          "verse": 30,
+          "text": "No ano vinte e três de Nabucodonosor, Nebuzaradã, capitão da guarda, levou cativas, dos judeus, setecentas e quarenta e cinco pessoas; todas as pessoas foram quatro mil e seiscentas."
+        },
+        {
+          "verse": 31,
+          "text": "Sucedeu, pois, no ano trigésimo sétimo do cativeiro de Joaquim, rei de Judá, no duodécimo mês, aos vinte e cinco dias do mês, que Evil-Merodaque, rei de Babilônia, no primeiro ano do seu reinado, levantou a cabeça de Joaquim, rei de Judá, e tirou-o do cárcere;"
+        },
+        {
+          "verse": 32,
+          "text": "E falou com ele benignamente, e pôs o seu trono acima dos tronos dos reis que estavam com ele em Babilônia;"
+        },
+        {
+          "verse": 33,
+          "text": "E lhe fez mudar as vestes da sua prisão; e passou a comer pão sempre na presença do rei, todos os dias da sua vida."
+        },
+        {
+          "verse": 34,
+          "text": "E, quanto à sua alimentação, foi-lhe dada refeição contínua do rei de Babilônia, porção cotidiana, até o dia da sua morte, todos os dias da sua vida."
+        }
+      ]
+    }
+  ]
 };
-            

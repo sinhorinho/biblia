@@ -1,13 +1,488 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['1tm'] = {
-  "1": "<h1>1 Timóteo - Capítulo 1</h1>\n<p><strong>1</strong> Paulo, apóstolo de Jesus Cristo, segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, esperança nossa,</p>\n<p><strong>2</strong> A Timóteo meu verdadeiro filho na fé: Graça, misericórdia e paz da parte de Deus nosso Pai, e da de Cristo Jesus, nosso Senhor.</p>\n<p><strong>3</strong> Como te roguei, quando parti para a Macedônia, que ficasses em Éfeso, para advertires a alguns, que não ensinem outra doutrina,</p>\n<p><strong>4</strong> Nem se deem a fábulas ou a genealogias intermináveis, que mais produzem questões do que edificação de Deus, que consiste na fé; assim o faço agora.</p>\n<p><strong>5</strong> Ora, o fim do mandamento é o amor de um coração puro, e de uma boa consciência, e de uma fé não fingida.</p>\n<p><strong>6</strong> Do que, desviando-se alguns, se entregaram a vãs contendas;</p>\n<p><strong>7</strong> Querendo ser mestres da lei, e não entendendo nem o que dizem nem o que afirmam.</p>\n<p><strong>8</strong> Sabemos, porém, que a lei é boa, se alguém dela usa legitimamente;</p>\n<p><strong>9</strong> Sabendo isto, que a lei não é feita para o justo, mas para os injustos e obstinados, para os ímpios e pecadores, para os profanos e irreligiosos, para os parricidas e matricidas, para os homicidas,</p>\n<p><strong>10</strong> Para os fornicadores, para os sodomitas, para os roubadores de homens, para os mentirosos, para os perjuros, e para o que for contrário à sã doutrina,</p>\n<p><strong>11</strong> Conforme o evangelho da glória de Deus bem-aventurado, que me foi confiado.</p>\n<p><strong>12</strong> E dou graças ao que me tem confortado, a Cristo Jesus Senhor nosso, porque me teve por fiel, pondo-me no ministério;</p>\n<p><strong>13</strong> A mim, que dantes fui blasfemo, e perseguidor, e injurioso; mas alcancei misericórdia, porque o fiz ignorantemente, na incredulidade.</p>\n<p><strong>14</strong> E a graça de nosso Senhor superabundou com a fé e amor que há em Jesus Cristo.</p>\n<p><strong>15</strong> Esta é uma palavra fiel, e digna de toda a aceitação, que Cristo Jesus veio ao mundo, para salvar os pecadores, dos quais eu sou o principal.</p>\n<p><strong>16</strong> Mas por isso alcancei misericórdia, para que em mim, que sou o principal, Jesus Cristo mostrasse toda a sua longanimidade, para exemplo dos que haviam de crer nele para a vida eterna.</p>\n<p><strong>17</strong> Ora, ao Rei dos séculos, imortal, invisível, ao Deus único, sábio, seja honra e glória para todo o sempre. Amém.</p>\n<p><strong>18</strong> Este mandamento te dou, meu filho Timóteo, que, segundo as profecias que houve acerca de ti, milites por elas boa milícia;</p>\n<p><strong>19</strong> Conservando a fé, e a boa consciência, a qual alguns, rejeitando, fizeram naufrágio na fé.</p>\n<p><strong>20</strong> E entre esses foram Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">1 Timóteo 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a></p>\n",
-  "2": "<h1>1 Timóteo - Capítulo 2</h1>\n<p><strong>1</strong> admoesto-te, pois, antes de tudo, que se façam súplicas, orações, intercessões, e ações de graças, por todos os homens;</p>\n<p><strong>2</strong> Pelos reis, e por todos os que estão em eminência, para que tenhamos uma vida quieta e sossegada, em toda a piedade e honestidade;</p>\n<p><strong>3</strong> Porque isto é bom e agradável diante de Deus nosso Salvador,</p>\n<p><strong>4</strong> Que quer que todos os homens sejam salvos, e venham ao conhecimento da verdade.</p>\n<p><strong>5</strong> Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem.</p>\n<p><strong>6</strong> O qual se deu a si mesmo em preço de redenção por todos, para servir de testemunho a seu tempo.</p>\n<p><strong>7</strong> Para o que fui constituído pregador, e apóstolo, (digo a verdade em Cristo, não minto) e doutor dos gentios na fé e na verdade.</p>\n<p><strong>8</strong> Quero, pois, que os homens orem em todo o lugar, levantando mãos santas, sem ira nem contenda.</p>\n<p><strong>9</strong> Que do mesmo modo as mulheres se ataviem em traje honesto, com pudor e modéstia, não com tranças, ou com ouro, ou pérolas, ou vestidos preciosos,</p>\n<p><strong>10</strong> Mas (como convém a mulheres que fazem profissão de servir a Deus) com boas obras.</p>\n<p><strong>11</strong> A mulher aprenda em silêncio, com toda a sujeição.</p>\n<p><strong>12</strong> Não permito, porém, que a mulher ensine, nem use de autoridade sobre o marido, mas que esteja em silêncio.</p>\n<p><strong>13</strong> Porque primeiro foi formado Adão, depois Eva.</p>\n<p><strong>14</strong> E Adão não foi enganado, mas a mulher, sendo enganada, caiu em transgressão.</p>\n<p><strong>15</strong> Salvar-se-á, porém, dando à luz filhos, se permanecerem com sobriedade na fé, no amor e na santificação.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- 1 Timóteo 1</a> | <a href=\"capitulo_3.md\">1 Timóteo 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a></p>\n",
-  "3": "<h1>1 Timóteo - Capítulo 3</h1>\n<p><strong>1</strong> Esta é uma palavra fiel: se alguém deseja o episcopado, excelente obra deseja.</p>\n<p><strong>2</strong> É necessário, pois, que o bispo seja irrepreensível, marido de uma mulher, vigilante, sóbrio, honesto, hospitaleiro, apto para ensinar;</p>\n<p><strong>3</strong> Não dado ao vinho, não espancador, não cobiçoso de torpe ganância, mas moderado, não contencioso, não avarento;</p>\n<p><strong>4</strong> Que governe bem a sua própria casa, tendo seus filhos em sujeição, com toda a modéstia</p>\n<p><strong>5</strong> (Porque, se alguém não sabe governar a sua própria casa, como terá cuidado da igreja de Deus?);</p>\n<p><strong>6</strong> Não neófito, para que, ensoberbecendo-se, não caia na condenação do diabo.</p>\n<p><strong>7</strong> É necessário também que tenha bom testemunho dos que estão de fora, para que não caia em afronta, e no laço do diabo.</p>\n<p><strong>8</strong> Da mesma sorte os diáconos sejam honestos, não de língua dobre, não dados a muito vinho, não cobiçosos de torpe ganância;</p>\n<p><strong>9</strong> Guardando o mistério da fé numa consciência pura.</p>\n<p><strong>10</strong> E também estes sejam primeiro provados, depois sirvam, se forem irrepreensíveis.</p>\n<p><strong>11</strong> Da mesma sorte as esposas sejam honestas, não maldizentes, sóbrias e fiéis em tudo.</p>\n<p><strong>12</strong> Os diáconos sejam maridos de uma só mulher, e governem bem a seus filhos e suas próprias casas.</p>\n<p><strong>13</strong> Porque os que servirem bem como diáconos, adquirirão para si uma boa posição e muita confiança na fé que há em Cristo Jesus.</p>\n<p><strong>14</strong> Escrevo-te estas coisas, esperando ir ver-te bem depressa;</p>\n<p><strong>15</strong> Mas, se tardar, para que saibas como convém andar na casa de Deus, que é a igreja do Deus vivo, a coluna e firmeza da verdade.</p>\n<p><strong>16</strong> E, sem dúvida alguma, grande é o mistério da piedade: Deus se manifestou em carne, foi justificado no Espírito, visto dos anjos, pregado aos gentios, crido no mundo, recebido acima na glória.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- 1 Timóteo 2</a> | <a href=\"capitulo_4.md\">1 Timóteo 4 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a></p>\n",
-  "4": "<h1>1 Timóteo - Capítulo 4</h1>\n<p><strong>1</strong> Mas o Espírito expressamente diz que nos últimos tempos apostatarão alguns da fé, dando ouvidos a espíritos enganadores, e a doutrinas de demônios;</p>\n<p><strong>2</strong> Pela hipocrisia de homens que falam mentiras, tendo cauterizada a sua própria consciência;</p>\n<p><strong>3</strong> Proibindo o casamento, e ordenando a abstinência dos alimentos que Deus criou para os fiéis, e para os que conhecem a verdade, a fim de usarem deles com ações de graças;</p>\n<p><strong>4</strong> Porque toda a criatura de Deus é boa, e não há nada que rejeitar, sendo recebido com ações de graças.</p>\n<p><strong>5</strong> Porque pela palavra de Deus e pela oração é santificada.</p>\n<p><strong>6</strong> Propondo estas coisas aos irmãos, serás bom ministro de Jesus Cristo, criado com as palavras da fé e da boa doutrina que tens seguido.</p>\n<p><strong>7</strong> Mas rejeita as fábulas profanas e de velhas, e exercita-te a ti mesmo em piedade;</p>\n<p><strong>8</strong> Porque o exercício corporal para pouco aproveita, mas a piedade para tudo é proveitosa, tendo a promessa da vida presente e da que há de vir.</p>\n<p><strong>9</strong> Esta palavra é fiel e digna de toda a aceitação;</p>\n<p><strong>10</strong> Porque para isto trabalhamos e somos injuriados, pois esperamos no Deus vivo, que é o Salvador de todos os homens, principalmente dos fiéis.</p>\n<p><strong>11</strong> Manda estas coisas e ensina-as.</p>\n<p><strong>12</strong> Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis, na palavra, no trato, no amor, no espírito, na fé, na pureza.</p>\n<p><strong>13</strong> Persiste em ler, exortar e ensinar, até que eu vá.</p>\n<p><strong>14</strong> Não desprezes o dom que há em ti, o qual te foi dado por profecia, com a imposição das mãos do presbitério.</p>\n<p><strong>15</strong> Medita estas coisas; ocupa-te nelas, para que o teu aproveitamento seja manifesto a todos.</p>\n<p><strong>16</strong> Tem cuidado de ti mesmo e da doutrina. Persevera nestas coisas; porque, fazendo isto, te salvarás, tanto a ti mesmo como aos que te ouvem.</p>\n<hr>\n<p><a href=\"capitulo_3.md\">&lt;- 1 Timóteo 3</a> | <a href=\"capitulo_5.md\">1 Timóteo 5 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a></p>\n",
-  "5": "<h1>1 Timóteo - Capítulo 5</h1>\n<p><strong>1</strong> Não repreendas asperamente o ancião, mas admoesta-o como a pai; aos moços como a irmãos;</p>\n<p><strong>2</strong> As mulheres idosas, como a mães, às moças, como a irmãs, em toda a pureza.</p>\n<p><strong>3</strong> Honra as viúvas que verdadeiramente são viúvas.</p>\n<p><strong>4</strong> Mas, se alguma viúva tiver filhos, ou netos, aprendam primeiro a exercer piedade para com a sua própria família, e a recompensar seus pais; porque isto é bom e agradável diante de Deus.</p>\n<p><strong>5</strong> Ora, a que é verdadeiramente viúva e desamparada espera em Deus, e persevera de noite e de dia em rogos e orações;</p>\n<p><strong>6</strong> Mas a que vive em deleites, vivendo está morta.</p>\n<p><strong>7</strong> Manda, pois, estas coisas, para que elas sejam irrepreensíveis.</p>\n<p><strong>8</strong> Mas, se alguém não tem cuidado dos seus, e principalmente dos da sua família, negou a fé, e é pior do que o infiel.</p>\n<p><strong>9</strong> Nunca seja inscrita viúva com menos de sessenta anos, e só a que tenha sido mulher de um só marido;</p>\n<p><strong>10</strong> Tendo testemunho de boas obras: Se criou os filhos, se exercitou hospitalidade, se lavou os pés aos santos, se socorreu os aflitos, se praticou toda a boa obra.</p>\n<p><strong>11</strong> Mas não admitas as viúvas mais novas, porque, quando se tornam levianas contra Cristo, querem casar-se;</p>\n<p><strong>12</strong> Tendo já a sua condenação por haverem aniquilado a primeira fé.</p>\n<p><strong>13</strong> E, além disto, aprendem também a andar ociosas de casa em casa; e não só ociosas, mas também tagarelas e curiosas, falando o que não convém.</p>\n<p><strong>14</strong> Quero, pois, que as que são moças se casem, gerem filhos, governem a casa, e não deem ocasião ao adversário de maldizer;</p>\n<p><strong>15</strong> Porque já algumas se desviaram, indo após Satanás.</p>\n<p><strong>16</strong> Se algum crente ou alguma crente tem viúvas, socorra-as, e não se sobrecarregue a igreja, para que possa sustentar as que deveras são viúvas.</p>\n<p><strong>17</strong> Os presbíteros que governam bem sejam estimados por dignos de duplicada honra, principalmente os que trabalham na palavra e na doutrina;</p>\n<p><strong>18</strong> Porque diz a Escritura: Não ligarás a boca ao boi que debulha. E: Digno é o obreiro do seu salário.</p>\n<p><strong>19</strong> Não aceites acusação contra o presbítero, senão com duas ou três testemunhas.</p>\n<p><strong>20</strong> Aos que pecarem, repreende-os na presença de todos, para que também os outros tenham temor.</p>\n<p><strong>21</strong> Conjuro-te diante de Deus, e do Senhor Jesus Cristo, e dos anjos eleitos, que sem prevenção guardes estas coisas, nada fazendo por parcialidade.</p>\n<p><strong>22</strong> A ninguém imponhas precipitadamente as mãos, nem participes dos pecados alheios; conserva-te a ti mesmo puro.</p>\n<p><strong>23</strong> Não bebas mais água só, mas usa de um pouco de vinho, por causa do teu estômago e das tuas frequentes enfermidades.</p>\n<p><strong>24</strong> Os pecados de alguns homens são manifestos, precedendo o juízo; e em alguns manifestam-se depois.</p>\n<p><strong>25</strong> Assim mesmo também as boas obras são manifestas, e as que são de outra maneira não podem ocultar-se.</p>\n<hr>\n<p><a href=\"capitulo_4.md\">&lt;- 1 Timóteo 4</a> | <a href=\"capitulo_6.md\">1 Timóteo 6 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a></p>\n",
-  "6": "<h1>1 Timóteo - Capítulo 6</h1>\n<p><strong>1</strong> Todos os servos que estão debaixo do jugo estimem a seus senhores dignos de toda honra, para que o nome de Deus e a doutrina não sejam blasfemados.</p>\n<p><strong>2</strong> E os que têm senhores crentes não os desprezem, por serem irmãos; antes os sirvam melhor, porque eles, que participam do benefício, são crentes e amados. Isto ensina e exorta.</p>\n<p><strong>3</strong> Se alguém ensina alguma outra doutrina, e se não conforma com as sãs palavras de nosso Senhor Jesus Cristo, e com a doutrina que é segundo a piedade,</p>\n<p><strong>4</strong> É soberbo, e nada sabe, mas delira acerca de questões e contendas de palavras, das quais nascem invejas, contendas, blasfêmias, ruins suspeitas,</p>\n<p><strong>5</strong> Perversas contendas de homens corruptos de entendimento, e privados da verdade, cuidando que ganho seja piedade; aparta-te dos tais.</p>\n<p><strong>6</strong> Mas é grande ganho a piedade com contentamento.</p>\n<p><strong>7</strong> Porque nada trouxemos para este mundo, e manifesto é que nada podemos levar dele.</p>\n<p><strong>8</strong> Tendo, porém, sustento, e com que nos cobrirmos, estejamos com isso contentes.</p>\n<p><strong>9</strong> Mas os que querem ser ricos caem em tentação, e em laço, e em muitas concupiscências loucas e nocivas, que submergem os homens na perdição e ruína.</p>\n<p><strong>10</strong> Porque o amor ao dinheiro é a raiz de todos os males; e nessa cobiça alguns se desviaram da fé, e se traspassaram a si mesmos com muitas dores.</p>\n<p><strong>11</strong> Mas tu, ó homem de Deus, foge destas coisas, e segue a justiça, a piedade, a fé, o amor, a paciência, a mansidão.</p>\n<p><strong>12</strong> Milita a boa milícia da fé, toma posse da vida eterna, para a qual também foste chamado, tendo já feito boa confissão diante de muitas testemunhas.</p>\n<p><strong>13</strong> Mando-te diante de Deus, que todas as coisas vivifica, e de Cristo Jesus, que diante de Pôncio Pilatos deu o testemunho de boa confissão,</p>\n<p><strong>14</strong> Que guardes este mandamento sem mácula e repreensão, até à aparição de nosso Senhor Jesus Cristo;</p>\n<p><strong>15</strong> A qual a seu tempo mostrará o bem-aventurado, e único poderoso Senhor, Rei dos reis e Senhor dos senhores;</p>\n<p><strong>16</strong> Aquele que tem, ele só, a imortalidade, e habita na luz inacessível; a quem nenhum dos homens viu nem pode ver, ao qual seja honra e poder sempiterno. Amém.</p>\n<p><strong>17</strong> Manda aos ricos deste mundo que não sejam altivos, nem ponham a esperança na incerteza das riquezas, mas no Deus vivo, que abundantemente nos dá todas as coisas para delas gozarmos;</p>\n<p><strong>18</strong> Que façam bem, enriqueçam em boas obras, repartam de boa mente, e sejam comunicáveis;</p>\n<p><strong>19</strong> Que entesourem para si mesmos um bom fundamento para o futuro, para que possam se apoderar da vida eterna.</p>\n<p><strong>20</strong> Ó Timóteo, guarda o depósito que te foi confiado, tendo horror aos clamores vãos e profanos e às oposições da falsamente chamada ciência,</p>\n<p><strong>21</strong> A qual, professando-a alguns, se desviaram da fé. A graça seja contigo. Amém.</p>\n<hr>\n<p><a href=\"capitulo_5.md\">&lt;- 1 Timóteo 5</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['1tm'] = {
+  "book": "1tm",
+  "name": "1 Timóteo",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Paulo, apóstolo de Jesus Cristo, segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, esperança nossa,"
+        },
+        {
+          "verse": 2,
+          "text": "A Timóteo meu verdadeiro filho na fé: Graça, misericórdia e paz da parte de Deus nosso Pai, e da de Cristo Jesus, nosso Senhor."
+        },
+        {
+          "verse": 3,
+          "text": "Como te roguei, quando parti para a Macedônia, que ficasses em Éfeso, para advertires a alguns, que não ensinem outra doutrina,"
+        },
+        {
+          "verse": 4,
+          "text": "Nem se deem a fábulas ou a genealogias intermináveis, que mais produzem questões do que edificação de Deus, que consiste na fé; assim o faço agora."
+        },
+        {
+          "verse": 5,
+          "text": "Ora, o fim do mandamento é o amor de um coração puro, e de uma boa consciência, e de uma fé não fingida."
+        },
+        {
+          "verse": 6,
+          "text": "Do que, desviando-se alguns, se entregaram a vãs contendas;"
+        },
+        {
+          "verse": 7,
+          "text": "Querendo ser mestres da lei, e não entendendo nem o que dizem nem o que afirmam."
+        },
+        {
+          "verse": 8,
+          "text": "Sabemos, porém, que a lei é boa, se alguém dela usa legitimamente;"
+        },
+        {
+          "verse": 9,
+          "text": "Sabendo isto, que a lei não é feita para o justo, mas para os injustos e obstinados, para os ímpios e pecadores, para os profanos e irreligiosos, para os parricidas e matricidas, para os homicidas,"
+        },
+        {
+          "verse": 10,
+          "text": "Para os fornicadores, para os sodomitas, para os roubadores de homens, para os mentirosos, para os perjuros, e para o que for contrário à sã doutrina,"
+        },
+        {
+          "verse": 11,
+          "text": "Conforme o evangelho da glória de Deus bem-aventurado, que me foi confiado."
+        },
+        {
+          "verse": 12,
+          "text": "E dou graças ao que me tem confortado, a Cristo Jesus Senhor nosso, porque me teve por fiel, pondo-me no ministério;"
+        },
+        {
+          "verse": 13,
+          "text": "A mim, que dantes fui blasfemo, e perseguidor, e injurioso; mas alcancei misericórdia, porque o fiz ignorantemente, na incredulidade."
+        },
+        {
+          "verse": 14,
+          "text": "E a graça de nosso Senhor superabundou com a fé e amor que há em Jesus Cristo."
+        },
+        {
+          "verse": 15,
+          "text": "Esta é uma palavra fiel, e digna de toda a aceitação, que Cristo Jesus veio ao mundo, para salvar os pecadores, dos quais eu sou o principal."
+        },
+        {
+          "verse": 16,
+          "text": "Mas por isso alcancei misericórdia, para que em mim, que sou o principal, Jesus Cristo mostrasse toda a sua longanimidade, para exemplo dos que haviam de crer nele para a vida eterna."
+        },
+        {
+          "verse": 17,
+          "text": "Ora, ao Rei dos séculos, imortal, invisível, ao Deus único, sábio, seja honra e glória para todo o sempre. Amém."
+        },
+        {
+          "verse": 18,
+          "text": "Este mandamento te dou, meu filho Timóteo, que, segundo as profecias que houve acerca de ti, milites por elas boa milícia;"
+        },
+        {
+          "verse": 19,
+          "text": "Conservando a fé, e a boa consciência, a qual alguns, rejeitando, fizeram naufrágio na fé."
+        },
+        {
+          "verse": 20,
+          "text": "E entre esses foram Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "admoesto-te, pois, antes de tudo, que se façam súplicas, orações, intercessões, e ações de graças, por todos os homens;"
+        },
+        {
+          "verse": 2,
+          "text": "Pelos reis, e por todos os que estão em eminência, para que tenhamos uma vida quieta e sossegada, em toda a piedade e honestidade;"
+        },
+        {
+          "verse": 3,
+          "text": "Porque isto é bom e agradável diante de Deus nosso Salvador,"
+        },
+        {
+          "verse": 4,
+          "text": "Que quer que todos os homens sejam salvos, e venham ao conhecimento da verdade."
+        },
+        {
+          "verse": 5,
+          "text": "Porque há um só Deus, e um só Mediador entre Deus e os homens, Jesus Cristo homem."
+        },
+        {
+          "verse": 6,
+          "text": "O qual se deu a si mesmo em preço de redenção por todos, para servir de testemunho a seu tempo."
+        },
+        {
+          "verse": 7,
+          "text": "Para o que fui constituído pregador, e apóstolo, (digo a verdade em Cristo, não minto) e doutor dos gentios na fé e na verdade."
+        },
+        {
+          "verse": 8,
+          "text": "Quero, pois, que os homens orem em todo o lugar, levantando mãos santas, sem ira nem contenda."
+        },
+        {
+          "verse": 9,
+          "text": "Que do mesmo modo as mulheres se ataviem em traje honesto, com pudor e modéstia, não com tranças, ou com ouro, ou pérolas, ou vestidos preciosos,"
+        },
+        {
+          "verse": 10,
+          "text": "Mas (como convém a mulheres que fazem profissão de servir a Deus) com boas obras."
+        },
+        {
+          "verse": 11,
+          "text": "A mulher aprenda em silêncio, com toda a sujeição."
+        },
+        {
+          "verse": 12,
+          "text": "Não permito, porém, que a mulher ensine, nem use de autoridade sobre o marido, mas que esteja em silêncio."
+        },
+        {
+          "verse": 13,
+          "text": "Porque primeiro foi formado Adão, depois Eva."
+        },
+        {
+          "verse": 14,
+          "text": "E Adão não foi enganado, mas a mulher, sendo enganada, caiu em transgressão."
+        },
+        {
+          "verse": 15,
+          "text": "Salvar-se-á, porém, dando à luz filhos, se permanecerem com sobriedade na fé, no amor e na santificação."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Esta é uma palavra fiel: se alguém deseja o episcopado, excelente obra deseja."
+        },
+        {
+          "verse": 2,
+          "text": "É necessário, pois, que o bispo seja irrepreensível, marido de uma mulher, vigilante, sóbrio, honesto, hospitaleiro, apto para ensinar;"
+        },
+        {
+          "verse": 3,
+          "text": "Não dado ao vinho, não espancador, não cobiçoso de torpe ganância, mas moderado, não contencioso, não avarento;"
+        },
+        {
+          "verse": 4,
+          "text": "Que governe bem a sua própria casa, tendo seus filhos em sujeição, com toda a modéstia"
+        },
+        {
+          "verse": 5,
+          "text": "(Porque, se alguém não sabe governar a sua própria casa, como terá cuidado da igreja de Deus?);"
+        },
+        {
+          "verse": 6,
+          "text": "Não neófito, para que, ensoberbecendo-se, não caia na condenação do diabo."
+        },
+        {
+          "verse": 7,
+          "text": "É necessário também que tenha bom testemunho dos que estão de fora, para que não caia em afronta, e no laço do diabo."
+        },
+        {
+          "verse": 8,
+          "text": "Da mesma sorte os diáconos sejam honestos, não de língua dobre, não dados a muito vinho, não cobiçosos de torpe ganância;"
+        },
+        {
+          "verse": 9,
+          "text": "Guardando o mistério da fé numa consciência pura."
+        },
+        {
+          "verse": 10,
+          "text": "E também estes sejam primeiro provados, depois sirvam, se forem irrepreensíveis."
+        },
+        {
+          "verse": 11,
+          "text": "Da mesma sorte as esposas sejam honestas, não maldizentes, sóbrias e fiéis em tudo."
+        },
+        {
+          "verse": 12,
+          "text": "Os diáconos sejam maridos de uma só mulher, e governem bem a seus filhos e suas próprias casas."
+        },
+        {
+          "verse": 13,
+          "text": "Porque os que servirem bem como diáconos, adquirirão para si uma boa posição e muita confiança na fé que há em Cristo Jesus."
+        },
+        {
+          "verse": 14,
+          "text": "Escrevo-te estas coisas, esperando ir ver-te bem depressa;"
+        },
+        {
+          "verse": 15,
+          "text": "Mas, se tardar, para que saibas como convém andar na casa de Deus, que é a igreja do Deus vivo, a coluna e firmeza da verdade."
+        },
+        {
+          "verse": 16,
+          "text": "E, sem dúvida alguma, grande é o mistério da piedade: Deus se manifestou em carne, foi justificado no Espírito, visto dos anjos, pregado aos gentios, crido no mundo, recebido acima na glória."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Mas o Espírito expressamente diz que nos últimos tempos apostatarão alguns da fé, dando ouvidos a espíritos enganadores, e a doutrinas de demônios;"
+        },
+        {
+          "verse": 2,
+          "text": "Pela hipocrisia de homens que falam mentiras, tendo cauterizada a sua própria consciência;"
+        },
+        {
+          "verse": 3,
+          "text": "Proibindo o casamento, e ordenando a abstinência dos alimentos que Deus criou para os fiéis, e para os que conhecem a verdade, a fim de usarem deles com ações de graças;"
+        },
+        {
+          "verse": 4,
+          "text": "Porque toda a criatura de Deus é boa, e não há nada que rejeitar, sendo recebido com ações de graças."
+        },
+        {
+          "verse": 5,
+          "text": "Porque pela palavra de Deus e pela oração é santificada."
+        },
+        {
+          "verse": 6,
+          "text": "Propondo estas coisas aos irmãos, serás bom ministro de Jesus Cristo, criado com as palavras da fé e da boa doutrina que tens seguido."
+        },
+        {
+          "verse": 7,
+          "text": "Mas rejeita as fábulas profanas e de velhas, e exercita-te a ti mesmo em piedade;"
+        },
+        {
+          "verse": 8,
+          "text": "Porque o exercício corporal para pouco aproveita, mas a piedade para tudo é proveitosa, tendo a promessa da vida presente e da que há de vir."
+        },
+        {
+          "verse": 9,
+          "text": "Esta palavra é fiel e digna de toda a aceitação;"
+        },
+        {
+          "verse": 10,
+          "text": "Porque para isto trabalhamos e somos injuriados, pois esperamos no Deus vivo, que é o Salvador de todos os homens, principalmente dos fiéis."
+        },
+        {
+          "verse": 11,
+          "text": "Manda estas coisas e ensina-as."
+        },
+        {
+          "verse": 12,
+          "text": "Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis, na palavra, no trato, no amor, no espírito, na fé, na pureza."
+        },
+        {
+          "verse": 13,
+          "text": "Persiste em ler, exortar e ensinar, até que eu vá."
+        },
+        {
+          "verse": 14,
+          "text": "Não desprezes o dom que há em ti, o qual te foi dado por profecia, com a imposição das mãos do presbitério."
+        },
+        {
+          "verse": 15,
+          "text": "Medita estas coisas; ocupa-te nelas, para que o teu aproveitamento seja manifesto a todos."
+        },
+        {
+          "verse": 16,
+          "text": "Tem cuidado de ti mesmo e da doutrina. Persevera nestas coisas; porque, fazendo isto, te salvarás, tanto a ti mesmo como aos que te ouvem."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Não repreendas asperamente o ancião, mas admoesta-o como a pai; aos moços como a irmãos;"
+        },
+        {
+          "verse": 2,
+          "text": "As mulheres idosas, como a mães, às moças, como a irmãs, em toda a pureza."
+        },
+        {
+          "verse": 3,
+          "text": "Honra as viúvas que verdadeiramente são viúvas."
+        },
+        {
+          "verse": 4,
+          "text": "Mas, se alguma viúva tiver filhos, ou netos, aprendam primeiro a exercer piedade para com a sua própria família, e a recompensar seus pais; porque isto é bom e agradável diante de Deus."
+        },
+        {
+          "verse": 5,
+          "text": "Ora, a que é verdadeiramente viúva e desamparada espera em Deus, e persevera de noite e de dia em rogos e orações;"
+        },
+        {
+          "verse": 6,
+          "text": "Mas a que vive em deleites, vivendo está morta."
+        },
+        {
+          "verse": 7,
+          "text": "Manda, pois, estas coisas, para que elas sejam irrepreensíveis."
+        },
+        {
+          "verse": 8,
+          "text": "Mas, se alguém não tem cuidado dos seus, e principalmente dos da sua família, negou a fé, e é pior do que o infiel."
+        },
+        {
+          "verse": 9,
+          "text": "Nunca seja inscrita viúva com menos de sessenta anos, e só a que tenha sido mulher de um só marido;"
+        },
+        {
+          "verse": 10,
+          "text": "Tendo testemunho de boas obras: Se criou os filhos, se exercitou hospitalidade, se lavou os pés aos santos, se socorreu os aflitos, se praticou toda a boa obra."
+        },
+        {
+          "verse": 11,
+          "text": "Mas não admitas as viúvas mais novas, porque, quando se tornam levianas contra Cristo, querem casar-se;"
+        },
+        {
+          "verse": 12,
+          "text": "Tendo já a sua condenação por haverem aniquilado a primeira fé."
+        },
+        {
+          "verse": 13,
+          "text": "E, além disto, aprendem também a andar ociosas de casa em casa; e não só ociosas, mas também tagarelas e curiosas, falando o que não convém."
+        },
+        {
+          "verse": 14,
+          "text": "Quero, pois, que as que são moças se casem, gerem filhos, governem a casa, e não deem ocasião ao adversário de maldizer;"
+        },
+        {
+          "verse": 15,
+          "text": "Porque já algumas se desviaram, indo após Satanás."
+        },
+        {
+          "verse": 16,
+          "text": "Se algum crente ou alguma crente tem viúvas, socorra-as, e não se sobrecarregue a igreja, para que possa sustentar as que deveras são viúvas."
+        },
+        {
+          "verse": 17,
+          "text": "Os presbíteros que governam bem sejam estimados por dignos de duplicada honra, principalmente os que trabalham na palavra e na doutrina;"
+        },
+        {
+          "verse": 18,
+          "text": "Porque diz a Escritura: Não ligarás a boca ao boi que debulha. E: Digno é o obreiro do seu salário."
+        },
+        {
+          "verse": 19,
+          "text": "Não aceites acusação contra o presbítero, senão com duas ou três testemunhas."
+        },
+        {
+          "verse": 20,
+          "text": "Aos que pecarem, repreende-os na presença de todos, para que também os outros tenham temor."
+        },
+        {
+          "verse": 21,
+          "text": "Conjuro-te diante de Deus, e do Senhor Jesus Cristo, e dos anjos eleitos, que sem prevenção guardes estas coisas, nada fazendo por parcialidade."
+        },
+        {
+          "verse": 22,
+          "text": "A ninguém imponhas precipitadamente as mãos, nem participes dos pecados alheios; conserva-te a ti mesmo puro."
+        },
+        {
+          "verse": 23,
+          "text": "Não bebas mais água só, mas usa de um pouco de vinho, por causa do teu estômago e das tuas frequentes enfermidades."
+        },
+        {
+          "verse": 24,
+          "text": "Os pecados de alguns homens são manifestos, precedendo o juízo; e em alguns manifestam-se depois."
+        },
+        {
+          "verse": 25,
+          "text": "Assim mesmo também as boas obras são manifestas, e as que são de outra maneira não podem ocultar-se."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Todos os servos que estão debaixo do jugo estimem a seus senhores dignos de toda honra, para que o nome de Deus e a doutrina não sejam blasfemados."
+        },
+        {
+          "verse": 2,
+          "text": "E os que têm senhores crentes não os desprezem, por serem irmãos; antes os sirvam melhor, porque eles, que participam do benefício, são crentes e amados. Isto ensina e exorta."
+        },
+        {
+          "verse": 3,
+          "text": "Se alguém ensina alguma outra doutrina, e se não conforma com as sãs palavras de nosso Senhor Jesus Cristo, e com a doutrina que é segundo a piedade,"
+        },
+        {
+          "verse": 4,
+          "text": "É soberbo, e nada sabe, mas delira acerca de questões e contendas de palavras, das quais nascem invejas, contendas, blasfêmias, ruins suspeitas,"
+        },
+        {
+          "verse": 5,
+          "text": "Perversas contendas de homens corruptos de entendimento, e privados da verdade, cuidando que ganho seja piedade; aparta-te dos tais."
+        },
+        {
+          "verse": 6,
+          "text": "Mas é grande ganho a piedade com contentamento."
+        },
+        {
+          "verse": 7,
+          "text": "Porque nada trouxemos para este mundo, e manifesto é que nada podemos levar dele."
+        },
+        {
+          "verse": 8,
+          "text": "Tendo, porém, sustento, e com que nos cobrirmos, estejamos com isso contentes."
+        },
+        {
+          "verse": 9,
+          "text": "Mas os que querem ser ricos caem em tentação, e em laço, e em muitas concupiscências loucas e nocivas, que submergem os homens na perdição e ruína."
+        },
+        {
+          "verse": 10,
+          "text": "Porque o amor ao dinheiro é a raiz de todos os males; e nessa cobiça alguns se desviaram da fé, e se traspassaram a si mesmos com muitas dores."
+        },
+        {
+          "verse": 11,
+          "text": "Mas tu, ó homem de Deus, foge destas coisas, e segue a justiça, a piedade, a fé, o amor, a paciência, a mansidão."
+        },
+        {
+          "verse": 12,
+          "text": "Milita a boa milícia da fé, toma posse da vida eterna, para a qual também foste chamado, tendo já feito boa confissão diante de muitas testemunhas."
+        },
+        {
+          "verse": 13,
+          "text": "Mando-te diante de Deus, que todas as coisas vivifica, e de Cristo Jesus, que diante de Pôncio Pilatos deu o testemunho de boa confissão,"
+        },
+        {
+          "verse": 14,
+          "text": "Que guardes este mandamento sem mácula e repreensão, até à aparição de nosso Senhor Jesus Cristo;"
+        },
+        {
+          "verse": 15,
+          "text": "A qual a seu tempo mostrará o bem-aventurado, e único poderoso Senhor, Rei dos reis e Senhor dos senhores;"
+        },
+        {
+          "verse": 16,
+          "text": "Aquele que tem, ele só, a imortalidade, e habita na luz inacessível; a quem nenhum dos homens viu nem pode ver, ao qual seja honra e poder sempiterno. Amém."
+        },
+        {
+          "verse": 17,
+          "text": "Manda aos ricos deste mundo que não sejam altivos, nem ponham a esperança na incerteza das riquezas, mas no Deus vivo, que abundantemente nos dá todas as coisas para delas gozarmos;"
+        },
+        {
+          "verse": 18,
+          "text": "Que façam bem, enriqueçam em boas obras, repartam de boa mente, e sejam comunicáveis;"
+        },
+        {
+          "verse": 19,
+          "text": "Que entesourem para si mesmos um bom fundamento para o futuro, para que possam se apoderar da vida eterna."
+        },
+        {
+          "verse": 20,
+          "text": "Ó Timóteo, guarda o depósito que te foi confiado, tendo horror aos clamores vãos e profanos e às oposições da falsamente chamada ciência,"
+        },
+        {
+          "verse": 21,
+          "text": "A qual, professando-a alguns, se desviaram da fé. A graça seja contigo. Amém."
+        }
+      ]
+    }
+  ]
 };
-            

@@ -1,28 +1,2587 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['jz'] = {
-  "1": "<h1>Juízes - Capítulo 1</h1>\n<p><strong>1</strong> E sucedeu, depois da morte de Josué, que os filhos de Israel perguntaram ao Senhor, dizendo: Quem dentre nós primeiro subirá aos cananeus, para pelejar contra eles?</p>\n<p><strong>2</strong> E disse o Senhor: Judá subirá; eis que entreguei esta terra na sua mão.</p>\n<p><strong>3</strong> Então disse Judá a Simeão, seu irmão: Sobe comigo à minha herança. E pelejemos contra os cananeus, e também eu contigo subirei à tua herança. E Simeão partiu com ele.</p>\n<p><strong>4</strong> E subiu Judá, e o Senhor lhe entregou na sua mão os cananeus e os perizeus; e feriram deles, em Bezeque, a dez mil homens.</p>\n<p><strong>5</strong> E acharam Adoni-Bezeque em Bezeque, e pelejaram contra ele; e feriram aos cananeus e aos perizeus.</p>\n<p><strong>6</strong> Porém Adoni-Bezeque fugiu, mas o seguiram, e prenderam-no e cortaram-lhe os dedos polegares das mãos e dos pés.</p>\n<p><strong>7</strong> Então disse Adoni-Bezeque: Setenta reis, com os dedos polegares das mãos e dos pés cortados, apanhavam as migalhas debaixo da minha mesa; assim como eu fiz, assim Deus me pagou. E levaram-no a Jerusalém, e morreu ali.</p>\n<p><strong>8</strong> E os filhos de Judá pelejaram contra Jerusalém, e tomando-a, feriram-na ao fio da espada; e puseram fogo na cidade.</p>\n<p><strong>9</strong> E depois os filhos de Judá desceram a pelejar contra os cananeus, que habitavam nas montanhas, e no sul, e nas planícies.</p>\n<p><strong>10</strong> E partiu Judá contra os cananeus que habitavam em Hebrom (era porém outrora o nome de Hebrom, Quiriate-Arba), e feriram a Sesai, e a Aimã e Talmai.</p>\n<p><strong>11</strong> E dali partiu contra os moradores de Debir; e era outrora o nome de Debir, Quiriate-Sefer.</p>\n<p><strong>12</strong> E disse Calebe: Quem ferir a Quiriate-Sefer, e a tomar, lhe darei a minha filha Acsa por mulher.</p>\n<p><strong>13</strong> E tomou-a Otniel, filho de Quenaz, o irmão de Calebe, mais novo do que ele; e Calebe lhe deu a sua filha Acsa por mulher.</p>\n<p><strong>14</strong> E sucedeu que, indo ela a ele, o persuadiu que pedisse um campo a seu pai; e ela desceu do jumento, e Calebe lhe disse: Que é que tens?</p>\n<p><strong>15</strong> E ela lhe disse: Dá-me uma bênção; pois me deste uma terra seca, dá-me também fontes de águas. E Calebe lhe deu as fontes superiores e as fontes inferiores.</p>\n<p><strong>16</strong> Também os filhos do queneu, sogro de Moisés, subiram da cidade das palmeiras com os filhos de Judá ao deserto de Judá, que está ao sul de Arade, e foram, e habitaram com o povo.</p>\n<p><strong>17</strong> E foi Judá com Simeão, seu irmão, e feriram aos cananeus que habitavam em Zefate; e totalmente a destruíram, e chamou-se o nome desta cidade Hormá.</p>\n<p><strong>18</strong> Tomou mais Judá a Gaza com o seu termo, e a Ascalom com o seu termo, e a Ecrom com o seu termo.</p>\n<p><strong>19</strong> E estava o Senhor com Judá, e despovoou as montanhas; porém não expulsou aos moradores do vale, porquanto tinham carros de ferro.</p>\n<p><strong>20</strong> E deram Hebrom a Calebe, como Moisés o dissera; e dali expulsou os três filhos de Anaque.</p>\n<p><strong>21</strong> Porém os filhos de Benjamim não expulsaram os jebuseus que habitavam em Jerusalém; antes os jebuseus ficaram habitando com os filhos de Benjamim em Jerusalém, até ao dia de hoje,</p>\n<p><strong>22</strong> E subiu também a casa de José contra Betel, e foi o Senhor com eles.</p>\n<p><strong>23</strong> E a casa de José mandou espias a Betel, e foi antes o nome desta cidade Luz.</p>\n<p><strong>24</strong> E viram os espias a um homem, que saía da cidade, e lhe disseram: Ora, mostra-nos a entrada da cidade, e usaremos contigo de misericórdia.</p>\n<p><strong>25</strong> E, mostrando-lhes ele a entrada da cidade, feriram-na ao fio da espada; porém àquele homem e a toda a sua família deixaram ir.</p>\n<p><strong>26</strong> Então aquele homem se foi à terra dos heteus, e edificou uma cidade, e chamou o seu nome Luz; este é o seu nome até ao dia de hoje.</p>\n<p><strong>27</strong> Manassés não expulsou os habitantes de Bete-Seã, nem mesmo dos lugares da sua jurisdição; nem a Taanaque, com os lugares da sua jurisdição; nem os moradores de Dor, com os lugares da sua jurisdição; nem os moradores de Ibleão, com os lugares da sua jurisdição; nem os moradores de Megido, com os lugares da sua jurisdição; e resolveram os cananeus habitar na mesma terra.</p>\n<p><strong>28</strong> E sucedeu que, quando Israel cobrou mais forças, fez dos cananeus tributários; porém não os expulsou de todo.</p>\n<p><strong>29</strong> Tampouco expulsou Efraim os cananeus que habitavam em Gezer; antes os cananeus ficaram habitando com ele, em Gezer.</p>\n<p><strong>30</strong> Tampouco expulsou Zebulom os moradores de Quitrom, nem os moradores de Naalol; porém os cananeus ficaram habitando com ele, e foram tributários.</p>\n<p><strong>31</strong> Tampouco Aser expulsou os moradores de Aco, nem os moradores de Sidom; como nem de Alabe, nem de Aczibe, nem de Helba, nem de Afeque, nem de Reobe;</p>\n<p><strong>32</strong> Porém os aseritas habitaram no meio dos cananeus que habitavam na terra; porquanto não os expulsaram.</p>\n<p><strong>33</strong> Tampouco Naftali expulsou os moradores de Bete-Semes, nem os moradores de Bete-Anate; mas habitou no meio dos cananeus que habitavam na terra; porém lhes foram tributários os moradores de Bete-Semes e Bete-Anate.</p>\n<p><strong>34</strong> E os amorreus impeliram os filhos de Dã até às montanhas; porque nem os deixavam descer ao vale.</p>\n<p><strong>35</strong> Também os amorreus quiseram habitar nas montanhas de Heres, em Aijalom e em Saalbim; porém prevaleceu a mão da casa de José, e ficaram tributários.</p>\n<p><strong>36</strong> E foi o termo dos amorreus desde a subida de Acrabim, desde a penha, e dali para cima.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">Juízes 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "2": "<h1>Juízes - Capítulo 2</h1>\n<p><strong>1</strong> E subiu o anjo do Senhor de Gilgal a Boquim, e disse: Do Egito vos fiz subir, e vos trouxe à terra que a vossos pais tinha jurado e disse: Nunca invalidarei a minha aliança convosco.</p>\n<p><strong>2</strong> E, quanto a vós, não fareis acordo com os moradores desta terra, antes derrubareis os seus altares; mas vós não obedecestes à minha voz. Por que fizestes isso?</p>\n<p><strong>3</strong> Assim também eu disse: Não os expulsarei de diante de vós; antes estarão como espinhos nos vossos lados, e os seus deuses vos serão por laço.</p>\n<p><strong>4</strong> E sucedeu que, falando o anjo do Senhor estas palavras a todos os filhos de Israel, o povo levantou a sua voz e chorou.</p>\n<p><strong>5</strong> Por isso chamaram àquele lugar, Boquim; e sacrificaram ali ao Senhor.</p>\n<p><strong>6</strong> E havendo Josué despedido o povo foram-se os filhos de Israel, cada um à sua herança, para possuírem a terra.</p>\n<p><strong>7</strong> E serviu o povo ao Senhor todos os dias de Josué, e todos os dias dos anciãos que ainda sobreviveram depois de Josué, e viram toda aquela grande obra do Senhor, que fizera a Israel.</p>\n<p><strong>8</strong> Faleceu, porém, Josué, filho de Num, servo do Senhor, com a idade de cento e dez anos;</p>\n<p><strong>9</strong> E sepultaram-no no termo da sua herança, em Timnate-Heres, no monte de Efraim, para o norte do monte de Gaás.</p>\n<p><strong>10</strong> E foi também congregada toda aquela geração a seus pais, e outra geração após ela se levantou, que não conhecia ao Senhor, nem tampouco a obra que ele fizera a Israel.</p>\n<p><strong>11</strong> Então fizeram os filhos de Israel o que era mau aos olhos do Senhor; e serviram aos baalins.</p>\n<p><strong>12</strong> E deixaram ao Senhor Deus de seus pais, que os tirara da terra do Egito, e foram-se após outros deuses, dentre os deuses dos povos, que havia ao redor deles, e adoraram a eles; e provocaram o Senhor à ira.</p>\n<p><strong>13</strong> Porquanto deixaram ao Senhor, e serviram a Baal e a Astarote.</p>\n<p><strong>14</strong> Por isso a ira do Senhor se acendeu contra Israel, e os entregou na mão dos espoliadores que os despojaram; e os entregou na mão dos seus inimigos ao redor; e não puderam mais resistir diante dos seus inimigos.</p>\n<p><strong>15</strong> Por onde quer que saíam, a mão do Senhor era contra eles para mal, como o Senhor tinha falado, e como o Senhor lhes tinha jurado; e estavam em grande aflição.</p>\n<p><strong>16</strong> E levantou o Senhor juízes, que os livraram da mão dos que os despojaram.</p>\n<p><strong>17</strong> Porém tampouco ouviram aos juízes, antes prostituíram-se após outros deuses, e adoraram a eles; depressa se desviaram do caminho, por onde andaram seus pais, obedecendo os mandamentos do Senhor; mas eles assim não fizeram.</p>\n<p><strong>18</strong> E, quando o Senhor lhes levantava juízes, o Senhor era com o juiz, e os livrava da mão dos seus inimigos, todos os dias daquele juiz; porquanto o Senhor se compadecia deles pelo seu gemido, por causa dos que os oprimiam e afligiam.</p>\n<p><strong>19</strong> Porém sucedia que, falecendo o juiz, reincidiam e se corrompiam mais do que seus pais, andando após outros deuses, servindo-os, e adorando-os; nada deixavam das suas obras, nem do seu obstinado caminho.</p>\n<p><strong>20</strong> Por isso a ira do Senhor se acendeu contra Israel, e disse: Porquanto este povo transgrediu a minha aliança, que tinha ordenado a seus pais, e não deram ouvidos à minha voz,</p>\n<p><strong>21</strong> Tampouco desapossarei mais de diante deles a nenhuma das nações, que Josué deixou, quando morreu;</p>\n<p><strong>22</strong> Para por elas provar a Israel, se há de guardar, ou não, o caminho do Senhor, como seus pais o guardaram, para nele andar.</p>\n<p><strong>23</strong> Assim o Senhor deixou ficar aquelas nações, e não as desterrou logo, nem as entregou na mão de Josué.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- Juízes 1</a> | <a href=\"capitulo_3.md\">Juízes 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "3": "<h1>Juízes - Capítulo 3</h1>\n<p><strong>1</strong> Estas, pois, são as nações que o Senhor deixou ficar, para por elas provar a Israel, a saber, a todos os que não sabiam de todas as guerras de Canaã.</p>\n<p><strong>2</strong> Tão somente para que as gerações dos filhos de Israel delas soubessem (para lhes ensinar a guerra), pelo menos os que dantes não sabiam delas.</p>\n<p><strong>3</strong> Cinco príncipes dos filisteus, e todos os cananeus, e sidônios, e heveus que habitavam nas montanhas do Líbano desde o monte de Baal-Hermom, até à entrada de Hamate.</p>\n<p><strong>4</strong> Estes, pois, ficaram, para por eles provar a Israel, para saber se dariam ouvido aos mandamentos do Senhor, que ele tinha ordenado a seus pais, pelo ministério de Moisés.</p>\n<p><strong>5</strong> Habitando, pois, os filhos de Israel no meio dos cananeus, dos heteus, e amorreus, e perizeus, e heveus, e jebuseus,</p>\n<p><strong>6</strong> Tomaram de suas filhas para si por mulheres, e deram as suas filhas aos filhos deles; e serviram aos seus deuses.</p>\n<p><strong>7</strong> E os filhos de Israel fizeram o que era mau aos olhos do Senhor, e se esqueceram do Senhor seu Deus; e serviram aos baalins e a Astarote.</p>\n<p><strong>8</strong> Então a ira do Senhor se acendeu contra Israel, e ele os vendeu na mão de Cusã-Risataim, rei da Mesopotâmia; e os filhos de Israel serviram a Cusã-Risataim oito anos.</p>\n<p><strong>9</strong> E os filhos de Israel clamaram ao Senhor, e o Senhor levantou aos filhos de Israel um libertador, que os libertou: Otniel, filho de Quenaz, irmão de Calebe, mais novo do que ele.</p>\n<p><strong>10</strong> E veio sobre ele o Espírito do Senhor, e julgou a Israel, e saiu à peleja; e o Senhor entregou na sua mão a Cusã-Risataim, rei da Síria; a sua mão prevaleceu contra Cusã-Risataim.</p>\n<p><strong>11</strong> Então a terra sossegou quarenta anos; e Otniel, filho de Quenaz, faleceu.</p>\n<p><strong>12</strong> Porém os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor; então o Senhor fortaleceu a Eglom, rei dos moabitas, contra Israel; porquanto fizeram o que era mau aos olhos do Senhor.</p>\n<p><strong>13</strong> E reuniu consigo os filhos de Amom e os amalequitas, e foi, e feriu a Israel, e tomaram a cidade das palmeiras.</p>\n<p><strong>14</strong> E os filhos de Israel serviram a Eglom, rei dos moabitas, dezoito anos.</p>\n<p><strong>15</strong> Então os filhos de Israel clamaram ao Senhor, e o Senhor lhes levantou um libertador, a Eúde, filho de Gera, filho de Jemim, homem canhoto. E os filhos de Israel enviaram pela sua mão um presente a Eglom, rei dos moabitas.</p>\n<p><strong>16</strong> E Eúde fez para si uma espada de dois fios, do comprimento de um côvado; e cingiu-a por baixo das suas vestes, à sua coxa direita.</p>\n<p><strong>17</strong> E levou aquele presente a Eglom, rei dos moabitas; e era Eglom homem muito gordo.</p>\n<p><strong>18</strong> E sucedeu que, acabando de entregar o presente, despediu a gente que o trouxera.</p>\n<p><strong>19</strong> Porém ele mesmo voltou das imagens de escultura que estavam ao pé de Gilgal, e disse: Tenho uma palavra secreta para ti, ó rei. O qual disse: Cala-te. E todos os que lhe assistiam saíram de diante dele.</p>\n<p><strong>20</strong> E Eúde entrou numa sala de verão, que o rei tinha só para si, onde estava sentado, e disse: Tenho, para dizer-te, uma palavra de Deus. E levantou-se da cadeira.</p>\n<p><strong>21</strong> Então Eúde estendeu a sua mão esquerda, e tirou a espada de sobre sua coxa direita, e lha cravou no ventre,</p>\n<p><strong>22</strong> De tal maneira que entrou até o cabo após a lâmina, e a gordura encerrou a lâmina (porque não tirou a espada do ventre); e saiu-lhe o excremento.</p>\n<p><strong>23</strong> Então Eúde saiu ao pátio, e fechou as portas da sala e as trancou.</p>\n<p><strong>24</strong> E, saindo ele, vieram os servos do rei, e viram, e eis que as portas da sala estavam fechadas; e disseram: Sem dúvida está cobrindo seus pés na recâmara da sala de verão.</p>\n<p><strong>25</strong> E, esperando até se alarmarem, eis que ele não abria as portas da sala; então tomaram a chave, e abriram, e eis ali seu senhor estendido morto em terra.</p>\n<p><strong>26</strong> E Eúde escapou, enquanto eles se demoravam; porque ele passou pelas imagens de escultura, e escapou para Seirá.</p>\n<p><strong>27</strong> E sucedeu que, chegando ele, tocou a trombeta nas montanhas de Efraim, e os filhos de Israel desceram com ele das montanhas, e ele adiante deles.</p>\n<p><strong>28</strong> E disse-lhes: Segui-me, porque o Senhor vos tem entregue vossos inimigos, os moabitas, nas vossas mãos; e desceram após ele, e tomaram os vaus do Jordão contra Moabe, e a ninguém deixaram passar.</p>\n<p><strong>29</strong> E naquele tempo feriram dos moabitas uns dez mil homens, todos corpulentos, e todos homens valorosos; e não escapou nenhum.</p>\n<p><strong>30</strong> Assim foi subjugado Moabe naquele dia debaixo da mão de Israel; e a terra sossegou oitenta anos.</p>\n<p><strong>31</strong> Depois dele foi Sangar, filho de Anate, que feriu a seiscentos homens dos filisteus com uma aguilhada de bois; e também ele libertou a Israel.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- Juízes 2</a> | <a href=\"capitulo_4.md\">Juízes 4 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "4": "<h1>Juízes - Capítulo 4</h1>\n<p><strong>1</strong> Porém os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor, depois de falecer Eúde.</p>\n<p><strong>2</strong> E vendeu-os o Senhor na mão de Jabim, rei de Canaã, que reinava em Hazor; e Sísera era o capitão do seu exército, o qual então habitava em Harosete dos gentios.</p>\n<p><strong>3</strong> Então os filhos de Israel clamaram ao Senhor, porquanto ele tinha novecentos carros de ferro, e por vinte anos oprimia violentamente os filhos de Israel.</p>\n<p><strong>4</strong> E Débora, mulher profetisa, mulher de Lapidote, julgava a Israel naquele tempo.</p>\n<p><strong>5</strong> Ela assentava-se debaixo das palmeiras de Débora, entre Ramá e Betel, nas montanhas de Efraim; e os filhos de Israel subiam a ela a juízo.</p>\n<p><strong>6</strong> E mandou chamar a Baraque, filho de Abinoão de Quedes de Naftali, e disse-lhe: Porventura o Senhor Deus de Israel não deu ordem, dizendo: Vai, e atrai gente ao monte Tabor, e toma contigo dez mil homens dos filhos de Naftali e dos filhos de Zebulom?</p>\n<p><strong>7</strong> E atrairei a ti para o ribeiro de Quisom, a Sísera, capitão do exército de Jabim, com os seus carros, e com a sua multidão; e o darei na tua mão.</p>\n<p><strong>8</strong> Então lhe disse Baraque: Se fores comigo, irei; porém, se não fores comigo, não irei.</p>\n<p><strong>9</strong> E disse ela: Certamente irei contigo, porém não será tua a honra da jornada que empreenderes; pois à mão de uma mulher o Senhor venderá a Sísera. E Débora se levantou, e partiu com Baraque para Quedes.</p>\n<p><strong>10</strong> Então Baraque convocou a Zebulom e a Naftali em Quedes, e subiu com dez mil homens após ele; e Débora subiu com ele.</p>\n<p><strong>11</strong> E Héber, queneu, se tinha apartado dos queneus, dos filhos de Hobabe, sogro de Moisés; e tinha estendido as suas tendas até ao carvalho de Zaanaim, que está junto a Quedes,</p>\n<p><strong>12</strong> E anunciaram a Sísera que Baraque, filho de Abinoão, tinha subido ao monte Tabor.</p>\n<p><strong>13</strong> E Sísera convocou todos os seus carros, novecentos carros de ferro, e todo o povo que estava com ele, desde Harosete dos gentios até ao ribeiro de Quisom.</p>\n<p><strong>14</strong> Então disse Débora a Baraque: Levanta-te, porque este é o dia em que o Senhor tem dado a Sísera na tua mão; porventura o Senhor não saiu adiante de ti? Baraque, pois, desceu do monte Tabor, e dez mil homens após ele.</p>\n<p><strong>15</strong> E o Senhor derrotou a Sísera, e a todos os seus carros, e a todo o seu exército ao fio da espada, diante de Baraque; e Sísera desceu do carro, e fugiu a pé.</p>\n<p><strong>16</strong> E Baraque perseguiu os carros, e o exército, até Harosete dos gentios; e todo o exército de Sísera caiu ao fio da espada, até não ficar um só.</p>\n<p><strong>17</strong> Porém Sísera fugiu a pé à tenda de Jael, mulher de Héber, queneu; porquanto havia paz entre Jabim, rei de Hazor, e a casa de Héber, queneu.</p>\n<p><strong>18</strong> E Jael saiu ao encontro de Sísera, e disse-lhe: Entra, senhor meu, entra aqui, não temas. Ele entrou na sua tenda, e ela o cobriu com uma coberta.</p>\n<p><strong>19</strong> Então ele lhe disse: Dá-me, peço-te, de beber um pouco de água, porque tenho sede. Então ela abriu um odre de leite, e deu-lhe de beber, e o cobriu.</p>\n<p><strong>20</strong> E ele lhe disse: Põe-te à porta da tenda; e há de ser que se alguém vier e te perguntar: Há aqui alguém? Responderás então: Não.</p>\n<p><strong>21</strong> Então Jael, mulher de Héber, tomou uma estaca da tenda, e lançou mão de um martelo, e chegou-se mansamente a ele, e lhe cravou a estaca na fonte, de sorte que penetrou na terra, estando ele, porém, num profundo sono, e já muito cansado; e assim morreu.</p>\n<p><strong>22</strong> E eis que, seguindo Baraque a Sísera, Jael lhe saiu ao encontro, e disse-lhe: Vem, e mostrar-te-ei o homem que buscas. E foi a ela, e eis que Sísera jazia morto, com a estaca na fonte.</p>\n<p><strong>23</strong> Assim Deus naquele dia sujeitou a Jabim, rei de Canaã, diante dos filhos de Israel.</p>\n<p><strong>24</strong> E continuou a mão dos filhos de Israel a pesar e a endurecer-se sobre Jabim, rei de Canaã; até que exterminaram a Jabim, rei de Canaã.</p>\n<hr>\n<p><a href=\"capitulo_3.md\">&lt;- Juízes 3</a> | <a href=\"capitulo_5.md\">Juízes 5 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "5": "<h1>Juízes - Capítulo 5</h1>\n<p><strong>1</strong> E cantou Débora e Baraque, filho de Abinoão, naquele mesmo dia, dizendo:</p>\n<p><strong>2</strong> Louvai ao Senhor pela vingança de Israel, quando o povo se ofereceu voluntariamente.</p>\n<p><strong>3</strong> Ouvi, reis; dai ouvidos, príncipes; eu, eu cantarei ao Senhor; salmodiarei ao Senhor Deus de Israel.</p>\n<p><strong>4</strong> Ó Senhor, saindo tu de Seir, caminhando tu desde o campo de Edom, a terra estremeceu; até os céus gotejaram; até as nuvens gotejaram águas.</p>\n<p><strong>5</strong> Os montes se derreteram diante do Senhor, e até Sinai diante do Senhor Deus de Israel.</p>\n<p><strong>6</strong> Nos dias de Sangar, filho de Anate, nos dias de Jael cessaram os caminhos; e os que andavam por veredas iam por caminhos torcidos.</p>\n<p><strong>7</strong> Cessaram as aldeias em Israel, cessaram; até que eu, Débora, me levantei, por mãe em Israel me levantei.</p>\n<p><strong>8</strong> E se escolhia deuses novos, logo a guerra estava às portas; via-se por isso escudo ou lança entre quarenta mil em Israel?</p>\n<p><strong>9</strong> Meu coração é para os legisladores de Israel, que voluntariamente se ofereceram entre o povo; bendizei ao Senhor.</p>\n<p><strong>10</strong> Vós os que cavalgais sobre jumentas brancas, que vos assentais em juízo, que andais pelo caminho, falai disto.</p>\n<p><strong>11</strong> Donde se ouve o estrondo dos flecheiros, entre os lugares onde se tiram águas, ali falai das justiças do Senhor, das justiças que fez às suas aldeias em Israel; então o povo do Senhor descia às portas.</p>\n<p><strong>12</strong> Desperta, desperta, Débora, desperta, desperta, entoa um cântico; levanta-te, Baraque, e leva presos os teus cativos, tu, filho de Abinoão.</p>\n<p><strong>13</strong> Então fez dominar sobre os nobres entre o povo, aos que restaram; fez-me o Senhor dominar sobre os poderosos.</p>\n<p><strong>14</strong> De Efraim saiu a sua raiz contra Amaleque; e depois de ti vinha Benjamim dentre os teus povos; de Maquir desceram os legisladores, e de Zebulom os que levaram a cana do escriba.</p>\n<p><strong>15</strong> Também os principais de Issacar foram com Débora; e como Issacar, assim também Baraque, foi enviado a pé para o vale; nas divisões de Rúben foram grandes as resoluções do coração.</p>\n<p><strong>16</strong> Por que ficaste tu entre os currais para ouvires os balidos dos rebanhos? Nas divisões de Rúben tiveram grandes esquadrinhações do coração.</p>\n<p><strong>17</strong> Gileade ficou além do Jordão, e Dã por que se deteve nos navios? Aser se assentou na beira dos mares, e ficou junto às suas baías.</p>\n<p><strong>18</strong> Zebulom é um povo que expôs a sua vida à morte, como também Naftali, nas alturas do campo.</p>\n<p><strong>19</strong> Vieram reis, pelejaram; então pelejaram os reis de Canaã em Taanaque, junto às águas de Megido; não tomaram despojo de prata.</p>\n<p><strong>20</strong> Desde os céus pelejaram; até as estrelas desde os lugares dos seus cursos pelejaram contra Sísera.</p>\n<p><strong>21</strong> O ribeiro de Quisom os arrastou, aquele antigo ribeiro, o ribeiro de Quisom. Pisaste, ó minha alma, à força.</p>\n<p><strong>22</strong> Então os cascos dos cavalos se despedaçaram; pelo galopar, o galopar dos seus valentes.</p>\n<p><strong>23</strong> Amaldiçoai a Meroz, diz o anjo do Senhor, severamente amaldiçoai aos seus moradores; porquanto não vieram ao socorro do Senhor, ao socorro do Senhor com os valorosos.</p>\n<p><strong>24</strong> Bendita seja entre as mulheres, Jael, mulher de Héber, o queneu; bendita seja entre as mulheres nas tendas.</p>\n<p><strong>25</strong> Água pediu ele, leite lhe deu ela; em prato de nobres lhe ofereceu manteiga.</p>\n<p><strong>26</strong> À estaca estendeu a sua mão esquerda, e ao martelo dos trabalhadores a sua direita; e matou a Sísera, e rachou-lhe a cabeça, quando lhe pregou e atravessou as fontes.</p>\n<p><strong>27</strong> Entre os seus pés se encurvou, caiu, ficou estirado; entre os seus pés se encurvou, caiu; onde se encurvou, ali caiu, morto.</p>\n<p><strong>28</strong> A mãe de Sísera olhava pela janela, e exclamava pela grade: Por que tarda em vir o seu carro? Por que se demoram os ruídos dos seus carros?</p>\n<p><strong>29</strong> As mais sábias das suas damas responderam; e até ela respondia a si mesma:</p>\n<p><strong>30</strong> Porventura não achariam e repartiriam despojos? Uma ou duas moças a cada homem? Para Sísera despojos de estofos coloridos, despojos de estofos coloridos bordados; de estofos coloridos bordados de ambos os lados como despojo para os pescoços.</p>\n<p><strong>31</strong> Assim, ó Senhor, pereçam todos os teus inimigos! Porém os que te amam sejam como o sol quando sai na sua força.</p>\n<p><strong>32</strong> E sossegou a terra quarenta anos.</p>\n<hr>\n<p><a href=\"capitulo_4.md\">&lt;- Juízes 4</a> | <a href=\"capitulo_6.md\">Juízes 6 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "6": "<h1>Juízes - Capítulo 6</h1>\n<p><strong>1</strong> Porém os filhos de Israel fizeram o que era mau aos olhos do Senhor; e o Senhor os deu nas mãos dos midianitas por sete anos.</p>\n<p><strong>2</strong> E, prevalecendo a mão dos midianitas sobre Israel, fizeram os filhos de Israel para si, por causa dos midianitas, as covas que estão nos montes, as cavernas e as fortificações.</p>\n<p><strong>3</strong> Porque sucedia que, semeando Israel, os midianitas e os amalequitas, e também os do oriente, contra ele subiam.</p>\n<p><strong>4</strong> E punham-se contra ele em campo, e destruíam os frutos da terra, até chegarem a Gaza; e não deixavam mantimento em Israel, nem ovelhas, nem bois, nem jumentos.</p>\n<p><strong>5</strong> Porque subiam com os seus gados e tendas; vinham como gafanhotos, em grande multidão que não se podia contar, nem a eles nem aos seus camelos; e entravam na terra, para a destruir.</p>\n<p><strong>6</strong> Assim Israel empobreceu muito pela presença dos midianitas; então os filhos de Israel clamaram ao Senhor.</p>\n<p><strong>7</strong> E sucedeu que, clamando os filhos de Israel ao Senhor por causa dos midianitas,</p>\n<p><strong>8</strong> Enviou o Senhor um profeta aos filhos de Israel, que lhes disse: Assim diz o Senhor Deus de Israel: Do Egito eu vos fiz subir, e vos tirei da casa da servidão;</p>\n<p><strong>9</strong> E vos livrei da mão dos egípcios, e da mão de todos quantos vos oprimiam; e os expulsei de diante de vós, e a vós dei a sua terra.</p>\n<p><strong>10</strong> E vos disse: Eu sou o Senhor vosso Deus; não temais aos deuses dos amorreus, em cuja terra habitais; mas não destes ouvidos à minha voz.</p>\n<p><strong>11</strong> Então o anjo do Senhor veio, e assentou-se debaixo do carvalho que está em Ofra, que pertencia a Joás, abiezrita; e Gideão, seu filho, estava malhando o trigo no lagar, para o salvar dos midianitas.</p>\n<p><strong>12</strong> Então o anjo do Senhor lhe apareceu, e lhe disse: O Senhor é contigo, homem valoroso.</p>\n<p><strong>13</strong> Mas Gideão lhe respondeu: Ai, Senhor meu, se o Senhor é conosco, por que tudo isto nos sobreveio? E que é feito de todas as suas maravilhas que nossos pais nos contaram, dizendo: Não nos fez o Senhor subir do Egito? Porém agora o Senhor nos desamparou, e nos deu nas mãos dos midianitas.</p>\n<p><strong>14</strong> Então o Senhor olhou para ele, e disse: Vai nesta tua força, e livrarás a Israel das mãos dos midianitas; porventura não te enviei eu?</p>\n<p><strong>15</strong> E ele lhe disse: Ai, Senhor meu, com que livrarei a Israel? Eis que a minha família é a mais pobre em Manassés, e eu o menor na casa de meu pai.</p>\n<p><strong>16</strong> E o Senhor lhe disse: Porquanto eu hei de ser contigo, tu ferirás aos midianitas como se fossem um só homem.</p>\n<p><strong>17</strong> E ele disse: Se agora tenho achado graça aos teus olhos, dá-me um sinal de que és tu que falas comigo.</p>\n<p><strong>18</strong> Rogo-te que daqui não te apartes, até que eu volte e traga o meu presente, e o ponha perante ti. E disse: Eu esperarei até que voltes.</p>\n<p><strong>19</strong> E entrou Gideão e preparou um cabrito e pães ázimos de um efa de farinha; a carne pôs num cesto e o caldo pôs numa panela; e trouxe-lho até debaixo do carvalho, e lho ofereceu.</p>\n<p><strong>20</strong> Porém o anjo de Deus lhe disse: Toma a carne e os pães ázimos, e põe-nos sobre esta penha e derrama-lhe o caldo. E assim fez.</p>\n<p><strong>21</strong> E o anjo do Senhor estendeu a ponta do cajado, que estava na sua mão, e tocou a carne e os pães ázimos; então subiu o fogo da penha, e consumiu a carne e os pães ázimos; e o anjo do Senhor desapareceu de seus olhos.</p>\n<p><strong>22</strong> Então viu Gideão que era o anjo do Senhor e disse Gideão: Ah, Senhor Deus, pois vi o anjo do Senhor face a face.</p>\n<p><strong>23</strong> Porém o Senhor lhe disse: Paz seja contigo; não temas; não morrerás.</p>\n<p><strong>24</strong> Então Gideão edificou ali um altar ao Senhor, e chamou-lhe: o Senhor é paz; e ainda até o dia de hoje está em Ofra dos abiezritas.</p>\n<p><strong>25</strong> E aconteceu naquela mesma noite, que o Senhor lhe disse: Toma o boi que pertence a teu pai, a saber, o segundo boi de sete anos, e derruba o altar de Baal, que é de teu pai; e corta o bosque que está ao pé dele.</p>\n<p><strong>26</strong> E edifica ao Senhor teu Deus um altar no cume deste lugar forte, num lugar conveniente; e toma o segundo boi, e o oferecerás em holocausto com a lenha que cortares do bosque.</p>\n<p><strong>27</strong> Então Gideão tomou dez homens dentre os seus servos, e fez como o Senhor lhe dissera; e sucedeu que, temendo ele a casa de seu pai, e os homens daquela cidade, não o fez de dia, mas fê-lo de noite.</p>\n<p><strong>28</strong> Levantando-se, pois, os homens daquela cidade, de madrugada, eis que estava o altar de Baal derrubado, e o bosque estava ao pé dele, cortado; e o segundo boi oferecido no altar que fora edificado.</p>\n<p><strong>29</strong> E uns aos outros disseram: Quem fez esta coisa? E, esquadrinhando, e inquirindo, disseram: Gideão, o filho de Joás, fez esta coisa.</p>\n<p><strong>30</strong> Então os homens daquela cidade disseram a Joás: Tira para fora a teu filho; para que morra; pois derribou o altar de Baal, e cortou o bosque que estava ao pé dele.</p>\n<p><strong>31</strong> Porém Joás disse a todos os que se puseram contra ele: Contendereis vós por Baal? Livrá-lo-eis vós? Qualquer que por ele contender ainda esta manhã será morto; se é deus, por si mesmo contenda; pois derrubaram o seu altar.</p>\n<p><strong>32</strong> Por isso naquele dia lhe chamaram Jerubaal, dizendo: Baal contenda contra ele, pois derrubou o seu altar.</p>\n<p><strong>33</strong> E todos os midianitas e amalequitas, e os filhos do oriente se ajuntaram, e passaram, e acamparam no vale de Jizreel.</p>\n<p><strong>34</strong> Então o Espírito do Senhor revestiu a Gideão, o qual tocou a trombeta, e os abiezritas se ajuntaram após ele.</p>\n<p><strong>35</strong> E enviou mensageiros por toda a tribo de Manassés, que também se ajuntou após ele; também enviou mensageiros a Aser, e a Zebulom, e a Naftali, que saíram-lhe ao encontro.</p>\n<p><strong>36</strong> E disse Gideão a Deus: Se hás de livrar a Israel por minha mão, como disseste,</p>\n<p><strong>37</strong> Eis que eu porei um velo de lã na eira; se o orvalho estiver somente no velo, e toda a terra ficar seca, então conhecerei que hás de livrar a Israel por minha mão, como disseste.</p>\n<p><strong>38</strong> E assim sucedeu; porque no outro dia se levantou de madrugada, e apertou o velo; e do orvalho que espremeu do velo, encheu uma taça de água.</p>\n<p><strong>39</strong> E disse Gideão a Deus: Não se acenda contra mim a tua ira, se ainda falar só esta vez; rogo-te que só esta vez faça a prova com o velo; rogo-te que só o velo fique seco, e em toda a terra haja o orvalho.</p>\n<p><strong>40</strong> E Deus assim fez naquela noite; pois só o velo ficou seco, e sobre toda a terra havia orvalho.</p>\n<hr>\n<p><a href=\"capitulo_5.md\">&lt;- Juízes 5</a> | <a href=\"capitulo_7.md\">Juízes 7 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "7": "<h1>Juízes - Capítulo 7</h1>\n<p><strong>1</strong> Então Jerubaal (que é Gideão) se levantou de madrugada, e todo o povo que com ele havia, e se acamparam junto à fonte de Harode, de maneira que tinha o arraial dos midianitas para o norte, no vale, perto do outeiro de Moré.</p>\n<p><strong>2</strong> E disse o Senhor a Gideão: Muito é o povo que está contigo, para eu dar aos midianitas em sua mão; a fim de que Israel não se glorie contra mim, dizendo: A minha mão me livrou.</p>\n<p><strong>3</strong> Agora, pois, apregoa aos ouvidos do povo, dizendo: Quem for medroso e tímido, volte, e retire-se apressadamente das montanhas de Gileade. Então voltaram do povo vinte e dois mil, e dez mil ficaram.</p>\n<p><strong>4</strong> E disse o Senhor a Gideão: Ainda há muito povo; faze-os descer às águas, e ali os provarei; e será que, daquele de que eu te disser: Este irá contigo, esse contigo irá; porém de todo aquele, de que eu te disser: Este não irá contigo, esse não irá.</p>\n<p><strong>5</strong> E fez descer o povo às águas. Então o Senhor disse a Gideão: Qualquer que lamber as águas com a sua língua, como as lambe o cão, esse porás à parte; como também a todo aquele que se abaixar de joelhos a beber.</p>\n<p><strong>6</strong> E foi o número dos que lamberam, levando a mão à boca, trezentos homens; e todo o restante do povo se abaixou de joelhos a beber as águas.</p>\n<p><strong>7</strong> E disse o Senhor a Gideão: Com estes trezentos homens que lamberam as águas vos livrarei, e darei os midianitas na tua mão; portanto, todos os demais se retirem, cada um ao seu lugar.</p>\n<p><strong>8</strong> E o povo tomou na sua mão a provisão e as suas trombetas, e enviou a todos os outros homens de Israel cada um à sua tenda, porém os trezentos homens reteve; e estava o arraial dos midianitas embaixo, no vale.</p>\n<p><strong>9</strong> E sucedeu que, naquela mesma noite, o Senhor lhe disse: Levanta-te, e desce ao arraial, porque o tenho dado na tua mão.</p>\n<p><strong>10</strong> E, se ainda temes descer, desce tu e teu moço Purá, ao arraial;</p>\n<p><strong>11</strong> E ouvirás o que dizem, e então, fortalecidas as tuas mãos descerás ao arraial. Então desceu ele com o seu moço Purá até ao extremo das sentinelas que estavam no arraial.</p>\n<p><strong>12</strong> E os midianitas, os amalequitas, e todos os filhos do oriente jaziam no vale como gafanhotos em multidão; e eram inumeráveis os seus camelos, como a areia que há na praia do mar, em multidão.</p>\n<p><strong>13</strong> Chegando, pois, Gideão, eis que estava contando um homem ao seu companheiro um sonho, e dizia: Eis que tive um sonho, eis que um pão de cevada torrado rodava pelo arraial dos midianitas, e chegava até à tenda, e a feriu, e caiu, e a transtornou de cima para baixo; e ficou caída.</p>\n<p><strong>14</strong> E respondeu o seu companheiro, e disse: Não é isto outra coisa, senão a espada de Gideão, filho de Joás, varão israelita. Deus tem dado na sua mão aos midianitas, e todo este arraial.</p>\n<p><strong>15</strong> E sucedeu que, ouvindo Gideão a narração deste sonho, e a sua explicação, adorou; e voltou ao arraial de Israel, e disse: Levantai-vos, porque o Senhor tem dado o arraial dos midianitas nas nossas mãos.</p>\n<p><strong>16</strong> Então dividiu os trezentos homens em três companhias; e deu-lhes a cada um, nas suas mãos, trombetas, e cântaros vazios, com tochas acesas dentro dos cântaros.</p>\n<p><strong>17</strong> E disse-lhes: Olhai para mim, e fazei como eu fizer; e eis que, chegando eu à extremidade do arraial, será que, como eu fizer, assim fareis vós.</p>\n<p><strong>18</strong> Tocando eu a trombeta, eu e todos os que comigo estiverem, então também vós tocareis a trombeta ao redor de todo o arraial, e direis: Espada do Senhor, e de Gideão.</p>\n<p><strong>19</strong> Chegou, pois, Gideão, e os cem homens que com ele iam, ao extremo do arraial, ao princípio da vigília da meia-noite, havendo sido de pouco trocadas as guardas; então tocaram as trombetas, e quebraram os cântaros, que tinham nas mãos.</p>\n<p><strong>20</strong> Assim tocaram as três companhias as trombetas, e quebraram os cântaros; e tinham nas suas mãos esquerdas as tochas acesas, e nas suas mãos direitas as trombetas, para tocarem, e clamaram: Espada do Senhor, e de Gideão.</p>\n<p><strong>21</strong> E conservou-se cada um no seu lugar ao redor do arraial; então todo o exército pôs-se a correr e, gritando, fugiu.</p>\n<p><strong>22</strong> Tocando, pois, os trezentos as trombetas, o Senhor tornou a espada de um contra o outro, e isto em todo o arraial, e o arraial fugiu para Zererá, até Bete-Sita, até aos limites de Abel-Meolá, acima de Tabate.</p>\n<p><strong>23</strong> Então os homens de Israel, de Naftali, de Aser e de todo o Manassés foram convocados, e perseguiram aos midianitas.</p>\n<p><strong>24</strong> Também Gideão enviou mensageiros a todas as montanhas de Efraim, dizendo: Descei ao encontro dos midianitas, e tomai-lhes as águas até Bete-Bara, e também o Jordão. Convocados, pois, todos os homens de Efraim, tomaram-lhes as águas até Bete-Bara e o Jordão.</p>\n<p><strong>25</strong> E prenderam a dois príncipes dos midianitas, a Orebe e a Zeebe; e mataram a Orebe na penha de Orebe, e a Zeebe mataram no lagar de Zeebe, e perseguiram aos midianitas; e trouxeram as cabeças de Orebe e de Zeebe a Gideão, além do Jordão.</p>\n<hr>\n<p><a href=\"capitulo_6.md\">&lt;- Juízes 6</a> | <a href=\"capitulo_8.md\">Juízes 8 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "8": "<h1>Juízes - Capítulo 8</h1>\n<p><strong>1</strong> Então os homens de Efraim lhe disseram: Que é isto que nos fizeste, que não nos chamaste, quando foste pelejar contra os midianitas? E contenderam com ele fortemente.</p>\n<p><strong>2</strong> Porém ele lhes disse: Que mais fiz eu agora do que vós? Não são porventura os rabiscos de Efraim melhores do que a vindima de Abiezer?</p>\n<p><strong>3</strong> Deus vos deu na vossa mão os príncipes dos midianitas, Orebe e Zeebe; que mais pude eu fazer do que vós? Então a sua ira se abrandou para com ele, quando falou esta palavra.</p>\n<p><strong>4</strong> E, como Gideão veio ao Jordão, passou com os trezentos homens que com ele estavam, já cansados, mas ainda perseguindo.</p>\n<p><strong>5</strong> E disse aos homens de Sucote: Dai, peço-vos, alguns pedaços de pão ao povo, que segue as minhas pisadas; porque estão cansados, e eu vou ao encalço de Zeba e Salmuna, reis dos midianitas.</p>\n<p><strong>6</strong> Porém os príncipes de Sucote disseram: Estão já, Zeba e Salmuna, em tua mão, para que demos pão ao teu exército?</p>\n<p><strong>7</strong> Então disse Gideão: Pois quando o Senhor der na minha mão a Zeba e a Salmuna, trilharei a vossa carne com os espinhos do deserto, e com os abrolhos.</p>\n<p><strong>8</strong> E dali subiu a Penuel, e falou-lhes da mesma maneira; e os homens de Penuel lhe responderam como os homens de Sucote lhe haviam respondido.</p>\n<p><strong>9</strong> Por isso também falou aos homens de Penuel, dizendo: Quando eu voltar em paz, derribarei esta torre.</p>\n<p><strong>10</strong> Estavam, pois, Zeba e Salmuna em Carcor, e os seus exércitos com eles, uns quinze mil homens, todos os que restaram do exército dos filhos do oriente; e os que caíram foram cento e vinte mil homens, que puxavam da espada.</p>\n<p><strong>11</strong> E subiu Gideão pelo caminho dos que habitavam em tendas, para o oriente de Nobá e Jogbeá; e feriu aquele exército, porquanto o exército estava descuidado.</p>\n<p><strong>12</strong> E fugiram Zeba e Salmuna; porém ele os perseguiu, e tomou presos a ambos os reis dos midianitas, a Zeba e a Salmuna, e afugentou a todo o exército.</p>\n<p><strong>13</strong> Voltando, pois, Gideão, filho de Joás, da peleja, antes do nascer do sol,</p>\n<p><strong>14</strong> Tomou preso a um moço dos homens de Sucote, e lhe fez perguntas; o qual lhe deu por escrito os nomes dos príncipes de Sucote, e dos seus anciãos, setenta e sete homens.</p>\n<p><strong>15</strong> Então veio aos homens de Sucote, e disse: Vede aqui a Zeba e a Salmuna, a respeito dos quais desprezivelmente me escarnecestes, dizendo: Estão já, Zeba e Salmuna, na tua mão, para que demos pão aos teus homens, já cansados?</p>\n<p><strong>16</strong> E tomou os anciãos daquela cidade, e os espinhos do deserto, e os abrolhos; e com eles ensinou aos homens de Sucote.</p>\n<p><strong>17</strong> E derrubou a torre de Penuel, e matou os homens da cidade.</p>\n<p><strong>18</strong> Depois perguntou a Zeba e a Salmuna: Que homens eram os que matastes em Tabor? E disseram: Como és tu, assim eram eles; cada um parecia filho de rei.</p>\n<p><strong>19</strong> Então disse ele: Meus irmãos eram, filhos de minha mãe; vive o Senhor, que, se os tivésseis deixado com vida, eu não vos mataria.</p>\n<p><strong>20</strong> E disse a Jeter, seu primogênito: Levanta-te, mata-os. Porém o moço não puxou da sua espada, porque temia; porquanto ainda era jovem.</p>\n<p><strong>21</strong> Então disseram Zeba e Salmuna: Levanta-te, e acomete-nos; porque, qual o homem, tal a sua valentia. Levantou-se, pois, Gideão, e matou a Zeba e a Salmuna, e tomou os ornamentos que estavam nos pescoços dos seus camelos.</p>\n<p><strong>22</strong> Então os homens de Israel disseram a Gideão: Domina sobre nós, tanto tu, como teu filho e o filho de teu filho; porquanto nos livraste da mão dos midianitas.</p>\n<p><strong>23</strong> Porém Gideão lhes disse: Sobre vós eu não dominarei, nem tampouco meu filho sobre vós dominará; o Senhor sobre vós dominará.</p>\n<p><strong>24</strong> E disse-lhes mais Gideão: Uma petição vos farei: Dá-me, cada um de vós, os pendentes do seu despojo (porque tinham pendentes de ouro, porquanto eram ismaelitas).</p>\n<p><strong>25</strong> E disseram eles: De boa vontade os daremos. E estenderam uma capa, e cada um deles deitou ali um pendente do seu despojo.</p>\n<p><strong>26</strong> E foi o peso dos pendentes de ouro, que pediu, mil e setecentos siclos de ouro, afora os ornamentos, e as cadeias, e as vestes de púrpura que traziam os reis dos midianitas, e afora as coleiras que os camelos traziam ao pescoço.</p>\n<p><strong>27</strong> E fez Gideão dele um éfode, e colocou-o na sua cidade, em Ofra; e todo o Israel prostituiu-se ali após ele; e foi por tropeço a Gideão e à sua casa.</p>\n<p><strong>28</strong> Assim foram abatidos os midianitas diante dos filhos de Israel, e nunca mais levantaram a sua cabeça; e sossegou a terra quarenta anos nos dias de Gideão.</p>\n<p><strong>29</strong> E foi Jerubaal, filho de Joás, e habitou em sua casa.</p>\n<p><strong>30</strong> E teve Gideão setenta filhos, que procederam dele, porque tinha muitas mulheres.</p>\n<p><strong>31</strong> E sua concubina, que estava em Siquém, lhe deu à luz também um filho; e pôs-lhe por nome Abimeleque.</p>\n<p><strong>32</strong> E faleceu Gideão, filho de Joás, numa boa velhice; e foi sepultado no sepulcro de seu pai Joás, em Ofra dos abiezritas.</p>\n<p><strong>33</strong> E sucedeu que, como Gideão faleceu, os filhos de Israel tornaram a se prostituir após os baalins; e puseram a Baal-Berite por deus.</p>\n<p><strong>34</strong> E assim os filhos de Israel não se lembraram do Senhor seu Deus, que os livrara da mão de todos os seus inimigos ao redor.</p>\n<p><strong>35</strong> Nem usaram de beneficência com a casa de Jerubaal, a saber, de Gideão, conforme a todo o bem que ele havia feito a Israel.</p>\n<hr>\n<p><a href=\"capitulo_7.md\">&lt;- Juízes 7</a> | <a href=\"capitulo_9.md\">Juízes 9 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "9": "<h1>Juízes - Capítulo 9</h1>\n<p><strong>1</strong> E Abimeleque, filho de Jerubaal, foi a Siquém, aos irmãos de sua mãe, e falou-lhes e a toda a geração da casa do pai de sua mãe, dizendo:</p>\n<p><strong>2</strong> Falai, peço-vos, aos ouvidos de todos os cidadãos de Siquém: Qual é melhor para vós, que setenta homens, todos os filhos de Jerubaal, dominem sobre vós, ou que um homem sobre vós domine? Lembrai-vos também de que sou osso vosso e carne vossa.</p>\n<p><strong>3</strong> Então os irmãos de sua mãe falaram acerca dele perante os ouvidos de todos os cidadãos de Siquém todas aquelas palavras; e o coração deles se inclinou a seguir Abimeleque, porque disseram: É nosso irmão.</p>\n<p><strong>4</strong> E deram-lhe setenta peças de prata, da casa de Baal-Berite; e com elas alugou Abimeleque uns homens ociosos e levianos, que o seguiram.</p>\n<p><strong>5</strong> E veio à casa de seu pai, a Ofra, e matou a seus irmãos, os filhos de Jerubaal, setenta homens, sobre uma pedra. Porém Jotão, filho menor de Jerubaal, ficou, porque se tinha escondido.</p>\n<p><strong>6</strong> Então se ajuntaram todos os cidadãos de Siquém, e toda a casa de Milo; e foram, e constituíram a Abimeleque rei, junto ao carvalho alto que está perto de Siquém.</p>\n<p><strong>7</strong> E, dizendo-o a Jotão, foi e pôs-se no cume do monte de Gerizim, e levantou a sua voz, e clamou e disse-lhes: Ouvi-me, cidadãos de Siquém, e Deus vos ouvirá a vós;</p>\n<p><strong>8</strong> Foram uma vez as árvores a ungir para si um rei, e disseram à oliveira: Reina tu sobre nós.</p>\n<p><strong>9</strong> Porém a oliveira lhes disse: Deixaria eu a minha gordura, que Deus e os homens em mim prezam, e iria pairar sobre as árvores?</p>\n<p><strong>10</strong> Então disseram as árvores à figueira: Vem tu, e reina sobre nós.</p>\n<p><strong>11</strong> Porém a figueira lhes disse: Deixaria eu a minha doçura, o meu bom fruto, e iria pairar sobre as árvores?</p>\n<p><strong>12</strong> Então disseram as árvores à videira: Vem tu, e reina sobre nós.</p>\n<p><strong>13</strong> Porém a videira lhes disse: Deixaria eu o meu mosto, que alegra a Deus e aos homens, e iria pairar sobre as árvores?</p>\n<p><strong>14</strong> Então todas as árvores disseram ao espinheiro: Vem tu, e reina sobre nós.</p>\n<p><strong>15</strong> E disse o espinheiro às árvores: Se, na verdade, me ungis por rei sobre vós, vinde, e confiai-vos debaixo da minha sombra; mas, se não, saia fogo do espinheiro que consuma os cedros do Líbano.</p>\n<p><strong>16</strong> Agora, pois, se é que em verdade e sinceridade agistes, fazendo rei a Abimeleque, e se bem fizestes para com Jerubaal e para com a sua casa, e se com ele usastes conforme ao merecimento das suas mãos</p>\n<p><strong>17</strong> (Porque meu pai pelejou por vós, e desprezou a sua vida, e vos livrou da mão dos midianitas;</p>\n<p><strong>18</strong> Porém vós hoje vos levantastes contra a casa de meu pai, e matastes a seus filhos, setenta homens, sobre uma pedra; e a Abimeleque, filho da sua serva, fizestes reinar sobre os cidadãos de Siquém, porque é vosso irmão);</p>\n<p><strong>19</strong> Pois, se em verdade e sinceridade usastes com Jerubaal e com a sua casa hoje, alegrai-vos com Abimeleque, e também ele se alegre convosco.</p>\n<p><strong>20</strong> Mas, se não, saia fogo de Abimeleque, e consuma aos cidadãos de Siquém, e a casa de Milo; e saia fogo dos cidadãos de Siquém, e da casa de Milo, que consuma a Abimeleque.</p>\n<p><strong>21</strong> Então partiu Jotão, e fugiu e foi para Beer; e ali habitou por medo de Abimeleque, seu irmão.</p>\n<p><strong>22</strong> Havendo, pois, Abimeleque dominado três anos sobre Israel,</p>\n<p><strong>23</strong> Enviou Deus um mau espírito entre Abimeleque e os homens de Siquém; e os homens de Siquém se houveram aleivosamente contra Abimeleque;</p>\n<p><strong>24</strong> Para que a violência feita aos setenta filhos de Jerubaal viesse, e o seu sangue caísse sobre Abimeleque, seu irmão, que os matara, e sobre os cidadãos de Siquém, que fortaleceram as mãos dele para matar a seus irmãos;</p>\n<p><strong>25</strong> E os cidadãos de Siquém puseram contra ele quem lhe armasse emboscadas sobre os cumes dos montes; e a todo aquele que passava pelo caminho junto a eles o assaltavam; e contou-se isso a Abimeleque.</p>\n<p><strong>26</strong> Veio também Gaal, filho de Ebede, com seus irmãos, e passaram a Siquém; e os cidadãos de Siquém confiaram nele.</p>\n<p><strong>27</strong> E saíram ao campo, e vindimaram as suas vinhas, e pisaram as uvas, e fizeram festas; e foram à casa de seu deus, e comeram, e beberam, e amaldiçoaram a Abimeleque.</p>\n<p><strong>28</strong> E disse Gaal, filho de Ebede: Quem é Abimeleque, e quem é Siquém, para que o sirvamos? Não é porventura filho de Jerubaal? E não é Zebul o seu mordomo? Servi antes aos homens de Hamor, pai de Siquém; pois, por que razão serviríamos nós a ele?</p>\n<p><strong>29</strong> Ah! Se este povo estivera na minha mão, eu expulsaria a Abimeleque. E diria a Abimeleque: Multiplica o teu exército, e sai.</p>\n<p><strong>30</strong> E, ouvindo Zebul, o maioral da cidade, as palavras de Gaal, filho de Ebede, se acendeu a sua ira;</p>\n<p><strong>31</strong> E enviou astutamente mensageiros a Abimeleque, dizendo: Eis que Gaal, filho de Ebede, e seus irmãos vieram a Siquém, e eis que eles estão sublevando esta cidade contra ti.</p>\n<p><strong>32</strong> Levanta-te, pois, de noite, tu e o povo que tiveres contigo, e põe emboscadas no campo.</p>\n<p><strong>33</strong> E levanta-te pela manhã ao sair o sol, e dá de golpe sobre a cidade; e eis que, saindo contra ti, ele e o povo que tiver com ele, faze-lhe como puderes.</p>\n<p><strong>34</strong> Levantou-se, pois, Abimeleque, e todo o povo que com ele havia, de noite, e puseram emboscadas a Siquém, com quatro tropas.</p>\n<p><strong>35</strong> E Gaal, filho de Ebede, saiu, e pôs-se à entrada da porta da cidade; e Abimeleque, e todo o povo que com ele havia, se levantou das emboscadas.</p>\n<p><strong>36</strong> E, vendo Gaal aquele povo, disse a Zebul: Eis que desce gente dos cumes dos montes. Zebul, ao contrário, lhe disse: As sombras dos montes vês como se fossem homens.</p>\n<p><strong>37</strong> Porém Gaal ainda tornou a falar, e disse: Eis ali desce gente do meio da terra, e uma tropa vem do caminho do carvalho de Meonenim.</p>\n<p><strong>38</strong> Então lhe disse Zebul: Onde está agora a tua boca, com a qual dizias: Quem é Abimeleque, para que o sirvamos? Não é este porventura o povo que desprezaste? Sai pois, peço-te, e peleja contra ele.</p>\n<p><strong>39</strong> E saiu Gaal à vista dos cidadãos de Siquém, e pelejou contra Abimeleque.</p>\n<p><strong>40</strong> E Abimeleque o perseguiu porquanto fugiu de diante dele; e muitos feridos caíram até à entrada da porta da cidade.</p>\n<p><strong>41</strong> E Abimeleque ficou em Aruma. E Zebul expulsou a Gaal e a seus irmãos, para que não pudessem habitar em Siquém.</p>\n<p><strong>42</strong> E sucedeu no dia seguinte que o povo saiu ao campo; disto foi avisado Abimeleque.</p>\n<p><strong>43</strong> Então tomou o povo, e o repartiu em três tropas, e pôs emboscadas no campo; e olhou, e eis que o povo saía da cidade, e levantou-se contra ele, e o feriu.</p>\n<p><strong>44</strong> Porque Abimeleque, e as tropas que com ele havia, romperam de improviso, e pararam à entrada da porta da cidade; e as outras duas tropas deram de improviso sobre todos quantos estavam no campo, e os feriram.</p>\n<p><strong>45</strong> E Abimeleque pelejou contra a cidade todo aquele dia, e tomou a cidade, e matou o povo que nela havia; e assolou a cidade, e a semeou de sal.</p>\n<p><strong>46</strong> O que ouvindo todos os cidadãos da torre de Siquém, entraram na fortaleza, na casa do deus Berite.</p>\n<p><strong>47</strong> E contou-se a Abimeleque que todos os cidadãos da torre de Siquém se haviam congregado.</p>\n<p><strong>48</strong> Subiu, pois, Abimeleque ao monte Salmom, ele e todo o povo que com ele havia; e Abimeleque tomou na sua mão um machado, e cortou um ramo de árvore, e o levantou, e pô-lo ao seu ombro, e disse ao povo, que com ele havia: O que me vistes fazer apressai-vos a fazê-lo assim como eu.</p>\n<p><strong>49</strong> Assim, pois, cada um de todo o povo, também cortou o seu ramo e seguiu a Abimeleque; e pondo os ramos junto da fortaleza, queimaram a fogo a fortaleza sobre eles, de modo que todos os homens da torre de Siquém morreram, uns mil homens e mulheres.</p>\n<p><strong>50</strong> Então Abimeleque foi a Tebes e a sitiou, e a tomou.</p>\n<p><strong>51</strong> Havia, porém, no meio da cidade uma torre forte; e todos os homens e mulheres, e todos os cidadãos da cidade se refugiaram nela, e fecharam após si as portas, e subiram ao eirado da torre.</p>\n<p><strong>52</strong> E Abimeleque veio até à torre, e a combateu; e chegou-se até à porta da torre, para a incendiar.</p>\n<p><strong>53</strong> Porém uma mulher lançou um pedaço de uma mó sobre a cabeça de Abimeleque; e quebrou-lhe o crânio.</p>\n<p><strong>54</strong> Então chamou logo ao moço, que levava as suas armas, e disse-lhe: Desembainha a tua espada, e mata-me; para que não se diga de mim: Uma mulher o matou. E o moço o atravessou e ele morreu.</p>\n<p><strong>55</strong> Vendo, pois, os homens de Israel que Abimeleque já era morto, foram-se cada um para o seu lugar.</p>\n<p><strong>56</strong> Assim Deus fez tornar sobre Abimeleque o mal que tinha feito a seu pai, matando a seus setenta irmãos.</p>\n<p><strong>57</strong> Como também todo o mal dos homens de Siquém fez tornar sobre a cabeça deles; e a maldição de Jotão, filho de Jerubaal, veio sobre eles.</p>\n<hr>\n<p><a href=\"capitulo_8.md\">&lt;- Juízes 8</a> | <a href=\"capitulo_10.md\">Juízes 10 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "10": "<h1>Juízes - Capítulo 10</h1>\n<p><strong>1</strong> E depois de Abimeleque, se levantou, para livrar a Israel, Tola, filho de Puá, filho de Dodo, homem de Issacar; e habitava em Samir, na montanha de Efraim.</p>\n<p><strong>2</strong> E julgou a Israel vinte e três anos; e morreu, e foi sepultado em Samir.</p>\n<p><strong>3</strong> E depois dele se levantou Jair, gileadita, e julgou a Israel vinte e dois anos.</p>\n<p><strong>4</strong> E tinha este trinta filhos, que cavalgavam sobre trinta jumentos; e tinham trinta cidades, a que chamaram Havote-Jair, até ao dia de hoje; as quais estão na terra de Gileade.</p>\n<p><strong>5</strong> E morreu Jair, e foi sepultado em Camom.</p>\n<p><strong>6</strong> Então tornaram os filhos de Israel a fazer o que era mau aos olhos do Senhor, e serviram aos baalins, e a Astarote, e aos deuses da Síria, e aos deuses de Sidom, e aos deuses de Moabe, e aos deuses dos filhos de Amom, e aos deuses dos filisteus; e deixaram ao Senhor, e não o serviram.</p>\n<p><strong>7</strong> E a ira do Senhor se acendeu contra Israel; e vendeu-os nas mãos dos filisteus, e nas mãos dos filhos de Amom.</p>\n<p><strong>8</strong> E naquele mesmo ano oprimiram e vexaram aos filhos de Israel; dezoito anos oprimiram a todos os filhos de Israel que estavam além do Jordão, na terra dos amorreus, que está em Gileade.</p>\n<p><strong>9</strong> Até os filhos de Amom passaram o Jordão, para pelejar também contra Judá, e contra Benjamim, e contra a casa de Efraim; de modo que Israel ficou muito angustiado.</p>\n<p><strong>10</strong> Então os filhos de Israel clamaram ao Senhor, dizendo: Contra ti havemos pecado, visto que deixamos a nosso Deus, e servimos aos baalins.</p>\n<p><strong>11</strong> Porém o Senhor disse aos filhos de Israel: Porventura dos egípcios, e dos amorreus, e dos filhos de Amom, e dos filisteus,</p>\n<p><strong>12</strong> E dos sidônios, e dos amalequitas, e dos maonitas, que vos oprimiam, quando a mim clamastes, não vos livrei das suas mãos?</p>\n<p><strong>13</strong> Contudo vós me deixastes a mim, e servistes a outros deuses; pelo que não vos livrarei mais.</p>\n<p><strong>14</strong> Ide, e clamai aos deuses que escolhestes; que eles vos livrem no tempo do vosso aperto.</p>\n<p><strong>15</strong> Mas os filhos de Israel disseram ao Senhor: Pecamos; faze-nos conforme a tudo quanto te parecer bem aos teus olhos; tão somente te rogamos que nos livres nesta vez.</p>\n<p><strong>16</strong> E tiraram os deuses alheios do meio de si, e serviram ao Senhor; então se angustiou a sua alma por causa da desgraça de Israel.</p>\n<p><strong>17</strong> E os filhos de Amom se reuniram e se acamparam em Gileade; e também os de Israel se congregaram, e se acamparam em Mizpá.</p>\n<p><strong>18</strong> Então o povo e os príncipes de Gileade disseram uns aos outros: Quem será o homem que começará a pelejar contra os filhos de Amom? Ele será por cabeça de todos os moradores de Gileade.</p>\n<hr>\n<p><a href=\"capitulo_9.md\">&lt;- Juízes 9</a> | <a href=\"capitulo_11.md\">Juízes 11 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "11": "<h1>Juízes - Capítulo 11</h1>\n<p><strong>1</strong> Era então Jefté, o gileadita, homem valoroso, porém filho de uma prostituta; mas Gileade gerara a Jefté.</p>\n<p><strong>2</strong> Também a mulher de Gileade lhe deu filhos, e, sendo os filhos desta mulher já grandes, expulsaram a Jefté, e lhe disseram: Não herdarás na casa de nosso pai, porque és filho de outra mulher.</p>\n<p><strong>3</strong> Então Jefté fugiu de diante de seus irmãos, e habitou na terra de Tobe; e homens levianos se ajuntaram a Jefté, e saíam com ele.</p>\n<p><strong>4</strong> E aconteceu que, depois de algum tempo, os filhos de Amom pelejaram contra Israel.</p>\n<p><strong>5</strong> E sucedeu que, como os filhos de Amom pelejassem contra Israel, foram os anciãos de Gileade buscar a Jefté na terra de Tobe.</p>\n<p><strong>6</strong> E disseram a Jefté: Vem, e sê o nosso chefe; para que combatamos contra os filhos de Amom.</p>\n<p><strong>7</strong> Porém Jefté disse aos anciãos de Gileade: Porventura não me odiastes a mim, e não me expulsastes da casa de meu pai? Por que, pois, agora viestes a mim, quando estais em aperto?</p>\n<p><strong>8</strong> E disseram os anciãos de Gileade a Jefté: Por isso tornamos a ti, para que venhas conosco, e combatas contra os filhos de Amom; e nos sejas por chefe sobre todos os moradores de Gileade.</p>\n<p><strong>9</strong> Então Jefté disse aos anciãos de Gileade: Se me levardes de volta para combater contra os filhos de Amom, e o Senhor mos der diante de mim, então eu vos serei por chefe?</p>\n<p><strong>10</strong> E disseram os anciãos de Gileade a Jefté: O Senhor será testemunha entre nós, e assim o faremos conforme a tua palavra.</p>\n<p><strong>11</strong> Assim Jefté foi com os anciãos de Gileade, e o povo o pôs por chefe e príncipe sobre si; e Jefté falou todas as suas palavras perante o Senhor em Mizpá.</p>\n<p><strong>12</strong> E enviou Jefté mensageiros ao rei dos filhos de Amom, dizendo: Que há entre mim e ti, que vieste a mim a pelejar contra a minha terra?</p>\n<p><strong>13</strong> E disse o rei dos filhos de Amom aos mensageiros de Jefté: É porque, saindo Israel do Egito, tomou a minha terra, desde Arnom até Jaboque, e ainda até ao Jordão: Restitui-ma agora, em paz.</p>\n<p><strong>14</strong> Porém Jefté prosseguiu ainda em enviar mensageiros ao rei dos filhos de Amom,</p>\n<p><strong>15</strong> Dizendo-lhe: Assim diz Jefté: Israel não tomou, nem a terra dos moabitas, nem a terra dos filhos de Amom.</p>\n<p><strong>16</strong> Porque, subindo Israel do Egito, andou pelo deserto até ao Mar Vermelho, e chegou até Cades.</p>\n<p><strong>17</strong> E Israel enviou mensageiros ao rei dos edomitas, dizendo: Rogo-te que me deixes passar pela tua terra. Porém o rei dos edomitas não lhe deu ouvidos; enviou também ao rei dos moabitas, o qual igualmente não consentiu; e assim Israel ficou em Cades.</p>\n<p><strong>18</strong> Depois andou pelo deserto e rodeou a terra dos edomitas e a terra dos moabitas, e veio do nascente do sol à terra dos moabitas, e alojou-se além de Arnom; porém não entrou nos limites dos moabitas, porque Arnom é limite dos moabitas.</p>\n<p><strong>19</strong> Mas Israel enviou mensageiros a Siom, rei dos amorreus, rei de Hesbom; e disse-lhe Israel: Deixa-nos, peço-te, passar pela tua terra até ao meu lugar.</p>\n<p><strong>20</strong> Porém Siom não confiou em Israel para este passar nos seus limites; antes Siom ajuntou todo o seu povo, e se acamparam em Jasa, e combateu contra Israel.</p>\n<p><strong>21</strong> E o Senhor Deus de Israel deu a Siom, com todo o seu povo, na mão de Israel, que os feriu; e Israel tomou por herança toda a terra dos amorreus que habitavam naquela região.</p>\n<p><strong>22</strong> E por herança tomaram todos os limites dos amorreus, desde Arnom até Jaboque, e desde o deserto até ao Jordão.</p>\n<p><strong>23</strong> Assim o Senhor Deus de Israel desapossou os amorreus de diante do seu povo de Israel; e os possuirias tu?</p>\n<p><strong>24</strong> Não possuirias tu aquilo que Quemós, teu deus, desapossasse de diante de ti? Assim possuiremos nós todos quantos o Senhor nosso Deus desapossar de diante de nós.</p>\n<p><strong>25</strong> Agora, pois, és tu ainda melhor do que Balaque, filho de Zipor, rei dos moabitas? Porventura contendeu ele em algum tempo com Israel, ou pelejou alguma vez contra ele?</p>\n<p><strong>26</strong> Enquanto Israel habitou trezentos anos em Hesbom e nas suas vilas, e em Aroer e nas suas vilas, em todas as cidades que estão ao longo de Arnom, por que o não recuperastes naquele tempo?</p>\n<p><strong>27</strong> Tampouco pequei eu contra ti! Porém tu usas mal comigo em pelejar contra mim; o Senhor, que é juiz, julgue hoje entre os filhos de Israel e entre os filhos de Amom.</p>\n<p><strong>28</strong> Porém o rei dos filhos de Amom não deu ouvidos às palavras que Jefté lhe enviou.</p>\n<p><strong>29</strong> Então o Espírito do Senhor veio sobre Jefté, e atravessou ele por Gileade e Manassés, passando por Mizpá de Gileade, e de Mizpá de Gileade passou até aos filhos de Amom.</p>\n<p><strong>30</strong> E Jefté fez um voto ao Senhor, e disse: Se totalmente deres os filhos de Amom na minha mão,</p>\n<p><strong>31</strong> Aquilo que, saindo da porta de minha casa, me vier ao encontro, voltando eu dos filhos de Amom em paz, isso será do Senhor, e o oferecerei em holocausto.</p>\n<p><strong>32</strong> Assim Jefté passou aos filhos de Amom, a combater contra eles; e o Senhor os deu na sua mão.</p>\n<p><strong>33</strong> E os feriu com grande mortandade, desde Aroer até chegar a Minite, vinte cidades, e até Abel-Queramim; assim foram subjugados os filhos de Amom diante dos filhos de Israel.</p>\n<p><strong>34</strong> Vindo, pois, Jefté a Mizpá, à sua casa, eis que a sua filha lhe saiu ao encontro com adufes e com danças; e era ela a única filha; não tinha ele outro filho nem filha.</p>\n<p><strong>35</strong> E aconteceu que, quando a viu, rasgou as suas vestes, e disse: Ah! Filha minha, muito me abateste, e estás entre os que me turbam! Porque eu abri a minha boca ao Senhor, e não tornarei atrás.</p>\n<p><strong>36</strong> E ela lhe disse: Meu pai, tu abriste a tua boca ao Senhor, faze de mim conforme o que saiu da tua boca; pois o Senhor por ti executou vingança contra os teus inimigos, os filhos de Amom.</p>\n<p><strong>37</strong> Disse mais a seu pai: Concede-me isto: Deixa-me por dois meses que vá, e desça pelos montes, e chore a minha virgindade, eu e as minhas companheiras.</p>\n<p><strong>38</strong> E disse ele: Vai. E deixou-a ir por dois meses; então foi ela com as suas companheiras, e chorou a sua virgindade pelos montes.</p>\n<p><strong>39</strong> E sucedeu que, ao fim de dois meses, tornou ela para seu pai, o qual cumpriu nela o seu voto que tinha feito; e ela não conheceu homem; e daí veio o costume de Israel,</p>\n<p><strong>40</strong> Que as filhas de Israel iam de ano em ano lamentar, por quatro dias, a filha de Jefté, o gileadita.</p>\n<hr>\n<p><a href=\"capitulo_10.md\">&lt;- Juízes 10</a> | <a href=\"capitulo_12.md\">Juízes 12 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "12": "<h1>Juízes - Capítulo 12</h1>\n<p><strong>1</strong> Então se convocaram os homens de Efraim, e passaram para o norte, e disseram a Jefté: Por que passaste a combater contra os filhos de Amom, e não nos chamaste para ir contigo? Queimaremos a fogo a tua casa contigo.</p>\n<p><strong>2</strong> E Jefté lhes disse: Eu e o meu povo tivemos grande contenda com os filhos de Amom; e chamei-vos, e não me livrastes da sua mão;</p>\n<p><strong>3</strong> E, vendo eu que não me livráveis, arrisquei a minha vida, e passei contra os filhos de Amom, e o Senhor mos entregou nas mãos; por que, pois, subistes vós hoje, para combater contra mim?</p>\n<p><strong>4</strong> E ajuntou Jefté a todos os homens de Gileade, e combateu contra Efraim; e os homens de Gileade feriram a Efraim; porque este dissera-lhe: Fugitivos sois de Efraim, vós gileaditas que habitais no meio de Efraim e Manassés,</p>\n<p><strong>5</strong> Porque tomaram os gileaditas aos efraimitas os vaus do Jordão; e sucedeu que, quando algum dos fugitivos de Efraim dizia: Deixai-me passar; então os gileaditas perguntavam: És tu efraimita? E dizendo ele: Não,</p>\n<p><strong>6</strong> Então lhe diziam: Dize, pois, Chibolete; porém ele dizia: Sibolete; porque não o podia pronunciar bem; então pegavam dele, e o degolavam nos vaus do Jordão; e caíram de Efraim naquele tempo quarenta e dois mil.</p>\n<p><strong>7</strong> E Jefté julgou a Israel seis anos; e Jefté, o gileadita, faleceu, e foi sepultado numa das cidades de Gileade.</p>\n<p><strong>8</strong> E depois dele julgou a Israel Ibzã de Belém.</p>\n<p><strong>9</strong> E tinha este trinta filhos, e trinta filhas que casou fora; e trinta filhas trouxe de fora para seus filhos; e julgou a Israel sete anos.</p>\n<p><strong>10</strong> Então faleceu Ibzã, e foi sepultado em Belém.</p>\n<p><strong>11</strong> E depois dele julgou a Israel Elom, o zebulonita; e julgou a Israel dez anos.</p>\n<p><strong>12</strong> E faleceu Elom, o zebulonita, e foi sepultado em Aijalom, na terra de Zebulom.</p>\n<p><strong>13</strong> E depois dele julgou a Israel Abdom, filho de Hilel, o piratonita.</p>\n<p><strong>14</strong> E tinha este quarenta filhos, e trinta netos, que cavalgavam sobre setenta jumentos; e julgou a Israel oito anos.</p>\n<p><strong>15</strong> Então faleceu Abdom, filho de Hilel, o piratonita; e foi sepultado em Piratom, na terra de Efraim, no monte dos amalequitas.</p>\n<hr>\n<p><a href=\"capitulo_11.md\">&lt;- Juízes 11</a> | <a href=\"capitulo_13.md\">Juízes 13 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "13": "<h1>Juízes - Capítulo 13</h1>\n<p><strong>1</strong> E os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor, e o Senhor os entregou na mão dos filisteus por quarenta anos.</p>\n<p><strong>2</strong> E havia um homem de Zorá, da tribo de Dã, cujo nome era Manoá; e sua mulher, sendo estéril, não tinha filhos.</p>\n<p><strong>3</strong> E o anjo do Senhor apareceu a esta mulher, e disse-lhe: Eis que agora és estéril, e nunca tens concebido; porém conceberás, e terás um filho.</p>\n<p><strong>4</strong> Agora, pois, guarda-te de beber vinho, ou bebida forte, ou comer coisa imunda.</p>\n<p><strong>5</strong> Porque eis que tu conceberás e terás um filho sobre cuja cabeça não passará navalha; porquanto o menino será nazireu de Deus desde o ventre; e ele começará a livrar a Israel da mão dos filisteus.</p>\n<p><strong>6</strong> Então a mulher entrou, e falou a seu marido, dizendo: Um homem de Deus veio a mim, cuja aparência era semelhante a de um anjo de Deus, terribilíssima; e não lhe perguntei donde era, nem ele me disse o seu nome.</p>\n<p><strong>7</strong> Porém disse-me: Eis que tu conceberás e terás um filho; agora pois, não bebas vinho, nem bebida forte, e não comas coisa imunda; porque o menino será nazireu de Deus, desde o ventre até ao dia da sua morte.</p>\n<p><strong>8</strong> Então Manoá orou ao Senhor, e disse: Ah! Senhor meu, rogo-te que o homem de Deus, que enviaste, ainda venha para nós outra vez e nos ensine o que devemos fazer ao menino que há de nascer.</p>\n<p><strong>9</strong> E Deus ouviu a voz de Manoá; e o anjo de Deus veio outra vez à mulher, e ela estava no campo, porém não estava com ela seu marido Manoá.</p>\n<p><strong>10</strong> Apressou-se, pois, a mulher, e correu, e noticiou-o a seu marido, e disse-lhe: Eis que aquele homem que veio a mim o outro dia me apareceu.</p>\n<p><strong>11</strong> Então Manoá levantou-se, e seguiu a sua mulher, e foi àquele homem, e disse-lhe: És tu aquele homem que falou a esta mulher? E disse: Eu sou.</p>\n<p><strong>12</strong> Então disse Manoá: Cumpram-se as tuas palavras; mas qual será o modo de viver e o serviço do menino?</p>\n<p><strong>13</strong> E disse o anjo do Senhor a Manoá: De tudo quanto eu disse à mulher se guardará ela.</p>\n<p><strong>14</strong> De tudo quanto procede da videira não comerá, nem vinho nem bebida forte beberá, nem coisa imunda comerá; tudo quanto lhe tenho ordenado guardará.</p>\n<p><strong>15</strong> Então Manoá disse ao anjo do Senhor: Ora deixa que te detenhamos, e te preparemos um cabrito.</p>\n<p><strong>16</strong> Porém o anjo do Senhor disse a Manoá: Ainda que me detenhas, não comerei de teu pão; e se fizeres holocausto o oferecerás ao Senhor. Porque não sabia Manoá que era o anjo do Senhor.</p>\n<p><strong>17</strong> E disse Manoá ao anjo do Senhor: Qual é o teu nome, para que, quando se cumprir a tua palavra, te honremos?</p>\n<p><strong>18</strong> E o anjo do Senhor lhe disse: Por que perguntas assim pelo meu nome, visto que é maravilhoso?</p>\n<p><strong>19</strong> Então Manoá tomou um cabrito e uma oferta de alimentos, e os ofereceu sobre uma penha ao Senhor: e houve-se o anjo maravilhosamente, observando-o Manoá e sua mulher.</p>\n<p><strong>20</strong> E sucedeu que, subindo a chama do altar para o céu, o anjo do Senhor subiu na chama do altar; o que vendo Manoá e sua mulher, caíram em terra sobre seus rostos.</p>\n<p><strong>21</strong> E nunca mais apareceu o anjo do Senhor a Manoá, nem a sua mulher; então compreendeu Manoá que era o anjo do Senhor.</p>\n<p><strong>22</strong> E disse Manoá à sua mulher: Certamente morreremos, porquanto temos visto a Deus.</p>\n<p><strong>23</strong> Porém sua mulher lhe disse: Se o Senhor nos quisesse matar, não aceitaria da nossa mão o holocausto e a oferta de alimentos, nem nos mostraria tudo isto, nem nos deixaria ouvir tais coisas neste tempo.</p>\n<p><strong>24</strong> Depois teve esta mulher um filho, a quem pôs o nome de Sansão; e o menino cresceu, e o Senhor o abençoou.</p>\n<p><strong>25</strong> E o Espírito do Senhor começou a incitá-lo de quando em quando para o campo de Dã, entre Zorá e Estaol.</p>\n<hr>\n<p><a href=\"capitulo_12.md\">&lt;- Juízes 12</a> | <a href=\"capitulo_14.md\">Juízes 14 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "14": "<h1>Juízes - Capítulo 14</h1>\n<p><strong>1</strong> E desceu Sansão a Timnate; e, vendo em Timnate uma mulher das filhas dos filisteus,</p>\n<p><strong>2</strong> Subiu, e declarou-o a seu pai e a sua mãe, e disse: Vi uma mulher em Timnate, das filhas dos filisteus; agora, pois, tomai-ma por mulher.</p>\n<p><strong>3</strong> Porém seu pai e sua mãe lhe disseram: Não há, porventura, mulher entre as filhas de teus irmãos, nem entre todo o meu povo, para que tu vás tomar mulher dos filisteus, daqueles incircuncisos? E disse Sansão a seu pai: Toma-me esta, porque ela agrada aos meus olhos.</p>\n<p><strong>4</strong> Mas seu pai e sua mãe não sabiam que isto vinha do Senhor; pois buscava ocasião contra os filisteus; porquanto naquele tempo os filisteus dominavam sobre Israel.</p>\n<p><strong>5</strong> Desceu, pois, Sansão com seu pai e com sua mãe a Timnate; e, chegando às vinhas de Timnate eis que um filho de leão, rugindo, lhe saiu ao encontro.</p>\n<p><strong>6</strong> Então o Espírito do Senhor se apossou dele tão poderosamente que despedaçou o leão, como quem despedaça um cabrito, sem ter nada na sua mão; porém nem a seu pai nem a sua mãe deu a saber o que tinha feito.</p>\n<p><strong>7</strong> E desceu, e falou àquela mulher, e ela agradou aos olhos de Sansão.</p>\n<p><strong>8</strong> E depois de alguns dias voltou ele para tomá-la; e, apartando-se do caminho para ver o corpo do leão, eis que no corpo morto do leão havia um enxame de abelhas com mel.</p>\n<p><strong>9</strong> E tomou-o nas suas mãos, e foi andando e comendo dele; e foi a seu pai e a sua mãe, e deu-lhes do mel, e comeram; porém não lhes deu a saber que tomara o mel do corpo do leão.</p>\n<p><strong>10</strong> Descendo, pois, seu pai àquela mulher, fez Sansão ali um banquete; porque assim os moços costumavam fazer.</p>\n<p><strong>11</strong> E sucedeu que, como o vissem, trouxeram trinta companheiros para estarem com ele.</p>\n<p><strong>12</strong> Disse-lhes, pois, Sansão: Eu vos darei um enigma para decifrar; e, se nos sete dias das bodas o decifrardes e descobrirdes, eu vos darei trinta lençóis e trinta mudas de roupas.</p>\n<p><strong>13</strong> E, se não puderdes decifrar, vós me dareis a mim trinta lençóis e as trinta mudas de roupas. E eles lhe disseram: Dá-nos o teu enigma a decifrar, para que o ouçamos.</p>\n<p><strong>14</strong> Então lhes disse: Do comedor saiu comida, e do forte saiu doçura. E em três dias não puderam decifrar o enigma.</p>\n<p><strong>15</strong> E sucedeu que, ao sétimo dia, disseram à mulher de Sansão: Persuade a teu marido que nos declare o enigma, para que porventura não queimemos a fogo a ti e à casa de teu pai; chamastes-nos aqui para vos apossardes do que é nosso, não é assim?</p>\n<p><strong>16</strong> E a mulher de Sansão chorou diante dele, e disse: Tão somente me desprezas, e não me amas; pois deste aos filhos do meu povo um enigma para decifrar, e ainda não o declaraste a mim. E ele lhe disse: Eis que nem a meu pai nem a minha mãe o declarei, e to declararia a ti?</p>\n<p><strong>17</strong> E chorou diante dele os sete dias em que celebravam as bodas; sucedeu, pois, que ao sétimo dia lho declarou, porquanto o importunava; então ela declarou o enigma aos filhos do seu povo.</p>\n<p><strong>18</strong> Disseram, pois, a Sansão os homens daquela cidade, ao sétimo dia, antes de se pôr o sol: Que coisa há mais doce do que o mel? E que coisa há mais forte do que o leão? E ele lhes disse: Se vós não lavrásseis com a minha novilha, nunca teríeis descoberto o meu enigma.</p>\n<p><strong>19</strong> Então o Espírito do Senhor tão poderosamente se apossou dele, que desceu aos ascalonitas, e matou deles trinta homens, e tomou as suas roupas, e deu as mudas de roupas aos que declararam o enigma; porém acendeu-se a sua ira, e subiu à casa de seu pai.</p>\n<p><strong>20</strong> E a mulher de Sansão foi dada ao seu companheiro que antes o acompanhava.</p>\n<hr>\n<p><a href=\"capitulo_13.md\">&lt;- Juízes 13</a> | <a href=\"capitulo_15.md\">Juízes 15 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "15": "<h1>Juízes - Capítulo 15</h1>\n<p><strong>1</strong> E aconteceu, depois de alguns dias, que, na sega do trigo, Sansão visitou a sua mulher, com um cabrito, e disse: Entrarei na câmara de minha mulher. Porém o pai dela não o deixou entrar.</p>\n<p><strong>2</strong> E disse-lhe seu pai: Por certo pensava eu que de todo a desprezavas; de sorte que a dei ao teu companheiro; porém não é sua irmã mais nova, mais formosa do que ela? Toma-a, pois, em seu lugar.</p>\n<p><strong>3</strong> Então Sansão disse acerca deles: Inocente sou esta vez para com os filisteus, quando lhes fizer algum mal.</p>\n<p><strong>4</strong> E foi Sansão, e pegou trezentas raposas; e, tomando tochas, as virou cauda a cauda, e lhes pôs uma tocha no meio de cada duas caudas.</p>\n<p><strong>5</strong> E chegou fogo às tochas, e largou-as na seara dos filisteus; e assim abrasou os molhos com a sega do trigo, e as vinhas e os olivais.</p>\n<p><strong>6</strong> Então perguntaram os filisteus: Quem fez isto? E responderam: Sansão, o genro do timnita, porque lhe tomou a sua mulher, e a deu a seu companheiro. Então subiram os filisteus, e queimaram a fogo a ela e a seu pai.</p>\n<p><strong>7</strong> Então lhes disse Sansão: É assim que fazeis? Pois, havendo-me vingado eu de vós, então cessarei.</p>\n<p><strong>8</strong> E feriu-os com grande ferimento, pernas juntamente com coxa; e desceu, e habitou na fenda da rocha de Etã.</p>\n<p><strong>9</strong> Então os filisteus subiram, e acamparam-se contra Judá, e estenderam-se por Leí.</p>\n<p><strong>10</strong> E perguntaram-lhes os homens de Judá: Por que subistes contra nós? E eles responderam: Subimos para amarrar a Sansão, para lhe fazer a ele como ele nos fez a nós.</p>\n<p><strong>11</strong> Então três mil homens de Judá desceram até a fenda da rocha de Etã, e disseram a Sansão: Não sabias tu que os filisteus dominam sobre nós? Por que, pois, nos fizeste isto? E ele lhes disse: Assim como eles me fizeram a mim, eu lhes fiz a eles.</p>\n<p><strong>12</strong> E disseram-lhe: Descemos para te amarrar e te entregar nas mãos dos filisteus. Então Sansão lhes disse: Jurai-me que vós mesmos não me acometereis.</p>\n<p><strong>13</strong> E eles lhe falaram, dizendo: Não, mas fortemente te amarraremos, e te entregaremos nas mãos deles; porém de maneira nenhuma te mataremos. E amarraram-no com duas cordas novas e fizeram-no subir da rocha.</p>\n<p><strong>14</strong> E, vindo ele a Leí, os filisteus lhe saíram ao encontro, jubilando; porém o Espírito do Senhor poderosamente se apossou dele, e as cordas que ele tinha nos braços se tornaram como fios de linho que se queimaram no fogo, e as suas amarraduras se desfizeram das suas mãos.</p>\n<p><strong>15</strong> E achou uma queixada fresca de um jumento, e estendeu a sua mão, e tomou-a, e feriu com ela mil homens.</p>\n<p><strong>16</strong> Então disse Sansão: Com uma queixada de jumento, montões sobre montões; com uma queixada de jumento feri a mil homens.</p>\n<p><strong>17</strong> E aconteceu que, acabando ele de falar, lançou a queixada da sua mão; e chamou aquele lugar Ramate-Leí.</p>\n<p><strong>18</strong> E como tivesse grande sede, clamou ao Senhor, e disse: Pela mão do teu servo tu deste esta grande salvação; morrerei eu pois agora de sede, e cairei na mão destes incircuncisos?</p>\n<p><strong>19</strong> Então Deus fendeu uma cavidade que estava na queixada; e saiu dela água, e bebeu; e recobrou o seu espírito e reanimou-se; por isso chamou aquele lugar: A fonte do que clama, que está em Leí até ao dia de hoje.</p>\n<p><strong>20</strong> E julgou a Israel, nos dias dos filisteus, vinte anos.</p>\n<hr>\n<p><a href=\"capitulo_14.md\">&lt;- Juízes 14</a> | <a href=\"capitulo_16.md\">Juízes 16 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "16": "<h1>Juízes - Capítulo 16</h1>\n<p><strong>1</strong> E foi Sansão a Gaza, e viu ali uma mulher prostituta, e entrou a ela.</p>\n<p><strong>2</strong> E foi dito aos gazitas: Sansão entrou aqui. Cercaram-no, e toda a noite lhe puseram espias à porta da cidade; porém toda a noite estiveram quietos, dizendo: Até à luz da manhã esperaremos; então o mataremos.</p>\n<p><strong>3</strong> Porém Sansão deitou-se até à meia-noite, e à meia-noite se levantou, e arrancou as portas da entrada da cidade com ambas as umbreiras, e juntamente com a tranca as tomou, pondo-as sobre os ombros; e levou-as para cima até ao cume do monte que está defronte de Hebrom.</p>\n<p><strong>4</strong> E depois disto aconteceu que se afeiçoou a uma mulher do vale de Soreque, cujo nome era Dalila.</p>\n<p><strong>5</strong> Então os príncipes dos filisteus subiram a ela, e lhe disseram: Persuade-o, e vê em que consiste a sua grande força, e como poderíamos assenhorear-nos dele e amarrá-lo, para assim o afligirmos; e te daremos, cada um de nós, mil e cem moedas de prata.</p>\n<p><strong>6</strong> Disse, pois, Dalila a Sansão: Declara-me, peço-te, em que consiste a tua grande força, e com que poderias ser amarrado para te poderem afligir.</p>\n<p><strong>7</strong> Disse-lhe Sansão: Se me amarrassem com sete vergas de vimes frescos, que ainda não estivessem secos, então me enfraqueceria, e seria como qualquer outro homem.</p>\n<p><strong>8</strong> Então os príncipes dos filisteus lhe trouxeram sete vergas de vimes frescos, que ainda não estavam secos; e ela o amarrou com elas.</p>\n<p><strong>9</strong> E o espia estava com ela na câmara interior. Então ela lhe disse: Os filisteus vêm sobre ti, Sansão. Então quebrou as vergas de vimes, como se quebra o fio da estopa ao cheiro do fogo; assim não se soube em que consistia a sua força.</p>\n<p><strong>10</strong> Então disse Dalila a Sansão: Eis que zombaste de mim, e me disseste mentiras; ora declara-me agora com que poderias ser amarrado.</p>\n<p><strong>11</strong> E ele disse: Se me amarrassem fortemente com cordas novas, que ainda não houvessem sido usadas, então me enfraqueceria, e seria como qualquer outro homem.</p>\n<p><strong>12</strong> Então Dalila tomou cordas novas, e o amarrou com elas, e disse-lhe: Os filisteus vêm sobre ti, Sansão. E o espia estava na recâmara interior. Então as quebrou de seus braços como a um fio.</p>\n<p><strong>13</strong> E disse Dalila a Sansão: Até agora zombaste de mim, e me disseste mentiras; declara-me pois, agora, com que poderias ser amarrado? E ele lhe disse: Se teceres sete tranças dos cabelos da minha cabeça com o liço da teia.</p>\n<p><strong>14</strong> E ela as fixou com uma estaca, e disse-lhe: Os filisteus vêm sobre ti, Sansão: Então ele despertou do seu sono, e arrancou a estaca das tranças tecidas, juntamente com o liço da teia.</p>\n<p><strong>15</strong> Então ela lhe disse: Como dirás: Tenho-te amor, não estando comigo o teu coração? Já três vezes zombaste de mim, e ainda não me declaraste em que consiste a tua grande força.</p>\n<p><strong>16</strong> E sucedeu que, importunando-o ela todos os dias com as suas palavras, e molestando-o, a sua alma se angustiou até a morte.</p>\n<p><strong>17</strong> E descobriu-lhe todo o seu coração, e disse-lhe: Nunca passou navalha pela minha cabeça, porque sou nazireu de Deus desde o ventre de minha mãe; se viesse a ser rapado, ir-se-ia de mim a minha força, e me enfraqueceria, e seria como qualquer outro homem.</p>\n<p><strong>18</strong> Vendo, pois, Dalila que já lhe descobrira todo o seu coração, mandou chamar os príncipes dos filisteus, dizendo: Subi esta vez, porque agora me descobriu ele todo o seu coração. E os príncipes dos filisteus subiram a ter com ela, trazendo com eles o dinheiro.</p>\n<p><strong>19</strong> Então ela o fez dormir sobre os seus joelhos, e chamou a um homem, e rapou-lhe as sete tranças do cabelo de sua cabeça; e começou a afligi-lo, e retirou-se dele a sua força.</p>\n<p><strong>20</strong> E disse ela: Os filisteus vêm sobre ti, Sansão. E despertou ele do seu sono, e disse: Sairei ainda esta vez como dantes, e me sacudirei. Porque ele não sabia que já o Senhor se tinha retirado dele.</p>\n<p><strong>21</strong> Então os filisteus pegaram nele, e arrancaram-lhe os olhos, e fizeram-no descer a Gaza, e amarraram-no com duas cadeias de bronze, e girava ele um moinho no cárcere.</p>\n<p><strong>22</strong> E o cabelo da sua cabeça começou a crescer, como quando foi rapado.</p>\n<p><strong>23</strong> Então os príncipes dos filisteus se ajuntaram para oferecer um grande sacrifício ao seu deus Dagom, e para se alegrarem, e diziam: Nosso deus nos entregou nas mãos a Sansão, nosso inimigo.</p>\n<p><strong>24</strong> Semelhantemente, vendo-o o povo, louvava ao seu deus; porque dizia: Nosso deus nos entregou nas mãos o nosso inimigo, e ao que destruía a nossa terra, e ao que multiplicava os nossos mortos.</p>\n<p><strong>25</strong> E sucedeu que, alegrando-se-lhes o coração, disseram: Chamai a Sansão, para que brinque diante de nós. E chamaram a Sansão do cárcere, que brincava diante deles, e fizeram-no estar em pé entre as colunas.</p>\n<p><strong>26</strong> Então disse Sansão ao moço que o tinha pela mão: Guia-me para que apalpe as colunas em que se sustém a casa, para que me encoste a elas.</p>\n<p><strong>27</strong> Ora estava a casa cheia de homens e mulheres; e também ali estavam todos os príncipes dos filisteus; e sobre o telhado havia uns três mil homens e mulheres, que estavam vendo Sansão brincar.</p>\n<p><strong>28</strong> Então Sansão clamou ao Senhor, e disse: Senhor Deus, peço-te que te lembres de mim, e fortalece-me agora só esta vez, ó Deus, para que de uma vez me vingue dos filisteus, pelos meus dois olhos.</p>\n<p><strong>29</strong> Abraçou-se, pois, Sansão com as duas colunas do meio, em que se sustinha a casa, e arrimou-se sobre elas, com a sua mão direita numa, e com a sua esquerda na outra.</p>\n<p><strong>30</strong> E disse Sansão: Morra eu com os filisteus. E inclinou-se com força, e a casa caiu sobre os príncipes e sobre todo o povo que nela havia; e foram mais os mortos que matou na sua morte do que os que matara em sua vida.</p>\n<p><strong>31</strong> Então seus irmãos desceram, e toda a casa de seu pai, e tomaram-no, e subiram com ele, e sepultaram-no entre Zorá e Estaol, no sepulcro de Manoá, seu pai. Ele julgou a Israel vinte anos.</p>\n<hr>\n<p><a href=\"capitulo_15.md\">&lt;- Juízes 15</a> | <a href=\"capitulo_17.md\">Juízes 17 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "17": "<h1>Juízes - Capítulo 17</h1>\n<p><strong>1</strong> E havia um homem da montanha de Efraim, cujo nome era Mica.</p>\n<p><strong>2</strong> O qual disse à sua mãe: As mil e cem moedas de prata que te foram tiradas, por cuja causa lançaste maldições, e de que também me falaste, eis que esse dinheiro está comigo; eu o tomei. Então lhe disse sua mãe: Bendito do Senhor seja meu filho.</p>\n<p><strong>3</strong> Assim restituiu as mil e cem moedas de prata à sua mãe; porém sua mãe disse: Inteiramente tenho dedicado este dinheiro da minha mão ao Senhor, para meu filho fazer uma imagem de escultura e uma de fundição; de sorte que agora to tornarei a dar.</p>\n<p><strong>4</strong> Porém ele restituiu aquele dinheiro à sua mãe; e sua mãe tomou duzentas moedas de prata, e as deu ao ourives, o qual fez delas uma imagem de escultura e uma de fundição, que ficaram em casa de Mica.</p>\n<p><strong>5</strong> E teve este homem, Mica, uma casa de deuses; e fez um éfode e terafins, e consagrou um de seus filhos, para que lhe fosse por sacerdote.</p>\n<p><strong>6</strong> Naqueles dias não havia rei em Israel; cada um fazia o que parecia bem aos seus olhos.</p>\n<p><strong>7</strong> E havia um moço de Belém de Judá, da tribo de Judá, que era levita, e peregrinava ali.</p>\n<p><strong>8</strong> E este homem partiu da cidade de Belém de Judá para peregrinar onde quer que achasse conveniente. Chegando ele, pois, à montanha de Efraim, até à casa de Mica, seguindo o seu caminho,</p>\n<p><strong>9</strong> Disse-lhe Mica: Donde vens? E ele lhe disse: Sou levita de Belém de Judá, e vou peregrinar onde quer que achar conveniente.</p>\n<p><strong>10</strong> Então lhe disse Mica: Fica comigo, e sê-me por pai e sacerdote; e cada ano te darei dez moedas de prata, e vestuário, e o sustento. E o levita entrou.</p>\n<p><strong>11</strong> E consentiu o levita em ficar com aquele homem; e o moço lhe foi como um de seus filhos.</p>\n<p><strong>12</strong> E Mica consagrou o levita, e aquele moço lhe foi por sacerdote; e esteve em casa de Mica.</p>\n<p><strong>13</strong> Então disse Mica: Agora sei que o Senhor me fará bem; porquanto tenho um levita por sacerdote.</p>\n<hr>\n<p><a href=\"capitulo_16.md\">&lt;- Juízes 16</a> | <a href=\"capitulo_18.md\">Juízes 18 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "18": "<h1>Juízes - Capítulo 18</h1>\n<p><strong>1</strong> Naqueles dias não havia rei em Israel; e nos mesmos dias a tribo dos danitas buscava para si herança para habitar; porquanto até àquele dia entre as tribos de Israel não lhe havia caído por sorte sua herança.</p>\n<p><strong>2</strong> E enviaram os filhos de Dã, da sua tribo, cinco homens dentre eles, homens valorosos, de Zorá e de Estaol, a espiar e reconhecer a terra, e lhes disseram: Ide, reconhecei a terra. E chegaram à montanha de Efraim, até à casa de Mica, e passaram ali a noite.</p>\n<p><strong>3</strong> E quando eles estavam junto da casa de Mica, reconheceram a voz do moço, do levita; e dirigindo-se para lá, lhe disseram: Quem te trouxe aqui? Que fazes aqui? E que é que tens aqui?</p>\n<p><strong>4</strong> E ele lhes disse: Assim e assim me tem feito Mica; pois me tem contratado, e eu lhe sirvo de sacerdote.</p>\n<p><strong>5</strong> Então lhe disseram: Consulta a Deus, para que possamos saber se prosperará o caminho que seguimos.</p>\n<p><strong>6</strong> E disse-lhes o sacerdote: Ide em paz; o caminho que seguis está perante o Senhor.</p>\n<p><strong>7</strong> Então foram-se aqueles cinco homens, e chegaram a Laís; e viram que o povo que havia no meio dela estava seguro, conforme ao costume dos sidônios, quieto e confiado; nem havia autoridade alguma do reino que por qualquer coisa envergonhasse a alguém naquela terra; também estavam longe dos sidônios, e não tinham relação com ninguém.</p>\n<p><strong>8</strong> Então voltaram a seus irmãos, a Zorá e a Estaol, e seus irmãos lhes disseram: Que dizeis vós?</p>\n<p><strong>9</strong> E eles disseram: Levantai-vos, e subamos contra eles; porque examinamos a terra, e eis que é muitíssimo boa. E vós estareis aqui tranquilos? Não sejais preguiçosos em irdes para entrar a possuir esta terra.</p>\n<p><strong>10</strong> Quando lá chegardes, vereis um povo confiado, e a terra é larga de extensão; porque Deus vo-la entregou nas mãos; lugar em que não há falta de coisa alguma que há na terra.</p>\n<p><strong>11</strong> Então partiram dali, da tribo dos danitas, de Zorá e de Estaol, seiscentos homens munidos de armas de guerra.</p>\n<p><strong>12</strong> E subiram, e acamparam-se em Quiriate-Jearim, em Judá; então chamaram a este lugar Maané-Dã, até ao dia de hoje; eis que está por detrás de Quiriate-Jearim.</p>\n<p><strong>13</strong> E dali passaram à montanha de Efraim; e chegaram até a casa de Mica.</p>\n<p><strong>14</strong> Então responderam os cinco homens, que foram espiar a terra de Laís, e disseram a seus irmãos: Sabeis vós também que naquelas casas há um éfode, e terafins, e uma imagem de escultura e uma de fundição? Vede, pois, agora o que haveis de fazer.</p>\n<p><strong>15</strong> Então se dirigiram para lá, e chegaram à casa do moço, o levita, em casa de Mica, e o saudaram.</p>\n<p><strong>16</strong> E os seiscentos homens, que eram dos filhos de Dã, munidos com suas armas de guerra, ficaram à entrada da porta.</p>\n<p><strong>17</strong> Porém subindo os cinco homens, que foram espiar a terra, entraram ali, e tomaram a imagem de escultura, o éfode, e os terafins, e a imagem de fundição, ficando o sacerdote em pé à entrada da porta, com os seiscentos homens que estavam munidos com as armas de guerra.</p>\n<p><strong>18</strong> Entrando eles, pois, em casa de Mica, e tomando a imagem de escultura, e o éfode, e os terafins, e a imagem de fundição, disse-lhes o sacerdote: Que estais fazendo?</p>\n<p><strong>19</strong> E eles lhe disseram: Cala-te, põe a mão na boca, e vem conosco, e sê-nos por pai e sacerdote. É melhor ser sacerdote da casa de um só homem, do que ser sacerdote de uma tribo e de uma família em Israel?</p>\n<p><strong>20</strong> Então alegrou-se o coração do sacerdote, e tomou o éfode, e os terafins, e a imagem de escultura; e entrou no meio do povo.</p>\n<p><strong>21</strong> Assim viraram, e partiram; e os meninos, e o gado, e a bagagem puseram diante de si.</p>\n<p><strong>22</strong> E, estando já longe da casa de Mica, os homens que estavam nas casas junto à casa de Mica, reuniram-se, e alcançaram os filhos de Dã.</p>\n<p><strong>23</strong> E clamaram após os filhos de Dã, os quais viraram os seus rostos, e disseram a Mica: Que tens, que tanta gente convocaste?</p>\n<p><strong>24</strong> Então ele disse: Os meus deuses, que eu fiz, me tomastes, juntamente com o sacerdote, e partistes; que mais me resta agora? Como, pois, me dizeis: Que é que tens?</p>\n<p><strong>25</strong> Porém os filhos de Dã lhe disseram: Não nos faças ouvir a tua voz, para que porventura homens de ânimo mau não se lancem sobre vós, e tu percas a tua vida, e a vida dos da tua casa.</p>\n<p><strong>26</strong> Assim seguiram o seu caminho os filhos de Dã; e Mica, vendo que eram mais fortes do que ele, virou-se, e voltou à sua casa.</p>\n<p><strong>27</strong> Eles, pois, tomaram o que Mica tinha feito, e o sacerdote que tivera, e chegaram a Laís, a um povo quieto e confiado, e os feriram ao fio da espada, e queimaram a cidade a fogo.</p>\n<p><strong>28</strong> E ninguém houve que os livrasse, porquanto estavam longe de Sidom, e não tinham relações com ninguém, e a cidade estava no vale que está junto de Bete-Reobe; depois reedificaram a cidade e habitaram nela.</p>\n<p><strong>29</strong> E chamaram o nome da cidade Dã, conforme ao nome de Dã, seu pai, que nascera a Israel; era, porém, antes o nome desta cidade Laís.</p>\n<p><strong>30</strong> E os filhos de Dã levantaram para si aquela imagem de escultura; e Jônatas, filho de Gérson, o filho de Manassés, ele e seus filhos foram sacerdotes da tribo dos danitas, até ao dia do cativeiro da terra.</p>\n<p><strong>31</strong> Assim, pois, estabeleceram para si a imagem de escultura, que fizera Mica, por todos os dias em que a casa de Deus esteve em Siló.</p>\n<hr>\n<p><a href=\"capitulo_17.md\">&lt;- Juízes 17</a> | <a href=\"capitulo_19.md\">Juízes 19 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "19": "<h1>Juízes - Capítulo 19</h1>\n<p><strong>1</strong> Aconteceu também naqueles dias, em que não havia rei em Israel, que houve um homem levita, que, peregrinando aos lados da montanha de Efraim, tomou para si uma concubina, de Belém de Judá.</p>\n<p><strong>2</strong> Porém a sua concubina adulterou contra ele, e deixando-o, foi para a casa de seu pai, em Belém de Judá, e esteve ali alguns dias, a saber, quatro meses.</p>\n<p><strong>3</strong> E seu marido se levantou, e foi atrás dela, para lhe falar conforme ao seu coração, e para tornar a trazê-la; e o seu moço e um par de jumentos iam com ele; e ela o levou à casa de seu pai, e, vendo-o o pai da moça, alegrou-se ao encontrar-se com ele.</p>\n<p><strong>4</strong> E seu sogro, o pai da moça, o deteve, e ficou com ele três dias; e comeram e beberam, e passaram ali a noite.</p>\n<p><strong>5</strong> E sucedeu que ao quarto dia pela manhã, de madrugada, ele levantou-se para partir; então o pai da moça disse a seu genro: Fortalece o teu coração com um bocado de pão, e depois partireis.</p>\n<p><strong>6</strong> Assentaram-se, pois, e comeram ambos juntos, e beberam; e disse o pai da moça ao homem: Peço-te que ainda esta noite queiras passá-la aqui, e alegre-se o teu coração.</p>\n<p><strong>7</strong> Porém o homem levantou-se para partir; mas seu sogro o constrangeu a tornar a passar ali a noite.</p>\n<p><strong>8</strong> E, madrugando ao quinto dia pela manhã para partir, disse o pai da moça: Ora, conforta o teu coração. E detiveram-se até já declinar o dia; e ambos juntos comeram.</p>\n<p><strong>9</strong> Então o homem levantou-se para partir, ele, e a sua concubina, e o seu moço; e disse-lhe seu sogro, o pai da moça: Eis que já o dia declina e a tarde já vem chegando; peço-te que aqui passes a noite; eis que o dia já vai acabando, passa aqui a noite, e que o teu coração se alegre; e amanhã de madrugada levanta-te a caminhar, e irás para a tua tenda.</p>\n<p><strong>10</strong> Porém o homem não quis ali passar a noite, mas levantou-se, e partiu, e chegou até defronte de Jebus (que é Jerusalém), e com ele o par de jumentos albardados, como também a sua concubina.</p>\n<p><strong>11</strong> Estando, pois, já perto de Jebus, e tendo-se já declinado muito o dia, disse o moço a seu senhor: Vamos agora, e retiremo-nos a esta cidade dos jebuseus, e passemos ali a noite.</p>\n<p><strong>12</strong> Porém disse-lhe seu senhor: Não nos retiraremos a nenhuma cidade estranha, que não seja dos filhos de Israel; mas iremos até Gibeá.</p>\n<p><strong>13</strong> Disse mais a seu moço: Vamos, e cheguemos a um daqueles lugares, e passemos a noite em Gibeá ou em Ramá.</p>\n<p><strong>14</strong> Passaram, pois, adiante, e caminharam, e o sol se lhes pôs junto a Gibeá, que é cidade de Benjamim.</p>\n<p><strong>15</strong> E retiraram-se para lá, para entrar e passar a noite em Gibeá; e, entrando ele, assentou-se na praça da cidade, porque não houve quem os recolhesse em casa para ali passarem a noite.</p>\n<p><strong>16</strong> E eis que um velho homem vinha à tarde do seu trabalho do campo; e era este homem da montanha de Efraim, mas peregrinava em Gibeá; eram porém os homens deste lugar filhos de Benjamim.</p>\n<p><strong>17</strong> Levantando ele, pois, os olhos, viu a este viajante na praça da cidade, e disse o ancião: Para onde vais, e donde vens?</p>\n<p><strong>18</strong> E ele lhe disse: Viajamos de Belém de Judá até aos lados da montanha de Efraim, de onde sou; porquanto fui a Belém de Judá, porém agora vou à casa do Senhor; e ninguém há que me recolha em casa,</p>\n<p><strong>19</strong> Todavia temos palha e pasto para os nossos jumentos, e também pão e vinho há para mim, e para a tua serva, e para o moço que vem com os teus servos; de coisa nenhuma há falta.</p>\n<p><strong>20</strong> Então disse o ancião: Paz seja contigo; tudo quanto te faltar fique ao meu cargo; tão somente não passes a noite na praça.</p>\n<p><strong>21</strong> E levou-o à sua casa, e deu pasto aos jumentos; e, lavando-se os pés, comeram e beberam.</p>\n<p><strong>22</strong> Estando eles alegrando o seu coração, eis que os homens daquela cidade (homens que eram filhos de Belial) cercaram a casa, batendo à porta; e falaram ao ancião, senhor da casa, dizendo: Tira para fora o homem que entrou em tua casa, para que o conheçamos.</p>\n<p><strong>23</strong> E o homem, dono da casa, saiu a eles e disse-lhes: Não, irmãos meus, ora não façais semelhante mal; já que este homem entrou em minha casa, não façais tal loucura.</p>\n<p><strong>24</strong> Eis que a minha filha virgem e a concubina dele vo-las tirarei fora; humilhai-as a elas, e fazei delas o que parecer bem aos vossos olhos; porém a este homem não façais essa loucura.</p>\n<p><strong>25</strong> Porém aqueles homens não o quiseram ouvir; então aquele homem pegou da sua concubina, e lha tirou para fora; e eles a conheceram e abusaram dela toda a noite até pela manhã, e, subindo a alva, a deixaram.</p>\n<p><strong>26</strong> E ao romper da manhã veio a mulher, e caiu à porta da casa daquele homem, onde estava seu senhor, e ficou ali até que se fez claro.</p>\n<p><strong>27</strong> E, levantando-se seu senhor pela manhã, e abrindo as portas da casa, e saindo a seguir o seu caminho, eis que a mulher, sua concubina, jazia à porta da casa, com as mãos sobre o limiar.</p>\n<p><strong>28</strong> E ele lhe disse: Levanta-te, e vamo-nos, porém ela não respondeu; então, levantando-se o homem a pôs sobre o jumento, e foi para o seu lugar.</p>\n<p><strong>29</strong> Chegando, pois, à sua casa, tomou um cutelo, e pegou na sua concubina, e a despedaçou com os seus ossos em doze partes; e enviou-as por todos os termos de Israel.</p>\n<p><strong>30</strong> E sucedeu que cada um que via aquilo dizia: Nunca tal se fez, nem se viu desde o dia em que os filhos de Israel subiram da terra do Egito, até ao dia de hoje; ponderai isto, considerai, e falai.</p>\n<hr>\n<p><a href=\"capitulo_18.md\">&lt;- Juízes 18</a> | <a href=\"capitulo_20.md\">Juízes 20 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "20": "<h1>Juízes - Capítulo 20</h1>\n<p><strong>1</strong> Então todos os filhos de Israel saíram, e a congregação se ajuntou, perante o Senhor em Mizpá, como se fora um só homem, desde Dã até Berseba, como também a terra de Gileade.</p>\n<p><strong>2</strong> E os principais de todo o povo, de todas as tribos de Israel, se apresentaram na congregação do povo de Deus; quatrocentos mil homens de pé que tiravam a espada</p>\n<p><strong>3</strong> (Ouviram, pois, os filhos de Benjamim que os filhos de Israel haviam subido a Mizpá). E disseram os filhos de Israel: Falai, como sucedeu esta maldade?</p>\n<p><strong>4</strong> Então respondeu o homem levita, marido da mulher que fora morta, e disse: Cheguei com a minha concubina a Gibeá, cidade de Benjamim, para passar a noite.</p>\n<p><strong>5</strong> E os cidadãos de Gibeá se levantaram contra mim, e cercaram a casa de noite; intentaram matar-me, e violaram a minha concubina, de maneira que morreu.</p>\n<p><strong>6</strong> Então peguei na minha concubina, e fi-la em pedaços, e a enviei por toda a terra da herança de Israel; porquanto fizeram tal malefício e loucura em Israel.</p>\n<p><strong>7</strong> Eis que todos sois filhos de Israel; dai aqui a vossa palavra e conselho.</p>\n<p><strong>8</strong> Então todo o povo se levantou como um só homem, dizendo: Nenhum de nós irá à sua tenda nem nenhum de nós voltará à sua casa.</p>\n<p><strong>9</strong> Porém isto é o que faremos a Gibeá: procederemos contra ela por sorte.</p>\n<p><strong>10</strong> E de todas as tribos de Israel, tomaremos dez homens de cada cem, e cem de cada mil, e mil de cada dez mil, para providenciarem mantimento para o povo; para que, vindo ele a Gibeá de Benjamim, lhe façam conforme a toda a loucura que tem feito em Israel.</p>\n<p><strong>11</strong> Assim ajuntaram-se contra esta cidade todos os homens de Israel, unidos como um só homem.</p>\n<p><strong>12</strong> E as tribos de Israel enviaram homens por toda a tribo de Benjamim, dizendo: Que maldade é esta que se fez entre vós?</p>\n<p><strong>13</strong> Dai-nos, pois, agora aqueles homens, filhos de Belial, que estão em Gibeá, para que os matemos, e tiremos de Israel o mal. Porém os filhos de Benjamim não quiseram ouvir a voz de seus irmãos, os filhos de Israel.</p>\n<p><strong>14</strong> Antes os filhos de Benjamim se ajuntaram das cidades em Gibeá, para saírem a pelejar contra os filhos de Israel.</p>\n<p><strong>15</strong> E contaram-se naquele dia os filhos de Benjamim, das cidades, vinte e seis mil homens que tiravam a espada, afora os moradores de Gibeá, de que se contaram setecentos homens escolhidos.</p>\n<p><strong>16</strong> Entre todo este povo havia setecentos homens escolhidos, canhotos, os quais atiravam com a funda uma pedra em um cabelo, e não erravam.</p>\n<p><strong>17</strong> E contaram-se dos homens de Israel, afora os de Benjamim, quatrocentos mil homens que tiravam da espada, e todos eles homens de guerra.</p>\n<p><strong>18</strong> E levantaram-se os filhos de Israel, e subiram a Betel; e consultaram a Deus, dizendo: Quem dentre nós subirá primeiro a pelejar contra os filhos de Benjamim? E disse o Senhor: Judá subirá primeiro.</p>\n<p><strong>19</strong> Levantaram-se, pois, os filhos de Israel pela manhã, e acamparam-se contra Gibeá.</p>\n<p><strong>20</strong> E os homens de Israel saíram à peleja contra Benjamim; e os homens de Israel ordenaram a batalha contra eles, ao pé de Gibeá.</p>\n<p><strong>21</strong> Então os filhos de Benjamim saíram de Gibeá, e derrubaram por terra, naquele dia, vinte e dois mil homens de Israel.</p>\n<p><strong>22</strong> Porém esforçou-se o povo, isto é, os homens de Israel, e tornaram a ordenar a peleja no lugar onde no primeiro dia a tinham ordenado.</p>\n<p><strong>23</strong> E subiram os filhos de Israel, e choraram perante o Senhor até à tarde, e perguntaram ao Senhor, dizendo: Tornar-me-ei a chegar à peleja contra os filhos de Benjamim, meu irmão? E disse o Senhor: Subi contra ele.</p>\n<p><strong>24</strong> Chegaram-se, pois, os filhos de Israel aos filhos de Benjamim, no dia seguinte.</p>\n<p><strong>25</strong> Também os de Benjamim no dia seguinte lhes saíram ao encontro fora de Gibeá, e derrubaram ainda por terra dos filhos de Israel mais dezoito mil homens, todos dos que tiravam a espada.</p>\n<p><strong>26</strong> Então todos os filhos de Israel, e todo o povo, subiram, e vieram a Betel e choraram, e estiveram ali perante o Senhor, e jejuaram aquele dia até à tarde; e ofereceram holocaustos e ofertas pacíficas perante o Senhor.</p>\n<p><strong>27</strong> E os filhos de Israel perguntaram ao Senhor (porquanto a arca da aliança de Deus estava ali naqueles dias;</p>\n<p><strong>28</strong> E Fineias, filho de Eleazar, filho de Arão, estava perante ele naqueles dias), dizendo: Tornarei ainda a pelejar contra os filhos de Benjamim, meu irmão, ou pararei? E disse o Senhor: Subi, que amanhã eu to entregarei na mão.</p>\n<p><strong>29</strong> Então Israel pôs emboscadas em redor de Gibeá.</p>\n<p><strong>30</strong> E subiram os filhos de Israel ao terceiro dia contra os filhos de Benjamim, e ordenaram a peleja junto a Gibeá, como das outras vezes.</p>\n<p><strong>31</strong> Então os filhos de Benjamim saíram ao encontro do povo, e desviaram-se da cidade; e começaram a ferir alguns do povo, atravessando-os, como das outras vezes, pelos caminhos (um dos quais sobe para Betel, e o outro para Gibeá pelo campo), uns trinta dos homens de Israel.</p>\n<p><strong>32</strong> Então os filhos de Benjamim disseram: Estão derrotados diante de nós como dantes. Porém os filhos de Israel disseram: Fujamos, e desviemo-los da cidade para os caminhos.</p>\n<p><strong>33</strong> Então todos os homens de Israel se levantaram do seu lugar, e ordenaram a peleja em Baal-Tamar; e a emboscada de Israel saiu do seu lugar, da caverna de Gibeá.</p>\n<p><strong>34</strong> E dez mil homens escolhidos de todo o Israel vieram contra Gibeá, e a peleja se agravou; porém eles não sabiam o mal que lhes tocaria.</p>\n<p><strong>35</strong> Então feriu o Senhor a Benjamim diante de Israel; e destruíram os filhos de Israel, naquele dia, vinte e cinco mil e cem homens de Benjamim, todos dos que tiravam a espada.</p>\n<p><strong>36</strong> E viram os filhos de Benjamim que estavam feridos; porque os homens de Israel deram lugar aos benjamitas, porquanto estavam confiados na emboscada que haviam posto contra Gibeá.</p>\n<p><strong>37</strong> E a emboscada se apressou, e acometeu a Gibeá; e a emboscada arremeteu contra ela, e feriu ao fio da espada toda a cidade.</p>\n<p><strong>38</strong> E os homens de Israel tinham um sinal determinado com a emboscada, que era fazer levantar da cidade uma grande nuvem de fumaça.</p>\n<p><strong>39</strong> Viraram-se, pois, os homens de Israel na peleja; e já Benjamim começava a ferir, dos homens de Israel, quase trinta homens, pois diziam: Já infalivelmente estão derrotados diante de nós, como na peleja passada.</p>\n<p><strong>40</strong> Então a nuvem de fumaça começou a se levantar da cidade, como uma coluna; e, virando-se Benjamim a olhar para trás de si, eis que a fumaça da cidade subia ao céu.</p>\n<p><strong>41</strong> E os homens de Israel viraram os rostos, e os homens de Benjamim pasmaram; porque viram que o mal lhes tocaria.</p>\n<p><strong>42</strong> E viraram as costas diante dos homens de Israel, para o caminho do deserto; porém a peleja os apertou; e os que saíam das cidades os destruíram no meio deles.</p>\n<p><strong>43</strong> E cercaram aos de Benjamim, e os perseguiram, e à vontade os pisaram, até diante de Gibeá, para o nascente do sol.</p>\n<p><strong>44</strong> E caíram de Benjamim dezoito mil homens, todos estes sendo homens valentes.</p>\n<p><strong>45</strong> Então viraram as costas, e fugiram para o deserto, à penha de Rimom; colheram ainda deles pelos caminhos uns cinco mil homens; e de perto os seguiram até Gidom, e feriram deles dois mil homens.</p>\n<p><strong>46</strong> E, todos os que caíram de Benjamim, naquele dia, foram vinte e cinco mil homens que tiravam a espada, todos eles homens valentes.</p>\n<p><strong>47</strong> Porém seiscentos homens viraram as costas, e fugiram para o deserto, à penha de Rimom; e ficaram na penha de Rimom quatro meses.</p>\n<p><strong>48</strong> E os homens de Israel voltaram para os filhos de Benjamim, e os feriram ao fio da espada, desde os homens da cidade até aos animais, até a tudo quanto se achava, como também a todas as cidades, quantas acharam, puseram fogo.</p>\n<hr>\n<p><a href=\"capitulo_19.md\">&lt;- Juízes 19</a> | <a href=\"capitulo_21.md\">Juízes 21 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n",
-  "21": "<h1>Juízes - Capítulo 21</h1>\n<p><strong>1</strong> Ora, tinham jurado os homens de Israel em Mizpá, dizendo: Nenhum de nós dará sua filha por mulher aos benjamitas.</p>\n<p><strong>2</strong> Veio, pois, o povo a Betel, e ali ficou até à tarde diante de Deus; e todos levantaram a sua voz, e prantearam com grande pranto,</p>\n<p><strong>3</strong> E disseram: Ah! Senhor Deus de Israel, por que sucedeu isto em Israel, que hoje falte uma tribo em Israel?</p>\n<p><strong>4</strong> E sucedeu que, no dia seguinte, o povo, pela manhã se levantou, e edificou ali um altar; e ofereceu holocaustos e ofertas pacíficas.</p>\n<p><strong>5</strong> E disseram os filhos de Israel: Quem de todas as tribos de Israel não subiu à assembleia do Senhor? Porque se tinha feito um grande juramento acerca dos que não fossem ao Senhor em Mizpá, dizendo: Morrerá certamente.</p>\n<p><strong>6</strong> E arrependeram-se os filhos de Israel acerca de Benjamim, seu irmão, e disseram: Cortada é hoje de Israel uma tribo.</p>\n<p><strong>7</strong> Como havemos de conseguir mulheres para os que restaram deles, pois nós temos jurado pelo Senhor que nenhuma de nossas filhas lhes daríamos por mulher?</p>\n<p><strong>8</strong> E disseram: Há algumas das tribos de Israel que não subiram ao Senhor a Mizpá? E eis que ninguém de Jabes-Gileade viera ao arraial, à assembleia.</p>\n<p><strong>9</strong> Porquanto, quando se contou o povo, eis que nenhum dos moradores de Jabes-Gileade se achou ali.</p>\n<p><strong>10</strong> Então a assembleia enviou para lá doze mil homens dos mais valentes, e lhes ordenou, dizendo: Ide, e ao fio da espada feri aos moradores de Jabes-Gileade, e às mulheres e aos meninos.</p>\n<p><strong>11</strong> Porém isto é o que haveis de fazer: A todo o homem e a toda a mulher que se houver deitado com um homem totalmente destruireis.</p>\n<p><strong>12</strong> E acharam entre os moradores de Jabes-Gileade quatrocentas moças virgens, que não tinham conhecido homem; e as trouxeram ao arraial, a Siló, que está na terra de Canaã.</p>\n<p><strong>13</strong> Então toda a assembleia enviou, e falou aos filhos de Benjamim, que estavam na penha de Rimom, e lhes proclamou a paz.</p>\n<p><strong>14</strong> E ao mesmo tempo voltaram os benjamitas; e deram-lhes as mulheres que haviam guardado com vida, das mulheres de Jabes-Gileade; porém estas ainda não lhes bastaram.</p>\n<p><strong>15</strong> Então o povo se arrependeu por causa de Benjamim; porquanto o Senhor tinha feito brecha nas tribos de Israel.</p>\n<p><strong>16</strong> E disseram os anciãos da assembleia: Que faremos acerca de mulheres para os que restaram, pois foram destruídas as mulheres de Benjamim?</p>\n<p><strong>17</strong> Disseram mais: Tenha Benjamim uma herança nos que restaram, e não seja destruída nenhuma tribo de Israel.</p>\n<p><strong>18</strong> Porém nós não lhes poderemos dar mulheres de nossas filhas, porque os filhos de Israel juraram, dizendo: Maldito aquele que der mulher aos benjamitas.</p>\n<p><strong>19</strong> Então disseram: Eis que de ano em ano há solenidade do Senhor em Siló, que se celebra para o norte de Betel do lado do nascente do sol, pelo caminho alto que sobe de Betel a Siquém, e para o sul de Lebona.</p>\n<p><strong>20</strong> E mandaram aos filhos de Benjamim, dizendo: Ide, e emboscai-vos nas vinhas.</p>\n<p><strong>21</strong> E olhai, e eis aí as filhas de Siló a dançar em rodas, saí vós das vinhas, e arrebatai cada um sua mulher das filhas de Siló, e ide-vos à terra de Benjamim.</p>\n<p><strong>22</strong> E será que, quando seus pais ou seus irmãos vierem a litigar conosco, nós lhes diremos: Por amor de nós, tende compaixão deles, pois nesta guerra não tomamos mulheres para cada um deles; porque não lhas destes vós, para que agora ficásseis culpados.</p>\n<p><strong>23</strong> E os filhos de Benjamim o fizeram assim, e levaram mulheres conforme ao número deles, das que arrebataram das rodas que dançavam; e foram-se, e voltaram à sua herança, e reedificaram as cidades, e habitaram nelas.</p>\n<p><strong>24</strong> Então os filhos de Israel partiram dali, cada um para a sua tribo e para a sua família; e saíram dali, cada um para a sua herança.</p>\n<p><strong>25</strong> Naqueles dias não havia rei em Israel; porém cada um fazia o que parecia reto aos seus olhos.</p>\n<hr>\n<p><a href=\"capitulo_20.md\">&lt;- Juízes 20</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a> <a href=\"capitulo_6.md\">6</a> <a href=\"capitulo_7.md\">7</a> <a href=\"capitulo_8.md\">8</a> <a href=\"capitulo_9.md\">9</a> <a href=\"capitulo_10.md\">10</a>\n<a href=\"capitulo_11.md\">11</a> <a href=\"capitulo_12.md\">12</a> <a href=\"capitulo_13.md\">13</a> <a href=\"capitulo_14.md\">14</a> <a href=\"capitulo_15.md\">15</a> <a href=\"capitulo_16.md\">16</a> <a href=\"capitulo_17.md\">17</a> <a href=\"capitulo_18.md\">18</a> <a href=\"capitulo_19.md\">19</a> <a href=\"capitulo_20.md\">20</a>\n<a href=\"capitulo_21.md\">21</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['jz'] = {
+  "book": "jz",
+  "name": "Juízes",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E sucedeu, depois da morte de Josué, que os filhos de Israel perguntaram ao Senhor, dizendo: Quem dentre nós primeiro subirá aos cananeus, para pelejar contra eles?"
+        },
+        {
+          "verse": 2,
+          "text": "E disse o Senhor: Judá subirá; eis que entreguei esta terra na sua mão."
+        },
+        {
+          "verse": 3,
+          "text": "Então disse Judá a Simeão, seu irmão: Sobe comigo à minha herança. E pelejemos contra os cananeus, e também eu contigo subirei à tua herança. E Simeão partiu com ele."
+        },
+        {
+          "verse": 4,
+          "text": "E subiu Judá, e o Senhor lhe entregou na sua mão os cananeus e os perizeus; e feriram deles, em Bezeque, a dez mil homens."
+        },
+        {
+          "verse": 5,
+          "text": "E acharam Adoni-Bezeque em Bezeque, e pelejaram contra ele; e feriram aos cananeus e aos perizeus."
+        },
+        {
+          "verse": 6,
+          "text": "Porém Adoni-Bezeque fugiu, mas o seguiram, e prenderam-no e cortaram-lhe os dedos polegares das mãos e dos pés."
+        },
+        {
+          "verse": 7,
+          "text": "Então disse Adoni-Bezeque: Setenta reis, com os dedos polegares das mãos e dos pés cortados, apanhavam as migalhas debaixo da minha mesa; assim como eu fiz, assim Deus me pagou. E levaram-no a Jerusalém, e morreu ali."
+        },
+        {
+          "verse": 8,
+          "text": "E os filhos de Judá pelejaram contra Jerusalém, e tomando-a, feriram-na ao fio da espada; e puseram fogo na cidade."
+        },
+        {
+          "verse": 9,
+          "text": "E depois os filhos de Judá desceram a pelejar contra os cananeus, que habitavam nas montanhas, e no sul, e nas planícies."
+        },
+        {
+          "verse": 10,
+          "text": "E partiu Judá contra os cananeus que habitavam em Hebrom (era porém outrora o nome de Hebrom, Quiriate-Arba), e feriram a Sesai, e a Aimã e Talmai."
+        },
+        {
+          "verse": 11,
+          "text": "E dali partiu contra os moradores de Debir; e era outrora o nome de Debir, Quiriate-Sefer."
+        },
+        {
+          "verse": 12,
+          "text": "E disse Calebe: Quem ferir a Quiriate-Sefer, e a tomar, lhe darei a minha filha Acsa por mulher."
+        },
+        {
+          "verse": 13,
+          "text": "E tomou-a Otniel, filho de Quenaz, o irmão de Calebe, mais novo do que ele; e Calebe lhe deu a sua filha Acsa por mulher."
+        },
+        {
+          "verse": 14,
+          "text": "E sucedeu que, indo ela a ele, o persuadiu que pedisse um campo a seu pai; e ela desceu do jumento, e Calebe lhe disse: Que é que tens?"
+        },
+        {
+          "verse": 15,
+          "text": "E ela lhe disse: Dá-me uma bênção; pois me deste uma terra seca, dá-me também fontes de águas. E Calebe lhe deu as fontes superiores e as fontes inferiores."
+        },
+        {
+          "verse": 16,
+          "text": "Também os filhos do queneu, sogro de Moisés, subiram da cidade das palmeiras com os filhos de Judá ao deserto de Judá, que está ao sul de Arade, e foram, e habitaram com o povo."
+        },
+        {
+          "verse": 17,
+          "text": "E foi Judá com Simeão, seu irmão, e feriram aos cananeus que habitavam em Zefate; e totalmente a destruíram, e chamou-se o nome desta cidade Hormá."
+        },
+        {
+          "verse": 18,
+          "text": "Tomou mais Judá a Gaza com o seu termo, e a Ascalom com o seu termo, e a Ecrom com o seu termo."
+        },
+        {
+          "verse": 19,
+          "text": "E estava o Senhor com Judá, e despovoou as montanhas; porém não expulsou aos moradores do vale, porquanto tinham carros de ferro."
+        },
+        {
+          "verse": 20,
+          "text": "E deram Hebrom a Calebe, como Moisés o dissera; e dali expulsou os três filhos de Anaque."
+        },
+        {
+          "verse": 21,
+          "text": "Porém os filhos de Benjamim não expulsaram os jebuseus que habitavam em Jerusalém; antes os jebuseus ficaram habitando com os filhos de Benjamim em Jerusalém, até ao dia de hoje,"
+        },
+        {
+          "verse": 22,
+          "text": "E subiu também a casa de José contra Betel, e foi o Senhor com eles."
+        },
+        {
+          "verse": 23,
+          "text": "E a casa de José mandou espias a Betel, e foi antes o nome desta cidade Luz."
+        },
+        {
+          "verse": 24,
+          "text": "E viram os espias a um homem, que saía da cidade, e lhe disseram: Ora, mostra-nos a entrada da cidade, e usaremos contigo de misericórdia."
+        },
+        {
+          "verse": 25,
+          "text": "E, mostrando-lhes ele a entrada da cidade, feriram-na ao fio da espada; porém àquele homem e a toda a sua família deixaram ir."
+        },
+        {
+          "verse": 26,
+          "text": "Então aquele homem se foi à terra dos heteus, e edificou uma cidade, e chamou o seu nome Luz; este é o seu nome até ao dia de hoje."
+        },
+        {
+          "verse": 27,
+          "text": "Manassés não expulsou os habitantes de Bete-Seã, nem mesmo dos lugares da sua jurisdição; nem a Taanaque, com os lugares da sua jurisdição; nem os moradores de Dor, com os lugares da sua jurisdição; nem os moradores de Ibleão, com os lugares da sua jurisdição; nem os moradores de Megido, com os lugares da sua jurisdição; e resolveram os cananeus habitar na mesma terra."
+        },
+        {
+          "verse": 28,
+          "text": "E sucedeu que, quando Israel cobrou mais forças, fez dos cananeus tributários; porém não os expulsou de todo."
+        },
+        {
+          "verse": 29,
+          "text": "Tampouco expulsou Efraim os cananeus que habitavam em Gezer; antes os cananeus ficaram habitando com ele, em Gezer."
+        },
+        {
+          "verse": 30,
+          "text": "Tampouco expulsou Zebulom os moradores de Quitrom, nem os moradores de Naalol; porém os cananeus ficaram habitando com ele, e foram tributários."
+        },
+        {
+          "verse": 31,
+          "text": "Tampouco Aser expulsou os moradores de Aco, nem os moradores de Sidom; como nem de Alabe, nem de Aczibe, nem de Helba, nem de Afeque, nem de Reobe;"
+        },
+        {
+          "verse": 32,
+          "text": "Porém os aseritas habitaram no meio dos cananeus que habitavam na terra; porquanto não os expulsaram."
+        },
+        {
+          "verse": 33,
+          "text": "Tampouco Naftali expulsou os moradores de Bete-Semes, nem os moradores de Bete-Anate; mas habitou no meio dos cananeus que habitavam na terra; porém lhes foram tributários os moradores de Bete-Semes e Bete-Anate."
+        },
+        {
+          "verse": 34,
+          "text": "E os amorreus impeliram os filhos de Dã até às montanhas; porque nem os deixavam descer ao vale."
+        },
+        {
+          "verse": 35,
+          "text": "Também os amorreus quiseram habitar nas montanhas de Heres, em Aijalom e em Saalbim; porém prevaleceu a mão da casa de José, e ficaram tributários."
+        },
+        {
+          "verse": 36,
+          "text": "E foi o termo dos amorreus desde a subida de Acrabim, desde a penha, e dali para cima."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E subiu o anjo do Senhor de Gilgal a Boquim, e disse: Do Egito vos fiz subir, e vos trouxe à terra que a vossos pais tinha jurado e disse: Nunca invalidarei a minha aliança convosco."
+        },
+        {
+          "verse": 2,
+          "text": "E, quanto a vós, não fareis acordo com os moradores desta terra, antes derrubareis os seus altares; mas vós não obedecestes à minha voz. Por que fizestes isso?"
+        },
+        {
+          "verse": 3,
+          "text": "Assim também eu disse: Não os expulsarei de diante de vós; antes estarão como espinhos nos vossos lados, e os seus deuses vos serão por laço."
+        },
+        {
+          "verse": 4,
+          "text": "E sucedeu que, falando o anjo do Senhor estas palavras a todos os filhos de Israel, o povo levantou a sua voz e chorou."
+        },
+        {
+          "verse": 5,
+          "text": "Por isso chamaram àquele lugar, Boquim; e sacrificaram ali ao Senhor."
+        },
+        {
+          "verse": 6,
+          "text": "E havendo Josué despedido o povo foram-se os filhos de Israel, cada um à sua herança, para possuírem a terra."
+        },
+        {
+          "verse": 7,
+          "text": "E serviu o povo ao Senhor todos os dias de Josué, e todos os dias dos anciãos que ainda sobreviveram depois de Josué, e viram toda aquela grande obra do Senhor, que fizera a Israel."
+        },
+        {
+          "verse": 8,
+          "text": "Faleceu, porém, Josué, filho de Num, servo do Senhor, com a idade de cento e dez anos;"
+        },
+        {
+          "verse": 9,
+          "text": "E sepultaram-no no termo da sua herança, em Timnate-Heres, no monte de Efraim, para o norte do monte de Gaás."
+        },
+        {
+          "verse": 10,
+          "text": "E foi também congregada toda aquela geração a seus pais, e outra geração após ela se levantou, que não conhecia ao Senhor, nem tampouco a obra que ele fizera a Israel."
+        },
+        {
+          "verse": 11,
+          "text": "Então fizeram os filhos de Israel o que era mau aos olhos do Senhor; e serviram aos baalins."
+        },
+        {
+          "verse": 12,
+          "text": "E deixaram ao Senhor Deus de seus pais, que os tirara da terra do Egito, e foram-se após outros deuses, dentre os deuses dos povos, que havia ao redor deles, e adoraram a eles; e provocaram o Senhor à ira."
+        },
+        {
+          "verse": 13,
+          "text": "Porquanto deixaram ao Senhor, e serviram a Baal e a Astarote."
+        },
+        {
+          "verse": 14,
+          "text": "Por isso a ira do Senhor se acendeu contra Israel, e os entregou na mão dos espoliadores que os despojaram; e os entregou na mão dos seus inimigos ao redor; e não puderam mais resistir diante dos seus inimigos."
+        },
+        {
+          "verse": 15,
+          "text": "Por onde quer que saíam, a mão do Senhor era contra eles para mal, como o Senhor tinha falado, e como o Senhor lhes tinha jurado; e estavam em grande aflição."
+        },
+        {
+          "verse": 16,
+          "text": "E levantou o Senhor juízes, que os livraram da mão dos que os despojaram."
+        },
+        {
+          "verse": 17,
+          "text": "Porém tampouco ouviram aos juízes, antes prostituíram-se após outros deuses, e adoraram a eles; depressa se desviaram do caminho, por onde andaram seus pais, obedecendo os mandamentos do Senhor; mas eles assim não fizeram."
+        },
+        {
+          "verse": 18,
+          "text": "E, quando o Senhor lhes levantava juízes, o Senhor era com o juiz, e os livrava da mão dos seus inimigos, todos os dias daquele juiz; porquanto o Senhor se compadecia deles pelo seu gemido, por causa dos que os oprimiam e afligiam."
+        },
+        {
+          "verse": 19,
+          "text": "Porém sucedia que, falecendo o juiz, reincidiam e se corrompiam mais do que seus pais, andando após outros deuses, servindo-os, e adorando-os; nada deixavam das suas obras, nem do seu obstinado caminho."
+        },
+        {
+          "verse": 20,
+          "text": "Por isso a ira do Senhor se acendeu contra Israel, e disse: Porquanto este povo transgrediu a minha aliança, que tinha ordenado a seus pais, e não deram ouvidos à minha voz,"
+        },
+        {
+          "verse": 21,
+          "text": "Tampouco desapossarei mais de diante deles a nenhuma das nações, que Josué deixou, quando morreu;"
+        },
+        {
+          "verse": 22,
+          "text": "Para por elas provar a Israel, se há de guardar, ou não, o caminho do Senhor, como seus pais o guardaram, para nele andar."
+        },
+        {
+          "verse": 23,
+          "text": "Assim o Senhor deixou ficar aquelas nações, e não as desterrou logo, nem as entregou na mão de Josué."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Estas, pois, são as nações que o Senhor deixou ficar, para por elas provar a Israel, a saber, a todos os que não sabiam de todas as guerras de Canaã."
+        },
+        {
+          "verse": 2,
+          "text": "Tão somente para que as gerações dos filhos de Israel delas soubessem (para lhes ensinar a guerra), pelo menos os que dantes não sabiam delas."
+        },
+        {
+          "verse": 3,
+          "text": "Cinco príncipes dos filisteus, e todos os cananeus, e sidônios, e heveus que habitavam nas montanhas do Líbano desde o monte de Baal-Hermom, até à entrada de Hamate."
+        },
+        {
+          "verse": 4,
+          "text": "Estes, pois, ficaram, para por eles provar a Israel, para saber se dariam ouvido aos mandamentos do Senhor, que ele tinha ordenado a seus pais, pelo ministério de Moisés."
+        },
+        {
+          "verse": 5,
+          "text": "Habitando, pois, os filhos de Israel no meio dos cananeus, dos heteus, e amorreus, e perizeus, e heveus, e jebuseus,"
+        },
+        {
+          "verse": 6,
+          "text": "Tomaram de suas filhas para si por mulheres, e deram as suas filhas aos filhos deles; e serviram aos seus deuses."
+        },
+        {
+          "verse": 7,
+          "text": "E os filhos de Israel fizeram o que era mau aos olhos do Senhor, e se esqueceram do Senhor seu Deus; e serviram aos baalins e a Astarote."
+        },
+        {
+          "verse": 8,
+          "text": "Então a ira do Senhor se acendeu contra Israel, e ele os vendeu na mão de Cusã-Risataim, rei da Mesopotâmia; e os filhos de Israel serviram a Cusã-Risataim oito anos."
+        },
+        {
+          "verse": 9,
+          "text": "E os filhos de Israel clamaram ao Senhor, e o Senhor levantou aos filhos de Israel um libertador, que os libertou: Otniel, filho de Quenaz, irmão de Calebe, mais novo do que ele."
+        },
+        {
+          "verse": 10,
+          "text": "E veio sobre ele o Espírito do Senhor, e julgou a Israel, e saiu à peleja; e o Senhor entregou na sua mão a Cusã-Risataim, rei da Síria; a sua mão prevaleceu contra Cusã-Risataim."
+        },
+        {
+          "verse": 11,
+          "text": "Então a terra sossegou quarenta anos; e Otniel, filho de Quenaz, faleceu."
+        },
+        {
+          "verse": 12,
+          "text": "Porém os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor; então o Senhor fortaleceu a Eglom, rei dos moabitas, contra Israel; porquanto fizeram o que era mau aos olhos do Senhor."
+        },
+        {
+          "verse": 13,
+          "text": "E reuniu consigo os filhos de Amom e os amalequitas, e foi, e feriu a Israel, e tomaram a cidade das palmeiras."
+        },
+        {
+          "verse": 14,
+          "text": "E os filhos de Israel serviram a Eglom, rei dos moabitas, dezoito anos."
+        },
+        {
+          "verse": 15,
+          "text": "Então os filhos de Israel clamaram ao Senhor, e o Senhor lhes levantou um libertador, a Eúde, filho de Gera, filho de Jemim, homem canhoto. E os filhos de Israel enviaram pela sua mão um presente a Eglom, rei dos moabitas."
+        },
+        {
+          "verse": 16,
+          "text": "E Eúde fez para si uma espada de dois fios, do comprimento de um côvado; e cingiu-a por baixo das suas vestes, à sua coxa direita."
+        },
+        {
+          "verse": 17,
+          "text": "E levou aquele presente a Eglom, rei dos moabitas; e era Eglom homem muito gordo."
+        },
+        {
+          "verse": 18,
+          "text": "E sucedeu que, acabando de entregar o presente, despediu a gente que o trouxera."
+        },
+        {
+          "verse": 19,
+          "text": "Porém ele mesmo voltou das imagens de escultura que estavam ao pé de Gilgal, e disse: Tenho uma palavra secreta para ti, ó rei. O qual disse: Cala-te. E todos os que lhe assistiam saíram de diante dele."
+        },
+        {
+          "verse": 20,
+          "text": "E Eúde entrou numa sala de verão, que o rei tinha só para si, onde estava sentado, e disse: Tenho, para dizer-te, uma palavra de Deus. E levantou-se da cadeira."
+        },
+        {
+          "verse": 21,
+          "text": "Então Eúde estendeu a sua mão esquerda, e tirou a espada de sobre sua coxa direita, e lha cravou no ventre,"
+        },
+        {
+          "verse": 22,
+          "text": "De tal maneira que entrou até o cabo após a lâmina, e a gordura encerrou a lâmina (porque não tirou a espada do ventre); e saiu-lhe o excremento."
+        },
+        {
+          "verse": 23,
+          "text": "Então Eúde saiu ao pátio, e fechou as portas da sala e as trancou."
+        },
+        {
+          "verse": 24,
+          "text": "E, saindo ele, vieram os servos do rei, e viram, e eis que as portas da sala estavam fechadas; e disseram: Sem dúvida está cobrindo seus pés na recâmara da sala de verão."
+        },
+        {
+          "verse": 25,
+          "text": "E, esperando até se alarmarem, eis que ele não abria as portas da sala; então tomaram a chave, e abriram, e eis ali seu senhor estendido morto em terra."
+        },
+        {
+          "verse": 26,
+          "text": "E Eúde escapou, enquanto eles se demoravam; porque ele passou pelas imagens de escultura, e escapou para Seirá."
+        },
+        {
+          "verse": 27,
+          "text": "E sucedeu que, chegando ele, tocou a trombeta nas montanhas de Efraim, e os filhos de Israel desceram com ele das montanhas, e ele adiante deles."
+        },
+        {
+          "verse": 28,
+          "text": "E disse-lhes: Segui-me, porque o Senhor vos tem entregue vossos inimigos, os moabitas, nas vossas mãos; e desceram após ele, e tomaram os vaus do Jordão contra Moabe, e a ninguém deixaram passar."
+        },
+        {
+          "verse": 29,
+          "text": "E naquele tempo feriram dos moabitas uns dez mil homens, todos corpulentos, e todos homens valorosos; e não escapou nenhum."
+        },
+        {
+          "verse": 30,
+          "text": "Assim foi subjugado Moabe naquele dia debaixo da mão de Israel; e a terra sossegou oitenta anos."
+        },
+        {
+          "verse": 31,
+          "text": "Depois dele foi Sangar, filho de Anate, que feriu a seiscentos homens dos filisteus com uma aguilhada de bois; e também ele libertou a Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Porém os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor, depois de falecer Eúde."
+        },
+        {
+          "verse": 2,
+          "text": "E vendeu-os o Senhor na mão de Jabim, rei de Canaã, que reinava em Hazor; e Sísera era o capitão do seu exército, o qual então habitava em Harosete dos gentios."
+        },
+        {
+          "verse": 3,
+          "text": "Então os filhos de Israel clamaram ao Senhor, porquanto ele tinha novecentos carros de ferro, e por vinte anos oprimia violentamente os filhos de Israel."
+        },
+        {
+          "verse": 4,
+          "text": "E Débora, mulher profetisa, mulher de Lapidote, julgava a Israel naquele tempo."
+        },
+        {
+          "verse": 5,
+          "text": "Ela assentava-se debaixo das palmeiras de Débora, entre Ramá e Betel, nas montanhas de Efraim; e os filhos de Israel subiam a ela a juízo."
+        },
+        {
+          "verse": 6,
+          "text": "E mandou chamar a Baraque, filho de Abinoão de Quedes de Naftali, e disse-lhe: Porventura o Senhor Deus de Israel não deu ordem, dizendo: Vai, e atrai gente ao monte Tabor, e toma contigo dez mil homens dos filhos de Naftali e dos filhos de Zebulom?"
+        },
+        {
+          "verse": 7,
+          "text": "E atrairei a ti para o ribeiro de Quisom, a Sísera, capitão do exército de Jabim, com os seus carros, e com a sua multidão; e o darei na tua mão."
+        },
+        {
+          "verse": 8,
+          "text": "Então lhe disse Baraque: Se fores comigo, irei; porém, se não fores comigo, não irei."
+        },
+        {
+          "verse": 9,
+          "text": "E disse ela: Certamente irei contigo, porém não será tua a honra da jornada que empreenderes; pois à mão de uma mulher o Senhor venderá a Sísera. E Débora se levantou, e partiu com Baraque para Quedes."
+        },
+        {
+          "verse": 10,
+          "text": "Então Baraque convocou a Zebulom e a Naftali em Quedes, e subiu com dez mil homens após ele; e Débora subiu com ele."
+        },
+        {
+          "verse": 11,
+          "text": "E Héber, queneu, se tinha apartado dos queneus, dos filhos de Hobabe, sogro de Moisés; e tinha estendido as suas tendas até ao carvalho de Zaanaim, que está junto a Quedes,"
+        },
+        {
+          "verse": 12,
+          "text": "E anunciaram a Sísera que Baraque, filho de Abinoão, tinha subido ao monte Tabor."
+        },
+        {
+          "verse": 13,
+          "text": "E Sísera convocou todos os seus carros, novecentos carros de ferro, e todo o povo que estava com ele, desde Harosete dos gentios até ao ribeiro de Quisom."
+        },
+        {
+          "verse": 14,
+          "text": "Então disse Débora a Baraque: Levanta-te, porque este é o dia em que o Senhor tem dado a Sísera na tua mão; porventura o Senhor não saiu adiante de ti? Baraque, pois, desceu do monte Tabor, e dez mil homens após ele."
+        },
+        {
+          "verse": 15,
+          "text": "E o Senhor derrotou a Sísera, e a todos os seus carros, e a todo o seu exército ao fio da espada, diante de Baraque; e Sísera desceu do carro, e fugiu a pé."
+        },
+        {
+          "verse": 16,
+          "text": "E Baraque perseguiu os carros, e o exército, até Harosete dos gentios; e todo o exército de Sísera caiu ao fio da espada, até não ficar um só."
+        },
+        {
+          "verse": 17,
+          "text": "Porém Sísera fugiu a pé à tenda de Jael, mulher de Héber, queneu; porquanto havia paz entre Jabim, rei de Hazor, e a casa de Héber, queneu."
+        },
+        {
+          "verse": 18,
+          "text": "E Jael saiu ao encontro de Sísera, e disse-lhe: Entra, senhor meu, entra aqui, não temas. Ele entrou na sua tenda, e ela o cobriu com uma coberta."
+        },
+        {
+          "verse": 19,
+          "text": "Então ele lhe disse: Dá-me, peço-te, de beber um pouco de água, porque tenho sede. Então ela abriu um odre de leite, e deu-lhe de beber, e o cobriu."
+        },
+        {
+          "verse": 20,
+          "text": "E ele lhe disse: Põe-te à porta da tenda; e há de ser que se alguém vier e te perguntar: Há aqui alguém? Responderás então: Não."
+        },
+        {
+          "verse": 21,
+          "text": "Então Jael, mulher de Héber, tomou uma estaca da tenda, e lançou mão de um martelo, e chegou-se mansamente a ele, e lhe cravou a estaca na fonte, de sorte que penetrou na terra, estando ele, porém, num profundo sono, e já muito cansado; e assim morreu."
+        },
+        {
+          "verse": 22,
+          "text": "E eis que, seguindo Baraque a Sísera, Jael lhe saiu ao encontro, e disse-lhe: Vem, e mostrar-te-ei o homem que buscas. E foi a ela, e eis que Sísera jazia morto, com a estaca na fonte."
+        },
+        {
+          "verse": 23,
+          "text": "Assim Deus naquele dia sujeitou a Jabim, rei de Canaã, diante dos filhos de Israel."
+        },
+        {
+          "verse": 24,
+          "text": "E continuou a mão dos filhos de Israel a pesar e a endurecer-se sobre Jabim, rei de Canaã; até que exterminaram a Jabim, rei de Canaã."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E cantou Débora e Baraque, filho de Abinoão, naquele mesmo dia, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Louvai ao Senhor pela vingança de Israel, quando o povo se ofereceu voluntariamente."
+        },
+        {
+          "verse": 3,
+          "text": "Ouvi, reis; dai ouvidos, príncipes; eu, eu cantarei ao Senhor; salmodiarei ao Senhor Deus de Israel."
+        },
+        {
+          "verse": 4,
+          "text": "Ó Senhor, saindo tu de Seir, caminhando tu desde o campo de Edom, a terra estremeceu; até os céus gotejaram; até as nuvens gotejaram águas."
+        },
+        {
+          "verse": 5,
+          "text": "Os montes se derreteram diante do Senhor, e até Sinai diante do Senhor Deus de Israel."
+        },
+        {
+          "verse": 6,
+          "text": "Nos dias de Sangar, filho de Anate, nos dias de Jael cessaram os caminhos; e os que andavam por veredas iam por caminhos torcidos."
+        },
+        {
+          "verse": 7,
+          "text": "Cessaram as aldeias em Israel, cessaram; até que eu, Débora, me levantei, por mãe em Israel me levantei."
+        },
+        {
+          "verse": 8,
+          "text": "E se escolhia deuses novos, logo a guerra estava às portas; via-se por isso escudo ou lança entre quarenta mil em Israel?"
+        },
+        {
+          "verse": 9,
+          "text": "Meu coração é para os legisladores de Israel, que voluntariamente se ofereceram entre o povo; bendizei ao Senhor."
+        },
+        {
+          "verse": 10,
+          "text": "Vós os que cavalgais sobre jumentas brancas, que vos assentais em juízo, que andais pelo caminho, falai disto."
+        },
+        {
+          "verse": 11,
+          "text": "Donde se ouve o estrondo dos flecheiros, entre os lugares onde se tiram águas, ali falai das justiças do Senhor, das justiças que fez às suas aldeias em Israel; então o povo do Senhor descia às portas."
+        },
+        {
+          "verse": 12,
+          "text": "Desperta, desperta, Débora, desperta, desperta, entoa um cântico; levanta-te, Baraque, e leva presos os teus cativos, tu, filho de Abinoão."
+        },
+        {
+          "verse": 13,
+          "text": "Então fez dominar sobre os nobres entre o povo, aos que restaram; fez-me o Senhor dominar sobre os poderosos."
+        },
+        {
+          "verse": 14,
+          "text": "De Efraim saiu a sua raiz contra Amaleque; e depois de ti vinha Benjamim dentre os teus povos; de Maquir desceram os legisladores, e de Zebulom os que levaram a cana do escriba."
+        },
+        {
+          "verse": 15,
+          "text": "Também os principais de Issacar foram com Débora; e como Issacar, assim também Baraque, foi enviado a pé para o vale; nas divisões de Rúben foram grandes as resoluções do coração."
+        },
+        {
+          "verse": 16,
+          "text": "Por que ficaste tu entre os currais para ouvires os balidos dos rebanhos? Nas divisões de Rúben tiveram grandes esquadrinhações do coração."
+        },
+        {
+          "verse": 17,
+          "text": "Gileade ficou além do Jordão, e Dã por que se deteve nos navios? Aser se assentou na beira dos mares, e ficou junto às suas baías."
+        },
+        {
+          "verse": 18,
+          "text": "Zebulom é um povo que expôs a sua vida à morte, como também Naftali, nas alturas do campo."
+        },
+        {
+          "verse": 19,
+          "text": "Vieram reis, pelejaram; então pelejaram os reis de Canaã em Taanaque, junto às águas de Megido; não tomaram despojo de prata."
+        },
+        {
+          "verse": 20,
+          "text": "Desde os céus pelejaram; até as estrelas desde os lugares dos seus cursos pelejaram contra Sísera."
+        },
+        {
+          "verse": 21,
+          "text": "O ribeiro de Quisom os arrastou, aquele antigo ribeiro, o ribeiro de Quisom. Pisaste, ó minha alma, à força."
+        },
+        {
+          "verse": 22,
+          "text": "Então os cascos dos cavalos se despedaçaram; pelo galopar, o galopar dos seus valentes."
+        },
+        {
+          "verse": 23,
+          "text": "Amaldiçoai a Meroz, diz o anjo do Senhor, severamente amaldiçoai aos seus moradores; porquanto não vieram ao socorro do Senhor, ao socorro do Senhor com os valorosos."
+        },
+        {
+          "verse": 24,
+          "text": "Bendita seja entre as mulheres, Jael, mulher de Héber, o queneu; bendita seja entre as mulheres nas tendas."
+        },
+        {
+          "verse": 25,
+          "text": "Água pediu ele, leite lhe deu ela; em prato de nobres lhe ofereceu manteiga."
+        },
+        {
+          "verse": 26,
+          "text": "À estaca estendeu a sua mão esquerda, e ao martelo dos trabalhadores a sua direita; e matou a Sísera, e rachou-lhe a cabeça, quando lhe pregou e atravessou as fontes."
+        },
+        {
+          "verse": 27,
+          "text": "Entre os seus pés se encurvou, caiu, ficou estirado; entre os seus pés se encurvou, caiu; onde se encurvou, ali caiu, morto."
+        },
+        {
+          "verse": 28,
+          "text": "A mãe de Sísera olhava pela janela, e exclamava pela grade: Por que tarda em vir o seu carro? Por que se demoram os ruídos dos seus carros?"
+        },
+        {
+          "verse": 29,
+          "text": "As mais sábias das suas damas responderam; e até ela respondia a si mesma:"
+        },
+        {
+          "verse": 30,
+          "text": "Porventura não achariam e repartiriam despojos? Uma ou duas moças a cada homem? Para Sísera despojos de estofos coloridos, despojos de estofos coloridos bordados; de estofos coloridos bordados de ambos os lados como despojo para os pescoços."
+        },
+        {
+          "verse": 31,
+          "text": "Assim, ó Senhor, pereçam todos os teus inimigos! Porém os que te amam sejam como o sol quando sai na sua força."
+        },
+        {
+          "verse": 32,
+          "text": "E sossegou a terra quarenta anos."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Porém os filhos de Israel fizeram o que era mau aos olhos do Senhor; e o Senhor os deu nas mãos dos midianitas por sete anos."
+        },
+        {
+          "verse": 2,
+          "text": "E, prevalecendo a mão dos midianitas sobre Israel, fizeram os filhos de Israel para si, por causa dos midianitas, as covas que estão nos montes, as cavernas e as fortificações."
+        },
+        {
+          "verse": 3,
+          "text": "Porque sucedia que, semeando Israel, os midianitas e os amalequitas, e também os do oriente, contra ele subiam."
+        },
+        {
+          "verse": 4,
+          "text": "E punham-se contra ele em campo, e destruíam os frutos da terra, até chegarem a Gaza; e não deixavam mantimento em Israel, nem ovelhas, nem bois, nem jumentos."
+        },
+        {
+          "verse": 5,
+          "text": "Porque subiam com os seus gados e tendas; vinham como gafanhotos, em grande multidão que não se podia contar, nem a eles nem aos seus camelos; e entravam na terra, para a destruir."
+        },
+        {
+          "verse": 6,
+          "text": "Assim Israel empobreceu muito pela presença dos midianitas; então os filhos de Israel clamaram ao Senhor."
+        },
+        {
+          "verse": 7,
+          "text": "E sucedeu que, clamando os filhos de Israel ao Senhor por causa dos midianitas,"
+        },
+        {
+          "verse": 8,
+          "text": "Enviou o Senhor um profeta aos filhos de Israel, que lhes disse: Assim diz o Senhor Deus de Israel: Do Egito eu vos fiz subir, e vos tirei da casa da servidão;"
+        },
+        {
+          "verse": 9,
+          "text": "E vos livrei da mão dos egípcios, e da mão de todos quantos vos oprimiam; e os expulsei de diante de vós, e a vós dei a sua terra."
+        },
+        {
+          "verse": 10,
+          "text": "E vos disse: Eu sou o Senhor vosso Deus; não temais aos deuses dos amorreus, em cuja terra habitais; mas não destes ouvidos à minha voz."
+        },
+        {
+          "verse": 11,
+          "text": "Então o anjo do Senhor veio, e assentou-se debaixo do carvalho que está em Ofra, que pertencia a Joás, abiezrita; e Gideão, seu filho, estava malhando o trigo no lagar, para o salvar dos midianitas."
+        },
+        {
+          "verse": 12,
+          "text": "Então o anjo do Senhor lhe apareceu, e lhe disse: O Senhor é contigo, homem valoroso."
+        },
+        {
+          "verse": 13,
+          "text": "Mas Gideão lhe respondeu: Ai, Senhor meu, se o Senhor é conosco, por que tudo isto nos sobreveio? E que é feito de todas as suas maravilhas que nossos pais nos contaram, dizendo: Não nos fez o Senhor subir do Egito? Porém agora o Senhor nos desamparou, e nos deu nas mãos dos midianitas."
+        },
+        {
+          "verse": 14,
+          "text": "Então o Senhor olhou para ele, e disse: Vai nesta tua força, e livrarás a Israel das mãos dos midianitas; porventura não te enviei eu?"
+        },
+        {
+          "verse": 15,
+          "text": "E ele lhe disse: Ai, Senhor meu, com que livrarei a Israel? Eis que a minha família é a mais pobre em Manassés, e eu o menor na casa de meu pai."
+        },
+        {
+          "verse": 16,
+          "text": "E o Senhor lhe disse: Porquanto eu hei de ser contigo, tu ferirás aos midianitas como se fossem um só homem."
+        },
+        {
+          "verse": 17,
+          "text": "E ele disse: Se agora tenho achado graça aos teus olhos, dá-me um sinal de que és tu que falas comigo."
+        },
+        {
+          "verse": 18,
+          "text": "Rogo-te que daqui não te apartes, até que eu volte e traga o meu presente, e o ponha perante ti. E disse: Eu esperarei até que voltes."
+        },
+        {
+          "verse": 19,
+          "text": "E entrou Gideão e preparou um cabrito e pães ázimos de um efa de farinha; a carne pôs num cesto e o caldo pôs numa panela; e trouxe-lho até debaixo do carvalho, e lho ofereceu."
+        },
+        {
+          "verse": 20,
+          "text": "Porém o anjo de Deus lhe disse: Toma a carne e os pães ázimos, e põe-nos sobre esta penha e derrama-lhe o caldo. E assim fez."
+        },
+        {
+          "verse": 21,
+          "text": "E o anjo do Senhor estendeu a ponta do cajado, que estava na sua mão, e tocou a carne e os pães ázimos; então subiu o fogo da penha, e consumiu a carne e os pães ázimos; e o anjo do Senhor desapareceu de seus olhos."
+        },
+        {
+          "verse": 22,
+          "text": "Então viu Gideão que era o anjo do Senhor e disse Gideão: Ah, Senhor Deus, pois vi o anjo do Senhor face a face."
+        },
+        {
+          "verse": 23,
+          "text": "Porém o Senhor lhe disse: Paz seja contigo; não temas; não morrerás."
+        },
+        {
+          "verse": 24,
+          "text": "Então Gideão edificou ali um altar ao Senhor, e chamou-lhe: o Senhor é paz; e ainda até o dia de hoje está em Ofra dos abiezritas."
+        },
+        {
+          "verse": 25,
+          "text": "E aconteceu naquela mesma noite, que o Senhor lhe disse: Toma o boi que pertence a teu pai, a saber, o segundo boi de sete anos, e derruba o altar de Baal, que é de teu pai; e corta o bosque que está ao pé dele."
+        },
+        {
+          "verse": 26,
+          "text": "E edifica ao Senhor teu Deus um altar no cume deste lugar forte, num lugar conveniente; e toma o segundo boi, e o oferecerás em holocausto com a lenha que cortares do bosque."
+        },
+        {
+          "verse": 27,
+          "text": "Então Gideão tomou dez homens dentre os seus servos, e fez como o Senhor lhe dissera; e sucedeu que, temendo ele a casa de seu pai, e os homens daquela cidade, não o fez de dia, mas fê-lo de noite."
+        },
+        {
+          "verse": 28,
+          "text": "Levantando-se, pois, os homens daquela cidade, de madrugada, eis que estava o altar de Baal derrubado, e o bosque estava ao pé dele, cortado; e o segundo boi oferecido no altar que fora edificado."
+        },
+        {
+          "verse": 29,
+          "text": "E uns aos outros disseram: Quem fez esta coisa? E, esquadrinhando, e inquirindo, disseram: Gideão, o filho de Joás, fez esta coisa."
+        },
+        {
+          "verse": 30,
+          "text": "Então os homens daquela cidade disseram a Joás: Tira para fora a teu filho; para que morra; pois derribou o altar de Baal, e cortou o bosque que estava ao pé dele."
+        },
+        {
+          "verse": 31,
+          "text": "Porém Joás disse a todos os que se puseram contra ele: Contendereis vós por Baal? Livrá-lo-eis vós? Qualquer que por ele contender ainda esta manhã será morto; se é deus, por si mesmo contenda; pois derrubaram o seu altar."
+        },
+        {
+          "verse": 32,
+          "text": "Por isso naquele dia lhe chamaram Jerubaal, dizendo: Baal contenda contra ele, pois derrubou o seu altar."
+        },
+        {
+          "verse": 33,
+          "text": "E todos os midianitas e amalequitas, e os filhos do oriente se ajuntaram, e passaram, e acamparam no vale de Jizreel."
+        },
+        {
+          "verse": 34,
+          "text": "Então o Espírito do Senhor revestiu a Gideão, o qual tocou a trombeta, e os abiezritas se ajuntaram após ele."
+        },
+        {
+          "verse": 35,
+          "text": "E enviou mensageiros por toda a tribo de Manassés, que também se ajuntou após ele; também enviou mensageiros a Aser, e a Zebulom, e a Naftali, que saíram-lhe ao encontro."
+        },
+        {
+          "verse": 36,
+          "text": "E disse Gideão a Deus: Se hás de livrar a Israel por minha mão, como disseste,"
+        },
+        {
+          "verse": 37,
+          "text": "Eis que eu porei um velo de lã na eira; se o orvalho estiver somente no velo, e toda a terra ficar seca, então conhecerei que hás de livrar a Israel por minha mão, como disseste."
+        },
+        {
+          "verse": 38,
+          "text": "E assim sucedeu; porque no outro dia se levantou de madrugada, e apertou o velo; e do orvalho que espremeu do velo, encheu uma taça de água."
+        },
+        {
+          "verse": 39,
+          "text": "E disse Gideão a Deus: Não se acenda contra mim a tua ira, se ainda falar só esta vez; rogo-te que só esta vez faça a prova com o velo; rogo-te que só o velo fique seco, e em toda a terra haja o orvalho."
+        },
+        {
+          "verse": 40,
+          "text": "E Deus assim fez naquela noite; pois só o velo ficou seco, e sobre toda a terra havia orvalho."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então Jerubaal (que é Gideão) se levantou de madrugada, e todo o povo que com ele havia, e se acamparam junto à fonte de Harode, de maneira que tinha o arraial dos midianitas para o norte, no vale, perto do outeiro de Moré."
+        },
+        {
+          "verse": 2,
+          "text": "E disse o Senhor a Gideão: Muito é o povo que está contigo, para eu dar aos midianitas em sua mão; a fim de que Israel não se glorie contra mim, dizendo: A minha mão me livrou."
+        },
+        {
+          "verse": 3,
+          "text": "Agora, pois, apregoa aos ouvidos do povo, dizendo: Quem for medroso e tímido, volte, e retire-se apressadamente das montanhas de Gileade. Então voltaram do povo vinte e dois mil, e dez mil ficaram."
+        },
+        {
+          "verse": 4,
+          "text": "E disse o Senhor a Gideão: Ainda há muito povo; faze-os descer às águas, e ali os provarei; e será que, daquele de que eu te disser: Este irá contigo, esse contigo irá; porém de todo aquele, de que eu te disser: Este não irá contigo, esse não irá."
+        },
+        {
+          "verse": 5,
+          "text": "E fez descer o povo às águas. Então o Senhor disse a Gideão: Qualquer que lamber as águas com a sua língua, como as lambe o cão, esse porás à parte; como também a todo aquele que se abaixar de joelhos a beber."
+        },
+        {
+          "verse": 6,
+          "text": "E foi o número dos que lamberam, levando a mão à boca, trezentos homens; e todo o restante do povo se abaixou de joelhos a beber as águas."
+        },
+        {
+          "verse": 7,
+          "text": "E disse o Senhor a Gideão: Com estes trezentos homens que lamberam as águas vos livrarei, e darei os midianitas na tua mão; portanto, todos os demais se retirem, cada um ao seu lugar."
+        },
+        {
+          "verse": 8,
+          "text": "E o povo tomou na sua mão a provisão e as suas trombetas, e enviou a todos os outros homens de Israel cada um à sua tenda, porém os trezentos homens reteve; e estava o arraial dos midianitas embaixo, no vale."
+        },
+        {
+          "verse": 9,
+          "text": "E sucedeu que, naquela mesma noite, o Senhor lhe disse: Levanta-te, e desce ao arraial, porque o tenho dado na tua mão."
+        },
+        {
+          "verse": 10,
+          "text": "E, se ainda temes descer, desce tu e teu moço Purá, ao arraial;"
+        },
+        {
+          "verse": 11,
+          "text": "E ouvirás o que dizem, e então, fortalecidas as tuas mãos descerás ao arraial. Então desceu ele com o seu moço Purá até ao extremo das sentinelas que estavam no arraial."
+        },
+        {
+          "verse": 12,
+          "text": "E os midianitas, os amalequitas, e todos os filhos do oriente jaziam no vale como gafanhotos em multidão; e eram inumeráveis os seus camelos, como a areia que há na praia do mar, em multidão."
+        },
+        {
+          "verse": 13,
+          "text": "Chegando, pois, Gideão, eis que estava contando um homem ao seu companheiro um sonho, e dizia: Eis que tive um sonho, eis que um pão de cevada torrado rodava pelo arraial dos midianitas, e chegava até à tenda, e a feriu, e caiu, e a transtornou de cima para baixo; e ficou caída."
+        },
+        {
+          "verse": 14,
+          "text": "E respondeu o seu companheiro, e disse: Não é isto outra coisa, senão a espada de Gideão, filho de Joás, varão israelita. Deus tem dado na sua mão aos midianitas, e todo este arraial."
+        },
+        {
+          "verse": 15,
+          "text": "E sucedeu que, ouvindo Gideão a narração deste sonho, e a sua explicação, adorou; e voltou ao arraial de Israel, e disse: Levantai-vos, porque o Senhor tem dado o arraial dos midianitas nas nossas mãos."
+        },
+        {
+          "verse": 16,
+          "text": "Então dividiu os trezentos homens em três companhias; e deu-lhes a cada um, nas suas mãos, trombetas, e cântaros vazios, com tochas acesas dentro dos cântaros."
+        },
+        {
+          "verse": 17,
+          "text": "E disse-lhes: Olhai para mim, e fazei como eu fizer; e eis que, chegando eu à extremidade do arraial, será que, como eu fizer, assim fareis vós."
+        },
+        {
+          "verse": 18,
+          "text": "Tocando eu a trombeta, eu e todos os que comigo estiverem, então também vós tocareis a trombeta ao redor de todo o arraial, e direis: Espada do Senhor, e de Gideão."
+        },
+        {
+          "verse": 19,
+          "text": "Chegou, pois, Gideão, e os cem homens que com ele iam, ao extremo do arraial, ao princípio da vigília da meia-noite, havendo sido de pouco trocadas as guardas; então tocaram as trombetas, e quebraram os cântaros, que tinham nas mãos."
+        },
+        {
+          "verse": 20,
+          "text": "Assim tocaram as três companhias as trombetas, e quebraram os cântaros; e tinham nas suas mãos esquerdas as tochas acesas, e nas suas mãos direitas as trombetas, para tocarem, e clamaram: Espada do Senhor, e de Gideão."
+        },
+        {
+          "verse": 21,
+          "text": "E conservou-se cada um no seu lugar ao redor do arraial; então todo o exército pôs-se a correr e, gritando, fugiu."
+        },
+        {
+          "verse": 22,
+          "text": "Tocando, pois, os trezentos as trombetas, o Senhor tornou a espada de um contra o outro, e isto em todo o arraial, e o arraial fugiu para Zererá, até Bete-Sita, até aos limites de Abel-Meolá, acima de Tabate."
+        },
+        {
+          "verse": 23,
+          "text": "Então os homens de Israel, de Naftali, de Aser e de todo o Manassés foram convocados, e perseguiram aos midianitas."
+        },
+        {
+          "verse": 24,
+          "text": "Também Gideão enviou mensageiros a todas as montanhas de Efraim, dizendo: Descei ao encontro dos midianitas, e tomai-lhes as águas até Bete-Bara, e também o Jordão. Convocados, pois, todos os homens de Efraim, tomaram-lhes as águas até Bete-Bara e o Jordão."
+        },
+        {
+          "verse": 25,
+          "text": "E prenderam a dois príncipes dos midianitas, a Orebe e a Zeebe; e mataram a Orebe na penha de Orebe, e a Zeebe mataram no lagar de Zeebe, e perseguiram aos midianitas; e trouxeram as cabeças de Orebe e de Zeebe a Gideão, além do Jordão."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então os homens de Efraim lhe disseram: Que é isto que nos fizeste, que não nos chamaste, quando foste pelejar contra os midianitas? E contenderam com ele fortemente."
+        },
+        {
+          "verse": 2,
+          "text": "Porém ele lhes disse: Que mais fiz eu agora do que vós? Não são porventura os rabiscos de Efraim melhores do que a vindima de Abiezer?"
+        },
+        {
+          "verse": 3,
+          "text": "Deus vos deu na vossa mão os príncipes dos midianitas, Orebe e Zeebe; que mais pude eu fazer do que vós? Então a sua ira se abrandou para com ele, quando falou esta palavra."
+        },
+        {
+          "verse": 4,
+          "text": "E, como Gideão veio ao Jordão, passou com os trezentos homens que com ele estavam, já cansados, mas ainda perseguindo."
+        },
+        {
+          "verse": 5,
+          "text": "E disse aos homens de Sucote: Dai, peço-vos, alguns pedaços de pão ao povo, que segue as minhas pisadas; porque estão cansados, e eu vou ao encalço de Zeba e Salmuna, reis dos midianitas."
+        },
+        {
+          "verse": 6,
+          "text": "Porém os príncipes de Sucote disseram: Estão já, Zeba e Salmuna, em tua mão, para que demos pão ao teu exército?"
+        },
+        {
+          "verse": 7,
+          "text": "Então disse Gideão: Pois quando o Senhor der na minha mão a Zeba e a Salmuna, trilharei a vossa carne com os espinhos do deserto, e com os abrolhos."
+        },
+        {
+          "verse": 8,
+          "text": "E dali subiu a Penuel, e falou-lhes da mesma maneira; e os homens de Penuel lhe responderam como os homens de Sucote lhe haviam respondido."
+        },
+        {
+          "verse": 9,
+          "text": "Por isso também falou aos homens de Penuel, dizendo: Quando eu voltar em paz, derribarei esta torre."
+        },
+        {
+          "verse": 10,
+          "text": "Estavam, pois, Zeba e Salmuna em Carcor, e os seus exércitos com eles, uns quinze mil homens, todos os que restaram do exército dos filhos do oriente; e os que caíram foram cento e vinte mil homens, que puxavam da espada."
+        },
+        {
+          "verse": 11,
+          "text": "E subiu Gideão pelo caminho dos que habitavam em tendas, para o oriente de Nobá e Jogbeá; e feriu aquele exército, porquanto o exército estava descuidado."
+        },
+        {
+          "verse": 12,
+          "text": "E fugiram Zeba e Salmuna; porém ele os perseguiu, e tomou presos a ambos os reis dos midianitas, a Zeba e a Salmuna, e afugentou a todo o exército."
+        },
+        {
+          "verse": 13,
+          "text": "Voltando, pois, Gideão, filho de Joás, da peleja, antes do nascer do sol,"
+        },
+        {
+          "verse": 14,
+          "text": "Tomou preso a um moço dos homens de Sucote, e lhe fez perguntas; o qual lhe deu por escrito os nomes dos príncipes de Sucote, e dos seus anciãos, setenta e sete homens."
+        },
+        {
+          "verse": 15,
+          "text": "Então veio aos homens de Sucote, e disse: Vede aqui a Zeba e a Salmuna, a respeito dos quais desprezivelmente me escarnecestes, dizendo: Estão já, Zeba e Salmuna, na tua mão, para que demos pão aos teus homens, já cansados?"
+        },
+        {
+          "verse": 16,
+          "text": "E tomou os anciãos daquela cidade, e os espinhos do deserto, e os abrolhos; e com eles ensinou aos homens de Sucote."
+        },
+        {
+          "verse": 17,
+          "text": "E derrubou a torre de Penuel, e matou os homens da cidade."
+        },
+        {
+          "verse": 18,
+          "text": "Depois perguntou a Zeba e a Salmuna: Que homens eram os que matastes em Tabor? E disseram: Como és tu, assim eram eles; cada um parecia filho de rei."
+        },
+        {
+          "verse": 19,
+          "text": "Então disse ele: Meus irmãos eram, filhos de minha mãe; vive o Senhor, que, se os tivésseis deixado com vida, eu não vos mataria."
+        },
+        {
+          "verse": 20,
+          "text": "E disse a Jeter, seu primogênito: Levanta-te, mata-os. Porém o moço não puxou da sua espada, porque temia; porquanto ainda era jovem."
+        },
+        {
+          "verse": 21,
+          "text": "Então disseram Zeba e Salmuna: Levanta-te, e acomete-nos; porque, qual o homem, tal a sua valentia. Levantou-se, pois, Gideão, e matou a Zeba e a Salmuna, e tomou os ornamentos que estavam nos pescoços dos seus camelos."
+        },
+        {
+          "verse": 22,
+          "text": "Então os homens de Israel disseram a Gideão: Domina sobre nós, tanto tu, como teu filho e o filho de teu filho; porquanto nos livraste da mão dos midianitas."
+        },
+        {
+          "verse": 23,
+          "text": "Porém Gideão lhes disse: Sobre vós eu não dominarei, nem tampouco meu filho sobre vós dominará; o Senhor sobre vós dominará."
+        },
+        {
+          "verse": 24,
+          "text": "E disse-lhes mais Gideão: Uma petição vos farei: Dá-me, cada um de vós, os pendentes do seu despojo (porque tinham pendentes de ouro, porquanto eram ismaelitas)."
+        },
+        {
+          "verse": 25,
+          "text": "E disseram eles: De boa vontade os daremos. E estenderam uma capa, e cada um deles deitou ali um pendente do seu despojo."
+        },
+        {
+          "verse": 26,
+          "text": "E foi o peso dos pendentes de ouro, que pediu, mil e setecentos siclos de ouro, afora os ornamentos, e as cadeias, e as vestes de púrpura que traziam os reis dos midianitas, e afora as coleiras que os camelos traziam ao pescoço."
+        },
+        {
+          "verse": 27,
+          "text": "E fez Gideão dele um éfode, e colocou-o na sua cidade, em Ofra; e todo o Israel prostituiu-se ali após ele; e foi por tropeço a Gideão e à sua casa."
+        },
+        {
+          "verse": 28,
+          "text": "Assim foram abatidos os midianitas diante dos filhos de Israel, e nunca mais levantaram a sua cabeça; e sossegou a terra quarenta anos nos dias de Gideão."
+        },
+        {
+          "verse": 29,
+          "text": "E foi Jerubaal, filho de Joás, e habitou em sua casa."
+        },
+        {
+          "verse": 30,
+          "text": "E teve Gideão setenta filhos, que procederam dele, porque tinha muitas mulheres."
+        },
+        {
+          "verse": 31,
+          "text": "E sua concubina, que estava em Siquém, lhe deu à luz também um filho; e pôs-lhe por nome Abimeleque."
+        },
+        {
+          "verse": 32,
+          "text": "E faleceu Gideão, filho de Joás, numa boa velhice; e foi sepultado no sepulcro de seu pai Joás, em Ofra dos abiezritas."
+        },
+        {
+          "verse": 33,
+          "text": "E sucedeu que, como Gideão faleceu, os filhos de Israel tornaram a se prostituir após os baalins; e puseram a Baal-Berite por deus."
+        },
+        {
+          "verse": 34,
+          "text": "E assim os filhos de Israel não se lembraram do Senhor seu Deus, que os livrara da mão de todos os seus inimigos ao redor."
+        },
+        {
+          "verse": 35,
+          "text": "Nem usaram de beneficência com a casa de Jerubaal, a saber, de Gideão, conforme a todo o bem que ele havia feito a Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E Abimeleque, filho de Jerubaal, foi a Siquém, aos irmãos de sua mãe, e falou-lhes e a toda a geração da casa do pai de sua mãe, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Falai, peço-vos, aos ouvidos de todos os cidadãos de Siquém: Qual é melhor para vós, que setenta homens, todos os filhos de Jerubaal, dominem sobre vós, ou que um homem sobre vós domine? Lembrai-vos também de que sou osso vosso e carne vossa."
+        },
+        {
+          "verse": 3,
+          "text": "Então os irmãos de sua mãe falaram acerca dele perante os ouvidos de todos os cidadãos de Siquém todas aquelas palavras; e o coração deles se inclinou a seguir Abimeleque, porque disseram: É nosso irmão."
+        },
+        {
+          "verse": 4,
+          "text": "E deram-lhe setenta peças de prata, da casa de Baal-Berite; e com elas alugou Abimeleque uns homens ociosos e levianos, que o seguiram."
+        },
+        {
+          "verse": 5,
+          "text": "E veio à casa de seu pai, a Ofra, e matou a seus irmãos, os filhos de Jerubaal, setenta homens, sobre uma pedra. Porém Jotão, filho menor de Jerubaal, ficou, porque se tinha escondido."
+        },
+        {
+          "verse": 6,
+          "text": "Então se ajuntaram todos os cidadãos de Siquém, e toda a casa de Milo; e foram, e constituíram a Abimeleque rei, junto ao carvalho alto que está perto de Siquém."
+        },
+        {
+          "verse": 7,
+          "text": "E, dizendo-o a Jotão, foi e pôs-se no cume do monte de Gerizim, e levantou a sua voz, e clamou e disse-lhes: Ouvi-me, cidadãos de Siquém, e Deus vos ouvirá a vós;"
+        },
+        {
+          "verse": 8,
+          "text": "Foram uma vez as árvores a ungir para si um rei, e disseram à oliveira: Reina tu sobre nós."
+        },
+        {
+          "verse": 9,
+          "text": "Porém a oliveira lhes disse: Deixaria eu a minha gordura, que Deus e os homens em mim prezam, e iria pairar sobre as árvores?"
+        },
+        {
+          "verse": 10,
+          "text": "Então disseram as árvores à figueira: Vem tu, e reina sobre nós."
+        },
+        {
+          "verse": 11,
+          "text": "Porém a figueira lhes disse: Deixaria eu a minha doçura, o meu bom fruto, e iria pairar sobre as árvores?"
+        },
+        {
+          "verse": 12,
+          "text": "Então disseram as árvores à videira: Vem tu, e reina sobre nós."
+        },
+        {
+          "verse": 13,
+          "text": "Porém a videira lhes disse: Deixaria eu o meu mosto, que alegra a Deus e aos homens, e iria pairar sobre as árvores?"
+        },
+        {
+          "verse": 14,
+          "text": "Então todas as árvores disseram ao espinheiro: Vem tu, e reina sobre nós."
+        },
+        {
+          "verse": 15,
+          "text": "E disse o espinheiro às árvores: Se, na verdade, me ungis por rei sobre vós, vinde, e confiai-vos debaixo da minha sombra; mas, se não, saia fogo do espinheiro que consuma os cedros do Líbano."
+        },
+        {
+          "verse": 16,
+          "text": "Agora, pois, se é que em verdade e sinceridade agistes, fazendo rei a Abimeleque, e se bem fizestes para com Jerubaal e para com a sua casa, e se com ele usastes conforme ao merecimento das suas mãos"
+        },
+        {
+          "verse": 17,
+          "text": "(Porque meu pai pelejou por vós, e desprezou a sua vida, e vos livrou da mão dos midianitas;"
+        },
+        {
+          "verse": 18,
+          "text": "Porém vós hoje vos levantastes contra a casa de meu pai, e matastes a seus filhos, setenta homens, sobre uma pedra; e a Abimeleque, filho da sua serva, fizestes reinar sobre os cidadãos de Siquém, porque é vosso irmão);"
+        },
+        {
+          "verse": 19,
+          "text": "Pois, se em verdade e sinceridade usastes com Jerubaal e com a sua casa hoje, alegrai-vos com Abimeleque, e também ele se alegre convosco."
+        },
+        {
+          "verse": 20,
+          "text": "Mas, se não, saia fogo de Abimeleque, e consuma aos cidadãos de Siquém, e a casa de Milo; e saia fogo dos cidadãos de Siquém, e da casa de Milo, que consuma a Abimeleque."
+        },
+        {
+          "verse": 21,
+          "text": "Então partiu Jotão, e fugiu e foi para Beer; e ali habitou por medo de Abimeleque, seu irmão."
+        },
+        {
+          "verse": 22,
+          "text": "Havendo, pois, Abimeleque dominado três anos sobre Israel,"
+        },
+        {
+          "verse": 23,
+          "text": "Enviou Deus um mau espírito entre Abimeleque e os homens de Siquém; e os homens de Siquém se houveram aleivosamente contra Abimeleque;"
+        },
+        {
+          "verse": 24,
+          "text": "Para que a violência feita aos setenta filhos de Jerubaal viesse, e o seu sangue caísse sobre Abimeleque, seu irmão, que os matara, e sobre os cidadãos de Siquém, que fortaleceram as mãos dele para matar a seus irmãos;"
+        },
+        {
+          "verse": 25,
+          "text": "E os cidadãos de Siquém puseram contra ele quem lhe armasse emboscadas sobre os cumes dos montes; e a todo aquele que passava pelo caminho junto a eles o assaltavam; e contou-se isso a Abimeleque."
+        },
+        {
+          "verse": 26,
+          "text": "Veio também Gaal, filho de Ebede, com seus irmãos, e passaram a Siquém; e os cidadãos de Siquém confiaram nele."
+        },
+        {
+          "verse": 27,
+          "text": "E saíram ao campo, e vindimaram as suas vinhas, e pisaram as uvas, e fizeram festas; e foram à casa de seu deus, e comeram, e beberam, e amaldiçoaram a Abimeleque."
+        },
+        {
+          "verse": 28,
+          "text": "E disse Gaal, filho de Ebede: Quem é Abimeleque, e quem é Siquém, para que o sirvamos? Não é porventura filho de Jerubaal? E não é Zebul o seu mordomo? Servi antes aos homens de Hamor, pai de Siquém; pois, por que razão serviríamos nós a ele?"
+        },
+        {
+          "verse": 29,
+          "text": "Ah! Se este povo estivera na minha mão, eu expulsaria a Abimeleque. E diria a Abimeleque: Multiplica o teu exército, e sai."
+        },
+        {
+          "verse": 30,
+          "text": "E, ouvindo Zebul, o maioral da cidade, as palavras de Gaal, filho de Ebede, se acendeu a sua ira;"
+        },
+        {
+          "verse": 31,
+          "text": "E enviou astutamente mensageiros a Abimeleque, dizendo: Eis que Gaal, filho de Ebede, e seus irmãos vieram a Siquém, e eis que eles estão sublevando esta cidade contra ti."
+        },
+        {
+          "verse": 32,
+          "text": "Levanta-te, pois, de noite, tu e o povo que tiveres contigo, e põe emboscadas no campo."
+        },
+        {
+          "verse": 33,
+          "text": "E levanta-te pela manhã ao sair o sol, e dá de golpe sobre a cidade; e eis que, saindo contra ti, ele e o povo que tiver com ele, faze-lhe como puderes."
+        },
+        {
+          "verse": 34,
+          "text": "Levantou-se, pois, Abimeleque, e todo o povo que com ele havia, de noite, e puseram emboscadas a Siquém, com quatro tropas."
+        },
+        {
+          "verse": 35,
+          "text": "E Gaal, filho de Ebede, saiu, e pôs-se à entrada da porta da cidade; e Abimeleque, e todo o povo que com ele havia, se levantou das emboscadas."
+        },
+        {
+          "verse": 36,
+          "text": "E, vendo Gaal aquele povo, disse a Zebul: Eis que desce gente dos cumes dos montes. Zebul, ao contrário, lhe disse: As sombras dos montes vês como se fossem homens."
+        },
+        {
+          "verse": 37,
+          "text": "Porém Gaal ainda tornou a falar, e disse: Eis ali desce gente do meio da terra, e uma tropa vem do caminho do carvalho de Meonenim."
+        },
+        {
+          "verse": 38,
+          "text": "Então lhe disse Zebul: Onde está agora a tua boca, com a qual dizias: Quem é Abimeleque, para que o sirvamos? Não é este porventura o povo que desprezaste? Sai pois, peço-te, e peleja contra ele."
+        },
+        {
+          "verse": 39,
+          "text": "E saiu Gaal à vista dos cidadãos de Siquém, e pelejou contra Abimeleque."
+        },
+        {
+          "verse": 40,
+          "text": "E Abimeleque o perseguiu porquanto fugiu de diante dele; e muitos feridos caíram até à entrada da porta da cidade."
+        },
+        {
+          "verse": 41,
+          "text": "E Abimeleque ficou em Aruma. E Zebul expulsou a Gaal e a seus irmãos, para que não pudessem habitar em Siquém."
+        },
+        {
+          "verse": 42,
+          "text": "E sucedeu no dia seguinte que o povo saiu ao campo; disto foi avisado Abimeleque."
+        },
+        {
+          "verse": 43,
+          "text": "Então tomou o povo, e o repartiu em três tropas, e pôs emboscadas no campo; e olhou, e eis que o povo saía da cidade, e levantou-se contra ele, e o feriu."
+        },
+        {
+          "verse": 44,
+          "text": "Porque Abimeleque, e as tropas que com ele havia, romperam de improviso, e pararam à entrada da porta da cidade; e as outras duas tropas deram de improviso sobre todos quantos estavam no campo, e os feriram."
+        },
+        {
+          "verse": 45,
+          "text": "E Abimeleque pelejou contra a cidade todo aquele dia, e tomou a cidade, e matou o povo que nela havia; e assolou a cidade, e a semeou de sal."
+        },
+        {
+          "verse": 46,
+          "text": "O que ouvindo todos os cidadãos da torre de Siquém, entraram na fortaleza, na casa do deus Berite."
+        },
+        {
+          "verse": 47,
+          "text": "E contou-se a Abimeleque que todos os cidadãos da torre de Siquém se haviam congregado."
+        },
+        {
+          "verse": 48,
+          "text": "Subiu, pois, Abimeleque ao monte Salmom, ele e todo o povo que com ele havia; e Abimeleque tomou na sua mão um machado, e cortou um ramo de árvore, e o levantou, e pô-lo ao seu ombro, e disse ao povo, que com ele havia: O que me vistes fazer apressai-vos a fazê-lo assim como eu."
+        },
+        {
+          "verse": 49,
+          "text": "Assim, pois, cada um de todo o povo, também cortou o seu ramo e seguiu a Abimeleque; e pondo os ramos junto da fortaleza, queimaram a fogo a fortaleza sobre eles, de modo que todos os homens da torre de Siquém morreram, uns mil homens e mulheres."
+        },
+        {
+          "verse": 50,
+          "text": "Então Abimeleque foi a Tebes e a sitiou, e a tomou."
+        },
+        {
+          "verse": 51,
+          "text": "Havia, porém, no meio da cidade uma torre forte; e todos os homens e mulheres, e todos os cidadãos da cidade se refugiaram nela, e fecharam após si as portas, e subiram ao eirado da torre."
+        },
+        {
+          "verse": 52,
+          "text": "E Abimeleque veio até à torre, e a combateu; e chegou-se até à porta da torre, para a incendiar."
+        },
+        {
+          "verse": 53,
+          "text": "Porém uma mulher lançou um pedaço de uma mó sobre a cabeça de Abimeleque; e quebrou-lhe o crânio."
+        },
+        {
+          "verse": 54,
+          "text": "Então chamou logo ao moço, que levava as suas armas, e disse-lhe: Desembainha a tua espada, e mata-me; para que não se diga de mim: Uma mulher o matou. E o moço o atravessou e ele morreu."
+        },
+        {
+          "verse": 55,
+          "text": "Vendo, pois, os homens de Israel que Abimeleque já era morto, foram-se cada um para o seu lugar."
+        },
+        {
+          "verse": 56,
+          "text": "Assim Deus fez tornar sobre Abimeleque o mal que tinha feito a seu pai, matando a seus setenta irmãos."
+        },
+        {
+          "verse": 57,
+          "text": "Como também todo o mal dos homens de Siquém fez tornar sobre a cabeça deles; e a maldição de Jotão, filho de Jerubaal, veio sobre eles."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E depois de Abimeleque, se levantou, para livrar a Israel, Tola, filho de Puá, filho de Dodo, homem de Issacar; e habitava em Samir, na montanha de Efraim."
+        },
+        {
+          "verse": 2,
+          "text": "E julgou a Israel vinte e três anos; e morreu, e foi sepultado em Samir."
+        },
+        {
+          "verse": 3,
+          "text": "E depois dele se levantou Jair, gileadita, e julgou a Israel vinte e dois anos."
+        },
+        {
+          "verse": 4,
+          "text": "E tinha este trinta filhos, que cavalgavam sobre trinta jumentos; e tinham trinta cidades, a que chamaram Havote-Jair, até ao dia de hoje; as quais estão na terra de Gileade."
+        },
+        {
+          "verse": 5,
+          "text": "E morreu Jair, e foi sepultado em Camom."
+        },
+        {
+          "verse": 6,
+          "text": "Então tornaram os filhos de Israel a fazer o que era mau aos olhos do Senhor, e serviram aos baalins, e a Astarote, e aos deuses da Síria, e aos deuses de Sidom, e aos deuses de Moabe, e aos deuses dos filhos de Amom, e aos deuses dos filisteus; e deixaram ao Senhor, e não o serviram."
+        },
+        {
+          "verse": 7,
+          "text": "E a ira do Senhor se acendeu contra Israel; e vendeu-os nas mãos dos filisteus, e nas mãos dos filhos de Amom."
+        },
+        {
+          "verse": 8,
+          "text": "E naquele mesmo ano oprimiram e vexaram aos filhos de Israel; dezoito anos oprimiram a todos os filhos de Israel que estavam além do Jordão, na terra dos amorreus, que está em Gileade."
+        },
+        {
+          "verse": 9,
+          "text": "Até os filhos de Amom passaram o Jordão, para pelejar também contra Judá, e contra Benjamim, e contra a casa de Efraim; de modo que Israel ficou muito angustiado."
+        },
+        {
+          "verse": 10,
+          "text": "Então os filhos de Israel clamaram ao Senhor, dizendo: Contra ti havemos pecado, visto que deixamos a nosso Deus, e servimos aos baalins."
+        },
+        {
+          "verse": 11,
+          "text": "Porém o Senhor disse aos filhos de Israel: Porventura dos egípcios, e dos amorreus, e dos filhos de Amom, e dos filisteus,"
+        },
+        {
+          "verse": 12,
+          "text": "E dos sidônios, e dos amalequitas, e dos maonitas, que vos oprimiam, quando a mim clamastes, não vos livrei das suas mãos?"
+        },
+        {
+          "verse": 13,
+          "text": "Contudo vós me deixastes a mim, e servistes a outros deuses; pelo que não vos livrarei mais."
+        },
+        {
+          "verse": 14,
+          "text": "Ide, e clamai aos deuses que escolhestes; que eles vos livrem no tempo do vosso aperto."
+        },
+        {
+          "verse": 15,
+          "text": "Mas os filhos de Israel disseram ao Senhor: Pecamos; faze-nos conforme a tudo quanto te parecer bem aos teus olhos; tão somente te rogamos que nos livres nesta vez."
+        },
+        {
+          "verse": 16,
+          "text": "E tiraram os deuses alheios do meio de si, e serviram ao Senhor; então se angustiou a sua alma por causa da desgraça de Israel."
+        },
+        {
+          "verse": 17,
+          "text": "E os filhos de Amom se reuniram e se acamparam em Gileade; e também os de Israel se congregaram, e se acamparam em Mizpá."
+        },
+        {
+          "verse": 18,
+          "text": "Então o povo e os príncipes de Gileade disseram uns aos outros: Quem será o homem que começará a pelejar contra os filhos de Amom? Ele será por cabeça de todos os moradores de Gileade."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Era então Jefté, o gileadita, homem valoroso, porém filho de uma prostituta; mas Gileade gerara a Jefté."
+        },
+        {
+          "verse": 2,
+          "text": "Também a mulher de Gileade lhe deu filhos, e, sendo os filhos desta mulher já grandes, expulsaram a Jefté, e lhe disseram: Não herdarás na casa de nosso pai, porque és filho de outra mulher."
+        },
+        {
+          "verse": 3,
+          "text": "Então Jefté fugiu de diante de seus irmãos, e habitou na terra de Tobe; e homens levianos se ajuntaram a Jefté, e saíam com ele."
+        },
+        {
+          "verse": 4,
+          "text": "E aconteceu que, depois de algum tempo, os filhos de Amom pelejaram contra Israel."
+        },
+        {
+          "verse": 5,
+          "text": "E sucedeu que, como os filhos de Amom pelejassem contra Israel, foram os anciãos de Gileade buscar a Jefté na terra de Tobe."
+        },
+        {
+          "verse": 6,
+          "text": "E disseram a Jefté: Vem, e sê o nosso chefe; para que combatamos contra os filhos de Amom."
+        },
+        {
+          "verse": 7,
+          "text": "Porém Jefté disse aos anciãos de Gileade: Porventura não me odiastes a mim, e não me expulsastes da casa de meu pai? Por que, pois, agora viestes a mim, quando estais em aperto?"
+        },
+        {
+          "verse": 8,
+          "text": "E disseram os anciãos de Gileade a Jefté: Por isso tornamos a ti, para que venhas conosco, e combatas contra os filhos de Amom; e nos sejas por chefe sobre todos os moradores de Gileade."
+        },
+        {
+          "verse": 9,
+          "text": "Então Jefté disse aos anciãos de Gileade: Se me levardes de volta para combater contra os filhos de Amom, e o Senhor mos der diante de mim, então eu vos serei por chefe?"
+        },
+        {
+          "verse": 10,
+          "text": "E disseram os anciãos de Gileade a Jefté: O Senhor será testemunha entre nós, e assim o faremos conforme a tua palavra."
+        },
+        {
+          "verse": 11,
+          "text": "Assim Jefté foi com os anciãos de Gileade, e o povo o pôs por chefe e príncipe sobre si; e Jefté falou todas as suas palavras perante o Senhor em Mizpá."
+        },
+        {
+          "verse": 12,
+          "text": "E enviou Jefté mensageiros ao rei dos filhos de Amom, dizendo: Que há entre mim e ti, que vieste a mim a pelejar contra a minha terra?"
+        },
+        {
+          "verse": 13,
+          "text": "E disse o rei dos filhos de Amom aos mensageiros de Jefté: É porque, saindo Israel do Egito, tomou a minha terra, desde Arnom até Jaboque, e ainda até ao Jordão: Restitui-ma agora, em paz."
+        },
+        {
+          "verse": 14,
+          "text": "Porém Jefté prosseguiu ainda em enviar mensageiros ao rei dos filhos de Amom,"
+        },
+        {
+          "verse": 15,
+          "text": "Dizendo-lhe: Assim diz Jefté: Israel não tomou, nem a terra dos moabitas, nem a terra dos filhos de Amom."
+        },
+        {
+          "verse": 16,
+          "text": "Porque, subindo Israel do Egito, andou pelo deserto até ao Mar Vermelho, e chegou até Cades."
+        },
+        {
+          "verse": 17,
+          "text": "E Israel enviou mensageiros ao rei dos edomitas, dizendo: Rogo-te que me deixes passar pela tua terra. Porém o rei dos edomitas não lhe deu ouvidos; enviou também ao rei dos moabitas, o qual igualmente não consentiu; e assim Israel ficou em Cades."
+        },
+        {
+          "verse": 18,
+          "text": "Depois andou pelo deserto e rodeou a terra dos edomitas e a terra dos moabitas, e veio do nascente do sol à terra dos moabitas, e alojou-se além de Arnom; porém não entrou nos limites dos moabitas, porque Arnom é limite dos moabitas."
+        },
+        {
+          "verse": 19,
+          "text": "Mas Israel enviou mensageiros a Siom, rei dos amorreus, rei de Hesbom; e disse-lhe Israel: Deixa-nos, peço-te, passar pela tua terra até ao meu lugar."
+        },
+        {
+          "verse": 20,
+          "text": "Porém Siom não confiou em Israel para este passar nos seus limites; antes Siom ajuntou todo o seu povo, e se acamparam em Jasa, e combateu contra Israel."
+        },
+        {
+          "verse": 21,
+          "text": "E o Senhor Deus de Israel deu a Siom, com todo o seu povo, na mão de Israel, que os feriu; e Israel tomou por herança toda a terra dos amorreus que habitavam naquela região."
+        },
+        {
+          "verse": 22,
+          "text": "E por herança tomaram todos os limites dos amorreus, desde Arnom até Jaboque, e desde o deserto até ao Jordão."
+        },
+        {
+          "verse": 23,
+          "text": "Assim o Senhor Deus de Israel desapossou os amorreus de diante do seu povo de Israel; e os possuirias tu?"
+        },
+        {
+          "verse": 24,
+          "text": "Não possuirias tu aquilo que Quemós, teu deus, desapossasse de diante de ti? Assim possuiremos nós todos quantos o Senhor nosso Deus desapossar de diante de nós."
+        },
+        {
+          "verse": 25,
+          "text": "Agora, pois, és tu ainda melhor do que Balaque, filho de Zipor, rei dos moabitas? Porventura contendeu ele em algum tempo com Israel, ou pelejou alguma vez contra ele?"
+        },
+        {
+          "verse": 26,
+          "text": "Enquanto Israel habitou trezentos anos em Hesbom e nas suas vilas, e em Aroer e nas suas vilas, em todas as cidades que estão ao longo de Arnom, por que o não recuperastes naquele tempo?"
+        },
+        {
+          "verse": 27,
+          "text": "Tampouco pequei eu contra ti! Porém tu usas mal comigo em pelejar contra mim; o Senhor, que é juiz, julgue hoje entre os filhos de Israel e entre os filhos de Amom."
+        },
+        {
+          "verse": 28,
+          "text": "Porém o rei dos filhos de Amom não deu ouvidos às palavras que Jefté lhe enviou."
+        },
+        {
+          "verse": 29,
+          "text": "Então o Espírito do Senhor veio sobre Jefté, e atravessou ele por Gileade e Manassés, passando por Mizpá de Gileade, e de Mizpá de Gileade passou até aos filhos de Amom."
+        },
+        {
+          "verse": 30,
+          "text": "E Jefté fez um voto ao Senhor, e disse: Se totalmente deres os filhos de Amom na minha mão,"
+        },
+        {
+          "verse": 31,
+          "text": "Aquilo que, saindo da porta de minha casa, me vier ao encontro, voltando eu dos filhos de Amom em paz, isso será do Senhor, e o oferecerei em holocausto."
+        },
+        {
+          "verse": 32,
+          "text": "Assim Jefté passou aos filhos de Amom, a combater contra eles; e o Senhor os deu na sua mão."
+        },
+        {
+          "verse": 33,
+          "text": "E os feriu com grande mortandade, desde Aroer até chegar a Minite, vinte cidades, e até Abel-Queramim; assim foram subjugados os filhos de Amom diante dos filhos de Israel."
+        },
+        {
+          "verse": 34,
+          "text": "Vindo, pois, Jefté a Mizpá, à sua casa, eis que a sua filha lhe saiu ao encontro com adufes e com danças; e era ela a única filha; não tinha ele outro filho nem filha."
+        },
+        {
+          "verse": 35,
+          "text": "E aconteceu que, quando a viu, rasgou as suas vestes, e disse: Ah! Filha minha, muito me abateste, e estás entre os que me turbam! Porque eu abri a minha boca ao Senhor, e não tornarei atrás."
+        },
+        {
+          "verse": 36,
+          "text": "E ela lhe disse: Meu pai, tu abriste a tua boca ao Senhor, faze de mim conforme o que saiu da tua boca; pois o Senhor por ti executou vingança contra os teus inimigos, os filhos de Amom."
+        },
+        {
+          "verse": 37,
+          "text": "Disse mais a seu pai: Concede-me isto: Deixa-me por dois meses que vá, e desça pelos montes, e chore a minha virgindade, eu e as minhas companheiras."
+        },
+        {
+          "verse": 38,
+          "text": "E disse ele: Vai. E deixou-a ir por dois meses; então foi ela com as suas companheiras, e chorou a sua virgindade pelos montes."
+        },
+        {
+          "verse": 39,
+          "text": "E sucedeu que, ao fim de dois meses, tornou ela para seu pai, o qual cumpriu nela o seu voto que tinha feito; e ela não conheceu homem; e daí veio o costume de Israel,"
+        },
+        {
+          "verse": 40,
+          "text": "Que as filhas de Israel iam de ano em ano lamentar, por quatro dias, a filha de Jefté, o gileadita."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então se convocaram os homens de Efraim, e passaram para o norte, e disseram a Jefté: Por que passaste a combater contra os filhos de Amom, e não nos chamaste para ir contigo? Queimaremos a fogo a tua casa contigo."
+        },
+        {
+          "verse": 2,
+          "text": "E Jefté lhes disse: Eu e o meu povo tivemos grande contenda com os filhos de Amom; e chamei-vos, e não me livrastes da sua mão;"
+        },
+        {
+          "verse": 3,
+          "text": "E, vendo eu que não me livráveis, arrisquei a minha vida, e passei contra os filhos de Amom, e o Senhor mos entregou nas mãos; por que, pois, subistes vós hoje, para combater contra mim?"
+        },
+        {
+          "verse": 4,
+          "text": "E ajuntou Jefté a todos os homens de Gileade, e combateu contra Efraim; e os homens de Gileade feriram a Efraim; porque este dissera-lhe: Fugitivos sois de Efraim, vós gileaditas que habitais no meio de Efraim e Manassés,"
+        },
+        {
+          "verse": 5,
+          "text": "Porque tomaram os gileaditas aos efraimitas os vaus do Jordão; e sucedeu que, quando algum dos fugitivos de Efraim dizia: Deixai-me passar; então os gileaditas perguntavam: És tu efraimita? E dizendo ele: Não,"
+        },
+        {
+          "verse": 6,
+          "text": "Então lhe diziam: Dize, pois, Chibolete; porém ele dizia: Sibolete; porque não o podia pronunciar bem; então pegavam dele, e o degolavam nos vaus do Jordão; e caíram de Efraim naquele tempo quarenta e dois mil."
+        },
+        {
+          "verse": 7,
+          "text": "E Jefté julgou a Israel seis anos; e Jefté, o gileadita, faleceu, e foi sepultado numa das cidades de Gileade."
+        },
+        {
+          "verse": 8,
+          "text": "E depois dele julgou a Israel Ibzã de Belém."
+        },
+        {
+          "verse": 9,
+          "text": "E tinha este trinta filhos, e trinta filhas que casou fora; e trinta filhas trouxe de fora para seus filhos; e julgou a Israel sete anos."
+        },
+        {
+          "verse": 10,
+          "text": "Então faleceu Ibzã, e foi sepultado em Belém."
+        },
+        {
+          "verse": 11,
+          "text": "E depois dele julgou a Israel Elom, o zebulonita; e julgou a Israel dez anos."
+        },
+        {
+          "verse": 12,
+          "text": "E faleceu Elom, o zebulonita, e foi sepultado em Aijalom, na terra de Zebulom."
+        },
+        {
+          "verse": 13,
+          "text": "E depois dele julgou a Israel Abdom, filho de Hilel, o piratonita."
+        },
+        {
+          "verse": 14,
+          "text": "E tinha este quarenta filhos, e trinta netos, que cavalgavam sobre setenta jumentos; e julgou a Israel oito anos."
+        },
+        {
+          "verse": 15,
+          "text": "Então faleceu Abdom, filho de Hilel, o piratonita; e foi sepultado em Piratom, na terra de Efraim, no monte dos amalequitas."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E os filhos de Israel tornaram a fazer o que era mau aos olhos do Senhor, e o Senhor os entregou na mão dos filisteus por quarenta anos."
+        },
+        {
+          "verse": 2,
+          "text": "E havia um homem de Zorá, da tribo de Dã, cujo nome era Manoá; e sua mulher, sendo estéril, não tinha filhos."
+        },
+        {
+          "verse": 3,
+          "text": "E o anjo do Senhor apareceu a esta mulher, e disse-lhe: Eis que agora és estéril, e nunca tens concebido; porém conceberás, e terás um filho."
+        },
+        {
+          "verse": 4,
+          "text": "Agora, pois, guarda-te de beber vinho, ou bebida forte, ou comer coisa imunda."
+        },
+        {
+          "verse": 5,
+          "text": "Porque eis que tu conceberás e terás um filho sobre cuja cabeça não passará navalha; porquanto o menino será nazireu de Deus desde o ventre; e ele começará a livrar a Israel da mão dos filisteus."
+        },
+        {
+          "verse": 6,
+          "text": "Então a mulher entrou, e falou a seu marido, dizendo: Um homem de Deus veio a mim, cuja aparência era semelhante a de um anjo de Deus, terribilíssima; e não lhe perguntei donde era, nem ele me disse o seu nome."
+        },
+        {
+          "verse": 7,
+          "text": "Porém disse-me: Eis que tu conceberás e terás um filho; agora pois, não bebas vinho, nem bebida forte, e não comas coisa imunda; porque o menino será nazireu de Deus, desde o ventre até ao dia da sua morte."
+        },
+        {
+          "verse": 8,
+          "text": "Então Manoá orou ao Senhor, e disse: Ah! Senhor meu, rogo-te que o homem de Deus, que enviaste, ainda venha para nós outra vez e nos ensine o que devemos fazer ao menino que há de nascer."
+        },
+        {
+          "verse": 9,
+          "text": "E Deus ouviu a voz de Manoá; e o anjo de Deus veio outra vez à mulher, e ela estava no campo, porém não estava com ela seu marido Manoá."
+        },
+        {
+          "verse": 10,
+          "text": "Apressou-se, pois, a mulher, e correu, e noticiou-o a seu marido, e disse-lhe: Eis que aquele homem que veio a mim o outro dia me apareceu."
+        },
+        {
+          "verse": 11,
+          "text": "Então Manoá levantou-se, e seguiu a sua mulher, e foi àquele homem, e disse-lhe: És tu aquele homem que falou a esta mulher? E disse: Eu sou."
+        },
+        {
+          "verse": 12,
+          "text": "Então disse Manoá: Cumpram-se as tuas palavras; mas qual será o modo de viver e o serviço do menino?"
+        },
+        {
+          "verse": 13,
+          "text": "E disse o anjo do Senhor a Manoá: De tudo quanto eu disse à mulher se guardará ela."
+        },
+        {
+          "verse": 14,
+          "text": "De tudo quanto procede da videira não comerá, nem vinho nem bebida forte beberá, nem coisa imunda comerá; tudo quanto lhe tenho ordenado guardará."
+        },
+        {
+          "verse": 15,
+          "text": "Então Manoá disse ao anjo do Senhor: Ora deixa que te detenhamos, e te preparemos um cabrito."
+        },
+        {
+          "verse": 16,
+          "text": "Porém o anjo do Senhor disse a Manoá: Ainda que me detenhas, não comerei de teu pão; e se fizeres holocausto o oferecerás ao Senhor. Porque não sabia Manoá que era o anjo do Senhor."
+        },
+        {
+          "verse": 17,
+          "text": "E disse Manoá ao anjo do Senhor: Qual é o teu nome, para que, quando se cumprir a tua palavra, te honremos?"
+        },
+        {
+          "verse": 18,
+          "text": "E o anjo do Senhor lhe disse: Por que perguntas assim pelo meu nome, visto que é maravilhoso?"
+        },
+        {
+          "verse": 19,
+          "text": "Então Manoá tomou um cabrito e uma oferta de alimentos, e os ofereceu sobre uma penha ao Senhor: e houve-se o anjo maravilhosamente, observando-o Manoá e sua mulher."
+        },
+        {
+          "verse": 20,
+          "text": "E sucedeu que, subindo a chama do altar para o céu, o anjo do Senhor subiu na chama do altar; o que vendo Manoá e sua mulher, caíram em terra sobre seus rostos."
+        },
+        {
+          "verse": 21,
+          "text": "E nunca mais apareceu o anjo do Senhor a Manoá, nem a sua mulher; então compreendeu Manoá que era o anjo do Senhor."
+        },
+        {
+          "verse": 22,
+          "text": "E disse Manoá à sua mulher: Certamente morreremos, porquanto temos visto a Deus."
+        },
+        {
+          "verse": 23,
+          "text": "Porém sua mulher lhe disse: Se o Senhor nos quisesse matar, não aceitaria da nossa mão o holocausto e a oferta de alimentos, nem nos mostraria tudo isto, nem nos deixaria ouvir tais coisas neste tempo."
+        },
+        {
+          "verse": 24,
+          "text": "Depois teve esta mulher um filho, a quem pôs o nome de Sansão; e o menino cresceu, e o Senhor o abençoou."
+        },
+        {
+          "verse": 25,
+          "text": "E o Espírito do Senhor começou a incitá-lo de quando em quando para o campo de Dã, entre Zorá e Estaol."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E desceu Sansão a Timnate; e, vendo em Timnate uma mulher das filhas dos filisteus,"
+        },
+        {
+          "verse": 2,
+          "text": "Subiu, e declarou-o a seu pai e a sua mãe, e disse: Vi uma mulher em Timnate, das filhas dos filisteus; agora, pois, tomai-ma por mulher."
+        },
+        {
+          "verse": 3,
+          "text": "Porém seu pai e sua mãe lhe disseram: Não há, porventura, mulher entre as filhas de teus irmãos, nem entre todo o meu povo, para que tu vás tomar mulher dos filisteus, daqueles incircuncisos? E disse Sansão a seu pai: Toma-me esta, porque ela agrada aos meus olhos."
+        },
+        {
+          "verse": 4,
+          "text": "Mas seu pai e sua mãe não sabiam que isto vinha do Senhor; pois buscava ocasião contra os filisteus; porquanto naquele tempo os filisteus dominavam sobre Israel."
+        },
+        {
+          "verse": 5,
+          "text": "Desceu, pois, Sansão com seu pai e com sua mãe a Timnate; e, chegando às vinhas de Timnate eis que um filho de leão, rugindo, lhe saiu ao encontro."
+        },
+        {
+          "verse": 6,
+          "text": "Então o Espírito do Senhor se apossou dele tão poderosamente que despedaçou o leão, como quem despedaça um cabrito, sem ter nada na sua mão; porém nem a seu pai nem a sua mãe deu a saber o que tinha feito."
+        },
+        {
+          "verse": 7,
+          "text": "E desceu, e falou àquela mulher, e ela agradou aos olhos de Sansão."
+        },
+        {
+          "verse": 8,
+          "text": "E depois de alguns dias voltou ele para tomá-la; e, apartando-se do caminho para ver o corpo do leão, eis que no corpo morto do leão havia um enxame de abelhas com mel."
+        },
+        {
+          "verse": 9,
+          "text": "E tomou-o nas suas mãos, e foi andando e comendo dele; e foi a seu pai e a sua mãe, e deu-lhes do mel, e comeram; porém não lhes deu a saber que tomara o mel do corpo do leão."
+        },
+        {
+          "verse": 10,
+          "text": "Descendo, pois, seu pai àquela mulher, fez Sansão ali um banquete; porque assim os moços costumavam fazer."
+        },
+        {
+          "verse": 11,
+          "text": "E sucedeu que, como o vissem, trouxeram trinta companheiros para estarem com ele."
+        },
+        {
+          "verse": 12,
+          "text": "Disse-lhes, pois, Sansão: Eu vos darei um enigma para decifrar; e, se nos sete dias das bodas o decifrardes e descobrirdes, eu vos darei trinta lençóis e trinta mudas de roupas."
+        },
+        {
+          "verse": 13,
+          "text": "E, se não puderdes decifrar, vós me dareis a mim trinta lençóis e as trinta mudas de roupas. E eles lhe disseram: Dá-nos o teu enigma a decifrar, para que o ouçamos."
+        },
+        {
+          "verse": 14,
+          "text": "Então lhes disse: Do comedor saiu comida, e do forte saiu doçura. E em três dias não puderam decifrar o enigma."
+        },
+        {
+          "verse": 15,
+          "text": "E sucedeu que, ao sétimo dia, disseram à mulher de Sansão: Persuade a teu marido que nos declare o enigma, para que porventura não queimemos a fogo a ti e à casa de teu pai; chamastes-nos aqui para vos apossardes do que é nosso, não é assim?"
+        },
+        {
+          "verse": 16,
+          "text": "E a mulher de Sansão chorou diante dele, e disse: Tão somente me desprezas, e não me amas; pois deste aos filhos do meu povo um enigma para decifrar, e ainda não o declaraste a mim. E ele lhe disse: Eis que nem a meu pai nem a minha mãe o declarei, e to declararia a ti?"
+        },
+        {
+          "verse": 17,
+          "text": "E chorou diante dele os sete dias em que celebravam as bodas; sucedeu, pois, que ao sétimo dia lho declarou, porquanto o importunava; então ela declarou o enigma aos filhos do seu povo."
+        },
+        {
+          "verse": 18,
+          "text": "Disseram, pois, a Sansão os homens daquela cidade, ao sétimo dia, antes de se pôr o sol: Que coisa há mais doce do que o mel? E que coisa há mais forte do que o leão? E ele lhes disse: Se vós não lavrásseis com a minha novilha, nunca teríeis descoberto o meu enigma."
+        },
+        {
+          "verse": 19,
+          "text": "Então o Espírito do Senhor tão poderosamente se apossou dele, que desceu aos ascalonitas, e matou deles trinta homens, e tomou as suas roupas, e deu as mudas de roupas aos que declararam o enigma; porém acendeu-se a sua ira, e subiu à casa de seu pai."
+        },
+        {
+          "verse": 20,
+          "text": "E a mulher de Sansão foi dada ao seu companheiro que antes o acompanhava."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E aconteceu, depois de alguns dias, que, na sega do trigo, Sansão visitou a sua mulher, com um cabrito, e disse: Entrarei na câmara de minha mulher. Porém o pai dela não o deixou entrar."
+        },
+        {
+          "verse": 2,
+          "text": "E disse-lhe seu pai: Por certo pensava eu que de todo a desprezavas; de sorte que a dei ao teu companheiro; porém não é sua irmã mais nova, mais formosa do que ela? Toma-a, pois, em seu lugar."
+        },
+        {
+          "verse": 3,
+          "text": "Então Sansão disse acerca deles: Inocente sou esta vez para com os filisteus, quando lhes fizer algum mal."
+        },
+        {
+          "verse": 4,
+          "text": "E foi Sansão, e pegou trezentas raposas; e, tomando tochas, as virou cauda a cauda, e lhes pôs uma tocha no meio de cada duas caudas."
+        },
+        {
+          "verse": 5,
+          "text": "E chegou fogo às tochas, e largou-as na seara dos filisteus; e assim abrasou os molhos com a sega do trigo, e as vinhas e os olivais."
+        },
+        {
+          "verse": 6,
+          "text": "Então perguntaram os filisteus: Quem fez isto? E responderam: Sansão, o genro do timnita, porque lhe tomou a sua mulher, e a deu a seu companheiro. Então subiram os filisteus, e queimaram a fogo a ela e a seu pai."
+        },
+        {
+          "verse": 7,
+          "text": "Então lhes disse Sansão: É assim que fazeis? Pois, havendo-me vingado eu de vós, então cessarei."
+        },
+        {
+          "verse": 8,
+          "text": "E feriu-os com grande ferimento, pernas juntamente com coxa; e desceu, e habitou na fenda da rocha de Etã."
+        },
+        {
+          "verse": 9,
+          "text": "Então os filisteus subiram, e acamparam-se contra Judá, e estenderam-se por Leí."
+        },
+        {
+          "verse": 10,
+          "text": "E perguntaram-lhes os homens de Judá: Por que subistes contra nós? E eles responderam: Subimos para amarrar a Sansão, para lhe fazer a ele como ele nos fez a nós."
+        },
+        {
+          "verse": 11,
+          "text": "Então três mil homens de Judá desceram até a fenda da rocha de Etã, e disseram a Sansão: Não sabias tu que os filisteus dominam sobre nós? Por que, pois, nos fizeste isto? E ele lhes disse: Assim como eles me fizeram a mim, eu lhes fiz a eles."
+        },
+        {
+          "verse": 12,
+          "text": "E disseram-lhe: Descemos para te amarrar e te entregar nas mãos dos filisteus. Então Sansão lhes disse: Jurai-me que vós mesmos não me acometereis."
+        },
+        {
+          "verse": 13,
+          "text": "E eles lhe falaram, dizendo: Não, mas fortemente te amarraremos, e te entregaremos nas mãos deles; porém de maneira nenhuma te mataremos. E amarraram-no com duas cordas novas e fizeram-no subir da rocha."
+        },
+        {
+          "verse": 14,
+          "text": "E, vindo ele a Leí, os filisteus lhe saíram ao encontro, jubilando; porém o Espírito do Senhor poderosamente se apossou dele, e as cordas que ele tinha nos braços se tornaram como fios de linho que se queimaram no fogo, e as suas amarraduras se desfizeram das suas mãos."
+        },
+        {
+          "verse": 15,
+          "text": "E achou uma queixada fresca de um jumento, e estendeu a sua mão, e tomou-a, e feriu com ela mil homens."
+        },
+        {
+          "verse": 16,
+          "text": "Então disse Sansão: Com uma queixada de jumento, montões sobre montões; com uma queixada de jumento feri a mil homens."
+        },
+        {
+          "verse": 17,
+          "text": "E aconteceu que, acabando ele de falar, lançou a queixada da sua mão; e chamou aquele lugar Ramate-Leí."
+        },
+        {
+          "verse": 18,
+          "text": "E como tivesse grande sede, clamou ao Senhor, e disse: Pela mão do teu servo tu deste esta grande salvação; morrerei eu pois agora de sede, e cairei na mão destes incircuncisos?"
+        },
+        {
+          "verse": 19,
+          "text": "Então Deus fendeu uma cavidade que estava na queixada; e saiu dela água, e bebeu; e recobrou o seu espírito e reanimou-se; por isso chamou aquele lugar: A fonte do que clama, que está em Leí até ao dia de hoje."
+        },
+        {
+          "verse": 20,
+          "text": "E julgou a Israel, nos dias dos filisteus, vinte anos."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E foi Sansão a Gaza, e viu ali uma mulher prostituta, e entrou a ela."
+        },
+        {
+          "verse": 2,
+          "text": "E foi dito aos gazitas: Sansão entrou aqui. Cercaram-no, e toda a noite lhe puseram espias à porta da cidade; porém toda a noite estiveram quietos, dizendo: Até à luz da manhã esperaremos; então o mataremos."
+        },
+        {
+          "verse": 3,
+          "text": "Porém Sansão deitou-se até à meia-noite, e à meia-noite se levantou, e arrancou as portas da entrada da cidade com ambas as umbreiras, e juntamente com a tranca as tomou, pondo-as sobre os ombros; e levou-as para cima até ao cume do monte que está defronte de Hebrom."
+        },
+        {
+          "verse": 4,
+          "text": "E depois disto aconteceu que se afeiçoou a uma mulher do vale de Soreque, cujo nome era Dalila."
+        },
+        {
+          "verse": 5,
+          "text": "Então os príncipes dos filisteus subiram a ela, e lhe disseram: Persuade-o, e vê em que consiste a sua grande força, e como poderíamos assenhorear-nos dele e amarrá-lo, para assim o afligirmos; e te daremos, cada um de nós, mil e cem moedas de prata."
+        },
+        {
+          "verse": 6,
+          "text": "Disse, pois, Dalila a Sansão: Declara-me, peço-te, em que consiste a tua grande força, e com que poderias ser amarrado para te poderem afligir."
+        },
+        {
+          "verse": 7,
+          "text": "Disse-lhe Sansão: Se me amarrassem com sete vergas de vimes frescos, que ainda não estivessem secos, então me enfraqueceria, e seria como qualquer outro homem."
+        },
+        {
+          "verse": 8,
+          "text": "Então os príncipes dos filisteus lhe trouxeram sete vergas de vimes frescos, que ainda não estavam secos; e ela o amarrou com elas."
+        },
+        {
+          "verse": 9,
+          "text": "E o espia estava com ela na câmara interior. Então ela lhe disse: Os filisteus vêm sobre ti, Sansão. Então quebrou as vergas de vimes, como se quebra o fio da estopa ao cheiro do fogo; assim não se soube em que consistia a sua força."
+        },
+        {
+          "verse": 10,
+          "text": "Então disse Dalila a Sansão: Eis que zombaste de mim, e me disseste mentiras; ora declara-me agora com que poderias ser amarrado."
+        },
+        {
+          "verse": 11,
+          "text": "E ele disse: Se me amarrassem fortemente com cordas novas, que ainda não houvessem sido usadas, então me enfraqueceria, e seria como qualquer outro homem."
+        },
+        {
+          "verse": 12,
+          "text": "Então Dalila tomou cordas novas, e o amarrou com elas, e disse-lhe: Os filisteus vêm sobre ti, Sansão. E o espia estava na recâmara interior. Então as quebrou de seus braços como a um fio."
+        },
+        {
+          "verse": 13,
+          "text": "E disse Dalila a Sansão: Até agora zombaste de mim, e me disseste mentiras; declara-me pois, agora, com que poderias ser amarrado? E ele lhe disse: Se teceres sete tranças dos cabelos da minha cabeça com o liço da teia."
+        },
+        {
+          "verse": 14,
+          "text": "E ela as fixou com uma estaca, e disse-lhe: Os filisteus vêm sobre ti, Sansão: Então ele despertou do seu sono, e arrancou a estaca das tranças tecidas, juntamente com o liço da teia."
+        },
+        {
+          "verse": 15,
+          "text": "Então ela lhe disse: Como dirás: Tenho-te amor, não estando comigo o teu coração? Já três vezes zombaste de mim, e ainda não me declaraste em que consiste a tua grande força."
+        },
+        {
+          "verse": 16,
+          "text": "E sucedeu que, importunando-o ela todos os dias com as suas palavras, e molestando-o, a sua alma se angustiou até a morte."
+        },
+        {
+          "verse": 17,
+          "text": "E descobriu-lhe todo o seu coração, e disse-lhe: Nunca passou navalha pela minha cabeça, porque sou nazireu de Deus desde o ventre de minha mãe; se viesse a ser rapado, ir-se-ia de mim a minha força, e me enfraqueceria, e seria como qualquer outro homem."
+        },
+        {
+          "verse": 18,
+          "text": "Vendo, pois, Dalila que já lhe descobrira todo o seu coração, mandou chamar os príncipes dos filisteus, dizendo: Subi esta vez, porque agora me descobriu ele todo o seu coração. E os príncipes dos filisteus subiram a ter com ela, trazendo com eles o dinheiro."
+        },
+        {
+          "verse": 19,
+          "text": "Então ela o fez dormir sobre os seus joelhos, e chamou a um homem, e rapou-lhe as sete tranças do cabelo de sua cabeça; e começou a afligi-lo, e retirou-se dele a sua força."
+        },
+        {
+          "verse": 20,
+          "text": "E disse ela: Os filisteus vêm sobre ti, Sansão. E despertou ele do seu sono, e disse: Sairei ainda esta vez como dantes, e me sacudirei. Porque ele não sabia que já o Senhor se tinha retirado dele."
+        },
+        {
+          "verse": 21,
+          "text": "Então os filisteus pegaram nele, e arrancaram-lhe os olhos, e fizeram-no descer a Gaza, e amarraram-no com duas cadeias de bronze, e girava ele um moinho no cárcere."
+        },
+        {
+          "verse": 22,
+          "text": "E o cabelo da sua cabeça começou a crescer, como quando foi rapado."
+        },
+        {
+          "verse": 23,
+          "text": "Então os príncipes dos filisteus se ajuntaram para oferecer um grande sacrifício ao seu deus Dagom, e para se alegrarem, e diziam: Nosso deus nos entregou nas mãos a Sansão, nosso inimigo."
+        },
+        {
+          "verse": 24,
+          "text": "Semelhantemente, vendo-o o povo, louvava ao seu deus; porque dizia: Nosso deus nos entregou nas mãos o nosso inimigo, e ao que destruía a nossa terra, e ao que multiplicava os nossos mortos."
+        },
+        {
+          "verse": 25,
+          "text": "E sucedeu que, alegrando-se-lhes o coração, disseram: Chamai a Sansão, para que brinque diante de nós. E chamaram a Sansão do cárcere, que brincava diante deles, e fizeram-no estar em pé entre as colunas."
+        },
+        {
+          "verse": 26,
+          "text": "Então disse Sansão ao moço que o tinha pela mão: Guia-me para que apalpe as colunas em que se sustém a casa, para que me encoste a elas."
+        },
+        {
+          "verse": 27,
+          "text": "Ora estava a casa cheia de homens e mulheres; e também ali estavam todos os príncipes dos filisteus; e sobre o telhado havia uns três mil homens e mulheres, que estavam vendo Sansão brincar."
+        },
+        {
+          "verse": 28,
+          "text": "Então Sansão clamou ao Senhor, e disse: Senhor Deus, peço-te que te lembres de mim, e fortalece-me agora só esta vez, ó Deus, para que de uma vez me vingue dos filisteus, pelos meus dois olhos."
+        },
+        {
+          "verse": 29,
+          "text": "Abraçou-se, pois, Sansão com as duas colunas do meio, em que se sustinha a casa, e arrimou-se sobre elas, com a sua mão direita numa, e com a sua esquerda na outra."
+        },
+        {
+          "verse": 30,
+          "text": "E disse Sansão: Morra eu com os filisteus. E inclinou-se com força, e a casa caiu sobre os príncipes e sobre todo o povo que nela havia; e foram mais os mortos que matou na sua morte do que os que matara em sua vida."
+        },
+        {
+          "verse": 31,
+          "text": "Então seus irmãos desceram, e toda a casa de seu pai, e tomaram-no, e subiram com ele, e sepultaram-no entre Zorá e Estaol, no sepulcro de Manoá, seu pai. Ele julgou a Israel vinte anos."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E havia um homem da montanha de Efraim, cujo nome era Mica."
+        },
+        {
+          "verse": 2,
+          "text": "O qual disse à sua mãe: As mil e cem moedas de prata que te foram tiradas, por cuja causa lançaste maldições, e de que também me falaste, eis que esse dinheiro está comigo; eu o tomei. Então lhe disse sua mãe: Bendito do Senhor seja meu filho."
+        },
+        {
+          "verse": 3,
+          "text": "Assim restituiu as mil e cem moedas de prata à sua mãe; porém sua mãe disse: Inteiramente tenho dedicado este dinheiro da minha mão ao Senhor, para meu filho fazer uma imagem de escultura e uma de fundição; de sorte que agora to tornarei a dar."
+        },
+        {
+          "verse": 4,
+          "text": "Porém ele restituiu aquele dinheiro à sua mãe; e sua mãe tomou duzentas moedas de prata, e as deu ao ourives, o qual fez delas uma imagem de escultura e uma de fundição, que ficaram em casa de Mica."
+        },
+        {
+          "verse": 5,
+          "text": "E teve este homem, Mica, uma casa de deuses; e fez um éfode e terafins, e consagrou um de seus filhos, para que lhe fosse por sacerdote."
+        },
+        {
+          "verse": 6,
+          "text": "Naqueles dias não havia rei em Israel; cada um fazia o que parecia bem aos seus olhos."
+        },
+        {
+          "verse": 7,
+          "text": "E havia um moço de Belém de Judá, da tribo de Judá, que era levita, e peregrinava ali."
+        },
+        {
+          "verse": 8,
+          "text": "E este homem partiu da cidade de Belém de Judá para peregrinar onde quer que achasse conveniente. Chegando ele, pois, à montanha de Efraim, até à casa de Mica, seguindo o seu caminho,"
+        },
+        {
+          "verse": 9,
+          "text": "Disse-lhe Mica: Donde vens? E ele lhe disse: Sou levita de Belém de Judá, e vou peregrinar onde quer que achar conveniente."
+        },
+        {
+          "verse": 10,
+          "text": "Então lhe disse Mica: Fica comigo, e sê-me por pai e sacerdote; e cada ano te darei dez moedas de prata, e vestuário, e o sustento. E o levita entrou."
+        },
+        {
+          "verse": 11,
+          "text": "E consentiu o levita em ficar com aquele homem; e o moço lhe foi como um de seus filhos."
+        },
+        {
+          "verse": 12,
+          "text": "E Mica consagrou o levita, e aquele moço lhe foi por sacerdote; e esteve em casa de Mica."
+        },
+        {
+          "verse": 13,
+          "text": "Então disse Mica: Agora sei que o Senhor me fará bem; porquanto tenho um levita por sacerdote."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Naqueles dias não havia rei em Israel; e nos mesmos dias a tribo dos danitas buscava para si herança para habitar; porquanto até àquele dia entre as tribos de Israel não lhe havia caído por sorte sua herança."
+        },
+        {
+          "verse": 2,
+          "text": "E enviaram os filhos de Dã, da sua tribo, cinco homens dentre eles, homens valorosos, de Zorá e de Estaol, a espiar e reconhecer a terra, e lhes disseram: Ide, reconhecei a terra. E chegaram à montanha de Efraim, até à casa de Mica, e passaram ali a noite."
+        },
+        {
+          "verse": 3,
+          "text": "E quando eles estavam junto da casa de Mica, reconheceram a voz do moço, do levita; e dirigindo-se para lá, lhe disseram: Quem te trouxe aqui? Que fazes aqui? E que é que tens aqui?"
+        },
+        {
+          "verse": 4,
+          "text": "E ele lhes disse: Assim e assim me tem feito Mica; pois me tem contratado, e eu lhe sirvo de sacerdote."
+        },
+        {
+          "verse": 5,
+          "text": "Então lhe disseram: Consulta a Deus, para que possamos saber se prosperará o caminho que seguimos."
+        },
+        {
+          "verse": 6,
+          "text": "E disse-lhes o sacerdote: Ide em paz; o caminho que seguis está perante o Senhor."
+        },
+        {
+          "verse": 7,
+          "text": "Então foram-se aqueles cinco homens, e chegaram a Laís; e viram que o povo que havia no meio dela estava seguro, conforme ao costume dos sidônios, quieto e confiado; nem havia autoridade alguma do reino que por qualquer coisa envergonhasse a alguém naquela terra; também estavam longe dos sidônios, e não tinham relação com ninguém."
+        },
+        {
+          "verse": 8,
+          "text": "Então voltaram a seus irmãos, a Zorá e a Estaol, e seus irmãos lhes disseram: Que dizeis vós?"
+        },
+        {
+          "verse": 9,
+          "text": "E eles disseram: Levantai-vos, e subamos contra eles; porque examinamos a terra, e eis que é muitíssimo boa. E vós estareis aqui tranquilos? Não sejais preguiçosos em irdes para entrar a possuir esta terra."
+        },
+        {
+          "verse": 10,
+          "text": "Quando lá chegardes, vereis um povo confiado, e a terra é larga de extensão; porque Deus vo-la entregou nas mãos; lugar em que não há falta de coisa alguma que há na terra."
+        },
+        {
+          "verse": 11,
+          "text": "Então partiram dali, da tribo dos danitas, de Zorá e de Estaol, seiscentos homens munidos de armas de guerra."
+        },
+        {
+          "verse": 12,
+          "text": "E subiram, e acamparam-se em Quiriate-Jearim, em Judá; então chamaram a este lugar Maané-Dã, até ao dia de hoje; eis que está por detrás de Quiriate-Jearim."
+        },
+        {
+          "verse": 13,
+          "text": "E dali passaram à montanha de Efraim; e chegaram até a casa de Mica."
+        },
+        {
+          "verse": 14,
+          "text": "Então responderam os cinco homens, que foram espiar a terra de Laís, e disseram a seus irmãos: Sabeis vós também que naquelas casas há um éfode, e terafins, e uma imagem de escultura e uma de fundição? Vede, pois, agora o que haveis de fazer."
+        },
+        {
+          "verse": 15,
+          "text": "Então se dirigiram para lá, e chegaram à casa do moço, o levita, em casa de Mica, e o saudaram."
+        },
+        {
+          "verse": 16,
+          "text": "E os seiscentos homens, que eram dos filhos de Dã, munidos com suas armas de guerra, ficaram à entrada da porta."
+        },
+        {
+          "verse": 17,
+          "text": "Porém subindo os cinco homens, que foram espiar a terra, entraram ali, e tomaram a imagem de escultura, o éfode, e os terafins, e a imagem de fundição, ficando o sacerdote em pé à entrada da porta, com os seiscentos homens que estavam munidos com as armas de guerra."
+        },
+        {
+          "verse": 18,
+          "text": "Entrando eles, pois, em casa de Mica, e tomando a imagem de escultura, e o éfode, e os terafins, e a imagem de fundição, disse-lhes o sacerdote: Que estais fazendo?"
+        },
+        {
+          "verse": 19,
+          "text": "E eles lhe disseram: Cala-te, põe a mão na boca, e vem conosco, e sê-nos por pai e sacerdote. É melhor ser sacerdote da casa de um só homem, do que ser sacerdote de uma tribo e de uma família em Israel?"
+        },
+        {
+          "verse": 20,
+          "text": "Então alegrou-se o coração do sacerdote, e tomou o éfode, e os terafins, e a imagem de escultura; e entrou no meio do povo."
+        },
+        {
+          "verse": 21,
+          "text": "Assim viraram, e partiram; e os meninos, e o gado, e a bagagem puseram diante de si."
+        },
+        {
+          "verse": 22,
+          "text": "E, estando já longe da casa de Mica, os homens que estavam nas casas junto à casa de Mica, reuniram-se, e alcançaram os filhos de Dã."
+        },
+        {
+          "verse": 23,
+          "text": "E clamaram após os filhos de Dã, os quais viraram os seus rostos, e disseram a Mica: Que tens, que tanta gente convocaste?"
+        },
+        {
+          "verse": 24,
+          "text": "Então ele disse: Os meus deuses, que eu fiz, me tomastes, juntamente com o sacerdote, e partistes; que mais me resta agora? Como, pois, me dizeis: Que é que tens?"
+        },
+        {
+          "verse": 25,
+          "text": "Porém os filhos de Dã lhe disseram: Não nos faças ouvir a tua voz, para que porventura homens de ânimo mau não se lancem sobre vós, e tu percas a tua vida, e a vida dos da tua casa."
+        },
+        {
+          "verse": 26,
+          "text": "Assim seguiram o seu caminho os filhos de Dã; e Mica, vendo que eram mais fortes do que ele, virou-se, e voltou à sua casa."
+        },
+        {
+          "verse": 27,
+          "text": "Eles, pois, tomaram o que Mica tinha feito, e o sacerdote que tivera, e chegaram a Laís, a um povo quieto e confiado, e os feriram ao fio da espada, e queimaram a cidade a fogo."
+        },
+        {
+          "verse": 28,
+          "text": "E ninguém houve que os livrasse, porquanto estavam longe de Sidom, e não tinham relações com ninguém, e a cidade estava no vale que está junto de Bete-Reobe; depois reedificaram a cidade e habitaram nela."
+        },
+        {
+          "verse": 29,
+          "text": "E chamaram o nome da cidade Dã, conforme ao nome de Dã, seu pai, que nascera a Israel; era, porém, antes o nome desta cidade Laís."
+        },
+        {
+          "verse": 30,
+          "text": "E os filhos de Dã levantaram para si aquela imagem de escultura; e Jônatas, filho de Gérson, o filho de Manassés, ele e seus filhos foram sacerdotes da tribo dos danitas, até ao dia do cativeiro da terra."
+        },
+        {
+          "verse": 31,
+          "text": "Assim, pois, estabeleceram para si a imagem de escultura, que fizera Mica, por todos os dias em que a casa de Deus esteve em Siló."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Aconteceu também naqueles dias, em que não havia rei em Israel, que houve um homem levita, que, peregrinando aos lados da montanha de Efraim, tomou para si uma concubina, de Belém de Judá."
+        },
+        {
+          "verse": 2,
+          "text": "Porém a sua concubina adulterou contra ele, e deixando-o, foi para a casa de seu pai, em Belém de Judá, e esteve ali alguns dias, a saber, quatro meses."
+        },
+        {
+          "verse": 3,
+          "text": "E seu marido se levantou, e foi atrás dela, para lhe falar conforme ao seu coração, e para tornar a trazê-la; e o seu moço e um par de jumentos iam com ele; e ela o levou à casa de seu pai, e, vendo-o o pai da moça, alegrou-se ao encontrar-se com ele."
+        },
+        {
+          "verse": 4,
+          "text": "E seu sogro, o pai da moça, o deteve, e ficou com ele três dias; e comeram e beberam, e passaram ali a noite."
+        },
+        {
+          "verse": 5,
+          "text": "E sucedeu que ao quarto dia pela manhã, de madrugada, ele levantou-se para partir; então o pai da moça disse a seu genro: Fortalece o teu coração com um bocado de pão, e depois partireis."
+        },
+        {
+          "verse": 6,
+          "text": "Assentaram-se, pois, e comeram ambos juntos, e beberam; e disse o pai da moça ao homem: Peço-te que ainda esta noite queiras passá-la aqui, e alegre-se o teu coração."
+        },
+        {
+          "verse": 7,
+          "text": "Porém o homem levantou-se para partir; mas seu sogro o constrangeu a tornar a passar ali a noite."
+        },
+        {
+          "verse": 8,
+          "text": "E, madrugando ao quinto dia pela manhã para partir, disse o pai da moça: Ora, conforta o teu coração. E detiveram-se até já declinar o dia; e ambos juntos comeram."
+        },
+        {
+          "verse": 9,
+          "text": "Então o homem levantou-se para partir, ele, e a sua concubina, e o seu moço; e disse-lhe seu sogro, o pai da moça: Eis que já o dia declina e a tarde já vem chegando; peço-te que aqui passes a noite; eis que o dia já vai acabando, passa aqui a noite, e que o teu coração se alegre; e amanhã de madrugada levanta-te a caminhar, e irás para a tua tenda."
+        },
+        {
+          "verse": 10,
+          "text": "Porém o homem não quis ali passar a noite, mas levantou-se, e partiu, e chegou até defronte de Jebus (que é Jerusalém), e com ele o par de jumentos albardados, como também a sua concubina."
+        },
+        {
+          "verse": 11,
+          "text": "Estando, pois, já perto de Jebus, e tendo-se já declinado muito o dia, disse o moço a seu senhor: Vamos agora, e retiremo-nos a esta cidade dos jebuseus, e passemos ali a noite."
+        },
+        {
+          "verse": 12,
+          "text": "Porém disse-lhe seu senhor: Não nos retiraremos a nenhuma cidade estranha, que não seja dos filhos de Israel; mas iremos até Gibeá."
+        },
+        {
+          "verse": 13,
+          "text": "Disse mais a seu moço: Vamos, e cheguemos a um daqueles lugares, e passemos a noite em Gibeá ou em Ramá."
+        },
+        {
+          "verse": 14,
+          "text": "Passaram, pois, adiante, e caminharam, e o sol se lhes pôs junto a Gibeá, que é cidade de Benjamim."
+        },
+        {
+          "verse": 15,
+          "text": "E retiraram-se para lá, para entrar e passar a noite em Gibeá; e, entrando ele, assentou-se na praça da cidade, porque não houve quem os recolhesse em casa para ali passarem a noite."
+        },
+        {
+          "verse": 16,
+          "text": "E eis que um velho homem vinha à tarde do seu trabalho do campo; e era este homem da montanha de Efraim, mas peregrinava em Gibeá; eram porém os homens deste lugar filhos de Benjamim."
+        },
+        {
+          "verse": 17,
+          "text": "Levantando ele, pois, os olhos, viu a este viajante na praça da cidade, e disse o ancião: Para onde vais, e donde vens?"
+        },
+        {
+          "verse": 18,
+          "text": "E ele lhe disse: Viajamos de Belém de Judá até aos lados da montanha de Efraim, de onde sou; porquanto fui a Belém de Judá, porém agora vou à casa do Senhor; e ninguém há que me recolha em casa,"
+        },
+        {
+          "verse": 19,
+          "text": "Todavia temos palha e pasto para os nossos jumentos, e também pão e vinho há para mim, e para a tua serva, e para o moço que vem com os teus servos; de coisa nenhuma há falta."
+        },
+        {
+          "verse": 20,
+          "text": "Então disse o ancião: Paz seja contigo; tudo quanto te faltar fique ao meu cargo; tão somente não passes a noite na praça."
+        },
+        {
+          "verse": 21,
+          "text": "E levou-o à sua casa, e deu pasto aos jumentos; e, lavando-se os pés, comeram e beberam."
+        },
+        {
+          "verse": 22,
+          "text": "Estando eles alegrando o seu coração, eis que os homens daquela cidade (homens que eram filhos de Belial) cercaram a casa, batendo à porta; e falaram ao ancião, senhor da casa, dizendo: Tira para fora o homem que entrou em tua casa, para que o conheçamos."
+        },
+        {
+          "verse": 23,
+          "text": "E o homem, dono da casa, saiu a eles e disse-lhes: Não, irmãos meus, ora não façais semelhante mal; já que este homem entrou em minha casa, não façais tal loucura."
+        },
+        {
+          "verse": 24,
+          "text": "Eis que a minha filha virgem e a concubina dele vo-las tirarei fora; humilhai-as a elas, e fazei delas o que parecer bem aos vossos olhos; porém a este homem não façais essa loucura."
+        },
+        {
+          "verse": 25,
+          "text": "Porém aqueles homens não o quiseram ouvir; então aquele homem pegou da sua concubina, e lha tirou para fora; e eles a conheceram e abusaram dela toda a noite até pela manhã, e, subindo a alva, a deixaram."
+        },
+        {
+          "verse": 26,
+          "text": "E ao romper da manhã veio a mulher, e caiu à porta da casa daquele homem, onde estava seu senhor, e ficou ali até que se fez claro."
+        },
+        {
+          "verse": 27,
+          "text": "E, levantando-se seu senhor pela manhã, e abrindo as portas da casa, e saindo a seguir o seu caminho, eis que a mulher, sua concubina, jazia à porta da casa, com as mãos sobre o limiar."
+        },
+        {
+          "verse": 28,
+          "text": "E ele lhe disse: Levanta-te, e vamo-nos, porém ela não respondeu; então, levantando-se o homem a pôs sobre o jumento, e foi para o seu lugar."
+        },
+        {
+          "verse": 29,
+          "text": "Chegando, pois, à sua casa, tomou um cutelo, e pegou na sua concubina, e a despedaçou com os seus ossos em doze partes; e enviou-as por todos os termos de Israel."
+        },
+        {
+          "verse": 30,
+          "text": "E sucedeu que cada um que via aquilo dizia: Nunca tal se fez, nem se viu desde o dia em que os filhos de Israel subiram da terra do Egito, até ao dia de hoje; ponderai isto, considerai, e falai."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então todos os filhos de Israel saíram, e a congregação se ajuntou, perante o Senhor em Mizpá, como se fora um só homem, desde Dã até Berseba, como também a terra de Gileade."
+        },
+        {
+          "verse": 2,
+          "text": "E os principais de todo o povo, de todas as tribos de Israel, se apresentaram na congregação do povo de Deus; quatrocentos mil homens de pé que tiravam a espada"
+        },
+        {
+          "verse": 3,
+          "text": "(Ouviram, pois, os filhos de Benjamim que os filhos de Israel haviam subido a Mizpá). E disseram os filhos de Israel: Falai, como sucedeu esta maldade?"
+        },
+        {
+          "verse": 4,
+          "text": "Então respondeu o homem levita, marido da mulher que fora morta, e disse: Cheguei com a minha concubina a Gibeá, cidade de Benjamim, para passar a noite."
+        },
+        {
+          "verse": 5,
+          "text": "E os cidadãos de Gibeá se levantaram contra mim, e cercaram a casa de noite; intentaram matar-me, e violaram a minha concubina, de maneira que morreu."
+        },
+        {
+          "verse": 6,
+          "text": "Então peguei na minha concubina, e fi-la em pedaços, e a enviei por toda a terra da herança de Israel; porquanto fizeram tal malefício e loucura em Israel."
+        },
+        {
+          "verse": 7,
+          "text": "Eis que todos sois filhos de Israel; dai aqui a vossa palavra e conselho."
+        },
+        {
+          "verse": 8,
+          "text": "Então todo o povo se levantou como um só homem, dizendo: Nenhum de nós irá à sua tenda nem nenhum de nós voltará à sua casa."
+        },
+        {
+          "verse": 9,
+          "text": "Porém isto é o que faremos a Gibeá: procederemos contra ela por sorte."
+        },
+        {
+          "verse": 10,
+          "text": "E de todas as tribos de Israel, tomaremos dez homens de cada cem, e cem de cada mil, e mil de cada dez mil, para providenciarem mantimento para o povo; para que, vindo ele a Gibeá de Benjamim, lhe façam conforme a toda a loucura que tem feito em Israel."
+        },
+        {
+          "verse": 11,
+          "text": "Assim ajuntaram-se contra esta cidade todos os homens de Israel, unidos como um só homem."
+        },
+        {
+          "verse": 12,
+          "text": "E as tribos de Israel enviaram homens por toda a tribo de Benjamim, dizendo: Que maldade é esta que se fez entre vós?"
+        },
+        {
+          "verse": 13,
+          "text": "Dai-nos, pois, agora aqueles homens, filhos de Belial, que estão em Gibeá, para que os matemos, e tiremos de Israel o mal. Porém os filhos de Benjamim não quiseram ouvir a voz de seus irmãos, os filhos de Israel."
+        },
+        {
+          "verse": 14,
+          "text": "Antes os filhos de Benjamim se ajuntaram das cidades em Gibeá, para saírem a pelejar contra os filhos de Israel."
+        },
+        {
+          "verse": 15,
+          "text": "E contaram-se naquele dia os filhos de Benjamim, das cidades, vinte e seis mil homens que tiravam a espada, afora os moradores de Gibeá, de que se contaram setecentos homens escolhidos."
+        },
+        {
+          "verse": 16,
+          "text": "Entre todo este povo havia setecentos homens escolhidos, canhotos, os quais atiravam com a funda uma pedra em um cabelo, e não erravam."
+        },
+        {
+          "verse": 17,
+          "text": "E contaram-se dos homens de Israel, afora os de Benjamim, quatrocentos mil homens que tiravam da espada, e todos eles homens de guerra."
+        },
+        {
+          "verse": 18,
+          "text": "E levantaram-se os filhos de Israel, e subiram a Betel; e consultaram a Deus, dizendo: Quem dentre nós subirá primeiro a pelejar contra os filhos de Benjamim? E disse o Senhor: Judá subirá primeiro."
+        },
+        {
+          "verse": 19,
+          "text": "Levantaram-se, pois, os filhos de Israel pela manhã, e acamparam-se contra Gibeá."
+        },
+        {
+          "verse": 20,
+          "text": "E os homens de Israel saíram à peleja contra Benjamim; e os homens de Israel ordenaram a batalha contra eles, ao pé de Gibeá."
+        },
+        {
+          "verse": 21,
+          "text": "Então os filhos de Benjamim saíram de Gibeá, e derrubaram por terra, naquele dia, vinte e dois mil homens de Israel."
+        },
+        {
+          "verse": 22,
+          "text": "Porém esforçou-se o povo, isto é, os homens de Israel, e tornaram a ordenar a peleja no lugar onde no primeiro dia a tinham ordenado."
+        },
+        {
+          "verse": 23,
+          "text": "E subiram os filhos de Israel, e choraram perante o Senhor até à tarde, e perguntaram ao Senhor, dizendo: Tornar-me-ei a chegar à peleja contra os filhos de Benjamim, meu irmão? E disse o Senhor: Subi contra ele."
+        },
+        {
+          "verse": 24,
+          "text": "Chegaram-se, pois, os filhos de Israel aos filhos de Benjamim, no dia seguinte."
+        },
+        {
+          "verse": 25,
+          "text": "Também os de Benjamim no dia seguinte lhes saíram ao encontro fora de Gibeá, e derrubaram ainda por terra dos filhos de Israel mais dezoito mil homens, todos dos que tiravam a espada."
+        },
+        {
+          "verse": 26,
+          "text": "Então todos os filhos de Israel, e todo o povo, subiram, e vieram a Betel e choraram, e estiveram ali perante o Senhor, e jejuaram aquele dia até à tarde; e ofereceram holocaustos e ofertas pacíficas perante o Senhor."
+        },
+        {
+          "verse": 27,
+          "text": "E os filhos de Israel perguntaram ao Senhor (porquanto a arca da aliança de Deus estava ali naqueles dias;"
+        },
+        {
+          "verse": 28,
+          "text": "E Fineias, filho de Eleazar, filho de Arão, estava perante ele naqueles dias), dizendo: Tornarei ainda a pelejar contra os filhos de Benjamim, meu irmão, ou pararei? E disse o Senhor: Subi, que amanhã eu to entregarei na mão."
+        },
+        {
+          "verse": 29,
+          "text": "Então Israel pôs emboscadas em redor de Gibeá."
+        },
+        {
+          "verse": 30,
+          "text": "E subiram os filhos de Israel ao terceiro dia contra os filhos de Benjamim, e ordenaram a peleja junto a Gibeá, como das outras vezes."
+        },
+        {
+          "verse": 31,
+          "text": "Então os filhos de Benjamim saíram ao encontro do povo, e desviaram-se da cidade; e começaram a ferir alguns do povo, atravessando-os, como das outras vezes, pelos caminhos (um dos quais sobe para Betel, e o outro para Gibeá pelo campo), uns trinta dos homens de Israel."
+        },
+        {
+          "verse": 32,
+          "text": "Então os filhos de Benjamim disseram: Estão derrotados diante de nós como dantes. Porém os filhos de Israel disseram: Fujamos, e desviemo-los da cidade para os caminhos."
+        },
+        {
+          "verse": 33,
+          "text": "Então todos os homens de Israel se levantaram do seu lugar, e ordenaram a peleja em Baal-Tamar; e a emboscada de Israel saiu do seu lugar, da caverna de Gibeá."
+        },
+        {
+          "verse": 34,
+          "text": "E dez mil homens escolhidos de todo o Israel vieram contra Gibeá, e a peleja se agravou; porém eles não sabiam o mal que lhes tocaria."
+        },
+        {
+          "verse": 35,
+          "text": "Então feriu o Senhor a Benjamim diante de Israel; e destruíram os filhos de Israel, naquele dia, vinte e cinco mil e cem homens de Benjamim, todos dos que tiravam a espada."
+        },
+        {
+          "verse": 36,
+          "text": "E viram os filhos de Benjamim que estavam feridos; porque os homens de Israel deram lugar aos benjamitas, porquanto estavam confiados na emboscada que haviam posto contra Gibeá."
+        },
+        {
+          "verse": 37,
+          "text": "E a emboscada se apressou, e acometeu a Gibeá; e a emboscada arremeteu contra ela, e feriu ao fio da espada toda a cidade."
+        },
+        {
+          "verse": 38,
+          "text": "E os homens de Israel tinham um sinal determinado com a emboscada, que era fazer levantar da cidade uma grande nuvem de fumaça."
+        },
+        {
+          "verse": 39,
+          "text": "Viraram-se, pois, os homens de Israel na peleja; e já Benjamim começava a ferir, dos homens de Israel, quase trinta homens, pois diziam: Já infalivelmente estão derrotados diante de nós, como na peleja passada."
+        },
+        {
+          "verse": 40,
+          "text": "Então a nuvem de fumaça começou a se levantar da cidade, como uma coluna; e, virando-se Benjamim a olhar para trás de si, eis que a fumaça da cidade subia ao céu."
+        },
+        {
+          "verse": 41,
+          "text": "E os homens de Israel viraram os rostos, e os homens de Benjamim pasmaram; porque viram que o mal lhes tocaria."
+        },
+        {
+          "verse": 42,
+          "text": "E viraram as costas diante dos homens de Israel, para o caminho do deserto; porém a peleja os apertou; e os que saíam das cidades os destruíram no meio deles."
+        },
+        {
+          "verse": 43,
+          "text": "E cercaram aos de Benjamim, e os perseguiram, e à vontade os pisaram, até diante de Gibeá, para o nascente do sol."
+        },
+        {
+          "verse": 44,
+          "text": "E caíram de Benjamim dezoito mil homens, todos estes sendo homens valentes."
+        },
+        {
+          "verse": 45,
+          "text": "Então viraram as costas, e fugiram para o deserto, à penha de Rimom; colheram ainda deles pelos caminhos uns cinco mil homens; e de perto os seguiram até Gidom, e feriram deles dois mil homens."
+        },
+        {
+          "verse": 46,
+          "text": "E, todos os que caíram de Benjamim, naquele dia, foram vinte e cinco mil homens que tiravam a espada, todos eles homens valentes."
+        },
+        {
+          "verse": 47,
+          "text": "Porém seiscentos homens viraram as costas, e fugiram para o deserto, à penha de Rimom; e ficaram na penha de Rimom quatro meses."
+        },
+        {
+          "verse": 48,
+          "text": "E os homens de Israel voltaram para os filhos de Benjamim, e os feriram ao fio da espada, desde os homens da cidade até aos animais, até a tudo quanto se achava, como também a todas as cidades, quantas acharam, puseram fogo."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Ora, tinham jurado os homens de Israel em Mizpá, dizendo: Nenhum de nós dará sua filha por mulher aos benjamitas."
+        },
+        {
+          "verse": 2,
+          "text": "Veio, pois, o povo a Betel, e ali ficou até à tarde diante de Deus; e todos levantaram a sua voz, e prantearam com grande pranto,"
+        },
+        {
+          "verse": 3,
+          "text": "E disseram: Ah! Senhor Deus de Israel, por que sucedeu isto em Israel, que hoje falte uma tribo em Israel?"
+        },
+        {
+          "verse": 4,
+          "text": "E sucedeu que, no dia seguinte, o povo, pela manhã se levantou, e edificou ali um altar; e ofereceu holocaustos e ofertas pacíficas."
+        },
+        {
+          "verse": 5,
+          "text": "E disseram os filhos de Israel: Quem de todas as tribos de Israel não subiu à assembleia do Senhor? Porque se tinha feito um grande juramento acerca dos que não fossem ao Senhor em Mizpá, dizendo: Morrerá certamente."
+        },
+        {
+          "verse": 6,
+          "text": "E arrependeram-se os filhos de Israel acerca de Benjamim, seu irmão, e disseram: Cortada é hoje de Israel uma tribo."
+        },
+        {
+          "verse": 7,
+          "text": "Como havemos de conseguir mulheres para os que restaram deles, pois nós temos jurado pelo Senhor que nenhuma de nossas filhas lhes daríamos por mulher?"
+        },
+        {
+          "verse": 8,
+          "text": "E disseram: Há algumas das tribos de Israel que não subiram ao Senhor a Mizpá? E eis que ninguém de Jabes-Gileade viera ao arraial, à assembleia."
+        },
+        {
+          "verse": 9,
+          "text": "Porquanto, quando se contou o povo, eis que nenhum dos moradores de Jabes-Gileade se achou ali."
+        },
+        {
+          "verse": 10,
+          "text": "Então a assembleia enviou para lá doze mil homens dos mais valentes, e lhes ordenou, dizendo: Ide, e ao fio da espada feri aos moradores de Jabes-Gileade, e às mulheres e aos meninos."
+        },
+        {
+          "verse": 11,
+          "text": "Porém isto é o que haveis de fazer: A todo o homem e a toda a mulher que se houver deitado com um homem totalmente destruireis."
+        },
+        {
+          "verse": 12,
+          "text": "E acharam entre os moradores de Jabes-Gileade quatrocentas moças virgens, que não tinham conhecido homem; e as trouxeram ao arraial, a Siló, que está na terra de Canaã."
+        },
+        {
+          "verse": 13,
+          "text": "Então toda a assembleia enviou, e falou aos filhos de Benjamim, que estavam na penha de Rimom, e lhes proclamou a paz."
+        },
+        {
+          "verse": 14,
+          "text": "E ao mesmo tempo voltaram os benjamitas; e deram-lhes as mulheres que haviam guardado com vida, das mulheres de Jabes-Gileade; porém estas ainda não lhes bastaram."
+        },
+        {
+          "verse": 15,
+          "text": "Então o povo se arrependeu por causa de Benjamim; porquanto o Senhor tinha feito brecha nas tribos de Israel."
+        },
+        {
+          "verse": 16,
+          "text": "E disseram os anciãos da assembleia: Que faremos acerca de mulheres para os que restaram, pois foram destruídas as mulheres de Benjamim?"
+        },
+        {
+          "verse": 17,
+          "text": "Disseram mais: Tenha Benjamim uma herança nos que restaram, e não seja destruída nenhuma tribo de Israel."
+        },
+        {
+          "verse": 18,
+          "text": "Porém nós não lhes poderemos dar mulheres de nossas filhas, porque os filhos de Israel juraram, dizendo: Maldito aquele que der mulher aos benjamitas."
+        },
+        {
+          "verse": 19,
+          "text": "Então disseram: Eis que de ano em ano há solenidade do Senhor em Siló, que se celebra para o norte de Betel do lado do nascente do sol, pelo caminho alto que sobe de Betel a Siquém, e para o sul de Lebona."
+        },
+        {
+          "verse": 20,
+          "text": "E mandaram aos filhos de Benjamim, dizendo: Ide, e emboscai-vos nas vinhas."
+        },
+        {
+          "verse": 21,
+          "text": "E olhai, e eis aí as filhas de Siló a dançar em rodas, saí vós das vinhas, e arrebatai cada um sua mulher das filhas de Siló, e ide-vos à terra de Benjamim."
+        },
+        {
+          "verse": 22,
+          "text": "E será que, quando seus pais ou seus irmãos vierem a litigar conosco, nós lhes diremos: Por amor de nós, tende compaixão deles, pois nesta guerra não tomamos mulheres para cada um deles; porque não lhas destes vós, para que agora ficásseis culpados."
+        },
+        {
+          "verse": 23,
+          "text": "E os filhos de Benjamim o fizeram assim, e levaram mulheres conforme ao número deles, das que arrebataram das rodas que dançavam; e foram-se, e voltaram à sua herança, e reedificaram as cidades, e habitaram nelas."
+        },
+        {
+          "verse": 24,
+          "text": "Então os filhos de Israel partiram dali, cada um para a sua tribo e para a sua família; e saíram dali, cada um para a sua herança."
+        },
+        {
+          "verse": 25,
+          "text": "Naqueles dias não havia rei em Israel; porém cada um fazia o que parecia reto aos seus olhos."
+        }
+      ]
+    }
+  ]
 };
-            

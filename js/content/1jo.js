@@ -1,12 +1,451 @@
-
-if (typeof window.bibleData === 'undefined') {
-    window.bibleData = {};
-}
-window.bibleData['1jo'] = {
-  "1": "<h1>1 João - Capítulo 1</h1>\n<p><strong>1</strong> O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e as nossas mãos tocaram da Palavra da vida</p>\n<p><strong>2</strong> (Porque a vida foi manifestada, e nós a vimos, e testificamos dela, e vos anunciamos a vida eterna, que estava com o Pai, e nos foi manifestada);</p>\n<p><strong>3</strong> O que vimos e ouvimos, isso vos anunciamos, para que também tenhais comunhão conosco; e a nossa comunhão é com o Pai, e com seu Filho Jesus Cristo.</p>\n<p><strong>4</strong> Estas coisas vos escrevemos, para que o vosso gozo se cumpra.</p>\n<p><strong>5</strong> E esta é a mensagem que dele ouvimos, e vos anunciamos: Que Deus é luz, e não há nele trevas nenhumas.</p>\n<p><strong>6</strong> Se dissermos que temos comunhão com ele, e andarmos em trevas, mentimos, e não praticamos a verdade.</p>\n<p><strong>7</strong> Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado.</p>\n<p><strong>8</strong> Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e não há verdade em nós.</p>\n<p><strong>9</strong> Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça.</p>\n<p><strong>10</strong> Se dissermos que não pecamos, fazemo-lo mentiroso, e a sua palavra não está em nós.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">1 João 2 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "2": "<h1>1 João - Capítulo 2</h1>\n<p><strong>1</strong> Meus filhinhos, estas coisas vos escrevo, para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o justo.</p>\n<p><strong>2</strong> E ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo.</p>\n<p><strong>3</strong> E nisto sabemos que o conhecemos: Se guardarmos os seus mandamentos.</p>\n<p><strong>4</strong> Aquele que diz: Eu conheço-o, e não guarda os seus mandamentos, é mentiroso, e nele não está a verdade.</p>\n<p><strong>5</strong> Mas qualquer que guarda a sua palavra, o amor de Deus está nele verdadeiramente aperfeiçoado; nisto conhecemos que estamos nele.</p>\n<p><strong>6</strong> Aquele que diz que está nele, também deve andar como ele andou.</p>\n<p><strong>7</strong> Irmãos, não vos escrevo mandamento novo, mas o mandamento antigo, que desde o princípio tivestes. Este mandamento antigo é a palavra que desde o princípio ouvistes.</p>\n<p><strong>8</strong> Outra vez vos escrevo um mandamento novo, que é verdadeiro nele e em vós; porque vão passando as trevas, e já a verdadeira luz ilumina.</p>\n<p><strong>9</strong> Aquele que diz que está na luz, e odeia a seu irmão, até agora está em trevas.</p>\n<p><strong>10</strong> Aquele que ama a seu irmão está na luz, e nele não há escândalo.</p>\n<p><strong>11</strong> Mas aquele que odeia a seu irmão está em trevas, e anda em trevas, e não sabe para onde deva ir; porque as trevas lhe cegaram os olhos.</p>\n<p><strong>12</strong> Filhinhos, escrevo-vos, porque pelo seu nome vos são perdoados os pecados.</p>\n<p><strong>13</strong> Pais, escrevo-vos, porque conhecestes aquele que é desde o princípio. Jovens, escrevo-vos, porque vencestes o maligno. Eu vos escrevo, filhos, porque conhecestes o Pai.</p>\n<p><strong>14</strong> Eu vos escrevi, pais, porque já conhecestes aquele que é desde o princípio. Eu vos escrevi, jovens, porque sois fortes, e a palavra de Deus está em vós, e já vencestes o maligno.</p>\n<p><strong>15</strong> Não ameis o mundo, nem o que no mundo há. Se alguém ama o mundo, o amor do Pai não está nele.</p>\n<p><strong>16</strong> Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não é do Pai, mas do mundo.</p>\n<p><strong>17</strong> E o mundo passa, e a sua concupiscência; mas aquele que faz a vontade de Deus permanece para sempre.</p>\n<p><strong>18</strong> Filhinhos, é já a última hora; e, como ouvistes que vem o anticristo, também agora muitos se têm feito anticristos, por onde conhecemos que é já a última hora.</p>\n<p><strong>19</strong> Saíram de nós, mas não eram de nós; porque, se fossem de nós, ficariam conosco; mas isto é para que se manifestasse que não são todos de nós.</p>\n<p><strong>20</strong> E vós tendes a unção do Santo, e sabeis todas as coisas.</p>\n<p><strong>21</strong> Não vos escrevi porque não soubésseis a verdade, mas porque a sabeis, e porque nenhuma mentira é da verdade.</p>\n<p><strong>22</strong> Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? É o anticristo esse mesmo que nega o Pai e o Filho.</p>\n<p><strong>23</strong> Qualquer que nega o Filho, também não tem o Pai; mas aquele que confessa o Filho, tem também o Pai.</p>\n<p><strong>24</strong> Portanto, o que desde o princípio ouvistes permaneça em vós. Se em vós permanecer o que desde o princípio ouvistes, também permanecereis no Filho e no Pai.</p>\n<p><strong>25</strong> E esta é a promessa que ele nos fez: A vida eterna.</p>\n<p><strong>26</strong> Estas coisas vos escrevi acerca dos que vos enganam.</p>\n<p><strong>27</strong> E a unção que vós recebestes dele, fica em vós, e não tendes necessidade de que alguém vos ensine; mas, como a sua unção vos ensina todas as coisas, e é verdadeira, e não é mentira, como ela vos ensinou, assim nele permanecereis.</p>\n<p><strong>28</strong> E agora, filhinhos, permanecei nele; para que, quando ele se manifestar, tenhamos confiança, e não sejamos confundidos por ele na sua vinda.</p>\n<p><strong>29</strong> Se sabeis que ele é justo, sabeis que todo aquele que pratica a justiça é nascido dele.</p>\n<hr>\n<p><a href=\"capitulo_1.md\">&lt;- 1 João 1</a> | <a href=\"capitulo_3.md\">1 João 3 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "3": "<h1>1 João - Capítulo 3</h1>\n<p><strong>1</strong> Vede quão grande amor nos tem concedido o Pai, que fôssemos chamados filhos de Deus. Por isso o mundo não nos conhece; porque não o conhece a ele.</p>\n<p><strong>2</strong> Amados, agora somos filhos de Deus, e ainda não é manifestado o que havemos de ser. Mas sabemos que, quando ele se manifestar, seremos semelhantes a ele; porque assim como é o veremos.</p>\n<p><strong>3</strong> E qualquer que nele tem esta esperança purifica-se a si mesmo, como também ele é puro.</p>\n<p><strong>4</strong> Qualquer que pratica o pecado, também transgride a lei; porque o pecado é a transgressão da lei.</p>\n<p><strong>5</strong> E bem sabeis que ele se manifestou para tirar os nossos pecados; e nele não há pecado.</p>\n<p><strong>6</strong> Qualquer que permanece nele não pratica o pecado; qualquer que permanece em pecado não o viu nem o conheceu.</p>\n<p><strong>7</strong> Filhinhos, ninguém vos engane. Quem pratica justiça é justo, assim como ele é justo.</p>\n<p><strong>8</strong> Quem pratica o pecado é do diabo; porque o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou: Para desfazer as obras do diabo.</p>\n<p><strong>9</strong> Qualquer que é nascido de Deus não permanece em pecado; porque a sua semente permanece nele; e não pode pecar, porque é nascido de Deus.</p>\n<p><strong>10</strong> Nisto são manifestos os filhos de Deus, e os filhos do diabo. Qualquer que não pratica a justiça, e não ama a seu irmão, não é de Deus.</p>\n<p><strong>11</strong> Porque esta é a mensagem que ouvistes desde o princípio: Que nos amemos uns aos outros.</p>\n<p><strong>12</strong> Não como Caim, que era do maligno, e matou a seu irmão. E por que causa o matou? Porque as suas obras eram más e as de seu irmão justas.</p>\n<p><strong>13</strong> Meus irmãos, não vos maravilheis, se o mundo vos odeia.</p>\n<p><strong>14</strong> Nós sabemos que passamos da morte para a vida, porque amamos os irmãos. Quem não ama a seu irmão permanece na morte.</p>\n<p><strong>15</strong> Qualquer que odeia a seu irmão é homicida. E vós sabeis que nenhum homicida tem a vida eterna permanecendo nele.</p>\n<p><strong>16</strong> Conhecemos o amor nisto: que ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos.</p>\n<p><strong>17</strong> Quem, pois, tiver bens do mundo, e, vendo o seu irmão necessitado, lhe cerrar as suas entranhas, como reside nele o amor de Deus?</p>\n<p><strong>18</strong> Meus filhinhos, não amemos de palavra, nem de língua, mas em obra e em verdade.</p>\n<p><strong>19</strong> E nisto conhecemos que somos da verdade, e diante dele estaremos seguros em nossos corações;</p>\n<p><strong>20</strong> Porque, se o nosso coração nos condena, maior é Deus do que o nosso coração, e conhece todas as coisas.</p>\n<p><strong>21</strong> Amados, se o nosso coração não nos condena, temos confiança para com Deus;</p>\n<p><strong>22</strong> E qualquer coisa que lhe pedirmos, dele a receberemos, porque guardamos os seus mandamentos, e fazemos o que é agradável à sua vista.</p>\n<p><strong>23</strong> E o seu mandamento é este: Que creiamos no nome de seu Filho Jesus Cristo, e nos amemos uns aos outros, segundo nos deu mandamento.</p>\n<p><strong>24</strong> E aquele que guarda os seus mandamentos nele está, e ele nele. E nisto conhecemos que ele está em nós, pelo Espírito que nos tem dado.</p>\n<hr>\n<p><a href=\"capitulo_2.md\">&lt;- 1 João 2</a> | <a href=\"capitulo_4.md\">1 João 4 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "4": "<h1>1 João - Capítulo 4</h1>\n<p><strong>1</strong> Amados, não creiais a todo o espírito, mas provai se os espíritos são de Deus, porque já muitos falsos profetas se têm levantado no mundo.</p>\n<p><strong>2</strong> Nisto conhecereis o Espírito de Deus: Todo o espírito que confessa que Jesus Cristo veio em carne é de Deus;</p>\n<p><strong>3</strong> E todo o espírito que não confessa que Jesus Cristo veio em carne não é de Deus; mas este é o espírito do anticristo, do qual já ouvistes que há de vir, e eis que já agora está no mundo.</p>\n<p><strong>4</strong> Filhinhos, sois de Deus, e já os tendes vencido; porque maior é o que está em vós do que o que está no mundo.</p>\n<p><strong>5</strong> Do mundo são, por isso falam do mundo, e o mundo os ouve.</p>\n<p><strong>6</strong> Nós somos de Deus; aquele que conhece a Deus ouve-nos; aquele que não é de Deus não nos ouve. Nisto conhecemos nós o espírito da verdade e o espírito do erro.</p>\n<p><strong>7</strong> Amados, amemo-nos uns aos outros; porque o amor é de Deus; e qualquer que ama é nascido de Deus e conhece a Deus.</p>\n<p><strong>8</strong> Aquele que não ama não conhece a Deus; porque Deus é amor.</p>\n<p><strong>9</strong> Nisto se manifestou o amor de Deus para conosco: Que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos.</p>\n<p><strong>10</strong> Nisto está o amor, não em que nós tenhamos amado a Deus, mas em que ele nos amou a nós, e enviou seu Filho para propiciação pelos nossos pecados.</p>\n<p><strong>11</strong> Amados, se Deus assim nos amou, também nós devemos amar uns aos outros.</p>\n<p><strong>12</strong> Ninguém jamais viu a Deus; se nos amamos uns aos outros, Deus está em nós, e em nós é perfeito o seu amor.</p>\n<p><strong>13</strong> Nisto conhecemos que estamos nele, e ele em nós, pois que nos deu do seu Espírito.</p>\n<p><strong>14</strong> E vimos, e testificamos que o Pai enviou seu Filho para Salvador do mundo.</p>\n<p><strong>15</strong> Qualquer que confessar que Jesus é o Filho de Deus, Deus está nele, e ele em Deus.</p>\n<p><strong>16</strong> E nós conhecemos, e cremos no amor que Deus nos tem. Deus é amor; e quem está em amor está em Deus, e Deus nele.</p>\n<p><strong>17</strong> Nisto é perfeito o amor para conosco, para que no dia do juízo tenhamos confiança; porque, qual ele é, somos nós também neste mundo.</p>\n<p><strong>18</strong> No amor não há temor, antes o perfeito amor lança fora o temor; porque o temor tem consigo a pena, e o que teme não é perfeito em amor.</p>\n<p><strong>19</strong> Nós o amamos porque ele nos amou primeiro.</p>\n<p><strong>20</strong> Se alguém diz: Eu amo a Deus, e odeia a seu irmão, é mentiroso. Pois quem não ama a seu irmão, ao qual viu, como pode amar a Deus, a quem não viu?</p>\n<p><strong>21</strong> E dele temos este mandamento: Que quem ama a Deus, ame também a seu irmão.</p>\n<hr>\n<p><a href=\"capitulo_3.md\">&lt;- 1 João 3</a> | <a href=\"capitulo_5.md\">1 João 5 -&gt;</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n",
-  "5": "<h1>1 João - Capítulo 5</h1>\n<p><strong>1</strong> Todo aquele que crê que Jesus é o Cristo, é nascido de Deus; e todo aquele que ama ao que o gerou também ama ao que dele é nascido.</p>\n<p><strong>2</strong> Nisto conhecemos que amamos os filhos de Deus, quando amamos a Deus e guardamos os seus mandamentos.</p>\n<p><strong>3</strong> Porque este é o amor de Deus: Que guardemos os seus mandamentos; e os seus mandamentos não são pesados.</p>\n<p><strong>4</strong> Porque todo o que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo, a nossa fé.</p>\n<p><strong>5</strong> Quem é que vence o mundo, senão aquele que crê que Jesus é o Filho de Deus?</p>\n<p><strong>6</strong> Este é aquele que veio por água e sangue, isto é, Jesus Cristo; não só por água, mas por água e por sangue. E o Espírito é o que testifica, porque o Espírito é a verdade.</p>\n<p><strong>7</strong> Porque três são os que testificam no céu: o Pai, a Palavra, e o Espírito Santo; e estes três são um.</p>\n<p><strong>8</strong> E três são os que testificam na terra: o Espírito, e a água e o sangue; e estes três concordam num.</p>\n<p><strong>9</strong> Se recebemos o testemunho dos homens, o testemunho de Deus é maior; porque o testemunho de Deus é este, que de seu Filho testificou.</p>\n<p><strong>10</strong> Quem crê no Filho de Deus, em si mesmo tem o testemunho; quem a Deus não crê mentiroso o fez, porquanto não creu no testemunho que Deus de seu Filho deu.</p>\n<p><strong>11</strong> E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está em seu Filho.</p>\n<p><strong>12</strong> Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.</p>\n<p><strong>13</strong> Estas coisas vos escrevi, os que credes no nome do Filho de Deus, para que saibais que tendes a vida eterna, e para que creiais no nome do Filho de Deus.</p>\n<p><strong>14</strong> E esta é a confiança que temos nele, que, se pedirmos alguma coisa, segundo a sua vontade, ele nos ouve.</p>\n<p><strong>15</strong> E, se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as petições que lhe fizemos.</p>\n<p><strong>16</strong> Se alguém vir pecar seu irmão, pecado que não é para morte, orará, e Deus lhe dará a vida, àqueles que não pecarem para morte. Há pecado para morte, e por esse não digo que ore.</p>\n<p><strong>17</strong> Toda a iniquidade é pecado, e há pecado que não é para morte.</p>\n<p><strong>18</strong> Sabemos que todo aquele que é nascido de Deus não peca; mas o que de Deus é gerado conserva-se a si mesmo, e o maligno não lhe toca.</p>\n<p><strong>19</strong> Sabemos que somos de Deus, e que todo o mundo jaz no maligno.</p>\n<p><strong>20</strong> E sabemos que já o Filho de Deus é vindo, e nos deu entendimento para que conheçamos ao Verdadeiro; e no que é Verdadeiro estamos, isto é, em seu Filho Jesus Cristo. Este é o verdadeiro Deus e a vida eterna.</p>\n<p><strong>21</strong> Filhinhos, guardai-vos dos ídolos. Amém.</p>\n<hr>\n<p><a href=\"capitulo_4.md\">&lt;- 1 João 4</a></p>\n<hr>\n<p><a href=\"capitulo_1.md\">1</a> <a href=\"capitulo_2.md\">2</a> <a href=\"capitulo_3.md\">3</a> <a href=\"capitulo_4.md\">4</a> <a href=\"capitulo_5.md\">5</a></p>\n"
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['1jo'] = {
+  "book": "1jo",
+  "name": "1 João",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e as nossas mãos tocaram da Palavra da vida"
+        },
+        {
+          "verse": 2,
+          "text": "(Porque a vida foi manifestada, e nós a vimos, e testificamos dela, e vos anunciamos a vida eterna, que estava com o Pai, e nos foi manifestada);"
+        },
+        {
+          "verse": 3,
+          "text": "O que vimos e ouvimos, isso vos anunciamos, para que também tenhais comunhão conosco; e a nossa comunhão é com o Pai, e com seu Filho Jesus Cristo."
+        },
+        {
+          "verse": 4,
+          "text": "Estas coisas vos escrevemos, para que o vosso gozo se cumpra."
+        },
+        {
+          "verse": 5,
+          "text": "E esta é a mensagem que dele ouvimos, e vos anunciamos: Que Deus é luz, e não há nele trevas nenhumas."
+        },
+        {
+          "verse": 6,
+          "text": "Se dissermos que temos comunhão com ele, e andarmos em trevas, mentimos, e não praticamos a verdade."
+        },
+        {
+          "verse": 7,
+          "text": "Mas, se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos purifica de todo o pecado."
+        },
+        {
+          "verse": 8,
+          "text": "Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e não há verdade em nós."
+        },
+        {
+          "verse": 9,
+          "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça."
+        },
+        {
+          "verse": 10,
+          "text": "Se dissermos que não pecamos, fazemo-lo mentiroso, e a sua palavra não está em nós."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Meus filhinhos, estas coisas vos escrevo, para que não pequeis; e, se alguém pecar, temos um Advogado para com o Pai, Jesus Cristo, o justo."
+        },
+        {
+          "verse": 2,
+          "text": "E ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo."
+        },
+        {
+          "verse": 3,
+          "text": "E nisto sabemos que o conhecemos: Se guardarmos os seus mandamentos."
+        },
+        {
+          "verse": 4,
+          "text": "Aquele que diz: Eu conheço-o, e não guarda os seus mandamentos, é mentiroso, e nele não está a verdade."
+        },
+        {
+          "verse": 5,
+          "text": "Mas qualquer que guarda a sua palavra, o amor de Deus está nele verdadeiramente aperfeiçoado; nisto conhecemos que estamos nele."
+        },
+        {
+          "verse": 6,
+          "text": "Aquele que diz que está nele, também deve andar como ele andou."
+        },
+        {
+          "verse": 7,
+          "text": "Irmãos, não vos escrevo mandamento novo, mas o mandamento antigo, que desde o princípio tivestes. Este mandamento antigo é a palavra que desde o princípio ouvistes."
+        },
+        {
+          "verse": 8,
+          "text": "Outra vez vos escrevo um mandamento novo, que é verdadeiro nele e em vós; porque vão passando as trevas, e já a verdadeira luz ilumina."
+        },
+        {
+          "verse": 9,
+          "text": "Aquele que diz que está na luz, e odeia a seu irmão, até agora está em trevas."
+        },
+        {
+          "verse": 10,
+          "text": "Aquele que ama a seu irmão está na luz, e nele não há escândalo."
+        },
+        {
+          "verse": 11,
+          "text": "Mas aquele que odeia a seu irmão está em trevas, e anda em trevas, e não sabe para onde deva ir; porque as trevas lhe cegaram os olhos."
+        },
+        {
+          "verse": 12,
+          "text": "Filhinhos, escrevo-vos, porque pelo seu nome vos são perdoados os pecados."
+        },
+        {
+          "verse": 13,
+          "text": "Pais, escrevo-vos, porque conhecestes aquele que é desde o princípio. Jovens, escrevo-vos, porque vencestes o maligno. Eu vos escrevo, filhos, porque conhecestes o Pai."
+        },
+        {
+          "verse": 14,
+          "text": "Eu vos escrevi, pais, porque já conhecestes aquele que é desde o princípio. Eu vos escrevi, jovens, porque sois fortes, e a palavra de Deus está em vós, e já vencestes o maligno."
+        },
+        {
+          "verse": 15,
+          "text": "Não ameis o mundo, nem o que no mundo há. Se alguém ama o mundo, o amor do Pai não está nele."
+        },
+        {
+          "verse": 16,
+          "text": "Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não é do Pai, mas do mundo."
+        },
+        {
+          "verse": 17,
+          "text": "E o mundo passa, e a sua concupiscência; mas aquele que faz a vontade de Deus permanece para sempre."
+        },
+        {
+          "verse": 18,
+          "text": "Filhinhos, é já a última hora; e, como ouvistes que vem o anticristo, também agora muitos se têm feito anticristos, por onde conhecemos que é já a última hora."
+        },
+        {
+          "verse": 19,
+          "text": "Saíram de nós, mas não eram de nós; porque, se fossem de nós, ficariam conosco; mas isto é para que se manifestasse que não são todos de nós."
+        },
+        {
+          "verse": 20,
+          "text": "E vós tendes a unção do Santo, e sabeis todas as coisas."
+        },
+        {
+          "verse": 21,
+          "text": "Não vos escrevi porque não soubésseis a verdade, mas porque a sabeis, e porque nenhuma mentira é da verdade."
+        },
+        {
+          "verse": 22,
+          "text": "Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? É o anticristo esse mesmo que nega o Pai e o Filho."
+        },
+        {
+          "verse": 23,
+          "text": "Qualquer que nega o Filho, também não tem o Pai; mas aquele que confessa o Filho, tem também o Pai."
+        },
+        {
+          "verse": 24,
+          "text": "Portanto, o que desde o princípio ouvistes permaneça em vós. Se em vós permanecer o que desde o princípio ouvistes, também permanecereis no Filho e no Pai."
+        },
+        {
+          "verse": 25,
+          "text": "E esta é a promessa que ele nos fez: A vida eterna."
+        },
+        {
+          "verse": 26,
+          "text": "Estas coisas vos escrevi acerca dos que vos enganam."
+        },
+        {
+          "verse": 27,
+          "text": "E a unção que vós recebestes dele, fica em vós, e não tendes necessidade de que alguém vos ensine; mas, como a sua unção vos ensina todas as coisas, e é verdadeira, e não é mentira, como ela vos ensinou, assim nele permanecereis."
+        },
+        {
+          "verse": 28,
+          "text": "E agora, filhinhos, permanecei nele; para que, quando ele se manifestar, tenhamos confiança, e não sejamos confundidos por ele na sua vinda."
+        },
+        {
+          "verse": 29,
+          "text": "Se sabeis que ele é justo, sabeis que todo aquele que pratica a justiça é nascido dele."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Vede quão grande amor nos tem concedido o Pai, que fôssemos chamados filhos de Deus. Por isso o mundo não nos conhece; porque não o conhece a ele."
+        },
+        {
+          "verse": 2,
+          "text": "Amados, agora somos filhos de Deus, e ainda não é manifestado o que havemos de ser. Mas sabemos que, quando ele se manifestar, seremos semelhantes a ele; porque assim como é o veremos."
+        },
+        {
+          "verse": 3,
+          "text": "E qualquer que nele tem esta esperança purifica-se a si mesmo, como também ele é puro."
+        },
+        {
+          "verse": 4,
+          "text": "Qualquer que pratica o pecado, também transgride a lei; porque o pecado é a transgressão da lei."
+        },
+        {
+          "verse": 5,
+          "text": "E bem sabeis que ele se manifestou para tirar os nossos pecados; e nele não há pecado."
+        },
+        {
+          "verse": 6,
+          "text": "Qualquer que permanece nele não pratica o pecado; qualquer que permanece em pecado não o viu nem o conheceu."
+        },
+        {
+          "verse": 7,
+          "text": "Filhinhos, ninguém vos engane. Quem pratica justiça é justo, assim como ele é justo."
+        },
+        {
+          "verse": 8,
+          "text": "Quem pratica o pecado é do diabo; porque o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou: Para desfazer as obras do diabo."
+        },
+        {
+          "verse": 9,
+          "text": "Qualquer que é nascido de Deus não permanece em pecado; porque a sua semente permanece nele; e não pode pecar, porque é nascido de Deus."
+        },
+        {
+          "verse": 10,
+          "text": "Nisto são manifestos os filhos de Deus, e os filhos do diabo. Qualquer que não pratica a justiça, e não ama a seu irmão, não é de Deus."
+        },
+        {
+          "verse": 11,
+          "text": "Porque esta é a mensagem que ouvistes desde o princípio: Que nos amemos uns aos outros."
+        },
+        {
+          "verse": 12,
+          "text": "Não como Caim, que era do maligno, e matou a seu irmão. E por que causa o matou? Porque as suas obras eram más e as de seu irmão justas."
+        },
+        {
+          "verse": 13,
+          "text": "Meus irmãos, não vos maravilheis, se o mundo vos odeia."
+        },
+        {
+          "verse": 14,
+          "text": "Nós sabemos que passamos da morte para a vida, porque amamos os irmãos. Quem não ama a seu irmão permanece na morte."
+        },
+        {
+          "verse": 15,
+          "text": "Qualquer que odeia a seu irmão é homicida. E vós sabeis que nenhum homicida tem a vida eterna permanecendo nele."
+        },
+        {
+          "verse": 16,
+          "text": "Conhecemos o amor nisto: que ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos."
+        },
+        {
+          "verse": 17,
+          "text": "Quem, pois, tiver bens do mundo, e, vendo o seu irmão necessitado, lhe cerrar as suas entranhas, como reside nele o amor de Deus?"
+        },
+        {
+          "verse": 18,
+          "text": "Meus filhinhos, não amemos de palavra, nem de língua, mas em obra e em verdade."
+        },
+        {
+          "verse": 19,
+          "text": "E nisto conhecemos que somos da verdade, e diante dele estaremos seguros em nossos corações;"
+        },
+        {
+          "verse": 20,
+          "text": "Porque, se o nosso coração nos condena, maior é Deus do que o nosso coração, e conhece todas as coisas."
+        },
+        {
+          "verse": 21,
+          "text": "Amados, se o nosso coração não nos condena, temos confiança para com Deus;"
+        },
+        {
+          "verse": 22,
+          "text": "E qualquer coisa que lhe pedirmos, dele a receberemos, porque guardamos os seus mandamentos, e fazemos o que é agradável à sua vista."
+        },
+        {
+          "verse": 23,
+          "text": "E o seu mandamento é este: Que creiamos no nome de seu Filho Jesus Cristo, e nos amemos uns aos outros, segundo nos deu mandamento."
+        },
+        {
+          "verse": 24,
+          "text": "E aquele que guarda os seus mandamentos nele está, e ele nele. E nisto conhecemos que ele está em nós, pelo Espírito que nos tem dado."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Amados, não creiais a todo o espírito, mas provai se os espíritos são de Deus, porque já muitos falsos profetas se têm levantado no mundo."
+        },
+        {
+          "verse": 2,
+          "text": "Nisto conhecereis o Espírito de Deus: Todo o espírito que confessa que Jesus Cristo veio em carne é de Deus;"
+        },
+        {
+          "verse": 3,
+          "text": "E todo o espírito que não confessa que Jesus Cristo veio em carne não é de Deus; mas este é o espírito do anticristo, do qual já ouvistes que há de vir, e eis que já agora está no mundo."
+        },
+        {
+          "verse": 4,
+          "text": "Filhinhos, sois de Deus, e já os tendes vencido; porque maior é o que está em vós do que o que está no mundo."
+        },
+        {
+          "verse": 5,
+          "text": "Do mundo são, por isso falam do mundo, e o mundo os ouve."
+        },
+        {
+          "verse": 6,
+          "text": "Nós somos de Deus; aquele que conhece a Deus ouve-nos; aquele que não é de Deus não nos ouve. Nisto conhecemos nós o espírito da verdade e o espírito do erro."
+        },
+        {
+          "verse": 7,
+          "text": "Amados, amemo-nos uns aos outros; porque o amor é de Deus; e qualquer que ama é nascido de Deus e conhece a Deus."
+        },
+        {
+          "verse": 8,
+          "text": "Aquele que não ama não conhece a Deus; porque Deus é amor."
+        },
+        {
+          "verse": 9,
+          "text": "Nisto se manifestou o amor de Deus para conosco: Que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos."
+        },
+        {
+          "verse": 10,
+          "text": "Nisto está o amor, não em que nós tenhamos amado a Deus, mas em que ele nos amou a nós, e enviou seu Filho para propiciação pelos nossos pecados."
+        },
+        {
+          "verse": 11,
+          "text": "Amados, se Deus assim nos amou, também nós devemos amar uns aos outros."
+        },
+        {
+          "verse": 12,
+          "text": "Ninguém jamais viu a Deus; se nos amamos uns aos outros, Deus está em nós, e em nós é perfeito o seu amor."
+        },
+        {
+          "verse": 13,
+          "text": "Nisto conhecemos que estamos nele, e ele em nós, pois que nos deu do seu Espírito."
+        },
+        {
+          "verse": 14,
+          "text": "E vimos, e testificamos que o Pai enviou seu Filho para Salvador do mundo."
+        },
+        {
+          "verse": 15,
+          "text": "Qualquer que confessar que Jesus é o Filho de Deus, Deus está nele, e ele em Deus."
+        },
+        {
+          "verse": 16,
+          "text": "E nós conhecemos, e cremos no amor que Deus nos tem. Deus é amor; e quem está em amor está em Deus, e Deus nele."
+        },
+        {
+          "verse": 17,
+          "text": "Nisto é perfeito o amor para conosco, para que no dia do juízo tenhamos confiança; porque, qual ele é, somos nós também neste mundo."
+        },
+        {
+          "verse": 18,
+          "text": "No amor não há temor, antes o perfeito amor lança fora o temor; porque o temor tem consigo a pena, e o que teme não é perfeito em amor."
+        },
+        {
+          "verse": 19,
+          "text": "Nós o amamos porque ele nos amou primeiro."
+        },
+        {
+          "verse": 20,
+          "text": "Se alguém diz: Eu amo a Deus, e odeia a seu irmão, é mentiroso. Pois quem não ama a seu irmão, ao qual viu, como pode amar a Deus, a quem não viu?"
+        },
+        {
+          "verse": 21,
+          "text": "E dele temos este mandamento: Que quem ama a Deus, ame também a seu irmão."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Todo aquele que crê que Jesus é o Cristo, é nascido de Deus; e todo aquele que ama ao que o gerou também ama ao que dele é nascido."
+        },
+        {
+          "verse": 2,
+          "text": "Nisto conhecemos que amamos os filhos de Deus, quando amamos a Deus e guardamos os seus mandamentos."
+        },
+        {
+          "verse": 3,
+          "text": "Porque este é o amor de Deus: Que guardemos os seus mandamentos; e os seus mandamentos não são pesados."
+        },
+        {
+          "verse": 4,
+          "text": "Porque todo o que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo, a nossa fé."
+        },
+        {
+          "verse": 5,
+          "text": "Quem é que vence o mundo, senão aquele que crê que Jesus é o Filho de Deus?"
+        },
+        {
+          "verse": 6,
+          "text": "Este é aquele que veio por água e sangue, isto é, Jesus Cristo; não só por água, mas por água e por sangue. E o Espírito é o que testifica, porque o Espírito é a verdade."
+        },
+        {
+          "verse": 7,
+          "text": "Porque três são os que testificam no céu: o Pai, a Palavra, e o Espírito Santo; e estes três são um."
+        },
+        {
+          "verse": 8,
+          "text": "E três são os que testificam na terra: o Espírito, e a água e o sangue; e estes três concordam num."
+        },
+        {
+          "verse": 9,
+          "text": "Se recebemos o testemunho dos homens, o testemunho de Deus é maior; porque o testemunho de Deus é este, que de seu Filho testificou."
+        },
+        {
+          "verse": 10,
+          "text": "Quem crê no Filho de Deus, em si mesmo tem o testemunho; quem a Deus não crê mentiroso o fez, porquanto não creu no testemunho que Deus de seu Filho deu."
+        },
+        {
+          "verse": 11,
+          "text": "E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está em seu Filho."
+        },
+        {
+          "verse": 12,
+          "text": "Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida."
+        },
+        {
+          "verse": 13,
+          "text": "Estas coisas vos escrevi, os que credes no nome do Filho de Deus, para que saibais que tendes a vida eterna, e para que creiais no nome do Filho de Deus."
+        },
+        {
+          "verse": 14,
+          "text": "E esta é a confiança que temos nele, que, se pedirmos alguma coisa, segundo a sua vontade, ele nos ouve."
+        },
+        {
+          "verse": 15,
+          "text": "E, se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as petições que lhe fizemos."
+        },
+        {
+          "verse": 16,
+          "text": "Se alguém vir pecar seu irmão, pecado que não é para morte, orará, e Deus lhe dará a vida, àqueles que não pecarem para morte. Há pecado para morte, e por esse não digo que ore."
+        },
+        {
+          "verse": 17,
+          "text": "Toda a iniquidade é pecado, e há pecado que não é para morte."
+        },
+        {
+          "verse": 18,
+          "text": "Sabemos que todo aquele que é nascido de Deus não peca; mas o que de Deus é gerado conserva-se a si mesmo, e o maligno não lhe toca."
+        },
+        {
+          "verse": 19,
+          "text": "Sabemos que somos de Deus, e que todo o mundo jaz no maligno."
+        },
+        {
+          "verse": 20,
+          "text": "E sabemos que já o Filho de Deus é vindo, e nos deu entendimento para que conheçamos ao Verdadeiro; e no que é Verdadeiro estamos, isto é, em seu Filho Jesus Cristo. Este é o verdadeiro Deus e a vida eterna."
+        },
+        {
+          "verse": 21,
+          "text": "Filhinhos, guardai-vos dos ídolos. Amém."
+        }
+      ]
+    }
+  ]
 };
-            
