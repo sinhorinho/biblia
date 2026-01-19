@@ -33,6 +33,28 @@ window.addEventListener('load', () => {
             displayChapter();
         }
 
+        // Font Size Logic
+        const btnIncrease = document.getElementById('btn-increase');
+        const btnDecrease = document.getElementById('btn-decrease');
+        let currentFontSize = 18; // Default size in pixels
+
+        // Set initial font size
+        contentDiv.style.fontSize = `${currentFontSize}px`;
+
+        if (btnIncrease && btnDecrease) {
+            btnIncrease.addEventListener('click', () => {
+                currentFontSize += 2;
+                contentDiv.style.fontSize = `${currentFontSize}px`;
+            });
+
+            btnDecrease.addEventListener('click', () => {
+                if (currentFontSize > 10) { // Minimum readable size
+                    currentFontSize -= 2;
+                    contentDiv.style.fontSize = `${currentFontSize}px`;
+                }
+            });
+        }
+
         // Adiciona os event listeners após a inicialização
         bookSelect.addEventListener('change', () => {
             populateChapterSelect(bookSelect.value);

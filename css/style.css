@@ -14,6 +14,10 @@ header {
     color: #fff;
     padding: 1rem 0;
     text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 header h1 {
@@ -26,6 +30,7 @@ nav {
     justify-content: center;
     gap: 1rem;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 nav label {
@@ -37,6 +42,27 @@ nav select {
     border-radius: 4px;
     border: 1px solid #ccc;
     font-size: 1rem;
+}
+
+.font-controls {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.font-controls button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #555;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.font-controls button:hover {
+    background-color: #777;
 }
 
 main {
@@ -52,7 +78,28 @@ main h2 {
     color: #0056b3;
     border-bottom: 2px solid #eee;
     padding-bottom: 10px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
     margin-top: 0;
+}
+
+/* Responsiveness */
+@media (max-width: 600px) {
+    nav {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    nav select,
+    .font-controls button {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    main {
+        padding: 15px;
+        margin: 10px auto;
+    }
 }
 
 main p {
@@ -60,7 +107,8 @@ main p {
 }
 
 /* Basic styling for markdown converted elements */
-main ul, main ol {
+main ul,
+main ol {
     margin-left: 20px;
     margin-bottom: 1em;
 }
