@@ -1,4 +1,4 @@
-if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['jo'] = {
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['joao'] = {
   "book": "joao",
   "name": "João",
   "chapters": [
