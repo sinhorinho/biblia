@@ -99,10 +99,17 @@ window.addEventListener('load', () => {
         chapterSelect.innerHTML = ''; // Limpa capítulos anteriores
         if (bookCode && window.bibleData[bookCode]) {
             const bookData = window.bibleData[bookCode];
-            bookData.chapters.forEach(chapterObj => {
+            bookData.chapters.forEach((chapterData, index) => {
                 const option = document.createElement('option');
-                option.value = chapterObj.chapter;
-                option.textContent = `Capítulo ${chapterObj.chapter}`;
+                if (Array.isArray(chapterData)) {
+                    // New format: Index + 1 is the chapter number
+                    option.value = index + 1;
+                    option.textContent = `Capítulo ${index + 1}`;
+                } else {
+                    // Old format: Object with .chapter property
+                    option.value = chapterData.chapter;
+                    option.textContent = `Capítulo ${chapterData.chapter}`;
+                }
                 chapterSelect.appendChild(option);
             });
         }
@@ -115,16 +122,35 @@ window.addEventListener('load', () => {
         if (selectedBookCode && !isNaN(selectedChapterNum) && window.bibleData[selectedBookCode]) {
             const bookData = window.bibleData[selectedBookCode];
             // Find the correct chapter object in the chapters array
-            const chapterData = bookData.chapters.find(c => c.chapter === selectedChapterNum);
+            if (Array.isArray(bookData.chapters[0])) {
+                // New format: Array of arrays
+                // Arrays are 0-indexed, so Chapter 1 is at index 0
+                const chapterVerses = bookData.chapters[selectedChapterNum - 1];
 
-            if (chapterData) {
-                let chapterHtml = `<h2>${bookData.name} - Capítulo ${chapterData.chapter}</h2>`;
-                chapterData.verses.forEach(verse => {
-                    chapterHtml += `<p><strong>${verse.verse}</strong> ${verse.text}</p>`;
-                });
-                contentDiv.innerHTML = chapterHtml;
+                if (chapterVerses) {
+                    let chapterHtml = `<h2>${bookData.name} - Capítulo ${selectedChapterNum}</h2>`;
+                    chapterVerses.forEach((verseText, index) => {
+                        chapterHtml += `<p><strong>${index + 1}</strong> ${verseText}</p>`;
+                    });
+                    contentDiv.innerHTML = chapterHtml;
+                } else {
+                    contentDiv.innerHTML = '<p>Capítulo não encontrado.</p>';
+                }
+
             } else {
-                contentDiv.innerHTML = '<p>Capítulo não encontrado.</p>';
+                // Old format: Array of objects
+                // Find the correct chapter object in the chapters array
+                const chapterData = bookData.chapters.find(c => c.chapter === selectedChapterNum);
+
+                if (chapterData) {
+                    let chapterHtml = `<h2>${bookData.name} - Capítulo ${chapterData.chapter}</h2>`;
+                    chapterData.verses.forEach(verse => {
+                        chapterHtml += `<p><strong>${verse.verse}</strong> ${verse.text}</p>`;
+                    });
+                    contentDiv.innerHTML = chapterHtml;
+                } else {
+                    contentDiv.innerHTML = '<p>Capítulo não encontrado.</p>';
+                }
             }
         }
     }
