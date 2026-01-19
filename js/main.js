@@ -8,7 +8,6 @@ const CANONICAL_BOOK_ORDER = [
     "1tm", "2tm", "tt", "fm", "hb", "tg", "1pe", "2pe", "1jo", "2jo", "3jo", "jd", "ap"
 ];
 
-// Use o evento 'load' para garantir que todos os scripts de dados foram carregados
 window.addEventListener('load', () => {
     const bookSelect = document.getElementById('book-select');
     const chapterSelect = document.getElementById('chapter-select');
@@ -33,12 +32,10 @@ window.addEventListener('load', () => {
             displayChapter();
         }
 
-        // Font Size Logic
         const btnIncrease = document.getElementById('btn-increase');
         const btnDecrease = document.getElementById('btn-decrease');
         let currentFontSize = 18; // Default size in pixels
 
-        // Set initial font size
         contentDiv.style.fontSize = `${currentFontSize}px`;
 
         if (btnIncrease && btnDecrease) {
@@ -55,7 +52,23 @@ window.addEventListener('load', () => {
             });
         }
 
-        // Adiciona os event listeners após a inicialização
+        const btnTop = document.getElementById('btn-top');
+
+        if (btnTop) {
+            window.onscroll = function () {
+                if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+                    btnTop.style.display = "block";
+                } else {
+                    btnTop.style.display = "none";
+                }
+            };
+
+            btnTop.addEventListener('click', () => {
+                document.body.scrollTop = 0; // For Safari
+                document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+            });
+        }
+
         bookSelect.addEventListener('change', () => {
             populateChapterSelect(bookSelect.value);
             displayChapter();
@@ -64,12 +77,9 @@ window.addEventListener('load', () => {
         chapterSelect.addEventListener('change', displayChapter);
     }
 
-    // Preenche o seletor de livros
     function populateBookSelect() {
-        // Obter todas as chaves de livro disponíveis
         const availableBookCodes = Object.keys(window.bibleData);
 
-        // Filtrar e ordenar os livros disponíveis de acordo com a ordem canônica
         const sortedBookCodes = CANONICAL_BOOK_ORDER.filter(bookCode =>
             availableBookCodes.includes(bookCode)
         ).sort((a, b) => CANONICAL_BOOK_ORDER.indexOf(a) - CANONICAL_BOOK_ORDER.indexOf(b));
@@ -85,7 +95,6 @@ window.addEventListener('load', () => {
         });
     }
 
-    // Preenche o seletor de capítulos com base no livro selecionado
     function populateChapterSelect(bookCode) {
         chapterSelect.innerHTML = ''; // Limpa capítulos anteriores
         if (bookCode && window.bibleData[bookCode]) {
@@ -99,7 +108,6 @@ window.addEventListener('load', () => {
         }
     }
 
-    // Exibe o conteúdo do capítulo selecionado, renderizando o HTML a partir dos dados puros
     function displayChapter() {
         const selectedBookCode = bookSelect.value;
         const selectedChapterNum = parseInt(chapterSelect.value, 10); // Parse to int for matching
