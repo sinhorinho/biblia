@@ -1,213 +1,97 @@
-if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['jo'] = {
+if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.bibleData['jó'] = {
   "book": "jo",
-  "name": "João",
+  "name": "Jó",
   "chapters": [
     {
       "chapter": 1,
       "verses": [
         {
           "verse": 1,
-          "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+          "text": "Havia um homem na terra de Uz, cujo nome era Jó; e era este homem íntegro, reto e temente a Deus e desviava-se do mal."
         },
         {
           "verse": 2,
-          "text": "Ele estava no princípio com Deus."
+          "text": "E nasceram-lhe sete filhos e três filhas."
         },
         {
           "verse": 3,
-          "text": "Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez."
+          "text": "E o seu gado era de sete mil ovelhas, três mil camelos, quinhentas juntas de bois e quinhentas jumentas; eram também muitíssimos os servos a seu serviço, de maneira que este homem era maior do que todos os do oriente."
         },
         {
           "verse": 4,
-          "text": "Nele estava a vida, e a vida era a luz dos homens."
+          "text": "E iam seus filhos à casa uns dos outros e faziam banquetes cada um por sua vez; e mandavam convidar as suas três irmãs a comerem e beberem com eles."
         },
         {
           "verse": 5,
-          "text": "E a luz resplandece nas trevas, e as trevas não a compreenderam."
+          "text": "Sucedia, pois, que, decorrido o turno de dias de seus banquetes, enviava Jó, e os santificava, e se levantava de madrugada, e oferecia holocaustos segundo o número de todos eles; porque dizia Jó: Porventura pecaram meus filhos, e amaldiçoaram a Deus no seu coração. Assim fazia Jó continuamente."
         },
         {
           "verse": 6,
-          "text": "Houve um homem enviado de Deus, cujo nome era João."
+          "text": "E num dia em que os filhos de Deus vieram apresentar-se perante o Senhor, veio também Satanás entre eles."
         },
         {
           "verse": 7,
-          "text": "Este veio para testemunho, para que testificasse da luz, para que todos cressem por ele."
+          "text": "Então o Senhor disse a Satanás: Donde vens? E Satanás respondeu ao Senhor, e disse: De rodear a terra, e passear por ela."
         },
         {
           "verse": 8,
-          "text": "Não era ele a luz, mas para que testificasse da luz."
+          "text": "E disse o Senhor a Satanás: Observaste tu a meu servo Jó? Porque ninguém há na terra semelhante a ele, homem íntegro e reto, temente a Deus, e que se desvia do mal."
         },
         {
           "verse": 9,
-          "text": "Ali estava a luz verdadeira, que ilumina a todo o homem que vem ao mundo."
+          "text": "Então respondeu Satanás ao Senhor, e disse: Porventura teme Jó a Deus em vão?"
         },
         {
           "verse": 10,
-          "text": "Estava no mundo, e o mundo foi feito por ele, e o mundo não o conheceu."
+          "text": "Porventura tu não cercaste de sebe, a ele, e a sua casa, e a tudo quanto tem? A obra de suas mãos abençoaste e o seu gado se tem aumentado na terra."
         },
         {
           "verse": 11,
-          "text": "Veio para o que era seu, e os seus não o receberam."
+          "text": "Mas estende a tua mão, e toca-lhe em tudo quanto tem, e verás se não blasfema contra ti na tua face."
         },
         {
           "verse": 12,
-          "text": "Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que creem no seu nome;"
+          "text": "E disse o Senhor a Satanás: Eis que tudo quanto ele tem está na tua mão; somente contra ele não estendas a tua mão. E Satanás saiu da presença do Senhor."
         },
         {
           "verse": 13,
-          "text": "Os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus."
+          "text": "E sucedeu um dia, em que seus filhos e suas filhas comiam, e bebiam vinho, na casa de seu irmão primogênito,"
         },
         {
           "verse": 14,
-          "text": "E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade."
+          "text": "Que veio um mensageiro a Jó, e lhe disse: Os bois lavravam, e as jumentas pastavam junto a eles;"
         },
         {
           "verse": 15,
-          "text": "João testificou dele, e clamou, dizendo: Este era aquele de quem eu dizia: O que vem após mim é antes de mim, porque foi primeiro do que eu."
+          "text": "E deram sobre eles os sabeus, e os tomaram, e aos servos feriram ao fio da espada; e só eu escapei para trazer-te a nova."
         },
         {
           "verse": 16,
-          "text": "E todos nós recebemos também da sua plenitude, e graça por graça."
+          "text": "Estando este ainda falando, veio outro e disse: Fogo de Deus caiu do céu, e queimou as ovelhas e os servos, e os consumiu, e só eu escapei para trazer-te a nova."
         },
         {
           "verse": 17,
-          "text": "Porque a lei foi dada por Moisés; a graça e a verdade vieram por Jesus Cristo."
+          "text": "Estando ainda este falando, veio outro, e disse: Ordenando os caldeus três tropas, deram sobre os camelos, e os tomaram, e aos servos feriram ao fio da espada; e só eu escapei para trazer-te a nova."
         },
         {
           "verse": 18,
-          "text": "Deus nunca foi visto por alguém. O Filho unigênito, que está no seio do Pai, esse o revelou."
+          "text": "Estando ainda este falando, veio outro, e disse: Estando teus filhos e tuas filhas comendo e bebendo vinho, em casa de seu irmão primogênito,"
         },
         {
           "verse": 19,
-          "text": "E este é o testemunho de João, quando os judeus mandaram de Jerusalém sacerdotes e levitas para que lhe perguntassem: Quem és tu?"
+          "text": "Eis que um grande vento sobreveio dalém do deserto, e deu nos quatro cantos da casa, que caiu sobre os jovens, e morreram; e só eu escapei para trazer-te a nova."
         },
         {
           "verse": 20,
-          "text": "E confessou, e não negou; confessou: Eu não sou o Cristo."
+          "text": "Então Jó se levantou, e rasgou o seu manto, e rapou a sua cabeça, e se lançou em terra, e adorou."
         },
         {
           "verse": 21,
-          "text": "E perguntaram-lhe: Então quê? És tu Elias? E disse: Não sou. És tu o profeta? E respondeu: Não."
+          "text": "E disse: Nu saí do ventre de minha mãe e nu tornarei para lá; o Senhor o deu, e o Senhor o tomou: bendito seja o nome do Senhor."
         },
         {
           "verse": 22,
-          "text": "Disseram-lhe pois: Quem és? Para que demos resposta àqueles que nos enviaram; que dizes de ti mesmo?"
-        },
-        {
-          "verse": 23,
-          "text": "Disse: Eu sou a voz do que clama no deserto: Endireitai o caminho do Senhor, como disse o profeta Isaías."
-        },
-        {
-          "verse": 24,
-          "text": "E os que tinham sido enviados eram dos fariseus."
-        },
-        {
-          "verse": 25,
-          "text": "E perguntaram-lhe, e disseram-lhe: Por que batizas, pois, se tu não és o Cristo, nem Elias, nem o Profeta?"
-        },
-        {
-          "verse": 26,
-          "text": "João respondeu-lhes, dizendo: Eu batizo com água; mas no meio de vós está um a quem vós não conheceis."
-        },
-        {
-          "verse": 27,
-          "text": "Este é aquele que vem após mim, que é antes de mim, do qual eu não sou digno de desatar-lhe a correia da sandália."
-        },
-        {
-          "verse": 28,
-          "text": "Estas coisas aconteceram em Betabara, do outro lado do Jordão, onde João estava batizando."
-        },
-        {
-          "verse": 29,
-          "text": "No dia seguinte João viu a Jesus, que vinha para ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo."
-        },
-        {
-          "verse": 30,
-          "text": "Este é aquele do qual eu disse: Após mim vem um homem que é antes de mim, porque foi primeiro do que eu."
-        },
-        {
-          "verse": 31,
-          "text": "E eu não o conhecia; mas, para que ele fosse manifestado a Israel, vim eu, por isso, batizando com água."
-        },
-        {
-          "verse": 32,
-          "text": "E João testificou, dizendo: Eu vi o Espírito descer do céu como pomba, e repousar sobre ele."
-        },
-        {
-          "verse": 33,
-          "text": "E eu não o conhecia, mas o que me mandou a batizar com água, esse me disse: Sobre aquele que vires descer o Espírito, e sobre ele repousar, esse é o que batiza com o Espírito Santo."
-        },
-        {
-          "verse": 34,
-          "text": "E eu vi, e tenho testificado que este é o Filho de Deus."
-        },
-        {
-          "verse": 35,
-          "text": "No dia seguinte João estava outra vez ali, e dois dos seus discípulos;"
-        },
-        {
-          "verse": 36,
-          "text": "E, vendo passar a Jesus, disse: Eis aqui o Cordeiro de Deus."
-        },
-        {
-          "verse": 37,
-          "text": "E os dois discípulos ouviram-no dizer isto, e seguiram a Jesus."
-        },
-        {
-          "verse": 38,
-          "text": "E Jesus, voltando-se e vendo que eles o seguiam, disse-lhes: Que buscais? E eles disseram: Rabi (que, traduzido, quer dizer Mestre), onde moras?"
-        },
-        {
-          "verse": 39,
-          "text": "Ele lhes disse: Vinde, e vede. Foram, e viram onde morava, e ficaram com ele aquele dia; e era já quase a hora décima."
-        },
-        {
-          "verse": 40,
-          "text": "Era André, irmão de Simão Pedro, um dos dois que ouviram aquilo de João, e o haviam seguido."
-        },
-        {
-          "verse": 41,
-          "text": "Este achou primeiro a seu irmão Simão, e disse-lhe: Achamos o Messias (que, traduzido, é o Cristo)."
-        },
-        {
-          "verse": 42,
-          "text": "E levou-o a Jesus. E, olhando Jesus para ele, disse: Tu és Simão, filho de Jonas; tu serás chamado Cefas (que quer dizer Pedro)."
-        },
-        {
-          "verse": 43,
-          "text": "No dia seguinte quis Jesus ir à Galileia, e achou a Filipe, e disse-lhe: Segue-me."
-        },
-        {
-          "verse": 44,
-          "text": "E Filipe era de Betsaida, cidade de André e de Pedro."
-        },
-        {
-          "verse": 45,
-          "text": "Filipe achou Natanael, e disse-lhe: Havemos achado aquele de quem Moisés escreveu na lei, e os profetas: Jesus de Nazaré, filho de José."
-        },
-        {
-          "verse": 46,
-          "text": "Disse-lhe Natanael: Pode vir alguma coisa boa de Nazaré? Disse-lhe Filipe: Vem, e vê."
-        },
-        {
-          "verse": 47,
-          "text": "Jesus viu Natanael vir ter com ele, e disse dele: Eis aqui um verdadeiro israelita, em quem não há dolo."
-        },
-        {
-          "verse": 48,
-          "text": "Disse-lhe Natanael: De onde me conheces tu? Jesus respondeu, e disse-lhe: Antes que Filipe te chamasse, te vi eu, estando tu debaixo da figueira."
-        },
-        {
-          "verse": 49,
-          "text": "Natanael respondeu, e disse-lhe: Rabi, tu és o Filho de Deus; tu és o Rei de Israel."
-        },
-        {
-          "verse": 50,
-          "text": "Jesus respondeu, e disse-lhe: Porque te disse: Vi-te debaixo da figueira, crês? Coisas maiores do que estas verás."
-        },
-        {
-          "verse": 51,
-          "text": "E disse-lhe: Na verdade, na verdade vos digo que daqui em diante vereis o céu aberto, e os anjos de Deus subindo e descendo sobre o Filho do homem."
+          "text": "Em tudo isto Jó não pecou, nem atribuiu a Deus falta alguma."
         }
       ]
     },
@@ -216,103 +100,55 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "E, ao terceiro dia, fizeram-se umas bodas em Caná da Galileia; e estava ali a mãe de Jesus."
+          "text": "E, vindo outro dia, em que os filhos de Deus vieram apresentar-se perante o Senhor, veio também Satanás entre eles, apresentar-se perante o Senhor."
         },
         {
           "verse": 2,
-          "text": "E foi também convidado Jesus e os seus discípulos para as bodas."
+          "text": "Então o Senhor disse a Satanás: Donde vens? E respondeu Satanás ao Senhor, e disse: De rodear a terra, e passear por ela."
         },
         {
           "verse": 3,
-          "text": "E, faltando vinho, a mãe de Jesus lhe disse: Não têm vinho."
+          "text": "E disse o Senhor a Satanás: Observaste o meu servo Jó? Porque ninguém há na terra semelhante a ele, homem íntegro e reto, temente a Deus e que se desvia do mal, e que ainda retém a sua sinceridade, havendo-me tu incitado contra ele, para o consumir sem causa."
         },
         {
           "verse": 4,
-          "text": "Disse-lhe Jesus: Mulher, que tenho eu contigo? Ainda não é chegada a minha hora."
+          "text": "Então Satanás respondeu ao Senhor, e disse: Pele por pele, e tudo quanto o homem tem dará pela sua vida."
         },
         {
           "verse": 5,
-          "text": "Sua mãe disse aos serventes: Fazei tudo quanto ele vos disser."
+          "text": "Porém estende a tua mão, e toca-lhe nos ossos, e na carne, e verás se não blasfema contra ti na tua face!"
         },
         {
           "verse": 6,
-          "text": "E estavam ali postas seis talhas de pedra, para as purificações dos judeus, e em cada uma cabiam dois ou três almudes."
+          "text": "E disse o Senhor a Satanás: Eis que ele está na tua mão; porém guarda a sua vida."
         },
         {
           "verse": 7,
-          "text": "Disse-lhes Jesus: Enchei de água essas talhas. E encheram-nas até em cima."
+          "text": "Então saiu Satanás da presença do Senhor, e feriu a Jó de úlceras malignas, desde a planta do pé até ao alto da cabeça."
         },
         {
           "verse": 8,
-          "text": "E disse-lhes: Tirai agora, e levai ao mestre-sala. E levaram."
+          "text": "E Jó tomou um caco para se raspar com ele; e estava assentado no meio da cinza."
         },
         {
           "verse": 9,
-          "text": "E, logo que o mestre-sala provou a água feita vinho (não sabendo de onde viera, se bem que o sabiam os serventes que tinham tirado a água), chamou o mestre-sala ao esposo,"
+          "text": "Então sua mulher lhe disse: Ainda reténs a tua sinceridade? Amaldiçoa a Deus, e morre."
         },
         {
           "verse": 10,
-          "text": "E disse-lhe: Todo o homem põe primeiro o vinho bom e, quando já têm bebido bem, então o inferior; mas tu guardaste até agora o bom vinho."
+          "text": "Porém ele lhe disse: Como fala qualquer doida, falas tu; receberemos o bem de Deus, e não receberíamos o mal? Em tudo isto não pecou Jó com os seus lábios."
         },
         {
           "verse": 11,
-          "text": "Jesus principiou assim os seus sinais em Caná da Galileia, e manifestou a sua glória; e os seus discípulos creram nele."
+          "text": "Ouvindo, pois, três amigos de Jó todo este mal que tinha vindo sobre ele, vieram cada um do seu lugar: Elifaz o temanita, e Bildade o suíta, e Zofar o naamatita; e combinaram condoer-se dele, para o consolarem."
         },
         {
           "verse": 12,
-          "text": "Depois disto desceu a Cafarnaum, ele, e sua mãe, e seus irmãos, e seus discípulos; e ficaram ali não muitos dias."
+          "text": "E, levantando de longe os seus olhos, não o conheceram; e levantaram a sua voz e choraram, e rasgaram cada um o seu manto, e sobre as suas cabeças lançaram pó ao ar."
         },
         {
           "verse": 13,
-          "text": "E estava próxima a páscoa dos judeus, e Jesus subiu a Jerusalém."
-        },
-        {
-          "verse": 14,
-          "text": "E achou no templo os que vendiam bois, e ovelhas, e pombos, e os cambistas assentados."
-        },
-        {
-          "verse": 15,
-          "text": "E tendo feito um açoite de cordões, lançou todos fora do templo, também os bois e ovelhas; e espalhou o dinheiro dos cambistas, e derrubou as mesas;"
-        },
-        {
-          "verse": 16,
-          "text": "E disse aos que vendiam pombos: Tirai daqui estes, e não façais da casa de meu Pai casa de venda."
-        },
-        {
-          "verse": 17,
-          "text": "E os seus discípulos lembraram-se do que está escrito: O zelo da tua casa me devorou."
-        },
-        {
-          "verse": 18,
-          "text": "Responderam, pois, os judeus, e disseram-lhe: Que sinal nos mostras para fazeres isto?"
-        },
-        {
-          "verse": 19,
-          "text": "Jesus respondeu, e disse-lhes: Destruí este templo, e em três dias o levantarei."
-        },
-        {
-          "verse": 20,
-          "text": "Disseram, pois, os judeus: Em quarenta e seis anos foi edificado este templo, e tu o levantarás em três dias?"
-        },
-        {
-          "verse": 21,
-          "text": "Mas ele falava do templo do seu corpo."
-        },
-        {
-          "verse": 22,
-          "text": "Quando, pois, ressuscitou dentre os mortos, os seus discípulos lembraram-se de que lhes dissera isto; e creram na Escritura, e na palavra que Jesus tinha dito."
-        },
-        {
-          "verse": 23,
-          "text": "E, estando ele em Jerusalém pela páscoa, durante a festa, muitos, vendo os sinais que fazia, creram no seu nome."
-        },
-        {
-          "verse": 24,
-          "text": "Mas o mesmo Jesus não confiava neles, porque a todos conhecia;"
-        },
-        {
-          "verse": 25,
-          "text": "E não necessitava de que alguém testificasse do homem, porque ele bem sabia o que havia no homem."
+          "text": "E assentaram-se com ele na terra, sete dias e sete noites; e nenhum lhe dizia palavra alguma, porque viam que a dor era muito grande."
         }
       ]
     },
@@ -321,147 +157,107 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "E havia entre os fariseus um homem, chamado Nicodemos, príncipe dos judeus."
+          "text": "Depois disto abriu Jó a sua boca, e amaldiçoou o seu dia."
         },
         {
           "verse": 2,
-          "text": "Este foi ter de noite com Jesus, e disse-lhe: Rabi, bem sabemos que és Mestre, vindo de Deus; porque ninguém pode fazer estes sinais que tu fazes, se Deus não for com ele."
+          "text": "E Jó, falando, disse:"
         },
         {
           "verse": 3,
-          "text": "Jesus respondeu, e disse-lhe: Na verdade, na verdade te digo que aquele que não nascer de novo, não pode ver o reino de Deus."
+          "text": "Pereça o dia em que nasci, e a noite em que se disse: Foi concebido um homem!"
         },
         {
           "verse": 4,
-          "text": "Disse-lhe Nicodemos: Como pode um homem nascer, sendo velho? Pode, porventura, tornar a entrar no ventre de sua mãe, e nascer?"
+          "text": "Converta-se aquele dia em trevas; e Deus, lá de cima, não tenha cuidado dele, nem resplandeça sobre ele a luz."
         },
         {
           "verse": 5,
-          "text": "Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito, não pode entrar no reino de Deus."
+          "text": "Contaminem-no as trevas e a sombra da morte; habitem sobre ele nuvens; a escuridão do dia o espante!"
         },
         {
           "verse": 6,
-          "text": "O que é nascido da carne é carne, e o que é nascido do Espírito é espírito."
+          "text": "Quanto àquela noite, dela se apodere a escuridão; e não se regozije ela entre os dias do ano; e não entre no número dos meses!"
         },
         {
           "verse": 7,
-          "text": "Não te maravilhes de te ter dito: Necessário vos é nascer de novo."
+          "text": "Ah! Que solitária seja aquela noite, e nela não entre voz de júbilo!"
         },
         {
           "verse": 8,
-          "text": "O vento assopra onde quer, e ouves a sua voz, mas não sabes de onde vem, nem para onde vai; assim é todo aquele que é nascido do Espírito."
+          "text": "Amaldiçoem-na aqueles que amaldiçoam o dia, que estão prontos para suscitar o seu pranto."
         },
         {
           "verse": 9,
-          "text": "Nicodemos respondeu, e disse-lhe: Como pode ser isso?"
+          "text": "Escureçam-se as estrelas do seu crepúsculo; que espere a luz, e não venha; e não veja as pálpebras da alva;"
         },
         {
           "verse": 10,
-          "text": "Jesus respondeu, e disse-lhe: Tu és mestre de Israel, e não sabes isto?"
+          "text": "Porque não fechou as portas do ventre; nem escondeu dos meus olhos a canseira."
         },
         {
           "verse": 11,
-          "text": "Na verdade, na verdade te digo que nós dizemos o que sabemos, e testificamos o que vimos; e não aceitais o nosso testemunho."
+          "text": "Por que não morri eu desde a madre? E em saindo do ventre, não expirei?"
         },
         {
           "verse": 12,
-          "text": "Se vos falei de coisas terrestres, e não crestes, como crereis, se vos falar das celestiais?"
+          "text": "Por que me receberam os joelhos? E por que os peitos, para que mamasse?"
         },
         {
           "verse": 13,
-          "text": "Ora, ninguém subiu ao céu, senão o que desceu do céu, o Filho do homem, que está no céu."
+          "text": "Porque já agora jazeria e repousaria; dormiria, e então haveria repouso para mim."
         },
         {
           "verse": 14,
-          "text": "E, como Moisés levantou a serpente no deserto, assim importa que o Filho do homem seja levantado;"
+          "text": "Com os reis e conselheiros da terra, que para si edificam casas nos lugares assolados,"
         },
         {
           "verse": 15,
-          "text": "Para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+          "text": "Ou com os príncipes que possuem ouro, que enchem as suas casas de prata,"
         },
         {
           "verse": 16,
-          "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+          "text": "Ou como aborto oculto, não existiria; como as crianças que não viram a luz."
         },
         {
           "verse": 17,
-          "text": "Porque Deus enviou o seu Filho ao mundo, não para que condenasse o mundo, mas para que o mundo fosse salvo por ele."
+          "text": "Ali os maus cessam de perturbar; e ali repousam os cansados."
         },
         {
           "verse": 18,
-          "text": "Quem crê nele não é condenado; mas quem não crê já está condenado, porquanto não crê no nome do unigênito Filho de Deus."
+          "text": "Ali os presos juntamente repousam, e não ouvem a voz do exator."
         },
         {
           "verse": 19,
-          "text": "E a condenação é esta: Que a luz veio ao mundo, e os homens amaram mais as trevas do que a luz, porque as suas obras eram más."
+          "text": "Ali está o pequeno e o grande, e o servo livre de seu senhor."
         },
         {
           "verse": 20,
-          "text": "Porque todo aquele que faz o mal odeia a luz, e não vem para a luz, para que as suas obras não sejam reprovadas."
+          "text": "Por que se dá luz ao miserável, e vida aos amargurados de ânimo?"
         },
         {
           "verse": 21,
-          "text": "Mas quem pratica a verdade vem para a luz, a fim de que as suas obras sejam manifestas, porque são feitas em Deus."
+          "text": "Que esperam a morte, e ela não vem; e cavam em procura dela mais do que de tesouros ocultos;"
         },
         {
           "verse": 22,
-          "text": "Depois disto foi Jesus com os seus discípulos para a terra da Judeia; e estava ali com eles, e batizava."
+          "text": "Que de alegria saltam, e exultam, achando a sepultura?"
         },
         {
           "verse": 23,
-          "text": "Ora, João batizava também em Enom, junto a Salim, porque havia ali muitas águas; e vinham ali, e eram batizados."
+          "text": "Por que se dá luz ao homem, cujo caminho é oculto, e a quem Deus o encobriu?"
         },
         {
           "verse": 24,
-          "text": "Porque ainda João não tinha sido lançado na prisão."
+          "text": "Porque antes do meu pão vem o meu suspiro; e os meus gemidos se derramam como água."
         },
         {
           "verse": 25,
-          "text": "Houve então uma questão entre os discípulos de João e os judeus acerca da purificação."
+          "text": "Porque aquilo que temia me sobreveio; e o que receava me aconteceu."
         },
         {
           "verse": 26,
-          "text": "E foram ter com João, e disseram-lhe: Rabi, aquele que estava contigo além do Jordão, do qual tu deste testemunho, ei-lo batizando, e todos vão ter com ele."
-        },
-        {
-          "verse": 27,
-          "text": "João respondeu, e disse: O homem não pode receber coisa alguma, se não lhe for dada do céu."
-        },
-        {
-          "verse": 28,
-          "text": "Vós mesmos me sois testemunhas de que disse: Eu não sou o Cristo, mas sou enviado adiante dele."
-        },
-        {
-          "verse": 29,
-          "text": "Aquele que tem a esposa é o esposo; mas o amigo do esposo, que lhe assiste e o ouve, alegra-se muito com a voz do esposo. Assim, pois, já este meu gozo está cumprido."
-        },
-        {
-          "verse": 30,
-          "text": "É necessário que ele cresça e que eu diminua."
-        },
-        {
-          "verse": 31,
-          "text": "Aquele que vem de cima é sobre todos; aquele que vem da terra é da terra e fala da terra. Aquele que vem do céu é sobre todos."
-        },
-        {
-          "verse": 32,
-          "text": "E aquilo que ele viu e ouviu isso testifica; e ninguém aceita o seu testemunho."
-        },
-        {
-          "verse": 33,
-          "text": "Aquele que aceitou o seu testemunho, esse confirmou que Deus é verdadeiro."
-        },
-        {
-          "verse": 34,
-          "text": "Porque aquele que Deus enviou fala as palavras de Deus; pois não lhe dá Deus o Espírito por medida."
-        },
-        {
-          "verse": 35,
-          "text": "O Pai ama o Filho, e todas as coisas entregou nas suas mãos."
-        },
-        {
-          "verse": 36,
-          "text": "Aquele que crê no Filho tem a vida eterna; mas aquele que não crê no Filho não verá a vida, mas a ira de Deus sobre ele permanece."
+          "text": "Nunca estive tranquilo, nem sosseguei, nem repousei, mas veio sobre mim a perturbação."
         }
       ]
     },
@@ -470,219 +266,87 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "E quando o Senhor entendeu que os fariseus tinham ouvido que Jesus fazia e batizava mais discípulos do que João"
+          "text": "Então respondeu Elifaz o temanita, e disse:"
         },
         {
           "verse": 2,
-          "text": "(Ainda que Jesus mesmo não batizava, mas os seus discípulos),"
+          "text": "Se intentarmos falar-te, enfadar-te-ás? Mas quem poderia conter as palavras?"
         },
         {
           "verse": 3,
-          "text": "Deixou a Judeia, e foi outra vez para a Galileia."
+          "text": "Eis que ensinaste a muitos, e tens fortalecido as mãos fracas."
         },
         {
           "verse": 4,
-          "text": "E era-lhe necessário passar por Samaria."
+          "text": "As tuas palavras firmaram os que tropeçavam e os joelhos desfalecentes tens fortalecido."
         },
         {
           "verse": 5,
-          "text": "Foi, pois, a uma cidade de Samaria, chamada Sicar, junto da herdade que Jacó tinha dado a seu filho José."
+          "text": "Mas agora, que se trata de ti, te enfadas; e tocando-te a ti, te perturbas."
         },
         {
           "verse": 6,
-          "text": "E estava ali a fonte de Jacó. Jesus, pois, cansado do caminho, assentou-se assim junto da fonte. Era isto quase à hora sexta."
+          "text": "Porventura não é o teu temor de Deus a tua confiança, e a tua esperança a integridade dos teus caminhos?"
         },
         {
           "verse": 7,
-          "text": "Veio uma mulher de Samaria tirar água. Disse-lhe Jesus: Dá-me de beber."
+          "text": "Lembra-te agora qual é o inocente que jamais pereceu? E onde foram os sinceros destruídos?"
         },
         {
           "verse": 8,
-          "text": "Porque os seus discípulos tinham ido à cidade comprar comida."
+          "text": "Segundo eu tenho visto, os que lavram iniquidade, e semeiam mal, segam o mesmo."
         },
         {
           "verse": 9,
-          "text": "Disse-lhe, pois, a mulher samaritana: Como, sendo tu judeu, me pedes de beber a mim, que sou mulher samaritana? (porque os judeus não se comunicam com os samaritanos)."
+          "text": "Com o hálito de Deus perecem; e com o sopro da sua ira se consomem."
         },
         {
           "verse": 10,
-          "text": "Jesus respondeu, e disse-lhe: Se tu conheceras o dom de Deus, e quem é o que te diz: Dá-me de beber, tu lhe pedirias, e ele te daria água viva."
+          "text": "O rugido do leão, e a voz do leão feroz, e os dentes dos leõezinhos se quebram."
         },
         {
           "verse": 11,
-          "text": "Disse-lhe a mulher: Senhor, tu não tens com que a tirar, e o poço é fundo; onde, pois, tens a água viva?"
+          "text": "Perece o leão velho, porque não tem presa; e os filhos da leoa andam dispersos."
         },
         {
           "verse": 12,
-          "text": "És tu maior do que o nosso pai Jacó, que nos deu o poço, bebendo ele próprio dele, e os seus filhos, e o seu gado?"
+          "text": "Uma coisa me foi trazida em segredo; e os meus ouvidos perceberam um sussurro dela."
         },
         {
           "verse": 13,
-          "text": "Jesus respondeu, e disse-lhe: Qualquer que beber desta água tornará a ter sede;"
+          "text": "Entre pensamentos vindos de visões da noite, quando cai sobre os homens o sono profundo,"
         },
         {
           "verse": 14,
-          "text": "Mas aquele que beber da água que eu lhe der nunca terá sede, porque a água que eu lhe der se fará nele uma fonte de água que salte para a vida eterna."
+          "text": "Sobrevieram-me o espanto e o tremor, e todos os meus ossos estremeceram."
         },
         {
           "verse": 15,
-          "text": "Disse-lhe a mulher: Senhor, dá-me dessa água, para que não mais tenha sede, e não venha aqui tirá-la."
+          "text": "Então um espírito passou por diante de mim; fez-me arrepiar os cabelos da minha carne."
         },
         {
           "verse": 16,
-          "text": "Disse-lhe Jesus: Vai, chama o teu marido, e vem cá."
+          "text": "Parou ele, porém não conheci a sua feição; um vulto estava diante dos meus olhos; houve silêncio, e ouvi uma voz que dizia:"
         },
         {
           "verse": 17,
-          "text": "A mulher respondeu, e disse: Não tenho marido. Disse-lhe Jesus: Disseste bem: Não tenho marido;"
+          "text": "Seria porventura o homem mais justo do que Deus? Seria porventura o homem mais puro do que o seu Criador?"
         },
         {
           "verse": 18,
-          "text": "Porque tiveste cinco maridos, e o que agora tens não é teu marido; isto disseste com verdade."
+          "text": "Eis que ele não confia nos seus servos e aos seus anjos atribui loucura;"
         },
         {
           "verse": 19,
-          "text": "Disse-lhe a mulher: Senhor, vejo que és profeta."
+          "text": "Quanto menos àqueles que habitam em casas de lodo, cujo fundamento está no pó, e são esmagados como a traça!"
         },
         {
           "verse": 20,
-          "text": "Nossos pais adoraram neste monte, e vós dizeis que é em Jerusalém o lugar onde se deve adorar."
+          "text": "Desde a manhã até à tarde são despedaçados; e eternamente perecem sem que disso se faça caso."
         },
         {
           "verse": 21,
-          "text": "Disse-lhe Jesus: Mulher, crê-me que a hora vem, em que nem neste monte nem em Jerusalém adorareis o Pai."
-        },
-        {
-          "verse": 22,
-          "text": "Vós adorais o que não sabeis; nós adoramos o que sabemos porque a salvação vem dos judeus."
-        },
-        {
-          "verse": 23,
-          "text": "Mas a hora vem, e agora é, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade; porque o Pai procura a tais que assim o adorem."
-        },
-        {
-          "verse": 24,
-          "text": "Deus é Espírito, e importa que os que o adoram o adorem em espírito e em verdade."
-        },
-        {
-          "verse": 25,
-          "text": "A mulher disse-lhe: Eu sei que o Messias (que se chama o Cristo) vem; quando ele vier, nos anunciará tudo."
-        },
-        {
-          "verse": 26,
-          "text": "Jesus disse-lhe: Eu o sou, eu que falo contigo."
-        },
-        {
-          "verse": 27,
-          "text": "E nisto vieram os seus discípulos, e maravilharam-se de que estivesse falando com uma mulher; todavia nenhum lhe disse: Que perguntas? Ou: Por que falas com ela?"
-        },
-        {
-          "verse": 28,
-          "text": "Deixou, pois, a mulher o seu cântaro, e foi à cidade, e disse àqueles homens:"
-        },
-        {
-          "verse": 29,
-          "text": "Vinde, vede um homem que me disse tudo quanto tenho feito. Porventura não é este o Cristo?"
-        },
-        {
-          "verse": 30,
-          "text": "Saíram, pois, da cidade, e foram ter com ele."
-        },
-        {
-          "verse": 31,
-          "text": "E entretanto os seus discípulos lhe rogaram, dizendo: Rabi, come."
-        },
-        {
-          "verse": 32,
-          "text": "Ele, porém, lhes disse: Uma comida tenho para comer, que vós não conheceis."
-        },
-        {
-          "verse": 33,
-          "text": "Então os discípulos diziam uns aos outros: Trouxe-lhe, porventura, alguém algo de comer?"
-        },
-        {
-          "verse": 34,
-          "text": "Jesus disse-lhes: A minha comida é fazer a vontade daquele que me enviou, e realizar a sua obra."
-        },
-        {
-          "verse": 35,
-          "text": "Não dizeis vós que ainda há quatro meses até que venha a ceifa? Eis que eu vos digo: Levantai os vossos olhos, e vede as terras, que já estão brancas para a ceifa."
-        },
-        {
-          "verse": 36,
-          "text": "E o que ceifa recebe galardão, e ajunta fruto para a vida eterna; para que, assim o que semeia como o que ceifa, ambos se regozijem."
-        },
-        {
-          "verse": 37,
-          "text": "Porque nisto é verdadeiro o ditado, que um é o que semeia, e outro o que ceifa."
-        },
-        {
-          "verse": 38,
-          "text": "Eu vos enviei a ceifar onde vós não trabalhastes; outros trabalharam, e vós entrastes no seu trabalho."
-        },
-        {
-          "verse": 39,
-          "text": "E muitos dos samaritanos daquela cidade creram nele, pela palavra da mulher, que testificou: Disse-me tudo quanto tenho feito."
-        },
-        {
-          "verse": 40,
-          "text": "Indo, pois, ter com ele os samaritanos, rogaram-lhe que ficasse com eles; e ficou ali dois dias."
-        },
-        {
-          "verse": 41,
-          "text": "E muitos mais creram nele, por causa da sua palavra."
-        },
-        {
-          "verse": 42,
-          "text": "E diziam à mulher: Já não é pelo teu dito que nós cremos; porque nós mesmos o temos ouvido, e sabemos que este é verdadeiramente o Cristo, o Salvador do mundo."
-        },
-        {
-          "verse": 43,
-          "text": "E dois dias depois partiu dali, e foi para a Galileia."
-        },
-        {
-          "verse": 44,
-          "text": "Porque Jesus mesmo testificou que um profeta não tem honra na sua própria pátria."
-        },
-        {
-          "verse": 45,
-          "text": "Chegando, pois, à Galileia, os galileus o receberam, vistas todas as coisas que fizera em Jerusalém, no dia da festa; porque também eles tinham ido à festa."
-        },
-        {
-          "verse": 46,
-          "text": "Segunda vez foi Jesus a Caná da Galileia, onde da água fizera vinho. E havia ali um oficial do rei, cujo filho estava enfermo em Cafarnaum."
-        },
-        {
-          "verse": 47,
-          "text": "Ouvindo este que Jesus vinha da Judeia para a Galileia, foi ter com ele, e rogou-lhe que descesse, e curasse o seu filho, porque já estava à morte."
-        },
-        {
-          "verse": 48,
-          "text": "Então Jesus lhe disse: Se não virdes sinais e milagres, não crereis."
-        },
-        {
-          "verse": 49,
-          "text": "Disse-lhe o oficial: Senhor, desce, antes que meu filho morra."
-        },
-        {
-          "verse": 50,
-          "text": "Disse-lhe Jesus: Vai, o teu filho vive. E o homem creu na palavra que Jesus lhe disse, e partiu."
-        },
-        {
-          "verse": 51,
-          "text": "E descendo ele logo, saíram-lhe ao encontro os seus servos, e lhe anunciaram, dizendo: O teu filho vive."
-        },
-        {
-          "verse": 52,
-          "text": "Perguntou-lhes, pois, a que hora se achara melhor. E disseram-lhe: Ontem às sete horas a febre o deixou."
-        },
-        {
-          "verse": 53,
-          "text": "Entendeu, pois, o pai que era aquela hora a mesma em que Jesus lhe disse: O teu filho vive; e creu ele, e toda a sua casa."
-        },
-        {
-          "verse": 54,
-          "text": "Jesus, novamente, fez este segundo milagre, quando ia da Judeia para a Galileia."
+          "text": "Porventura não passa com eles a sua excelência? Morrem, mas sem sabedoria."
         }
       ]
     },
@@ -691,191 +355,111 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Depois disto havia uma festa entre os judeus, e Jesus subiu a Jerusalém."
+          "text": "Chama agora; há alguém que te responda? E para qual dos santos te virarás?"
         },
         {
           "verse": 2,
-          "text": "Ora, em Jerusalém há, próximo à porta das ovelhas, um tanque, chamado em hebreu Betesda, o qual tem cinco alpendres."
+          "text": "Porque a ira destrói o louco; e o zelo mata o tolo."
         },
         {
           "verse": 3,
-          "text": "Nestes jazia grande multidão de enfermos, cegos, mancos e ressecados, esperando o movimento da água."
+          "text": "Bem vi eu o louco lançar raízes; porém logo amaldiçoei a sua habitação."
         },
         {
           "verse": 4,
-          "text": "Porquanto um anjo descia em certo tempo ao tanque, e agitava a água; e o primeiro que ali descia, depois do movimento da água, sarava de qualquer enfermidade que tivesse."
+          "text": "Seus filhos estão longe da salvação; e são despedaçados às portas, e não há quem os livre."
         },
         {
           "verse": 5,
-          "text": "E estava ali um homem que, havia trinta e oito anos, se achava enfermo."
+          "text": "A sua messe, o faminto a devora, e até dentre os espinhos a tira; e o salteador traga a sua fazenda."
         },
         {
           "verse": 6,
-          "text": "E Jesus, vendo este deitado, e sabendo que estava neste estado havia muito tempo, disse-lhe: Queres ficar são?"
+          "text": "Porque do pó não procede a aflição, nem da terra brota o trabalho."
         },
         {
           "verse": 7,
-          "text": "O enfermo respondeu-lhe: Senhor, não tenho homem algum que, quando a água é agitada, me ponha no tanque; mas, enquanto eu vou, desce outro antes de mim."
+          "text": "Mas o homem nasce para a tribulação, como as faíscas se levantam para voar."
         },
         {
           "verse": 8,
-          "text": "Jesus disse-lhe: Levanta-te, toma o teu leito, e anda."
+          "text": "Porém eu buscaria a Deus; e a ele entregaria a minha causa."
         },
         {
           "verse": 9,
-          "text": "Logo aquele homem ficou são; e tomou o seu leito, e andava. E aquele dia era sábado."
+          "text": "Ele faz coisas grandes e inescrutáveis, e maravilhas sem número."
         },
         {
           "verse": 10,
-          "text": "Então os judeus disseram àquele que tinha sido curado: É sábado, não te é lícito levar o leito."
+          "text": "Ele dá a chuva sobre a terra, e envia águas sobre os campos."
         },
         {
           "verse": 11,
-          "text": "Ele respondeu-lhes: Aquele que me curou, ele próprio disse: Toma o teu leito, e anda."
+          "text": "Para pôr aos abatidos num lugar alto; e para que os enlutados se exaltem na salvação."
         },
         {
           "verse": 12,
-          "text": "Perguntaram-lhe, pois: Quem é o homem que te disse: Toma o teu leito, e anda?"
+          "text": "Ele aniquila as imaginações dos astutos, para que as suas mãos não possam levar coisa alguma a efeito."
         },
         {
           "verse": 13,
-          "text": "E o que fora curado não sabia quem era; porque Jesus se havia retirado, em razão de naquele lugar haver grande multidão."
+          "text": "Ele apanha os sábios na sua própria astúcia; e o conselho dos perversos se precipita."
         },
         {
           "verse": 14,
-          "text": "Depois Jesus encontrou-o no templo, e disse-lhe: Eis que já estás são; não peques mais, para que não te suceda alguma coisa pior."
+          "text": "Eles de dia encontram as trevas; e ao meio-dia andam às apalpadelas como de noite."
         },
         {
           "verse": 15,
-          "text": "E aquele homem foi, e anunciou aos judeus que Jesus era o que o curara."
+          "text": "Porém ao necessitado livra da espada, e da boca deles, e da mão do forte."
         },
         {
           "verse": 16,
-          "text": "E por esta causa os judeus perseguiram a Jesus, e procuravam matá-lo, porque fazia estas coisas no sábado."
+          "text": "Assim há esperança para o pobre; e a iniquidade tapa a sua boca."
         },
         {
           "verse": 17,
-          "text": "E Jesus lhes respondeu: Meu Pai trabalha até agora, e eu trabalho também."
+          "text": "Eis que bem-aventurado é o homem a quem Deus repreende; não desprezes, pois, a correção do Todo-Poderoso."
         },
         {
           "verse": 18,
-          "text": "Por isso, pois, os judeus ainda mais procuravam matá-lo, porque não só quebrantava o sábado, mas também dizia que Deus era seu próprio Pai, fazendo-se igual a Deus."
+          "text": "Porque ele faz a chaga, e ele mesmo a liga; ele fere, e as suas mãos curam."
         },
         {
           "verse": 19,
-          "text": "Mas Jesus respondeu, e disse-lhes: Na verdade, na verdade vos digo que o Filho por si mesmo não pode fazer coisa alguma, se o não vir fazer o Pai; porque tudo quanto ele faz, o Filho o faz igualmente."
+          "text": "Em seis angústias te livrará; e na sétima o mal não te tocará."
         },
         {
           "verse": 20,
-          "text": "Porque o Pai ama o Filho, e mostra-lhe tudo o que faz; e ele lhe mostrará maiores obras do que estas, para que vos maravilheis."
+          "text": "Na fome te livrará da morte; e na guerra, da violência da espada."
         },
         {
           "verse": 21,
-          "text": "Pois, assim como o Pai ressuscita os mortos, e os vivifica, assim também o Filho vivifica aqueles que quer."
+          "text": "Do açoite da língua estarás encoberto; e não temerás a assolação, quando vier."
         },
         {
           "verse": 22,
-          "text": "E também o Pai a ninguém julga, mas deu ao Filho todo o juízo;"
+          "text": "Da assolação e da fome te rirás, e os animais da terra não temerás."
         },
         {
           "verse": 23,
-          "text": "Para que todos honrem o Filho, como honram o Pai. Quem não honra o Filho, não honra o Pai que o enviou."
+          "text": "Porque até com as pedras do campo terás o teu acordo, e as feras do campo serão pacíficas contigo."
         },
         {
           "verse": 24,
-          "text": "Na verdade, na verdade vos digo que quem ouve a minha palavra, e crê naquele que me enviou, tem a vida eterna, e não entrará em condenação, mas passou da morte para a vida."
+          "text": "E saberás que a tua tenda está em paz; e visitarás a tua habitação, e não pecarás."
         },
         {
           "verse": 25,
-          "text": "Em verdade, em verdade vos digo que vem a hora, e agora é, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem viverão."
+          "text": "Também saberás que se multiplicará a tua descendência e a tua posteridade como a erva da terra,"
         },
         {
           "verse": 26,
-          "text": "Porque, como o Pai tem a vida em si mesmo, assim deu também ao Filho ter a vida em si mesmo;"
+          "text": "Na velhice irás à sepultura, como se recolhe o feixe de trigo a seu tempo."
         },
         {
           "verse": 27,
-          "text": "E deu-lhe o poder de também exercer o juízo, porque é o Filho do homem."
-        },
-        {
-          "verse": 28,
-          "text": "Não vos maravilheis disto; porque vem a hora em que todos os que estão nos sepulcros ouvirão a sua voz."
-        },
-        {
-          "verse": 29,
-          "text": "E os que fizeram o bem sairão para a ressurreição da vida; e os que fizeram o mal para a ressurreição da condenação."
-        },
-        {
-          "verse": 30,
-          "text": "Eu não posso de mim mesmo fazer coisa alguma. Como ouço, assim julgo; e o meu juízo é justo, porque não busco a minha vontade, mas a vontade do Pai que me enviou."
-        },
-        {
-          "verse": 31,
-          "text": "Se eu testifico de mim mesmo, o meu testemunho não é verdadeiro."
-        },
-        {
-          "verse": 32,
-          "text": "Há outro que testifica de mim, e sei que o testemunho que ele dá de mim é verdadeiro."
-        },
-        {
-          "verse": 33,
-          "text": "Vós mandastes mensageiros a João, e ele deu testemunho da verdade."
-        },
-        {
-          "verse": 34,
-          "text": "Eu, porém, não recebo testemunho de homem; mas digo isto, para que vos salveis."
-        },
-        {
-          "verse": 35,
-          "text": "Ele era a candeia que ardia e iluminava, e vós quisestes alegrar-vos por um pouco de tempo com a sua luz."
-        },
-        {
-          "verse": 36,
-          "text": "Mas eu tenho maior testemunho do que o de João; porque as obras que o Pai me deu para realizar, as mesmas obras que eu faço, testificam de mim, que o Pai me enviou."
-        },
-        {
-          "verse": 37,
-          "text": "E o Pai, que me enviou, ele mesmo testificou de mim. Vós nunca ouvistes a sua voz, nem vistes o seu parecer."
-        },
-        {
-          "verse": 38,
-          "text": "E a sua palavra não permanece em vós, porque naquele que ele enviou não credes vós."
-        },
-        {
-          "verse": 39,
-          "text": "Examinais as Escrituras, porque vós cuidais ter nelas a vida eterna, e são elas que de mim testificam;"
-        },
-        {
-          "verse": 40,
-          "text": "E não quereis vir a mim para terdes vida."
-        },
-        {
-          "verse": 41,
-          "text": "Eu não recebo glória dos homens;"
-        },
-        {
-          "verse": 42,
-          "text": "Mas bem vos conheço, que não tendes em vós o amor de Deus."
-        },
-        {
-          "verse": 43,
-          "text": "Eu vim em nome de meu Pai, e não me aceitais; se outro vier em seu próprio nome, a esse aceitareis."
-        },
-        {
-          "verse": 44,
-          "text": "Como podeis vós crer, recebendo honra uns dos outros, e não buscando a honra que vem só de Deus?"
-        },
-        {
-          "verse": 45,
-          "text": "Não cuideis que eu vos hei de acusar para com o Pai. Há um que vos acusa, Moisés, em quem vós esperais."
-        },
-        {
-          "verse": 46,
-          "text": "Porque, se vós crêsseis em Moisés, creríeis em mim; porque de mim escreveu ele."
-        },
-        {
-          "verse": 47,
-          "text": "Mas, se não credes nos seus escritos, como crereis nas minhas palavras?"
+          "text": "Eis que isto já o havemos inquirido, e assim é; ouve-o, e medita nisso para teu bem."
         }
       ]
     },
@@ -884,287 +468,123 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Depois disto partiu Jesus para o outro lado do mar da Galileia, que é o de Tiberíades."
+          "text": "Então Jó respondeu, dizendo:"
         },
         {
           "verse": 2,
-          "text": "E grande multidão o seguia, porque via os sinais que operava sobre os enfermos."
+          "text": "Oh! Se a minha mágoa retamente se pesasse, e a minha miséria juntamente se pusesse numa balança!"
         },
         {
           "verse": 3,
-          "text": "E Jesus subiu ao monte, e assentou-se ali com os seus discípulos."
+          "text": "Porque, na verdade, mais pesada seria, do que a areia dos mares; por isso é que as minhas palavras têm sido engolidas."
         },
         {
           "verse": 4,
-          "text": "E a páscoa, a festa dos judeus, estava próxima."
+          "text": "Porque as flechas do Todo-Poderoso estão em mim, cujo ardente veneno suga o meu espírito; os terrores de Deus se armam contra mim."
         },
         {
           "verse": 5,
-          "text": "Então Jesus, levantando os olhos, e vendo que uma grande multidão vinha ter com ele, disse a Filipe: Onde compraremos pão, para estes comerem?"
+          "text": "Porventura zurrará o jumento montês junto à relva? Ou mugirá o boi junto ao seu pasto?"
         },
         {
           "verse": 6,
-          "text": "Mas dizia isto para o experimentar; porque ele bem sabia o que havia de fazer."
+          "text": "Ou comer-se-á sem sal o que é insípido? Ou haverá gosto na clara do ovo?"
         },
         {
           "verse": 7,
-          "text": "Filipe respondeu-lhe: Duzentos dinheiros de pão não lhes bastarão, para que cada um deles tome um pouco."
+          "text": "A minha alma recusa tocá-las, pois são para mim como comida repugnante."
         },
         {
           "verse": 8,
-          "text": "E um dos seus discípulos, André, irmão de Simão Pedro, disse-lhe:"
+          "text": "Quem dera que se cumprisse o meu desejo, e que Deus me desse o que espero!"
         },
         {
           "verse": 9,
-          "text": "Está aqui um rapaz que tem cinco pães de cevada e dois peixinhos; mas que é isto para tantos?"
+          "text": "E que Deus quisesse quebrantar-me, e soltasse a sua mão, e me acabasse!"
         },
         {
           "verse": 10,
-          "text": "E disse Jesus: Mandai assentar os homens. E havia muita relva naquele lugar. Assentaram-se, pois, os homens em número de quase cinco mil."
+          "text": "Isto ainda seria a minha consolação, e me refrigeraria no meu tormento, não me poupando ele; porque não ocultei as palavras do Santo."
         },
         {
           "verse": 11,
-          "text": "E Jesus tomou os pães e, havendo dado graças, repartiu-os pelos discípulos, e os discípulos pelos que estavam assentados; e igualmente também dos peixes, quanto eles queriam."
+          "text": "Qual é a minha força, para que eu espere? Ou qual é o meu fim, para que tenha ainda paciência?"
         },
         {
           "verse": 12,
-          "text": "E, quando estavam saciados, disse aos seus discípulos: Recolhei os pedaços que sobejaram, para que nada se perca."
+          "text": "É porventura a minha força a força da pedra? Ou é de cobre a minha carne?"
         },
         {
           "verse": 13,
-          "text": "Recolheram-nos, pois, e encheram doze cestos de pedaços dos cinco pães de cevada, que sobejaram aos que haviam comido."
+          "text": "Está em mim a minha ajuda? Ou desamparou-me a verdadeira sabedoria?"
         },
         {
           "verse": 14,
-          "text": "Vendo, pois, aqueles homens o milagre que Jesus tinha feito, diziam: Este é verdadeiramente o Profeta que devia vir ao mundo."
+          "text": "Ao que está aflito devia o amigo mostrar compaixão, ainda ao que deixasse o temor do Todo-Poderoso."
         },
         {
           "verse": 15,
-          "text": "Sabendo, pois, Jesus que haviam de vir arrebatá-lo, para o fazerem rei, tornou a retirar-se, ele só, para o monte."
+          "text": "Meus irmãos aleivosamente me trataram, como um ribeiro, como a torrente dos ribeiros que passam,"
         },
         {
           "verse": 16,
-          "text": "E, quando veio a tarde, os seus discípulos desceram para o mar."
+          "text": "Que estão encobertos com a geada, e neles se esconde a neve,"
         },
         {
           "verse": 17,
-          "text": "E, entrando no barco, atravessaram o mar em direção a Cafarnaum; e era já escuro, e ainda Jesus não tinha vindo a eles."
+          "text": "No tempo em que se derretem com o calor, se desfazem, e em se aquentando, desaparecem do seu lugar."
         },
         {
           "verse": 18,
-          "text": "E o mar se levantou, porque um grande vento assoprava."
+          "text": "Desviam-se as veredas dos seus caminhos; sobem ao vácuo, e perecem."
         },
         {
           "verse": 19,
-          "text": "E, tendo navegado uns vinte e cinco ou trinta estádios, viram a Jesus, andando sobre o mar e aproximando-se do barco; e temeram."
+          "text": "Os caminhantes de Tema os veem; os passageiros de Sabá esperam por eles."
         },
         {
           "verse": 20,
-          "text": "Mas ele lhes disse: Sou eu, não temais."
+          "text": "Ficam envergonhados, por terem confiado e, chegando ali, se confundem."
         },
         {
           "verse": 21,
-          "text": "Então eles de boa mente o receberam no barco; e logo o barco chegou à terra para onde iam."
+          "text": "Agora sois semelhantes a eles; vistes o terror, e temestes."
         },
         {
           "verse": 22,
-          "text": "No dia seguinte, a multidão que estava do outro lado do mar, vendo que não havia ali mais do que um barquinho, a não ser aquele no qual os seus discípulos haviam entrado, e que Jesus não entrara com os seus discípulos naquele barquinho, mas que os seus discípulos tinham ido sozinhos"
+          "text": "Acaso disse eu: Dai-me ou oferecei-me presentes de vossos bens?"
         },
         {
           "verse": 23,
-          "text": "(Contudo, outros barquinhos tinham chegado de Tiberíades, perto do lugar onde comeram o pão, havendo o Senhor dado graças)."
+          "text": "Ou livrai-me das mãos do opressor? Ou redimi-me das mãos dos tiranos?"
         },
         {
           "verse": 24,
-          "text": "Vendo, pois, a multidão que Jesus não estava ali nem os seus discípulos, entraram eles também nos barcos, e foram a Cafarnaum, em busca de Jesus."
+          "text": "Ensinai-me, e eu me calarei; e fazei-me entender em que errei."
         },
         {
           "verse": 25,
-          "text": "E, achando-o no outro lado do mar, disseram-lhe: Rabi, quando chegaste aqui?"
+          "text": "Oh! Quão fortes são as palavras da boa razão! Mas que é o que censura a vossa repreensão?"
         },
         {
           "verse": 26,
-          "text": "Jesus respondeu-lhes, e disse: Na verdade, na verdade vos digo que me buscais, não pelos sinais que vistes, mas porque comestes do pão e vos saciastes."
+          "text": "Porventura buscareis palavras para me repreenderdes, visto que as razões do desesperado são como vento?"
         },
         {
           "verse": 27,
-          "text": "Trabalhai, não pela comida que perece, mas pela comida que permanece para a vida eterna, a qual o Filho do homem vos dará; porque a este o Pai, Deus, o selou."
+          "text": "Mas antes lançais sortes sobre o órfão; e cavais uma cova para o amigo."
         },
         {
           "verse": 28,
-          "text": "Disseram-lhe, pois: Que faremos para executarmos as obras de Deus?"
+          "text": "Agora, pois, se sois servidos, olhai para mim; e vede se minto em vossa presença."
         },
         {
           "verse": 29,
-          "text": "Jesus respondeu, e disse-lhes: A obra de Deus é esta: Que creiais naquele que ele enviou."
+          "text": "Voltai, pois, não haja iniquidade; tornai-vos, digo, que ainda a minha justiça aparecerá nisso."
         },
         {
           "verse": 30,
-          "text": "Disseram-lhe, pois: Que sinal, pois, fazes tu, para que o vejamos, e creiamos em ti? Que operas tu?"
-        },
-        {
-          "verse": 31,
-          "text": "Nossos pais comeram o maná no deserto, como está escrito: Deu-lhes a comer o pão do céu."
-        },
-        {
-          "verse": 32,
-          "text": "Disse-lhes, pois, Jesus: Na verdade, na verdade vos digo: Moisés não vos deu o pão do céu; mas meu Pai vos dá o verdadeiro pão do céu."
-        },
-        {
-          "verse": 33,
-          "text": "Porque o pão de Deus é aquele que desce do céu e dá vida ao mundo."
-        },
-        {
-          "verse": 34,
-          "text": "Disseram-lhe, pois: Senhor, dá-nos sempre desse pão."
-        },
-        {
-          "verse": 35,
-          "text": "E Jesus lhes disse: Eu sou o pão da vida; aquele que vem a mim não terá fome, e quem crê em mim nunca terá sede."
-        },
-        {
-          "verse": 36,
-          "text": "Mas já vos disse que também vós me vistes, e contudo não credes."
-        },
-        {
-          "verse": 37,
-          "text": "Todo o que o Pai me dá virá a mim; e o que vem a mim de maneira nenhuma o lançarei fora."
-        },
-        {
-          "verse": 38,
-          "text": "Porque eu desci do céu, não para fazer a minha vontade, mas a vontade daquele que me enviou."
-        },
-        {
-          "verse": 39,
-          "text": "E a vontade do Pai que me enviou é esta: Que nenhum de todos aqueles que me deu, eu perca, mas que o ressuscite no último dia."
-        },
-        {
-          "verse": 40,
-          "text": "Porquanto a vontade daquele que me enviou é esta: Que todo aquele que vê o Filho, e crê nele, tenha a vida eterna; e eu o ressuscitarei no último dia."
-        },
-        {
-          "verse": 41,
-          "text": "Murmuravam, pois, dele os judeus, porque dissera: Eu sou o pão que desceu do céu."
-        },
-        {
-          "verse": 42,
-          "text": "E diziam: Não é este Jesus, o filho de José, cujo pai e mãe nós conhecemos? Como, pois, diz ele: Desci do céu?"
-        },
-        {
-          "verse": 43,
-          "text": "Respondeu, pois, Jesus, e disse-lhes: Não murmureis entre vós."
-        },
-        {
-          "verse": 44,
-          "text": "Ninguém pode vir a mim, se o Pai que me enviou o não trouxer; e eu o ressuscitarei no último dia."
-        },
-        {
-          "verse": 45,
-          "text": "Está escrito nos profetas: E serão todos ensinados por Deus. Portanto, todo aquele que do Pai ouviu e aprendeu vem a mim."
-        },
-        {
-          "verse": 46,
-          "text": "Não que alguém visse ao Pai, a não ser aquele que é de Deus; este tem visto ao Pai."
-        },
-        {
-          "verse": 47,
-          "text": "Na verdade, na verdade vos digo que aquele que crê em mim tem a vida eterna."
-        },
-        {
-          "verse": 48,
-          "text": "Eu sou o pão da vida."
-        },
-        {
-          "verse": 49,
-          "text": "Vossos pais comeram o maná no deserto, e morreram."
-        },
-        {
-          "verse": 50,
-          "text": "Este é o pão que desce do céu, para que o que dele comer não morra."
-        },
-        {
-          "verse": 51,
-          "text": "Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá para sempre; e o pão que eu der é a minha carne, que eu darei pela vida do mundo."
-        },
-        {
-          "verse": 52,
-          "text": "Disputavam, pois, os judeus entre si, dizendo: Como nos pode dar este a sua carne a comer?"
-        },
-        {
-          "verse": 53,
-          "text": "Jesus, pois, lhes disse: Na verdade, na verdade vos digo que, se não comerdes a carne do Filho do homem, e não beberdes o seu sangue, não tereis vida em vós mesmos."
-        },
-        {
-          "verse": 54,
-          "text": "Quem come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia."
-        },
-        {
-          "verse": 55,
-          "text": "Porque a minha carne verdadeiramente é comida, e o meu sangue verdadeiramente é bebida."
-        },
-        {
-          "verse": 56,
-          "text": "Quem come a minha carne e bebe o meu sangue permanece em mim e eu nele."
-        },
-        {
-          "verse": 57,
-          "text": "Assim como o Pai, que vive, me enviou, e eu vivo pelo Pai, assim, quem de mim se alimenta, também viverá por mim."
-        },
-        {
-          "verse": 58,
-          "text": "Este é o pão que desceu do céu; não como de vossos pais, que comeram o maná e morreram; quem comer este pão viverá para sempre."
-        },
-        {
-          "verse": 59,
-          "text": "Ele disse estas coisas na sinagoga, ensinando em Cafarnaum."
-        },
-        {
-          "verse": 60,
-          "text": "Muitos, pois, dos seus discípulos, ouvindo isto, disseram: Duro é este discurso; quem o pode ouvir?"
-        },
-        {
-          "verse": 61,
-          "text": "Sabendo, pois, Jesus em si mesmo que os seus discípulos murmuravam disto, disse-lhes: Isto escandaliza-vos?"
-        },
-        {
-          "verse": 62,
-          "text": "Que seria, pois, se vísseis subir o Filho do homem para onde primeiro estava?"
-        },
-        {
-          "verse": 63,
-          "text": "O espírito é o que vivifica, a carne para nada aproveita; as palavras que eu vos digo são espírito e vida."
-        },
-        {
-          "verse": 64,
-          "text": "Mas há alguns de vós que não creem. Porque bem sabia Jesus, desde o princípio, quem eram os que não criam, e quem era o que o havia de entregar."
-        },
-        {
-          "verse": 65,
-          "text": "E dizia: Por isso eu vos disse que ninguém pode vir a mim, se por meu Pai não lhe for concedido."
-        },
-        {
-          "verse": 66,
-          "text": "Desde então muitos dos seus discípulos tornaram para trás, e já não andavam com ele."
-        },
-        {
-          "verse": 67,
-          "text": "Então disse Jesus aos doze: Quereis vós também retirar-vos?"
-        },
-        {
-          "verse": 68,
-          "text": "Respondeu-lhe, pois, Simão Pedro: Senhor, para quem iremos nós? Tu tens as palavras da vida eterna."
-        },
-        {
-          "verse": 69,
-          "text": "E nós temos crido e conhecido que tu és o Cristo, o Filho do Deus vivente."
-        },
-        {
-          "verse": 70,
-          "text": "Respondeu-lhe Jesus: Não vos escolhi a vós os doze? E um de vós é um diabo."
-        },
-        {
-          "verse": 71,
-          "text": "E isto dizia ele de Judas Iscariotes, filho de Simão; porque este o havia de entregar, sendo um dos doze."
+          "text": "Há porventura iniquidade na minha língua? Ou não poderia o meu paladar distinguir coisas iníquas?"
         }
       ]
     },
@@ -1173,215 +593,87 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "E depois disto Jesus andava pela Galileia, e já não queria andar pela Judeia, pois os judeus procuravam matá-lo."
+          "text": "Porventura não tem o homem guerra sobre a terra? E não são os seus dias como os dias do assalariado?"
         },
         {
           "verse": 2,
-          "text": "E estava próxima a festa dos judeus, a dos tabernáculos."
+          "text": "Como o servo que suspira pela sombra, e como o assalariado que espera pela sua paga,"
         },
         {
           "verse": 3,
-          "text": "Disseram-lhe, pois, seus irmãos: Sai daqui, e vai para a Judeia, para que também os teus discípulos vejam as obras que fazes."
+          "text": "Assim me deram por herança meses de vaidade; e noites de trabalho me prepararam."
         },
         {
           "verse": 4,
-          "text": "Porque não há ninguém que procure ser conhecido que faça coisa alguma em oculto. Se fazes estas coisas, manifesta-te ao mundo."
+          "text": "Deitando-me a dormir, então digo: Quando me levantarei? Mas comprida é a noite, e farto-me de me revolver na cama até à alva."
         },
         {
           "verse": 5,
-          "text": "Porque nem mesmo seus irmãos criam nele."
+          "text": "A minha carne se tem vestido de vermes e de torrões de pó; a minha pele está gretada, e se fez abominável."
         },
         {
           "verse": 6,
-          "text": "Disse-lhes, pois, Jesus: Ainda não é chegado o meu tempo, mas o vosso tempo sempre está pronto."
+          "text": "Os meus dias são mais velozes do que a lançadeira do tecelão, e acabam-se, sem esperança."
         },
         {
           "verse": 7,
-          "text": "O mundo não vos pode odiar, mas ele me odeia a mim, porquanto dele testifico que as suas obras são más."
+          "text": "Lembra-te de que a minha vida é como o vento; os meus olhos não tornarão a ver o bem."
         },
         {
           "verse": 8,
-          "text": "Subi vós a esta festa; eu não subo ainda a esta festa, porque ainda o meu tempo não está cumprido."
+          "text": "Os olhos dos que agora me veem não me verão mais; os teus olhos estarão sobre mim, porém não serei mais."
         },
         {
           "verse": 9,
-          "text": "E, havendo-lhes dito isto, ficou na Galileia."
+          "text": "Assim como a nuvem se desfaz e passa, assim aquele que desce à sepultura nunca tornará a subir."
         },
         {
           "verse": 10,
-          "text": "Mas, quando seus irmãos já tinham subido à festa, então subiu ele também, não manifestamente, mas como em oculto."
+          "text": "Nunca mais tornará à sua casa, nem o seu lugar jamais o conhecerá."
         },
         {
           "verse": 11,
-          "text": "Ora, os judeus procuravam-no na festa, e diziam: Onde está ele?"
+          "text": "Por isso não reprimirei a minha boca; falarei na angústia do meu espírito; queixar-me-ei na amargura da minha alma."
         },
         {
           "verse": 12,
-          "text": "E havia grande murmuração entre a multidão a respeito dele. Diziam alguns: Ele é bom. E outros diziam: Não, antes engana o povo."
+          "text": "Sou eu porventura o mar, ou a baleia, para que me ponhas uma guarda?"
         },
         {
           "verse": 13,
-          "text": "Todavia ninguém falava dele abertamente, por medo dos judeus."
+          "text": "Dizendo eu: Consolar-me-á a minha cama; meu leito aliviará a minha ânsia;"
         },
         {
           "verse": 14,
-          "text": "Mas, no meio da festa subiu Jesus ao templo, e ensinava."
+          "text": "Então me espantas com sonhos, e com visões me assombras;"
         },
         {
           "verse": 15,
-          "text": "E os judeus maravilhavam-se, dizendo: Como sabe este letras, não as tendo aprendido?"
+          "text": "Assim a minha alma escolheria antes a estrangulação; e antes a morte do que a vida."
         },
         {
           "verse": 16,
-          "text": "Jesus lhes respondeu, e disse: A minha doutrina não é minha, mas daquele que me enviou."
+          "text": "A minha vida abomino, pois não viveria para sempre; retira-te de mim; pois vaidade são os meus dias."
         },
         {
           "verse": 17,
-          "text": "Se alguém quiser fazer a vontade dele, pela mesma doutrina conhecerá se ela é de Deus, ou se eu falo de mim mesmo."
+          "text": "Que é o homem, para que tanto o engrandeças, e ponhas nele o teu coração,"
         },
         {
           "verse": 18,
-          "text": "Quem fala de si mesmo busca a sua própria glória; mas o que busca a glória daquele que o enviou, esse é verdadeiro, e não há nele injustiça."
+          "text": "E cada manhã o visites, e cada momento o proves?"
         },
         {
           "verse": 19,
-          "text": "Não vos deu Moisés a lei? E nenhum de vós observa a lei. Por que procurais matar-me?"
+          "text": "Até quando não apartarás de mim, nem me largarás, até que engula a minha saliva?"
         },
         {
           "verse": 20,
-          "text": "A multidão respondeu, e disse: Tens demônio; quem procura matar-te?"
+          "text": "Se pequei, que te farei, ó Guarda dos homens? Por que fizeste de mim um alvo para ti, para que a mim mesmo me seja pesado?"
         },
         {
           "verse": 21,
-          "text": "Respondeu Jesus, e disse-lhes: Fiz uma só obra, e todos vos maravilhais."
-        },
-        {
-          "verse": 22,
-          "text": "Pelo motivo de que Moisés vos deu a circuncisão (não que fosse de Moisés, mas dos pais), e no sábado circuncidais um homem."
-        },
-        {
-          "verse": 23,
-          "text": "Se o homem recebe a circuncisão no sábado, para que a lei de Moisés não seja quebrantada, indignais-vos contra mim, porque no sábado curei de todo um homem?"
-        },
-        {
-          "verse": 24,
-          "text": "Não julgueis segundo a aparência, mas julgai segundo a reta justiça."
-        },
-        {
-          "verse": 25,
-          "text": "Então alguns dos de Jerusalém diziam: Não é este o que procuram matar?"
-        },
-        {
-          "verse": 26,
-          "text": "E ei-lo aí está falando abertamente, e nada lhe dizem. Porventura sabem verdadeiramente os príncipes que de fato este é o Cristo?"
-        },
-        {
-          "verse": 27,
-          "text": "Todavia bem sabemos de onde este é; mas, quando vier o Cristo, ninguém saberá de onde ele é."
-        },
-        {
-          "verse": 28,
-          "text": "Clamava, pois, Jesus no templo, ensinando, e dizendo: Vós conheceis-me, e sabeis de onde sou; e eu não vim de mim mesmo, mas aquele que me enviou é verdadeiro, o qual vós não conheceis."
-        },
-        {
-          "verse": 29,
-          "text": "Mas eu conheço-o, porque dele sou e ele me enviou."
-        },
-        {
-          "verse": 30,
-          "text": "Procuravam, pois, prendê-lo, mas ninguém lançou mão dele, porque ainda não era chegada a sua hora."
-        },
-        {
-          "verse": 31,
-          "text": "E muitos da multidão creram nele, e diziam: Quando o Cristo vier, fará ainda mais sinais do que os que este tem feito?"
-        },
-        {
-          "verse": 32,
-          "text": "Os fariseus ouviram que a multidão murmurava dele estas coisas; e os fariseus e os principais sacerdotes mandaram servidores para o prenderem."
-        },
-        {
-          "verse": 33,
-          "text": "Disse-lhes, pois, Jesus: Ainda um pouco de tempo estou convosco, e depois vou para aquele que me enviou."
-        },
-        {
-          "verse": 34,
-          "text": "Vós me buscareis, e não me achareis; e onde eu estou, vós não podeis vir."
-        },
-        {
-          "verse": 35,
-          "text": "Disseram, pois, os judeus uns para os outros: Para onde irá este, que o não acharemos? Irá porventura para os dispersos entre os gregos, e ensinará os gregos?"
-        },
-        {
-          "verse": 36,
-          "text": "Que palavra é esta que disse: Buscar-me-eis, e não me achareis; e: Aonde eu estou vós não podeis ir?"
-        },
-        {
-          "verse": 37,
-          "text": "E no último dia, o grande dia da festa, Jesus pôs-se em pé, e clamou, dizendo: Se alguém tem sede, venha a mim, e beba."
-        },
-        {
-          "verse": 38,
-          "text": "Quem crê em mim, como diz a Escritura, rios de água viva correrão do seu ventre."
-        },
-        {
-          "verse": 39,
-          "text": "E isto disse ele do Espírito que haviam de receber os que nele cressem; porque o Espírito Santo ainda não fora dado, por ainda Jesus não ter sido glorificado."
-        },
-        {
-          "verse": 40,
-          "text": "Então muitos da multidão, ouvindo esta palavra, diziam: Verdadeiramente este é o Profeta."
-        },
-        {
-          "verse": 41,
-          "text": "Outros diziam: Este é o Cristo; mas diziam outros: Vem, pois, o Cristo da Galileia?"
-        },
-        {
-          "verse": 42,
-          "text": "Não diz a Escritura que o Cristo vem da descendência de Davi, e de Belém, da aldeia de onde era Davi?"
-        },
-        {
-          "verse": 43,
-          "text": "Assim entre o povo havia dissensão por causa dele."
-        },
-        {
-          "verse": 44,
-          "text": "E alguns deles queriam prendê-lo, mas ninguém lançou mão dele."
-        },
-        {
-          "verse": 45,
-          "text": "E os servidores foram ter com os principais sacerdotes e fariseus; e eles lhes perguntaram: Por que não o trouxestes?"
-        },
-        {
-          "verse": 46,
-          "text": "Responderam os servidores: Nunca homem algum falou assim como este homem."
-        },
-        {
-          "verse": 47,
-          "text": "Responderam-lhes, pois, os fariseus: Também vós fostes enganados?"
-        },
-        {
-          "verse": 48,
-          "text": "Creu nele porventura algum dos principais ou dos fariseus?"
-        },
-        {
-          "verse": 49,
-          "text": "Mas esta multidão, que não sabe a lei, é maldita."
-        },
-        {
-          "verse": 50,
-          "text": "Nicodemos, que era um deles (o que de noite fora ter com Jesus), disse-lhes:"
-        },
-        {
-          "verse": 51,
-          "text": "Porventura condena a nossa lei um homem sem primeiro o ouvir e ter conhecimento do que faz?"
-        },
-        {
-          "verse": 52,
-          "text": "Responderam eles, e disseram-lhe: És tu também da Galileia? Examina, e verás que da Galileia nenhum profeta surgiu."
-        },
-        {
-          "verse": 53,
-          "text": "E cada um foi para sua casa."
+          "text": "E por que não perdoas a minha transgressão, e não tiras a minha iniquidade? Porque agora me deitarei no pó, e de madrugada me buscarás, e não existirei mais."
         }
       ]
     },
@@ -1390,239 +682,91 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Jesus, porém, foi para o Monte das Oliveiras."
+          "text": "Então respondendo Bildade o suíta, disse:"
         },
         {
           "verse": 2,
-          "text": "E pela manhã cedo tornou para o templo, e todo o povo vinha ter com ele, e, assentando-se, os ensinava."
+          "text": "Até quando falarás tais coisas, e as palavras da tua boca serão como um vento impetuoso?"
         },
         {
           "verse": 3,
-          "text": "E os escribas e fariseus trouxeram-lhe uma mulher apanhada em adultério;"
+          "text": "Porventura perverteria Deus o direito? E perverteria o Todo-Poderoso a justiça?"
         },
         {
           "verse": 4,
-          "text": "E, pondo-a no meio, disseram-lhe: Mestre, esta mulher foi apanhada, no próprio ato, adulterando."
+          "text": "Se teus filhos pecaram contra ele, também ele os lançou na mão da sua transgressão."
         },
         {
           "verse": 5,
-          "text": "E na lei nos mandou Moisés que as tais sejam apedrejadas. Tu, pois, que dizes?"
+          "text": "Mas, se tu de madrugada buscares a Deus, e ao Todo-Poderoso pedires misericórdia;"
         },
         {
           "verse": 6,
-          "text": "Isto diziam eles, tentando-o, para que tivessem de que o acusar. Mas Jesus, inclinando-se, escrevia com o dedo na terra."
+          "text": "Se fores puro e reto, certamente logo despertará por ti, e restaurará a morada da tua justiça."
         },
         {
           "verse": 7,
-          "text": "E, como insistissem, perguntando-lhe, endireitou-se, e disse-lhes: Aquele que de entre vós está sem pecado seja o primeiro que atire pedra contra ela."
+          "text": "O teu princípio, na verdade, terá sido pequeno, porém o teu último estado crescerá em extremo."
         },
         {
           "verse": 8,
-          "text": "E, tornando a inclinar-se, escrevia na terra."
+          "text": "Pois, eu te peço, pergunta agora às gerações passadas; e prepara-te para a inquirição de seus pais."
         },
         {
           "verse": 9,
-          "text": "Porém ouvindo eles isto, acusados pela consciência, saíram um a um, a começar pelos mais velhos até aos últimos; ficou só Jesus e a mulher que estava no meio."
+          "text": "Porque nós somos de ontem, e nada sabemos; porquanto nossos dias sobre a terra são como a sombra."
         },
         {
           "verse": 10,
-          "text": "E, endireitando-se Jesus, e não vendo ninguém mais do que a mulher, disse-lhe: Mulher, onde estão aqueles teus acusadores? Ninguém te condenou?"
+          "text": "Porventura não te ensinarão eles, e não te falarão, e do seu coração não tirarão palavras?"
         },
         {
           "verse": 11,
-          "text": "E ela disse: Ninguém, Senhor. E disse-lhe Jesus: Nem eu também te condeno; vai-te, e não peques mais."
+          "text": "Porventura cresce o junco sem lodo? Ou cresce a espadana sem água?"
         },
         {
           "verse": 12,
-          "text": "Falou-lhes, pois, Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida."
+          "text": "Estando ainda no seu verdor, ainda que não cortada, todavia antes de qualquer outra erva se seca."
         },
         {
           "verse": 13,
-          "text": "Disseram-lhe, pois, os fariseus: Tu testificas de ti mesmo; o teu testemunho não é verdadeiro."
+          "text": "Assim são as veredas de todos quantos se esquecem de Deus; e a esperança do hipócrita perecerá."
         },
         {
           "verse": 14,
-          "text": "Respondeu Jesus, e disse-lhes: Ainda que eu testifico de mim mesmo, o meu testemunho é verdadeiro, porque sei de onde vim, e para onde vou; mas vós não sabeis de onde venho, nem para onde vou."
+          "text": "Cuja esperança fica frustrada; e a sua confiança será como a teia de aranha."
         },
         {
           "verse": 15,
-          "text": "Vós julgais segundo a carne; eu a ninguém julgo."
+          "text": "Encostar-se-á à sua casa, mas ela não subsistirá; apegar-se-á a ela, mas não ficará em pé."
         },
         {
           "verse": 16,
-          "text": "E, se na verdade julgo, o meu juízo é verdadeiro, porque não sou eu só, mas eu e o Pai que me enviou."
+          "text": "Ele é viçoso perante o sol, e os seus renovos saem sobre o seu jardim;"
         },
         {
           "verse": 17,
-          "text": "E na vossa lei está também escrito que o testemunho de dois homens é verdadeiro."
+          "text": "As suas raízes se entrelaçam, junto à fonte; para o pedregal atenta."
         },
         {
           "verse": 18,
-          "text": "Eu sou o que testifico de mim mesmo, e de mim testifica também o Pai que me enviou."
+          "text": "Se Deus o consumir do seu lugar, negá-lo-á este, dizendo: Nunca te vi!"
         },
         {
           "verse": 19,
-          "text": "Disseram-lhe, pois: Onde está teu Pai? Jesus respondeu: Não me conheceis a mim, nem a meu Pai; se vós me conhecêsseis a mim, também conheceríeis a meu Pai."
+          "text": "Eis que este é a alegria do seu caminho, e outros brotarão do pó."
         },
         {
           "verse": 20,
-          "text": "Estas palavras disse Jesus no lugar do tesouro, ensinando no templo, e ninguém o prendeu, porque ainda não era chegada a sua hora."
+          "text": "Eis que Deus não rejeitará ao reto; nem toma pela mão aos malfeitores;"
         },
         {
           "verse": 21,
-          "text": "Disse-lhes, pois, Jesus outra vez: Eu retiro-me, e buscar-me-eis, e morrereis no vosso pecado. Para onde eu vou, não podeis vós vir."
+          "text": "Até que de riso te encha a boca, e os teus lábios de júbilo."
         },
         {
           "verse": 22,
-          "text": "Diziam, pois, os judeus: Porventura quererá matar-se a si mesmo, pois diz: Para onde eu vou não podeis vir?"
-        },
-        {
-          "verse": 23,
-          "text": "E dizia-lhes: Vós sois de baixo, eu sou de cima; vós sois deste mundo, eu não sou deste mundo."
-        },
-        {
-          "verse": 24,
-          "text": "Por isso vos disse que morrereis em vossos pecados, porque se não crerdes que eu sou, morrereis em vossos pecados."
-        },
-        {
-          "verse": 25,
-          "text": "Disseram-lhe, pois: Quem és tu? Jesus lhes disse: Isso mesmo que já desde o princípio vos disse."
-        },
-        {
-          "verse": 26,
-          "text": "Muito tenho que dizer e julgar de vós, mas aquele que me enviou é verdadeiro; e o que dele tenho ouvido, isso falo ao mundo."
-        },
-        {
-          "verse": 27,
-          "text": "Mas não entenderam que ele lhes falava do Pai."
-        },
-        {
-          "verse": 28,
-          "text": "Disse-lhes, pois, Jesus: Quando levantardes o Filho do homem, então conhecereis quem eu sou, e que nada faço por mim mesmo; mas estas coisas falo como meu Pai me ensinou."
-        },
-        {
-          "verse": 29,
-          "text": "E aquele que me enviou está comigo. O Pai não me tem deixado só, porque eu faço sempre o que lhe agrada."
-        },
-        {
-          "verse": 30,
-          "text": "Dizendo ele estas coisas, muitos creram nele."
-        },
-        {
-          "verse": 31,
-          "text": "Jesus dizia, pois, aos judeus que criam nele: Se vós permanecerdes na minha palavra, verdadeiramente sereis meus discípulos;"
-        },
-        {
-          "verse": 32,
-          "text": "E conhecereis a verdade, e a verdade vos libertará."
-        },
-        {
-          "verse": 33,
-          "text": "Responderam-lhe: Somos descendência de Abraão, e nunca servimos a ninguém; como dizes tu: Sereis livres?"
-        },
-        {
-          "verse": 34,
-          "text": "Respondeu-lhes Jesus: Em verdade, em verdade vos digo que todo aquele que comete pecado é servo do pecado."
-        },
-        {
-          "verse": 35,
-          "text": "Ora o servo não fica para sempre em casa; o Filho fica para sempre."
-        },
-        {
-          "verse": 36,
-          "text": "Se, pois, o Filho vos libertar, verdadeiramente sereis livres."
-        },
-        {
-          "verse": 37,
-          "text": "Bem sei que sois descendência de Abraão; contudo, procurais matar-me, porque a minha palavra não entra em vós."
-        },
-        {
-          "verse": 38,
-          "text": "Eu falo do que vi junto de meu Pai, e vós fazeis o que também vistes junto de vosso pai."
-        },
-        {
-          "verse": 39,
-          "text": "Responderam, e disseram-lhe: Nosso pai é Abraão. Jesus disse-lhes: Se fôsseis filhos de Abraão, faríeis as obras de Abraão."
-        },
-        {
-          "verse": 40,
-          "text": "Mas agora procurais matar-me, a mim, homem que vos tem dito a verdade que de Deus tem ouvido; Abraão não fez isto."
-        },
-        {
-          "verse": 41,
-          "text": "Vós fazeis as obras de vosso pai. Disseram-lhe, pois: Nós não somos nascidos de fornicação; temos um Pai, que é Deus."
-        },
-        {
-          "verse": 42,
-          "text": "Disse-lhes, pois, Jesus: Se Deus fosse o vosso Pai, certamente me amaríeis, pois que eu saí, e vim de Deus; não vim de mim mesmo, mas ele me enviou."
-        },
-        {
-          "verse": 43,
-          "text": "Por que não entendeis a minha linguagem? Por não poderdes ouvir a minha palavra."
-        },
-        {
-          "verse": 44,
-          "text": "Vós tendes por pai ao diabo, e quereis satisfazer os desejos de vosso pai. Ele foi homicida desde o princípio, e não se firmou na verdade, porque não há verdade nele. Quando ele profere mentira, fala do que lhe é próprio, porque é mentiroso, e pai da mentira."
-        },
-        {
-          "verse": 45,
-          "text": "Mas, porque vos digo a verdade, não me credes."
-        },
-        {
-          "verse": 46,
-          "text": "Quem dentre vós me convence de pecado? E se vos digo a verdade, por que não me credes?"
-        },
-        {
-          "verse": 47,
-          "text": "Quem é de Deus escuta as palavras de Deus; por isso vós não as escutais, porque não sois de Deus."
-        },
-        {
-          "verse": 48,
-          "text": "Responderam, pois, os judeus, e disseram-lhe: Não dizemos nós bem que és samaritano, e que tens demônio?"
-        },
-        {
-          "verse": 49,
-          "text": "Jesus respondeu: Eu não tenho demônio, antes honro a meu Pai, e vós me desonrais."
-        },
-        {
-          "verse": 50,
-          "text": "Eu, porém, não busco a minha glória; há quem a busque, e julgue."
-        },
-        {
-          "verse": 51,
-          "text": "Em verdade, em verdade vos digo que, se alguém guardar a minha palavra, nunca verá a morte."
-        },
-        {
-          "verse": 52,
-          "text": "Disseram-lhe, pois, os judeus: Agora conhecemos que tens demônio. Morreu Abraão e os profetas; e tu dizes: Se alguém guardar a minha palavra, nunca provará a morte."
-        },
-        {
-          "verse": 53,
-          "text": "És tu maior do que o nosso pai Abraão, que morreu? E também os profetas morreram. Quem te fazes tu ser?"
-        },
-        {
-          "verse": 54,
-          "text": "Jesus respondeu: Se eu me glorifico a mim mesmo, a minha glória não é nada; quem me glorifica é meu Pai, o qual dizeis que é vosso Deus."
-        },
-        {
-          "verse": 55,
-          "text": "E vós não o conheceis, mas eu conheço-o. E, se disser que o não conheço, serei mentiroso como vós; mas conheço-o e guardo a sua palavra."
-        },
-        {
-          "verse": 56,
-          "text": "Abraão, vosso pai, exultou por ver o meu dia, e viu-o, e alegrou-se."
-        },
-        {
-          "verse": 57,
-          "text": "Disseram-lhe, pois, os judeus: Ainda não tens cinquenta anos, e viste Abraão?"
-        },
-        {
-          "verse": 58,
-          "text": "Disse-lhes Jesus: Em verdade, em verdade vos digo que antes que Abraão existisse, eu sou."
-        },
-        {
-          "verse": 59,
-          "text": "Então pegaram em pedras para lhe atirarem; mas Jesus ocultou-se, e saiu do templo, passando pelo meio deles, e assim se retirou."
+          "text": "Os que te odeiam se vestirão de confusão, e a tenda dos ímpios não existirá mais."
         }
       ]
     },
@@ -1631,167 +775,143 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "E, passando Jesus, viu um homem cego de nascença."
+          "text": "Então Jó respondeu, dizendo:"
         },
         {
           "verse": 2,
-          "text": "E os seus discípulos lhe perguntaram, dizendo: Rabi, quem pecou, este ou seus pais, para que nascesse cego?"
+          "text": "Na verdade sei que assim é; porque, como se justificaria o homem para com Deus?"
         },
         {
           "verse": 3,
-          "text": "Jesus respondeu: Nem ele pecou nem seus pais; mas foi assim para que se manifestem nele as obras de Deus."
+          "text": "Se quiser contender com ele, nem a uma de mil coisas lhe poderá responder."
         },
         {
           "verse": 4,
-          "text": "Convém que eu faça as obras daquele que me enviou, enquanto é dia; a noite vem, quando ninguém pode trabalhar."
+          "text": "Ele é sábio de coração, e forte em poder; quem se endureceu contra ele, e teve paz?"
         },
         {
           "verse": 5,
-          "text": "Enquanto estou no mundo, sou a luz do mundo."
+          "text": "Ele é o que remove os montes, sem que o saibam, e o que os transtorna no seu furor."
         },
         {
           "verse": 6,
-          "text": "Tendo dito isto, cuspiu na terra, e com a saliva fez lodo, e untou com o lodo os olhos do cego."
+          "text": "O que sacode a terra do seu lugar, e as suas colunas estremecem."
         },
         {
           "verse": 7,
-          "text": "E disse-lhe: Vai, lava-te no tanque de Siloé (que significa o Enviado). Foi, pois, e lavou-se, e voltou vendo."
+          "text": "O que fala ao sol, e ele não nasce, e sela as estrelas."
         },
         {
           "verse": 8,
-          "text": "Então os vizinhos, e aqueles que dantes tinham visto que era cego, diziam: Não é este aquele que estava assentado e mendigava?"
+          "text": "O que sozinho estende os céus, e anda sobre os altos do mar."
         },
         {
           "verse": 9,
-          "text": "Uns diziam: É este. E outros: Parece-se com ele. Ele dizia: Sou eu."
+          "text": "O que fez a Ursa, o Órion, e o Sete-Estrelo, e as recâmaras do sul."
         },
         {
           "verse": 10,
-          "text": "Diziam-lhe, pois: Como se te abriram os olhos?"
+          "text": "O que faz coisas grandes e inescrutáveis; e maravilhas sem número."
         },
         {
           "verse": 11,
-          "text": "Ele respondeu, e disse: O homem, chamado Jesus, fez lodo, e untou-me os olhos, e disse-me: Vai ao tanque de Siloé, e lava-te. Então fui, e lavei-me, e vi."
+          "text": "Eis que ele passa por diante de mim, e não o vejo; e torna a passar perante mim, e não o sinto."
         },
         {
           "verse": 12,
-          "text": "Disseram-lhe, pois: Onde está ele? Respondeu: Não sei."
+          "text": "Eis que arrebata a presa; quem lha fará restituir? Quem lhe dirá: Que é o que fazes?"
         },
         {
           "verse": 13,
-          "text": "Levaram, pois, aos fariseus o que dantes era cego."
+          "text": "Deus não revogará a sua ira; debaixo dele se encurvam os auxiliadores soberbos."
         },
         {
           "verse": 14,
-          "text": "E era sábado quando Jesus fez o lodo e lhe abriu os olhos."
+          "text": "Quanto menos lhe responderia eu, ou escolheria diante dele as minhas palavras!"
         },
         {
           "verse": 15,
-          "text": "Tornaram, pois, também os fariseus a perguntar-lhe como vira, e ele lhes disse: Pôs-me lodo sobre os olhos, lavei-me, e vejo."
+          "text": "Porque, ainda que eu fosse justo, não lhe responderia; antes ao meu Juiz pediria misericórdia."
         },
         {
           "verse": 16,
-          "text": "Então alguns dos fariseus diziam: Este homem não é de Deus, pois não guarda o sábado. Diziam outros: Como pode um homem pecador fazer tais sinais? E havia dissensão entre eles."
+          "text": "Ainda que chamasse, e ele me respondesse, nem por isso creria que desse ouvidos à minha voz."
         },
         {
           "verse": 17,
-          "text": "Tornaram, pois, a dizer ao cego: Tu, que dizes daquele que te abriu os olhos? E ele respondeu: Que é profeta."
+          "text": "Porque me quebranta com uma tempestade, e multiplica as minhas chagas sem causa."
         },
         {
           "verse": 18,
-          "text": "Os judeus, porém, não creram, a seu respeito, que tivesse sido cego, e que agora visse, enquanto não chamaram os pais do que agora via."
+          "text": "Não me permite respirar, antes me farta de amarguras."
         },
         {
           "verse": 19,
-          "text": "E perguntaram-lhes, dizendo: É este o vosso filho, que vós dizeis ter nascido cego? Como, pois, vê agora?"
+          "text": "Quanto às forças, eis que ele é o forte; e, quanto ao juízo, quem me citará com ele?"
         },
         {
           "verse": 20,
-          "text": "Seus pais lhes responderam, e disseram: Sabemos que este é o nosso filho, e que nasceu cego;"
+          "text": "Se eu me justificar, a minha boca me condenará; se for perfeito, então ela me declarará perverso."
         },
         {
           "verse": 21,
-          "text": "Mas como agora vê, não sabemos; ou quem lhe tenha aberto os olhos, não sabemos. Tem idade, perguntai-lho a ele mesmo; e ele falará por si mesmo."
+          "text": "Se for perfeito, não estimo a minha alma; desprezo a minha vida."
         },
         {
           "verse": 22,
-          "text": "Seus pais disseram isto, porque temiam os judeus. Porquanto já os judeus tinham resolvido que, se alguém confessasse ser ele o Cristo, fosse expulso da sinagoga."
+          "text": "A coisa é esta; por isso eu digo que ele consome ao perfeito e ao ímpio."
         },
         {
           "verse": 23,
-          "text": "Por isso é que seus pais disseram: Tem idade, perguntai-lho a ele mesmo."
+          "text": "Quando o açoite mata de repente, então ele zomba da prova dos inocentes."
         },
         {
           "verse": 24,
-          "text": "Chamaram, pois, pela segunda vez o homem que tinha sido cego, e disseram-lhe: Dá glória a Deus; nós sabemos que esse homem é pecador."
+          "text": "A terra é entregue nas mãos do ímpio; ele cobre o rosto dos juízes; se não é ele, quem é, logo?"
         },
         {
           "verse": 25,
-          "text": "Respondeu ele pois, e disse: Se é pecador, não sei; uma coisa sei, é que, havendo eu sido cego, agora vejo."
+          "text": "E os meus dias são mais velozes do que um correio; fugiram, e não viram o bem."
         },
         {
           "verse": 26,
-          "text": "E tornaram a dizer-lhe: Que te fez ele? Como te abriu os olhos?"
+          "text": "Passam como navios veleiros; como águia que se lança à comida."
         },
         {
           "verse": 27,
-          "text": "Respondeu-lhes: Já vo-lo disse, e não ouvistes; para que o quereis tornar a ouvir? Quereis vós porventura fazer-vos também seus discípulos?"
+          "text": "Se eu disser: Eu me esquecerei da minha queixa, e mudarei o meu aspecto e tomarei alento,"
         },
         {
           "verse": 28,
-          "text": "Então o injuriaram, e disseram: Discípulo dele sejas tu; nós, porém, somos discípulos de Moisés."
+          "text": "Receio todas as minhas dores, porque bem sei que não me terás por inocente."
         },
         {
           "verse": 29,
-          "text": "Nós bem sabemos que Deus falou a Moisés, mas este não sabemos de onde é."
+          "text": "E, sendo eu ímpio, por que trabalharei em vão?"
         },
         {
           "verse": 30,
-          "text": "O homem respondeu, e disse-lhes: Nisto, pois, está a maravilha, que vós não saibais de onde ele é, e contudo me abrisse os olhos."
+          "text": "Ainda que me lave com água de neve, e purifique as minhas mãos com sabão,"
         },
         {
           "verse": 31,
-          "text": "Ora, nós sabemos que Deus não ouve a pecadores; mas, se alguém é temente a Deus, e faz a sua vontade, a esse ouve."
+          "text": "Ainda me submergirás no fosso, e as minhas próprias vestes me abominarão."
         },
         {
           "verse": 32,
-          "text": "Desde o princípio do mundo nunca se ouviu que alguém abrisse os olhos a um cego de nascença."
+          "text": "Porque ele não é homem, como eu, a quem eu responda, vindo juntamente a juízo."
         },
         {
           "verse": 33,
-          "text": "Se este não fosse de Deus, nada poderia fazer."
+          "text": "Não há entre nós árbitro que ponha a mão sobre nós ambos."
         },
         {
           "verse": 34,
-          "text": "Responderam eles, e disseram-lhe: Tu és nascido todo em pecados, e nos ensinas a nós? E expulsaram-no."
+          "text": "Tire ele a sua vara de cima de mim, e não me amedronte o seu terror."
         },
         {
           "verse": 35,
-          "text": "Jesus ouviu que o tinham expulsado e, encontrando-o, disse-lhe: Crês tu no Filho de Deus?"
-        },
-        {
-          "verse": 36,
-          "text": "Ele respondeu, e disse: Quem é ele, Senhor, para que nele creia?"
-        },
-        {
-          "verse": 37,
-          "text": "E Jesus lhe disse: Tu já o tens visto, e é aquele que fala contigo."
-        },
-        {
-          "verse": 38,
-          "text": "Ele disse: Creio, Senhor. E o adorou."
-        },
-        {
-          "verse": 39,
-          "text": "E disse-lhe Jesus: Eu vim a este mundo para juízo, a fim de que os que não veem vejam, e os que veem sejam cegos."
-        },
-        {
-          "verse": 40,
-          "text": "E aqueles dos fariseus, que estavam com ele, ouvindo isto, disseram-lhe: Também nós somos cegos?"
-        },
-        {
-          "verse": 41,
-          "text": "Disse-lhes Jesus: Se fôsseis cegos, não teríeis pecado; mas como agora dizeis: Vemos; por isso o vosso pecado permanece."
+          "text": "Então falarei, e não o temerei; porque não sou assim em mim mesmo."
         }
       ]
     },
@@ -1800,171 +920,91 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Na verdade, na verdade vos digo que aquele que não entra pela porta no curral das ovelhas, mas sobe por outra parte, é ladrão e salteador."
+          "text": "A minha alma tem tédio da minha vida; darei livre curso à minha queixa, falarei na amargura da minha alma."
         },
         {
           "verse": 2,
-          "text": "Aquele, porém, que entra pela porta é o pastor das ovelhas."
+          "text": "Direi a Deus: Não me condenes; faze-me saber por que contendes comigo."
         },
         {
           "verse": 3,
-          "text": "A este o porteiro abre, e as ovelhas ouvem a sua voz, e chama pelo nome às suas ovelhas, e as traz para fora."
+          "text": "Parece-te bem que me oprimas, que rejeites o trabalho das tuas mãos e resplandeças sobre o conselho dos ímpios?"
         },
         {
           "verse": 4,
-          "text": "E, quando tira para fora as suas ovelhas, vai adiante delas, e as ovelhas o seguem, porque conhecem a sua voz."
+          "text": "Tens tu porventura olhos de carne? Vês tu como vê o homem?"
         },
         {
           "verse": 5,
-          "text": "Mas de modo nenhum seguirão o estranho, antes fugirão dele, porque não conhecem a voz dos estranhos."
+          "text": "São os teus dias como os dias do homem? Ou são os teus anos como os anos de um homem,"
         },
         {
           "verse": 6,
-          "text": "Jesus disse-lhes esta parábola; mas eles não entenderam o que era que lhes dizia."
+          "text": "Para te informares da minha iniquidade, e averiguares o meu pecado?"
         },
         {
           "verse": 7,
-          "text": "Tornou, pois, Jesus a dizer-lhes: Em verdade, em verdade vos digo que eu sou a porta das ovelhas."
+          "text": "Bem sabes tu que eu não sou iníquo; todavia ninguém há que me livre da tua mão."
         },
         {
           "verse": 8,
-          "text": "Todos quantos vieram antes de mim são ladrões e salteadores; mas as ovelhas não os ouviram."
+          "text": "As tuas mãos me fizeram e me formaram completamente; contudo me consomes."
         },
         {
           "verse": 9,
-          "text": "Eu sou a porta; se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará pastagens."
+          "text": "Peço-te que te lembres de que como barro me formaste e me farás voltar ao pó."
         },
         {
           "verse": 10,
-          "text": "O ladrão não vem senão a roubar, a matar, e a destruir; eu vim para que tenham vida, e a tenham com abundância."
+          "text": "Porventura não me vazaste como leite, e como queijo não me coalhaste?"
         },
         {
           "verse": 11,
-          "text": "Eu sou o bom Pastor; o bom Pastor dá a sua vida pelas ovelhas."
+          "text": "De pele e carne me vestiste, e de ossos e nervos me teceste."
         },
         {
           "verse": 12,
-          "text": "Mas o mercenário, e o que não é pastor, de quem não são as ovelhas, vê vir o lobo, e deixa as ovelhas, e foge; e o lobo as arrebata e dispersa as ovelhas."
+          "text": "Vida e misericórdia me concedeste; e o teu cuidado guardou o meu espírito."
         },
         {
           "verse": 13,
-          "text": "Ora, o mercenário foge, porque é mercenário, e não tem cuidado das ovelhas."
+          "text": "Porém estas coisas as ocultaste no teu coração; bem sei eu que isto esteve contigo."
         },
         {
           "verse": 14,
-          "text": "Eu sou o bom Pastor, e conheço as minhas ovelhas, e das minhas sou conhecido."
+          "text": "Se eu pecar, tu me observas; e da minha iniquidade não me escusarás."
         },
         {
           "verse": 15,
-          "text": "Assim como o Pai me conhece a mim, também eu conheço o Pai, e dou a minha vida pelas ovelhas."
+          "text": "Se for ímpio, ai de mim! E se for justo, não levantarei a minha cabeça; farto estou da minha ignomínia; e vê qual é a minha aflição,"
         },
         {
           "verse": 16,
-          "text": "Ainda tenho outras ovelhas que não são deste aprisco; também me convém agregar estas, e elas ouvirão a minha voz, e haverá um rebanho e um Pastor."
+          "text": "Porque se vai crescendo; tu me caças como a um leão feroz; tornas a fazer maravilhas para comigo."
         },
         {
           "verse": 17,
-          "text": "Por isto o Pai me ama, porque dou a minha vida para tornar a tomá-la."
+          "text": "Tu renovas contra mim as tuas testemunhas, e multiplicas contra mim a tua ira; reveses e combate estão comigo."
         },
         {
           "verse": 18,
-          "text": "Ninguém ma tira de mim, mas eu de mim mesmo a dou; tenho poder para a dar, e poder para tornar a tomá-la. Este mandamento recebi de meu Pai."
+          "text": "Por que, pois, me tiraste da madre? Ah! Se então tivera expirado, e olho nenhum me visse!"
         },
         {
           "verse": 19,
-          "text": "Tornou, pois, a haver divisão entre os judeus por causa destas palavras."
+          "text": "Então eu teria sido como se nunca fora; e desde o ventre seria levado à sepultura!"
         },
         {
           "verse": 20,
-          "text": "E muitos deles diziam: Tem demônio, e está fora de si; por que o ouvis?"
+          "text": "Porventura não são poucos os meus dias? Cessa, pois, e deixa-me, para que por um pouco eu tome alento."
         },
         {
           "verse": 21,
-          "text": "Diziam outros: Estas palavras não são de endemoninhado. Pode, porventura, um demônio abrir os olhos aos cegos?"
+          "text": "Antes que eu vá para o lugar de que não voltarei, à terra da escuridão e da sombra da morte;"
         },
         {
           "verse": 22,
-          "text": "E em Jerusalém havia a festa da dedicação, e era inverno."
-        },
-        {
-          "verse": 23,
-          "text": "E Jesus andava passeando no templo, no alpendre de Salomão."
-        },
-        {
-          "verse": 24,
-          "text": "Rodearam-no, pois, os judeus, e disseram-lhe: Até quando terás a nossa alma suspensa? Se tu és o Cristo, dize-nos abertamente."
-        },
-        {
-          "verse": 25,
-          "text": "Respondeu-lhes Jesus: Já vo-lo tenho dito, e não o credes. As obras que eu faço, em nome de meu Pai, essas testificam de mim."
-        },
-        {
-          "verse": 26,
-          "text": "Mas vós não credes porque não sois das minhas ovelhas, como já vo-lo tenho dito."
-        },
-        {
-          "verse": 27,
-          "text": "As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem;"
-        },
-        {
-          "verse": 28,
-          "text": "E dou-lhes a vida eterna, e nunca hão de perecer, e ninguém as arrebatará da minha mão."
-        },
-        {
-          "verse": 29,
-          "text": "Meu Pai, que mas deu, é maior do que todos; e ninguém pode arrebatá-las da mão de meu Pai."
-        },
-        {
-          "verse": 30,
-          "text": "Eu e o Pai somos um."
-        },
-        {
-          "verse": 31,
-          "text": "Os judeus pegaram então outra vez em pedras para o apedrejar."
-        },
-        {
-          "verse": 32,
-          "text": "Respondeu-lhes Jesus: Tenho-vos mostrado muitas obras boas procedentes de meu Pai; por qual destas obras me apedrejais?"
-        },
-        {
-          "verse": 33,
-          "text": "Os judeus responderam, dizendo-lhe: Não te apedrejamos por alguma obra boa, mas pela blasfêmia e porque, sendo tu homem, te fazes Deus a ti mesmo."
-        },
-        {
-          "verse": 34,
-          "text": "Respondeu-lhes Jesus: Não está escrito na vossa lei: Eu disse: Sois deuses?"
-        },
-        {
-          "verse": 35,
-          "text": "Pois, se chamou-os deuses àqueles a quem a palavra de Deus foi dirigida, e a Escritura não pode ser anulada,"
-        },
-        {
-          "verse": 36,
-          "text": "Àquele a quem o Pai santificou, e enviou ao mundo, vós dizeis: Blasfemas, porque disse: Sou Filho de Deus?"
-        },
-        {
-          "verse": 37,
-          "text": "Se não faço as obras de meu Pai, não me acrediteis."
-        },
-        {
-          "verse": 38,
-          "text": "Mas, se as faço, e não credes em mim, crede nas obras; para que conheçais e acrediteis que o Pai está em mim e eu nele."
-        },
-        {
-          "verse": 39,
-          "text": "Procuravam, pois, prendê-lo outra vez, mas ele escapou-se de suas mãos,"
-        },
-        {
-          "verse": 40,
-          "text": "E retirou-se outra vez para além do Jordão, para o lugar onde João tinha primeiramente batizado; e ali ficou."
-        },
-        {
-          "verse": 41,
-          "text": "E muitos iam ter com ele, e diziam: Na verdade João não fez sinal algum, mas tudo quanto João disse deste era verdade."
-        },
-        {
-          "verse": 42,
-          "text": "E muitos ali creram nele."
+          "text": "Terra escuríssima, como a própria escuridão, terra da sombra da morte e sem ordem alguma, e onde a luz é como a escuridão."
         }
       ]
     },
@@ -1973,231 +1013,83 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Estava, porém, enfermo um certo Lázaro, de Betânia, aldeia de Maria e de sua irmã Marta."
+          "text": "Então respondeu Zofar, o naamatita, e disse:"
         },
         {
           "verse": 2,
-          "text": "E Maria era aquela que tinha ungido o Senhor com unguento, e lhe tinha enxugado os pés com os seus cabelos, cujo irmão Lázaro estava enfermo."
+          "text": "Porventura não se dará resposta à multidão de palavras? E o homem falador será justificado?"
         },
         {
           "verse": 3,
-          "text": "Mandaram-lhe, pois, suas irmãs dizer: Senhor, eis que está enfermo aquele que tu amas."
+          "text": "Às tuas mentiras se hão de calar os homens? E zombarás tu sem que ninguém te envergonhe?"
         },
         {
           "verse": 4,
-          "text": "E Jesus, ouvindo isto, disse: Esta enfermidade não é para morte, mas para glória de Deus, para que o Filho de Deus seja glorificado por ela."
+          "text": "Pois dizes: A minha doutrina é pura, e limpo sou aos teus olhos."
         },
         {
           "verse": 5,
-          "text": "Ora, Jesus amava a Marta, e a sua irmã, e a Lázaro."
+          "text": "Mas na verdade, quem dera que Deus falasse e abrisse os seus lábios contra ti!"
         },
         {
           "verse": 6,
-          "text": "Quando ouviu, pois, que estava enfermo, ficou ainda dois dias no lugar onde estava."
+          "text": "E te fizesse saber os segredos da sabedoria, que é multíplice em eficácia; sabe, pois, que Deus exige de ti menos do que merece a tua iniquidade."
         },
         {
           "verse": 7,
-          "text": "Então, depois disto, disse aos seus discípulos: Vamos outra vez para a Judeia."
+          "text": "Porventura alcançarás os caminhos de Deus, ou chegarás à perfeição do Todo-Poderoso?"
         },
         {
           "verse": 8,
-          "text": "Disseram-lhe os discípulos: Rabi, ainda agora os judeus procuravam apedrejar-te, e tornas para lá?"
+          "text": "Como as alturas dos céus é a sua sabedoria; que poderás tu fazer? É mais profunda do que o inferno, que poderás tu saber?"
         },
         {
           "verse": 9,
-          "text": "Jesus respondeu: Não há doze horas no dia? Se alguém andar de dia, não tropeça, porque vê a luz deste mundo;"
+          "text": "Mais comprida é a sua medida do que a terra, e mais larga do que o mar."
         },
         {
           "verse": 10,
-          "text": "Mas, se andar de noite, tropeça, porque nele não há luz."
+          "text": "Se ele passar, aprisionar, ou chamar a juízo, quem o impedirá?"
         },
         {
           "verse": 11,
-          "text": "Assim falou; e depois disso disse-lhes: Lázaro, o nosso amigo, dorme, mas vou despertá-lo do sono."
+          "text": "Porque ele conhece aos homens vãos, e vê o vício; e não o terá em consideração?"
         },
         {
           "verse": 12,
-          "text": "Disseram, pois, os seus discípulos: Senhor, se dorme, estará salvo."
+          "text": "Mas o homem vão é falto de entendimento; sim, o homem nasce como a cria do jumento montês."
         },
         {
           "verse": 13,
-          "text": "Mas Jesus dizia isto da sua morte; eles, porém, cuidavam que falava do repouso do sono."
+          "text": "Se tu preparares o teu coração, e estenderes as tuas mãos para ele;"
         },
         {
           "verse": 14,
-          "text": "Então pois, Jesus disse-lhes claramente: Lázaro está morto;"
+          "text": "Se há iniquidade na tua mão, lança-a para longe de ti e não deixes habitar a injustiça nas tuas tendas."
         },
         {
           "verse": 15,
-          "text": "E folgo, por amor de vós, de que eu lá não estivesse, para que acrediteis; mas vamos ter com ele."
+          "text": "Porque então o teu rosto levantarás sem mácula; e estarás firme, e não temerás."
         },
         {
           "verse": 16,
-          "text": "Disse, pois, Tomé, chamado Dídimo, aos condiscípulos: Vamos nós também, para morrermos com ele."
+          "text": "Porque te esquecerás do cansaço, e lembrar-te-ás dele como das águas que já passaram."
         },
         {
           "verse": 17,
-          "text": "Chegando, pois, Jesus, achou que já havia quatro dias que estava na sepultura."
+          "text": "E a tua vida mais clara se levantará do que o meio-dia; ainda que haja trevas, será como a manhã."
         },
         {
           "verse": 18,
-          "text": "(Ora Betânia distava de Jerusalém quase quinze estádios.)"
+          "text": "E terás confiança, porque haverá esperança; olharás em volta e repousarás seguro."
         },
         {
           "verse": 19,
-          "text": "E muitos dos judeus tinham ido consolar a Marta e a Maria, acerca de seu irmão."
+          "text": "E deitar-te-ás, e ninguém te espantará; muitos suplicarão o teu favor."
         },
         {
           "verse": 20,
-          "text": "Ouvindo, pois, Marta que Jesus vinha, saiu-lhe ao encontro; Maria, porém, ficou assentada em casa."
-        },
-        {
-          "verse": 21,
-          "text": "Disse, pois, Marta a Jesus: Senhor, se tu estivesses aqui, meu irmão não teria morrido."
-        },
-        {
-          "verse": 22,
-          "text": "Mas também agora sei que tudo quanto pedires a Deus, Deus to concederá."
-        },
-        {
-          "verse": 23,
-          "text": "Disse-lhe Jesus: Teu irmão há de ressuscitar."
-        },
-        {
-          "verse": 24,
-          "text": "Disse-lhe Marta: Eu sei que há de ressuscitar na ressurreição do último dia."
-        },
-        {
-          "verse": 25,
-          "text": "Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá;"
-        },
-        {
-          "verse": 26,
-          "text": "E todo aquele que vive, e crê em mim, nunca irá morrer. Crês tu isto?"
-        },
-        {
-          "verse": 27,
-          "text": "Disse-lhe ela: Sim, Senhor, creio que tu és o Cristo, o Filho de Deus, que havia de vir ao mundo."
-        },
-        {
-          "verse": 28,
-          "text": "E, dito isto, partiu, e chamou em segredo a Maria, sua irmã, dizendo: O Mestre está cá, e chama-te."
-        },
-        {
-          "verse": 29,
-          "text": "Ela, ouvindo isto, levantou-se logo, e foi ter com ele."
-        },
-        {
-          "verse": 30,
-          "text": "(Pois, Jesus ainda não tinha chegado à aldeia, mas estava no lugar onde Marta o encontrara.)"
-        },
-        {
-          "verse": 31,
-          "text": "Vendo, pois, os judeus, que estavam com ela em casa e a consolavam, que Maria apressadamente se levantara e saíra, seguiram-na, dizendo: Vai ao sepulcro para chorar ali."
-        },
-        {
-          "verse": 32,
-          "text": "Tendo, pois, Maria chegado aonde Jesus estava, e vendo-o, lançou-se aos seus pés, dizendo-lhe: Senhor, se tu estivesses aqui, meu irmão não teria morrido."
-        },
-        {
-          "verse": 33,
-          "text": "Jesus pois, quando a viu chorar, e também chorando os judeus que com ela vinham, moveu-se muito em espírito, e perturbou-se."
-        },
-        {
-          "verse": 34,
-          "text": "E disse: Onde o pusestes? Disseram-lhe: Senhor, vem, e vê."
-        },
-        {
-          "verse": 35,
-          "text": "Jesus chorou."
-        },
-        {
-          "verse": 36,
-          "text": "Disseram, pois, os judeus: Vede como o amava."
-        },
-        {
-          "verse": 37,
-          "text": "E alguns deles disseram: Não podia ele, que abriu os olhos ao cego, fazer também com que este não morresse?"
-        },
-        {
-          "verse": 38,
-          "text": "Jesus, pois, movendo-se outra vez muito em si mesmo, veio ao sepulcro; e era uma caverna, e tinha uma pedra posta sobre ela."
-        },
-        {
-          "verse": 39,
-          "text": "Disse Jesus: Tirai a pedra. Marta, irmã do defunto, disse-lhe: Senhor, já cheira mal, porque é já de quatro dias."
-        },
-        {
-          "verse": 40,
-          "text": "Disse-lhe Jesus: Não te tenho dito que, se creres, verás a glória de Deus?"
-        },
-        {
-          "verse": 41,
-          "text": "Tiraram, pois, a pedra de onde o defunto jazia. E Jesus, levantando os olhos para cima, disse: Pai, graças te dou, por me haveres ouvido."
-        },
-        {
-          "verse": 42,
-          "text": "Eu bem sei que sempre me ouves, mas eu disse isto por causa da multidão que está em redor, para que creiam que tu me enviaste."
-        },
-        {
-          "verse": 43,
-          "text": "E, tendo dito isto, clamou com grande voz: Lázaro, sai para fora."
-        },
-        {
-          "verse": 44,
-          "text": "E o que fora defunto saiu, tendo as mãos e os pés ligados com faixas, e o seu rosto envolto num lenço. Disse-lhes Jesus: Desligai-o, e deixai-o ir."
-        },
-        {
-          "verse": 45,
-          "text": "Muitos, pois, dentre os judeus que tinham vindo a Maria, e que tinham visto o que Jesus fizera, creram nele."
-        },
-        {
-          "verse": 46,
-          "text": "Mas alguns deles foram ter com os fariseus, e disseram-lhes o que Jesus tinha feito."
-        },
-        {
-          "verse": 47,
-          "text": "Depois os principais sacerdotes e os fariseus formaram conselho, e diziam: Que faremos? Porquanto este homem faz muitos sinais."
-        },
-        {
-          "verse": 48,
-          "text": "Se o deixamos assim, todos crerão nele, e virão os romanos, e tirar-nos-ão o nosso lugar e a nação."
-        },
-        {
-          "verse": 49,
-          "text": "E Caifás, um deles que era sumo sacerdote naquele ano, lhes disse: Vós nada sabeis,"
-        },
-        {
-          "verse": 50,
-          "text": "Nem considerais que nos convém que um homem morra pelo povo, e que não pereça toda a nação."
-        },
-        {
-          "verse": 51,
-          "text": "Ora ele não disse isto de si mesmo, mas, sendo o sumo sacerdote naquele ano, profetizou que Jesus devia morrer pela nação."
-        },
-        {
-          "verse": 52,
-          "text": "E não somente pela nação, mas também para reunir em um corpo os filhos de Deus que andavam dispersos."
-        },
-        {
-          "verse": 53,
-          "text": "Desde aquele dia, pois, consultavam-se para o matarem."
-        },
-        {
-          "verse": 54,
-          "text": "Jesus, pois, já não andava manifestamente entre os judeus, mas retirou-se dali para a terra junto do deserto, para uma cidade chamada Efraim; e ali ficou com os seus discípulos."
-        },
-        {
-          "verse": 55,
-          "text": "E estava próxima a páscoa dos judeus, e muitos daquela região subiram a Jerusalém antes da páscoa para se purificarem."
-        },
-        {
-          "verse": 56,
-          "text": "Buscavam, pois, a Jesus, e diziam uns aos outros, estando no templo: Que vos parece? Não virá à festa?"
-        },
-        {
-          "verse": 57,
-          "text": "Ora, os principais sacerdotes e os fariseus tinham dado ordem para que, se alguém soubesse onde ele estava, o denunciasse, para o prenderem."
+          "text": "Porém os olhos dos ímpios desfalecerão, e perecerá o seu refúgio; e a sua esperança será o expirar da alma."
         }
       ]
     },
@@ -2206,203 +1098,103 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Foi, pois, Jesus seis dias antes da páscoa a Betânia, onde estava Lázaro, o que falecera, e a quem ressuscitara dentre os mortos."
+          "text": "Então Jó respondeu, dizendo:"
         },
         {
           "verse": 2,
-          "text": "Fizeram-lhe, pois, ali uma ceia, e Marta servia, e Lázaro era um dos que estavam à mesa com ele."
+          "text": "Na verdade, vós sois o povo, e convosco morrerá a sabedoria."
         },
         {
           "verse": 3,
-          "text": "Então Maria, tomando um arrátel de unguento de nardo puro, de muito preço, ungiu os pés de Jesus, e enxugou-lhe os pés com os seus cabelos; e encheu-se a casa do cheiro do unguento."
+          "text": "Também eu tenho entendimento como vós, e não vos sou inferior; e quem não sabe tais coisas como essas?"
         },
         {
           "verse": 4,
-          "text": "Então, um dos seus discípulos, Judas Iscariotes, filho de Simão, o que havia de traí-lo, disse:"
+          "text": "Eu sou motivo de riso para os meus amigos; eu, que invoco a Deus, e ele me responde; o justo e perfeito serve de zombaria."
         },
         {
           "verse": 5,
-          "text": "Por que não se vendeu este unguento por trezentos dinheiros e não se deu aos pobres?"
+          "text": "Tocha desprezível é, na opinião do que está descansado, aquele que está pronto a vacilar com os pés."
         },
         {
           "verse": 6,
-          "text": "Ora, ele disse isto, não pelo cuidado que tivesse dos pobres, mas porque era ladrão e tinha a bolsa, e tirava o que ali se lançava."
+          "text": "As tendas dos assoladores têm descanso, e os que provocam a Deus estão seguros; nas suas mãos Deus lhes põe tudo."
         },
         {
           "verse": 7,
-          "text": "Disse, pois, Jesus: Deixai-a; para o dia da minha sepultura guardou isto;"
+          "text": "Mas, pergunta agora aos animais, e cada um deles te ensinará; e às aves dos céus, e elas te farão saber;"
         },
         {
           "verse": 8,
-          "text": "Porque os pobres sempre os tendes convosco, mas a mim nem sempre me tendes."
+          "text": "Ou fala com a terra, e ela te ensinará; até os peixes do mar te contarão."
         },
         {
           "verse": 9,
-          "text": "E muita gente dos judeus soube que ele estava ali; e foram, não só por causa de Jesus, mas também para ver a Lázaro, a quem ressuscitara dentre os mortos."
+          "text": "Quem não entende, por todas estas coisas, que a mão do Senhor fez isto?"
         },
         {
           "verse": 10,
-          "text": "E os principais sacerdotes tomaram deliberação para matar também a Lázaro;"
+          "text": "Na sua mão está a alma de tudo quanto vive, e o espírito de toda a carne humana."
         },
         {
           "verse": 11,
-          "text": "Porque muitos dos judeus, por causa dele, iam e criam em Jesus."
+          "text": "Porventura o ouvido não provará as palavras, como o paladar prova as comidas?"
         },
         {
           "verse": 12,
-          "text": "No dia seguinte, ouvindo uma grande multidão, que viera à festa, que Jesus vinha a Jerusalém,"
+          "text": "Com os idosos está a sabedoria, e na longevidade o entendimento."
         },
         {
           "verse": 13,
-          "text": "Tomaram ramos de palmeiras, e saíram-lhe ao encontro, e clamavam: Hosana! Bendito o Rei de Israel que vem em nome do Senhor."
+          "text": "Com ele está a sabedoria e a força; conselho e entendimento tem."
         },
         {
           "verse": 14,
-          "text": "E achou Jesus um jumentinho, e assentou-se sobre ele, como está escrito:"
+          "text": "Eis que ele derruba, e ninguém há que edifique; prende um homem, e ninguém há que o solte."
         },
         {
           "verse": 15,
-          "text": "Não temas, ó filha de Sião; eis que o teu Rei vem assentado sobre o filho de uma jumenta."
+          "text": "Eis que ele retém as águas, e elas secam; e solta-as, e elas transtornam a terra."
         },
         {
           "verse": 16,
-          "text": "Os seus discípulos, porém, não entenderam isto no princípio; mas, quando Jesus foi glorificado, então se lembraram de que isto estava escrito dele, e que isto lhe fizeram."
+          "text": "Com ele está a força e a sabedoria; seu é o que erra e o que faz errar."
         },
         {
           "verse": 17,
-          "text": "A multidão, pois, que estava com ele quando Lázaro foi chamado da sepultura, testificava que ele o ressuscitara dentre os mortos."
+          "text": "Aos conselheiros leva despojados, e aos juízes faz desvairar."
         },
         {
           "verse": 18,
-          "text": "Por isso também a multidão lhe saiu ao encontro, porque tinham ouvido que ele fizera este sinal."
+          "text": "Solta a autoridade dos reis, e ata o cinto aos seus lombos."
         },
         {
           "verse": 19,
-          "text": "Disseram, pois, os fariseus entre si: Vedes que nada aproveitais? Eis que toda a gente vai após ele."
+          "text": "Aos sacerdotes leva despojados, aos poderosos transtorna."
         },
         {
           "verse": 20,
-          "text": "Ora, havia alguns gregos, entre os que tinham subido a adorar no dia da festa."
+          "text": "Aos acreditados tira a fala, e tira o entendimento aos anciãos."
         },
         {
           "verse": 21,
-          "text": "Estes, pois, dirigiram-se a Filipe, que era de Betsaida da Galileia, e rogaram-lhe, dizendo: Senhor, queríamos ver a Jesus."
+          "text": "Derrama desprezo sobre os príncipes, e afrouxa o cinto dos fortes."
         },
         {
           "verse": 22,
-          "text": "Filipe foi dizê-lo a André, e então André e Filipe o disseram a Jesus."
+          "text": "Das trevas descobre coisas profundas, e traz à luz a sombra da morte."
         },
         {
           "verse": 23,
-          "text": "E Jesus lhes respondeu, dizendo: É chegada a hora em que o Filho do homem há de ser glorificado."
+          "text": "Multiplica as nações e as faz perecer; dispersa as nações, e de novo as reconduz."
         },
         {
           "verse": 24,
-          "text": "Na verdade, na verdade vos digo que, se o grão de trigo, caindo na terra, não morrer, fica ele só; mas se morrer, dá muito fruto."
+          "text": "Tira o entendimento aos chefes dos povos da terra, e os faz vaguear pelos desertos, sem caminho."
         },
         {
           "verse": 25,
-          "text": "Quem ama a sua vida perdê-la-á, e quem neste mundo odeia a sua vida, guardá-la-á para a vida eterna."
-        },
-        {
-          "verse": 26,
-          "text": "Se alguém me serve, siga-me, e onde eu estiver, ali estará também o meu servo. E, se alguém me servir, meu Pai o honrará."
-        },
-        {
-          "verse": 27,
-          "text": "Agora a minha alma está perturbada; e que direi eu? Pai, salva-me desta hora; mas para isto vim a esta hora."
-        },
-        {
-          "verse": 28,
-          "text": "Pai, glorifica o teu nome. Então veio uma voz do céu que dizia: Já o tenho glorificado, e outra vez o glorificarei."
-        },
-        {
-          "verse": 29,
-          "text": "Ora, a multidão que ali estava, e que a ouvira, dizia que havia sido um trovão. Outros diziam: Um anjo lhe falou."
-        },
-        {
-          "verse": 30,
-          "text": "Respondeu Jesus, e disse: Não veio esta voz por amor de mim, mas por amor de vós."
-        },
-        {
-          "verse": 31,
-          "text": "Agora é o juízo deste mundo; agora será expulso o príncipe deste mundo."
-        },
-        {
-          "verse": 32,
-          "text": "E eu, quando for levantado da terra, todos atrairei a mim."
-        },
-        {
-          "verse": 33,
-          "text": "E dizia isto, significando de que morte havia de morrer."
-        },
-        {
-          "verse": 34,
-          "text": "Respondeu-lhe a multidão: Nós temos ouvido da lei, que o Cristo permanece para sempre; e como dizes tu que convém que o Filho do homem seja levantado? Quem é esse Filho do homem?"
-        },
-        {
-          "verse": 35,
-          "text": "Disse-lhes, pois, Jesus: A luz ainda está convosco por um pouco de tempo. Andai enquanto tendes luz, para que as trevas não vos apanhem; pois quem anda nas trevas não sabe para onde vai."
-        },
-        {
-          "verse": 36,
-          "text": "Enquanto tendes luz, crede na luz, para que sejais filhos da luz. Estas coisas disse Jesus e, retirando-se, ocultou-se deles."
-        },
-        {
-          "verse": 37,
-          "text": "E, ainda que tinha feito tantos sinais diante deles, não criam nele;"
-        },
-        {
-          "verse": 38,
-          "text": "Para que se cumprisse a palavra do profeta Isaías, que diz: Senhor, quem creu na nossa pregação? E a quem foi revelado o braço do Senhor?"
-        },
-        {
-          "verse": 39,
-          "text": "Por isso não podiam crer, então Isaías disse outra vez:"
-        },
-        {
-          "verse": 40,
-          "text": "Cegou-lhes os olhos, e endureceu-lhes o coração, a fim de que não vejam com os olhos, e compreendam no coração, e se convertam, e eu os cure."
-        },
-        {
-          "verse": 41,
-          "text": "Isaías disse isto quando viu a sua glória e falou dele."
-        },
-        {
-          "verse": 42,
-          "text": "Apesar de tudo, até muitos dos principais creram nele; mas não o confessavam por causa dos fariseus, para não serem expulsos da sinagoga."
-        },
-        {
-          "verse": 43,
-          "text": "Porque amavam mais a glória dos homens do que a glória de Deus."
-        },
-        {
-          "verse": 44,
-          "text": "E Jesus clamou, e disse: Quem crê em mim, crê, não em mim, mas naquele que me enviou."
-        },
-        {
-          "verse": 45,
-          "text": "E quem me vê a mim, vê aquele que me enviou."
-        },
-        {
-          "verse": 46,
-          "text": "Eu sou a luz que vim ao mundo, para que todo aquele que crê em mim não permaneça nas trevas."
-        },
-        {
-          "verse": 47,
-          "text": "E se alguém ouvir as minhas palavras, e não crer, eu não o julgo; porque eu vim, não para julgar o mundo, mas para salvar o mundo."
-        },
-        {
-          "verse": 48,
-          "text": "Quem me rejeitar a mim, e não receber as minhas palavras, já tem quem o julgue; a palavra que tenho pregado, essa o há de julgar no último dia."
-        },
-        {
-          "verse": 49,
-          "text": "Porque eu não tenho falado de mim mesmo; mas o Pai, que me enviou, ele me deu mandamento sobre o que hei de dizer e sobre o que hei de falar."
-        },
-        {
-          "verse": 50,
-          "text": "E sei que o seu mandamento é a vida eterna. Portanto, o que eu falo, falo-o como o Pai me tem dito."
+          "text": "Nas trevas andam às apalpadelas, sem terem luz, e os faz cambalear como ébrios."
         }
       ]
     },
@@ -2411,155 +1203,115 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Ora, antes da festa da páscoa, sabendo Jesus que já era chegada a sua hora de passar deste mundo para o Pai, como havia amado os seus, que estavam no mundo, amou-os até o fim."
+          "text": "Eis que tudo isto viram os meus olhos, e os meus ouvidos o ouviram e entenderam."
         },
         {
           "verse": 2,
-          "text": "E, acabada a ceia, tendo já o diabo posto no coração de Judas Iscariotes, filho de Simão, que o traísse,"
+          "text": "Como vós o sabeis, também eu o sei; não vos sou inferior."
         },
         {
           "verse": 3,
-          "text": "Jesus, sabendo que o Pai tinha depositado nas suas mãos todas as coisas, e que havia saído de Deus e ia para Deus,"
+          "text": "Mas eu falarei ao Todo-Poderoso, e quero defender-me perante Deus."
         },
         {
           "verse": 4,
-          "text": "Levantou-se da ceia, tirou as vestes, e, tomando uma toalha, cingiu-se."
+          "text": "Vós, porém, sois inventores de mentiras, e vós todos médicos que não valem nada."
         },
         {
           "verse": 5,
-          "text": "Depois deitou água numa bacia, e começou a lavar os pés aos discípulos, e a enxugar-lhos com a toalha com que estava cingido."
+          "text": "Quem dera que vos calásseis de todo, pois isso seria a vossa sabedoria."
         },
         {
           "verse": 6,
-          "text": "Aproximou-se, pois, de Simão Pedro, que lhe disse: Senhor, tu lavas-me os pés a mim?"
+          "text": "Ouvi agora a minha defesa, e escutai os argumentos dos meus lábios."
         },
         {
           "verse": 7,
-          "text": "Respondeu Jesus, e disse-lhe: O que eu faço não o sabes tu agora, mas tu o saberás depois."
+          "text": "Porventura por Deus falareis perversidade e por ele falareis mentiras?"
         },
         {
           "verse": 8,
-          "text": "Disse-lhe Pedro: Nunca me lavarás os pés. Respondeu-lhe Jesus: Se eu te não lavar, não tens parte comigo."
+          "text": "Fareis acepção da sua pessoa? Contendereis por Deus?"
         },
         {
           "verse": 9,
-          "text": "Disse-lhe Simão Pedro: Senhor, não só os meus pés, mas também as mãos e a cabeça."
+          "text": "Ser-vos-ia bom, se ele vos esquadrinhasse? Ou zombareis dele, como se zomba de algum homem?"
         },
         {
           "verse": 10,
-          "text": "Disse-lhe Jesus: Aquele que está lavado não necessita de lavar senão os pés, pois no mais todo está limpo. Ora vós estais limpos, mas não todos."
+          "text": "Certamente vos repreenderá, se em oculto fizerdes acepção de pessoas."
         },
         {
           "verse": 11,
-          "text": "Porque bem sabia ele quem o havia de trair; por isso disse: Nem todos estais limpos."
+          "text": "Porventura não vos espantará a sua alteza, e não cairá sobre vós o seu terror?"
         },
         {
           "verse": 12,
-          "text": "Então, depois que lhes lavou os pés, e tomou as suas vestes, e se assentou outra vez à mesa, disse-lhes: Entendeis o que vos tenho feito?"
+          "text": "As vossas memórias são como provérbios de cinza; as vossas defesas como defesas de lodo."
         },
         {
           "verse": 13,
-          "text": "Vós me chamais Mestre e Senhor, e dizeis bem, porque eu o sou."
+          "text": "Calai-vos perante mim, e falarei eu, e venha sobre mim o que vier."
         },
         {
           "verse": 14,
-          "text": "Ora, se eu, Senhor e Mestre, vos lavei os pés, vós deveis também lavar os pés uns aos outros."
+          "text": "Por que razão tomarei eu a minha carne com os meus dentes, e porei a minha vida na minha mão?"
         },
         {
           "verse": 15,
-          "text": "Porque eu vos dei o exemplo, para que, como eu vos fiz, façais vós também."
+          "text": "Ainda que ele me mate, nele esperarei; contudo os meus caminhos defenderei diante dele."
         },
         {
           "verse": 16,
-          "text": "Na verdade, na verdade vos digo que não é o servo maior do que o seu senhor, nem o enviado maior do que aquele que o enviou."
+          "text": "Também ele será a minha salvação; porém o hipócrita não virá perante ele."
         },
         {
           "verse": 17,
-          "text": "Se sabeis estas coisas, bem-aventurados sois se as fizerdes."
+          "text": "Ouvi com atenção as minhas palavras, e com os vossos ouvidos a minha declaração."
         },
         {
           "verse": 18,
-          "text": "Não falo de todos vós; eu bem sei os que tenho escolhido; mas para que se cumpra a Escritura: O que come o pão comigo, levantou contra mim o seu calcanhar."
+          "text": "Eis que já tenho ordenado a minha causa, e sei que serei achado justo."
         },
         {
           "verse": 19,
-          "text": "Desde agora vo-lo digo, antes que aconteça, para que, quando acontecer, acrediteis que eu sou."
+          "text": "Quem é o que contenderá comigo? Se eu agora me calasse, renderia o espírito."
         },
         {
           "verse": 20,
-          "text": "Na verdade, na verdade vos digo: Se alguém receber o que eu enviar, me recebe a mim, e quem me recebe a mim, recebe aquele que me enviou."
+          "text": "Duas coisas somente não faças para comigo; então não me esconderei do teu rosto:"
         },
         {
           "verse": 21,
-          "text": "Tendo Jesus dito isto, turbou-se em espírito, e afirmou, dizendo: Na verdade, na verdade vos digo que um de vós me há de trair."
+          "text": "Desvia a tua mão para longe, de mim, e não me espante o teu terror."
         },
         {
           "verse": 22,
-          "text": "Então os discípulos olhavam uns para os outros, duvidando de quem ele falava."
+          "text": "Chama, pois, e eu responderei; ou eu falarei, e tu me responderás."
         },
         {
           "verse": 23,
-          "text": "Ora, um de seus discípulos, aquele a quem Jesus amava, estava reclinado no seio de Jesus."
+          "text": "Quantas culpas e pecados tenho eu? Notifica-me a minha transgressão e o meu pecado."
         },
         {
           "verse": 24,
-          "text": "Então Simão Pedro fez sinal a este, para que perguntasse quem era aquele de quem ele falava."
+          "text": "Por que escondes o teu rosto, e me tens por teu inimigo?"
         },
         {
           "verse": 25,
-          "text": "E, inclinando-se ele sobre o peito de Jesus, disse-lhe: Senhor, quem é?"
+          "text": "Porventura acossarás uma folha arrebatada pelo vento? E perseguirás o restolho seco?"
         },
         {
           "verse": 26,
-          "text": "Jesus respondeu: É aquele a quem eu der o bocado molhado. E, molhando o bocado, o deu a Judas Iscariotes, filho de Simão."
+          "text": "Por que escreves contra mim coisas amargas e me fazes herdar as culpas da minha mocidade?"
         },
         {
           "verse": 27,
-          "text": "E, após o bocado, entrou nele Satanás. Disse-lhe, pois, Jesus: O que fazes, faze-o depressa."
+          "text": "Também pões os meus pés no tronco, e observas todos os meus caminhos, e marcas os sinais dos meus pés."
         },
         {
           "verse": 28,
-          "text": "E nenhum dos que estavam assentados à mesa compreendeu a que propósito lhe dissera isto."
-        },
-        {
-          "verse": 29,
-          "text": "Porque, como Judas tinha a bolsa, pensavam alguns que Jesus lhe tinha dito: Compra o que nos é necessário para a festa; ou que desse alguma coisa aos pobres."
-        },
-        {
-          "verse": 30,
-          "text": "E, tendo ele tomado o bocado, saiu logo. E era já noite."
-        },
-        {
-          "verse": 31,
-          "text": "Tendo ele, pois, saído, disse Jesus: Agora é glorificado o Filho do homem, e Deus é glorificado nele."
-        },
-        {
-          "verse": 32,
-          "text": "Se Deus é glorificado nele, também Deus o glorificará em si mesmo, e logo o há de glorificar."
-        },
-        {
-          "verse": 33,
-          "text": "Filhinhos, ainda por um pouco estou convosco. Vós me buscareis, mas, como tenho dito aos judeus: Para onde eu vou não podeis vós ir; eu vo-lo digo também agora."
-        },
-        {
-          "verse": 34,
-          "text": "Um novo mandamento vos dou: Que vos ameis uns aos outros; como eu vos amei a vós, que também vós uns aos outros vos ameis."
-        },
-        {
-          "verse": 35,
-          "text": "Nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos outros."
-        },
-        {
-          "verse": 36,
-          "text": "Disse-lhe Simão Pedro: Senhor, para onde vais? Jesus lhe respondeu: Para onde eu vou não podes agora seguir-me, mas depois me seguirás."
-        },
-        {
-          "verse": 37,
-          "text": "Disse-lhe Pedro: Senhor, por que não posso seguir-te agora? Por ti darei a minha vida."
-        },
-        {
-          "verse": 38,
-          "text": "Respondeu-lhe Jesus: Tu darás a tua vida por mim? Na verdade, na verdade te digo que não cantará o galo enquanto não me tiveres negado três vezes."
+          "text": "E ele me consome como a podridão, e como a roupa, à qual rói a traça."
         }
       ]
     },
@@ -2568,127 +1320,91 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Não se turbe o vosso coração; credes em Deus, crede também em mim."
+          "text": "O homem, nascido da mulher, é de poucos dias e farto de inquietação."
         },
         {
           "verse": 2,
-          "text": "Na casa de meu Pai há muitas moradas; se não fosse assim, eu vo-lo teria dito. Vou preparar-vos lugar."
+          "text": "Sai como a flor, e murcha; foge também como a sombra, e não permanece."
         },
         {
           "verse": 3,
-          "text": "E quando eu for, e vos preparar lugar, virei outra vez, e vos levarei para mim mesmo, para que onde eu estiver estejais vós também."
+          "text": "E sobre este tal abres os teus olhos, e a mim me fazes entrar no juízo contigo."
         },
         {
           "verse": 4,
-          "text": "Mesmo vós sabeis para onde vou, e conheceis o caminho."
+          "text": "Quem do imundo tirará o puro? Ninguém."
         },
         {
           "verse": 5,
-          "text": "Disse-lhe Tomé: Senhor, nós não sabemos para onde vais; e como podemos saber o caminho?"
+          "text": "Visto que os seus dias estão determinados, contigo está o número dos seus meses; e tu lhe puseste limites, e não passará além deles."
         },
         {
           "verse": 6,
-          "text": "Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim."
+          "text": "Desvia-te dele, para que tenha repouso, até que, como o assalariado, tenha contentamento no seu dia."
         },
         {
           "verse": 7,
-          "text": "Se vós me conhecêsseis a mim, também conheceríeis a meu Pai; e já desde agora o conheceis, e o tendes visto."
+          "text": "Porque há esperança para a árvore que, se for cortada, ainda se renovará, e não cessarão os seus renovos."
         },
         {
           "verse": 8,
-          "text": "Disse-lhe Filipe: Senhor, mostra-nos o Pai, o que nos basta."
+          "text": "Se envelhecer na terra a sua raiz, e o seu tronco morrer no pó,"
         },
         {
           "verse": 9,
-          "text": "Disse-lhe Jesus: Estou há tanto tempo convosco, e não me tendes conhecido, Filipe? Quem me vê a mim vê o Pai; e como dizes tu: Mostra-nos o Pai?"
+          "text": "Ao cheiro das águas brotará, e dará ramos como uma planta."
         },
         {
           "verse": 10,
-          "text": "Não crês tu que eu estou no Pai, e que o Pai está em mim? As palavras que eu vos digo não as digo de mim mesmo, mas o Pai, que está em mim, é quem faz as obras."
+          "text": "Porém, morto o homem, é consumido; sim, rendendo o homem o espírito, então onde está ele?"
         },
         {
           "verse": 11,
-          "text": "Crede-me que estou no Pai, e o Pai em mim; crede-me, ao menos, por causa das mesmas obras."
+          "text": "Como as águas se retiram do mar, e o rio se esgota, e fica seco,"
         },
         {
           "verse": 12,
-          "text": "Na verdade, na verdade vos digo que aquele que crê em mim também fará as obras que eu faço, e as fará maiores do que estas, porque eu vou para meu Pai."
+          "text": "Assim o homem se deita, e não se levanta; até que não haja mais céus, não acordará nem despertará de seu sono."
         },
         {
           "verse": 13,
-          "text": "E tudo quanto pedirdes em meu nome eu o farei, para que o Pai seja glorificado no Filho."
+          "text": "Quem dera que me escondesses na sepultura, e me ocultasses até que a tua ira se fosse; e me pusesses um limite, e te lembrasses de mim!"
         },
         {
           "verse": 14,
-          "text": "Se pedirdes alguma coisa em meu nome, eu o farei."
+          "text": "Morrendo o homem, porventura tornará a viver? Todos os dias de meu combate esperaria, até que viesse a minha mudança."
         },
         {
           "verse": 15,
-          "text": "Se me amais, guardai os meus mandamentos."
+          "text": "Chamar-me-ias, e eu te responderia, e terias afeto à obra de tuas mãos."
         },
         {
           "verse": 16,
-          "text": "E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique convosco para sempre;"
+          "text": "Mas agora contas os meus passos; porventura não vigias sobre o meu pecado?"
         },
         {
           "verse": 17,
-          "text": "O Espírito de verdade, que o mundo não pode receber, porque não o vê nem o conhece; mas vós o conheceis, porque habita convosco, e estará em vós."
+          "text": "A minha transgressão está selada num saco, e amontoas as minhas iniquidades."
         },
         {
           "verse": 18,
-          "text": "Não vos deixarei órfãos; voltarei para vós."
+          "text": "E, na verdade, caindo a montanha, desfaz-se; e a rocha se remove do seu lugar."
         },
         {
           "verse": 19,
-          "text": "Ainda um pouco, e o mundo não me verá mais, mas vós me vereis; porque eu vivo, e vós vivereis."
+          "text": "As águas gastam as pedras, as cheias afogam o pó da terra; e tu fazes perecer a esperança do homem;"
         },
         {
           "verse": 20,
-          "text": "Naquele dia conhecereis que estou em meu Pai, e vós em mim, e eu em vós."
+          "text": "Tu para sempre prevaleces contra ele, e ele passa; mudas o seu rosto, e o despedes."
         },
         {
           "verse": 21,
-          "text": "Aquele que tem os meus mandamentos e os guarda esse é o que me ama; e aquele que me ama será amado de meu Pai, e eu o amarei, e me manifestarei a ele."
+          "text": "Os seus filhos recebem honra, sem que ele o saiba; são humilhados, sem que ele o perceba;"
         },
         {
           "verse": 22,
-          "text": "Disse-lhe Judas (não o Iscariotes): Senhor, de onde vem que te hás de manifestar a nós, e não ao mundo?"
-        },
-        {
-          "verse": 23,
-          "text": "Jesus respondeu, e disse-lhe: Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e viremos para ele, e faremos nele morada."
-        },
-        {
-          "verse": 24,
-          "text": "Quem não me ama não guarda as minhas palavras; ora, a palavra que ouvistes não é minha, mas do Pai que me enviou."
-        },
-        {
-          "verse": 25,
-          "text": "Tenho-vos dito isto, estando convosco."
-        },
-        {
-          "verse": 26,
-          "text": "Mas aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, esse vos ensinará todas as coisas, e vos fará lembrar de tudo quanto vos tenho dito."
-        },
-        {
-          "verse": 27,
-          "text": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize."
-        },
-        {
-          "verse": 28,
-          "text": "Ouvistes que eu vos disse: Vou, e venho para vós. Se me amásseis, certamente exultaríeis porque eu disse: Vou para o Pai; porque meu Pai é maior do que eu."
-        },
-        {
-          "verse": 29,
-          "text": "Eu vo-lo disse agora antes que aconteça, para que, quando acontecer, vós acrediteis."
-        },
-        {
-          "verse": 30,
-          "text": "Já não falarei muito convosco, porque se aproxima o príncipe deste mundo, e nada tem em mim;"
-        },
-        {
-          "verse": 31,
-          "text": "Mas é para que o mundo saiba que eu amo o Pai, e que faço como o Pai me mandou. Levantai-vos, vamo-nos daqui."
+          "text": "Mas a sua carne nele tem dores, e a sua alma nele lamenta."
         }
       ]
     },
@@ -2697,111 +1413,143 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Eu sou a videira verdadeira, e meu Pai é o lavrador."
+          "text": "Então respondeu Elifaz o temanita, e disse:"
         },
         {
           "verse": 2,
-          "text": "Toda a vara em mim, que não dá fruto, a tira; e limpa toda aquela que dá fruto, para que dê mais fruto."
+          "text": "Porventura proferirá o sábio vã sabedoria? E encherá do vento oriental o seu ventre,"
         },
         {
           "verse": 3,
-          "text": "Vós já estais limpos, pela palavra que vos tenho falado."
+          "text": "Arguindo com palavras que de nada servem, e com razões, de que nada aproveita?"
         },
         {
           "verse": 4,
-          "text": "Estai em mim, e eu em vós; como a vara de si mesma não pode dar fruto, se não estiver na videira, assim também vós, se não estiverdes em mim."
+          "text": "E tu tens feito vão o temor, e diminuis os rogos diante de Deus."
         },
         {
           "verse": 5,
-          "text": "Eu sou a videira, vós as varas; quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer."
+          "text": "Porque a tua boca declara a tua iniquidade; e tu escolhes a língua dos astutos."
         },
         {
           "verse": 6,
-          "text": "Se alguém não estiver em mim, será lançado fora, como a vara, e secará; e os colhem e lançam no fogo, e ardem."
+          "text": "A tua boca te condena, e não eu, e os teus lábios testificam contra ti."
         },
         {
           "verse": 7,
-          "text": "Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito."
+          "text": "És tu porventura o primeiro homem que nasceu? Ou foste formado antes dos outeiros?"
         },
         {
           "verse": 8,
-          "text": "Nisto é glorificado meu Pai, que deis muito fruto; e assim sereis meus discípulos."
+          "text": "Ou ouviste o secreto conselho de Deus e a ti só limitaste a sabedoria?"
         },
         {
           "verse": 9,
-          "text": "Como o Pai me amou, também eu vos amei a vós; permanecei no meu amor."
+          "text": "Que sabes tu, que nós não saibamos? Que entendes, que não haja em nós?"
         },
         {
           "verse": 10,
-          "text": "Se guardardes os meus mandamentos, permanecereis no meu amor; do mesmo modo que eu tenho guardado os mandamentos de meu Pai, e permaneço no seu amor."
+          "text": "Também há entre nós encanecidos e idosos, muito mais idosos do que teu pai."
         },
         {
           "verse": 11,
-          "text": "Tenho-vos dito isto, para que o meu gozo permaneça em vós, e o vosso gozo seja completo."
+          "text": "Porventura fazes pouco caso das consolações de Deus, e da suave palavra que te dirigimos?"
         },
         {
           "verse": 12,
-          "text": "O meu mandamento é este: Que vos ameis uns aos outros, assim como eu vos amei."
+          "text": "Por que te arrebata o teu coração, e por que piscam os teus olhos?"
         },
         {
           "verse": 13,
-          "text": "Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos."
+          "text": "Para virares contra Deus o teu espírito, e deixares sair tais palavras da tua boca?"
         },
         {
           "verse": 14,
-          "text": "Vós sereis meus amigos, se fizerdes o que eu vos mando."
+          "text": "Que é o homem, para que seja puro? E o que nasce da mulher, para ser justo?"
         },
         {
           "verse": 15,
-          "text": "Já vos não chamarei servos, porque o servo não sabe o que faz o seu senhor; mas tenho-vos chamado amigos, porque tudo quanto ouvi de meu Pai vos tenho feito conhecer."
+          "text": "Eis que ele não confia nos seus santos, e nem os céus são puros aos seus olhos."
         },
         {
           "verse": 16,
-          "text": "Não me escolhestes vós a mim, mas eu vos escolhi a vós, e vos nomeei, para que vades e deis fruto, e o vosso fruto permaneça; a fim de que tudo quanto em meu nome pedirdes ao Pai ele vo-lo conceda."
+          "text": "Quanto mais abominável e corrupto é o homem que bebe a iniquidade como a água?"
         },
         {
           "verse": 17,
-          "text": "Isto vos mando: Que vos ameis uns aos outros."
+          "text": "Escuta-me, mostrar-te-ei; e o que tenho visto te contarei"
         },
         {
           "verse": 18,
-          "text": "Se o mundo vos odeia, sabei que, primeiro do que a vós, me odiou a mim."
+          "text": "(O que os sábios anunciaram, ouvindo-o de seus pais, e o não ocultaram;"
         },
         {
           "verse": 19,
-          "text": "Se vós fôsseis do mundo, o mundo amaria o que era seu, mas porque não sois do mundo, antes eu vos escolhi do mundo, por isso é que o mundo vos odeia."
+          "text": "Aos quais somente se dera a terra, e nenhum estranho passou por entre eles):"
         },
         {
           "verse": 20,
-          "text": "Lembrai-vos da palavra que vos disse: Não é o servo maior do que o seu senhor. Se a mim me perseguiram, também vos perseguirão a vós; se guardaram a minha palavra, também guardarão a vossa."
+          "text": "Todos os dias o ímpio é atormentado, e se reserva, para o tirano, um certo número de anos."
         },
         {
           "verse": 21,
-          "text": "Mas tudo isto vos farão por causa do meu nome, porque não conhecem aquele que me enviou."
+          "text": "O sonido dos horrores está nos seus ouvidos; até na paz lhe sobrevém o assolador."
         },
         {
           "verse": 22,
-          "text": "Se eu não viera, nem lhes houvera falado, não teriam pecado, mas agora não têm desculpa do seu pecado."
+          "text": "Não crê que tornará das trevas, mas que o espera a espada."
         },
         {
           "verse": 23,
-          "text": "Aquele que me odeia, odeia também a meu Pai."
+          "text": "Anda vagueando por pão, dizendo: Onde está? Bem sabe que já o dia das trevas lhe está preparado, à mão."
         },
         {
           "verse": 24,
-          "text": "Se eu entre eles não fizesse tais obras, quais nenhum outro tem feito, não teriam pecado; mas agora, viram-nas e me odiaram a mim e a meu Pai."
+          "text": "Assombram-no a angústia e a tribulação; prevalecem contra ele, como o rei preparado para a peleja;"
         },
         {
           "verse": 25,
-          "text": "Mas é para que se cumpra a palavra que está escrita na sua lei: Odiaram-me sem causa."
+          "text": "Porque estendeu a sua mão contra Deus, e contra o Todo-Poderoso se embraveceu."
         },
         {
           "verse": 26,
-          "text": "Mas, quando vier o Consolador, que eu da parte do Pai vos hei de enviar, aquele Espírito de verdade, que procede do Pai, ele testificará de mim."
+          "text": "Arremete contra ele com a dura cerviz, e contra os pontos grossos dos seus escudos."
         },
         {
           "verse": 27,
-          "text": "E vós também testificareis, pois estivestes comigo desde o princípio."
+          "text": "Porquanto cobriu o seu rosto com a sua gordura, e criou gordura nos lombos."
+        },
+        {
+          "verse": 28,
+          "text": "E habitou em cidades assoladas, em casas em que ninguém morava, que estavam a ponto de fazer-se montões de ruínas."
+        },
+        {
+          "verse": 29,
+          "text": "Não se enriquecerá, nem subsistirá a sua fazenda, nem se estenderão pela terra as suas possessões."
+        },
+        {
+          "verse": 30,
+          "text": "Não escapará das trevas; a chama do fogo secará os seus renovos, e ao sopro da sua boca desaparecerá."
+        },
+        {
+          "verse": 31,
+          "text": "Não confie, pois, na vaidade, enganando-se a si mesmo, porque a vaidade será a sua recompensa."
+        },
+        {
+          "verse": 32,
+          "text": "Antes do seu dia ela se consumará; e o seu ramo não reverdecerá."
+        },
+        {
+          "verse": 33,
+          "text": "Sacudirá as suas uvas verdes, como as da vide, e deixará cair a sua flor como a oliveira,"
+        },
+        {
+          "verse": 34,
+          "text": "Porque a congregação dos hipócritas se fará estéril, e o fogo consumirá as tendas do suborno."
+        },
+        {
+          "verse": 35,
+          "text": "Concebem a malícia, e dão à luz a iniquidade, e o seu ventre prepara enganos."
         }
       ]
     },
@@ -2810,135 +1558,91 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Tenho-vos dito estas coisas para que vos não escandalizeis."
+          "text": "Então respondeu Jó, dizendo:"
         },
         {
           "verse": 2,
-          "text": "Expulsar-vos-ão das sinagogas; vem mesmo a hora em que qualquer que vos matar cuidará fazer um serviço a Deus."
+          "text": "Tenho ouvido muitas coisas como estas; todos vós sois consoladores molestos."
         },
         {
           "verse": 3,
-          "text": "E isto vos farão, porque não conheceram ao Pai nem a mim."
+          "text": "Porventura não terão fim essas palavras de vento? Ou o que te irrita, para assim responderes?"
         },
         {
           "verse": 4,
-          "text": "Mas tenho-vos dito isto, a fim de que, quando chegar aquela hora, vos lembreis de que já vo-lo tinha dito. E eu não vos disse isto desde o princípio, porque estava convosco."
+          "text": "Falaria eu também como vós falais, se a vossa alma estivesse em lugar da minha alma, ou amontoaria palavras contra vós, e menearia contra vós a minha cabeça?"
         },
         {
           "verse": 5,
-          "text": "E agora vou para aquele que me enviou; e nenhum de vós me pergunta: Para onde vais?"
+          "text": "Antes vos fortaleceria com a minha boca, e a consolação dos meus lábios abrandaria a vossa dor."
         },
         {
           "verse": 6,
-          "text": "Antes, porque isto vos tenho dito, o vosso coração se encheu de tristeza."
+          "text": "Se eu falar, a minha dor não cessa, e, calando-me eu, qual é o meu alívio?"
         },
         {
           "verse": 7,
-          "text": "Todavia digo-vos a verdade, que vos convém que eu vá; porque, se eu não for, o Consolador não virá a vós; mas, quando eu for, vo-lo enviarei."
+          "text": "Na verdade, agora ele me tem feito fatigado; tu assolaste toda a minha companhia,"
         },
         {
           "verse": 8,
-          "text": "E, quando ele vier, convencerá o mundo do pecado, e da justiça e do juízo."
+          "text": "Testemunha disto é que já me fizeste enrugado, e a minha magreza já se levanta contra mim, e no meu rosto testifica contra mim."
         },
         {
           "verse": 9,
-          "text": "Do pecado, porque não creem em mim;"
+          "text": "Na sua ira me despedaçou, e ele me perseguiu; rangeu os seus dentes contra mim; aguça o meu adversário os seus olhos contra mim."
         },
         {
           "verse": 10,
-          "text": "Da justiça, porque vou para meu Pai, e não me vereis mais;"
+          "text": "Abrem a sua boca contra mim; com desprezo me feriram nos queixos, e contra mim se ajuntam todos."
         },
         {
           "verse": 11,
-          "text": "E do juízo, porque já o príncipe deste mundo está julgado."
+          "text": "Entrega-me Deus ao perverso, e nas mãos dos ímpios me faz cair."
         },
         {
           "verse": 12,
-          "text": "Ainda tenho muito que vos dizer, mas vós não o podeis suportar agora."
+          "text": "Descansado estava eu, porém ele me quebrantou; e pegou-me pela cerviz, e me despedaçou; também me pôs por seu alvo."
         },
         {
           "verse": 13,
-          "text": "Mas, quando vier aquele, o Espírito de verdade, ele vos guiará em toda a verdade; porque não falará de si mesmo, mas dirá tudo o que tiver ouvido, e vos anunciará o que há de vir."
+          "text": "Cercam-me os seus flecheiros; atravessa-me os rins, e não me poupa, e o meu fel derrama sobre a terra,"
         },
         {
           "verse": 14,
-          "text": "Ele me glorificará, porque há de receber do que é meu, e vo-lo há de anunciar."
+          "text": "Fere-me com ferimento sobre ferimento; arremete contra mim como um valente."
         },
         {
           "verse": 15,
-          "text": "Tudo quanto o Pai tem é meu; por isso vos disse que há de receber do que é meu e vo-lo há de anunciar."
+          "text": "Cosi sobre a minha pele o cilício, e revolvi a minha cabeça no pó."
         },
         {
           "verse": 16,
-          "text": "Um pouco, e não me vereis; e outra vez um pouco, e ver-me-eis; porquanto vou para o Pai."
+          "text": "O meu rosto está todo avermelhado de chorar, e sobre as minhas pálpebras está a sombra da morte:"
         },
         {
           "verse": 17,
-          "text": "Então alguns dos seus discípulos disseram uns aos outros: Que é isto que nos diz? Um pouco, e não me vereis; e outra vez um pouco, e ver-me-eis; e: Porquanto vou para o Pai?"
+          "text": "Apesar de não haver violência nas minhas mãos, e de ser pura a minha oração."
         },
         {
           "verse": 18,
-          "text": "Diziam, pois: Que quer dizer isto: Um pouco? Não sabemos o que diz."
+          "text": "Ah! terra, não cubras o meu sangue e não haja lugar para ocultar o meu clamor!"
         },
         {
           "verse": 19,
-          "text": "Conheceu, pois, Jesus que o queriam interrogar, e disse-lhes: Indagais entre vós acerca disto que disse: Um pouco, e não me vereis, e outra vez um pouco, e ver-me-eis?"
+          "text": "Eis que também agora a minha testemunha está no céu, e nas alturas o meu testemunho está."
         },
         {
           "verse": 20,
-          "text": "Na verdade, na verdade vos digo que vós chorareis e vos lamentareis, e o mundo se alegrará, e vós estareis tristes, mas a vossa tristeza se converterá em alegria."
+          "text": "Os meus amigos são os que zombam de mim; os meus olhos se desfazem em lágrimas diante de Deus."
         },
         {
           "verse": 21,
-          "text": "A mulher, quando está para dar à luz, sente tristeza, porque é chegada a sua hora; mas, depois de ter dado à luz a criança, já não se lembra da aflição, pelo prazer de haver nascido um homem no mundo."
+          "text": "Ah! se alguém pudesse contender com Deus pelo homem, como o homem pelo seu próximo!"
         },
         {
           "verse": 22,
-          "text": "Assim também vós agora, na verdade, tendes tristeza; mas outra vez vos verei, e o vosso coração se alegrará, e a vossa alegria ninguém vo-la tirará."
-        },
-        {
-          "verse": 23,
-          "text": "E naquele dia nada me perguntareis. Na verdade, na verdade vos digo que tudo quanto pedirdes a meu Pai, em meu nome, ele vo-lo há de dar."
-        },
-        {
-          "verse": 24,
-          "text": "Até agora nada pedistes em meu nome; pedi, e recebereis, para que o vosso gozo se cumpra."
-        },
-        {
-          "verse": 25,
-          "text": "Disse-vos isto por parábolas; chega, porém, a hora em que não vos falarei mais por parábolas, mas abertamente vos falarei acerca do Pai."
-        },
-        {
-          "verse": 26,
-          "text": "Naquele dia pedireis em meu nome, e não vos digo que eu rogarei por vós ao Pai;"
-        },
-        {
-          "verse": 27,
-          "text": "Pois o mesmo Pai vos ama, visto como vós me amastes, e crestes que saí de Deus."
-        },
-        {
-          "verse": 28,
-          "text": "Saí do Pai, e vim ao mundo; outra vez deixo o mundo, e vou para o Pai."
-        },
-        {
-          "verse": 29,
-          "text": "Disseram-lhe os seus discípulos: Eis que agora falas abertamente, e não dizes parábola alguma."
-        },
-        {
-          "verse": 30,
-          "text": "Agora conhecemos que sabes tudo, e não precisas de que alguém te interrogue. Por isso cremos que saíste de Deus."
-        },
-        {
-          "verse": 31,
-          "text": "Respondeu-lhes Jesus: Credes agora?"
-        },
-        {
-          "verse": 32,
-          "text": "Eis que chega a hora, e já se aproxima, em que vós sereis dispersos cada um para sua parte, e me deixareis só; mas não estou só, porque o Pai está comigo."
-        },
-        {
-          "verse": 33,
-          "text": "Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo."
+          "text": "Porque decorridos poucos anos, eu seguirei o caminho por onde não tornarei."
         }
       ]
     },
@@ -2947,107 +1651,67 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Jesus falou assim e, levantou seus olhos ao céu, e disse: Pai, é chegada a hora; glorifica a teu Filho, para que também o teu Filho te glorifique a ti;"
+          "text": "O meu espírito se vai consumindo, os meus dias se vão apagando, e só tenho perante mim a sepultura."
         },
         {
           "verse": 2,
-          "text": "Assim como lhe deste poder sobre toda a carne, para que dê a vida eterna a todos quantos lhe deste."
+          "text": "Deveras estou cercado de zombadores, e os meus olhos contemplam as suas provocações."
         },
         {
           "verse": 3,
-          "text": "E a vida eterna é esta: que te conheçam, a ti só, por único Deus verdadeiro, e a Jesus Cristo, a quem enviaste."
+          "text": "Promete agora, e dá-me um fiador para contigo; quem há que me dê a mão?"
         },
         {
           "verse": 4,
-          "text": "Eu glorifiquei-te na terra, tendo consumado a obra que me deste a fazer."
+          "text": "Porque aos seus corações encobriste o entendimento, por isso não os exaltarás."
         },
         {
           "verse": 5,
-          "text": "E agora glorifica-me tu, ó Pai, junto de ti mesmo, com aquela glória que tinha contigo antes que o mundo existisse."
+          "text": "O que denuncia os seus amigos, a fim de serem despojados, também os olhos de seus filhos desfalecerão."
         },
         {
           "verse": 6,
-          "text": "Manifestei o teu nome aos homens que do mundo me deste; eram teus, e tu mos deste, e guardaram a tua palavra."
+          "text": "Porém a mim me pôs por um provérbio dos povos, de modo que me tornei uma abominação para eles."
         },
         {
           "verse": 7,
-          "text": "Agora já têm conhecido que tudo quanto me deste provém de ti;"
+          "text": "Pelo que já se escureceram de mágoa os meus olhos, e já todos os meus membros são como a sombra."
         },
         {
           "verse": 8,
-          "text": "Porque lhes dei as palavras que tu me deste; e eles as receberam, e têm verdadeiramente conhecido que saí de ti, e creram que me enviaste."
+          "text": "Os retos pasmarão disto, e o inocente se levantará contra o hipócrita."
         },
         {
           "verse": 9,
-          "text": "Eu rogo por eles; não rogo pelo mundo, mas por aqueles que me deste, porque são teus."
+          "text": "E o justo seguirá o seu caminho firmemente, e o puro de mãos irá crescendo em força."
         },
         {
           "verse": 10,
-          "text": "E todas as minhas coisas são tuas, e as tuas coisas são minhas; e neles sou glorificado."
+          "text": "Mas, na verdade, tornai todos vós e vinde; porque sábio nenhum acharei entre vós."
         },
         {
           "verse": 11,
-          "text": "E eu já não estou mais no mundo, mas eles estão no mundo, e eu vou para ti. Pai santo, guarda em teu nome aqueles que me deste, para que sejam um, assim como nós."
+          "text": "Os meus dias passaram, e malograram os meus propósitos, as aspirações do meu coração."
         },
         {
           "verse": 12,
-          "text": "Estando eu com eles no mundo, guardava-os em teu nome. Tenho guardado aqueles que tu me deste, e nenhum deles se perdeu, senão o filho da perdição, para que a Escritura se cumprisse."
+          "text": "Trocaram a noite em dia; a luz está perto do fim, por causa das trevas."
         },
         {
           "verse": 13,
-          "text": "Mas agora vou para ti, e digo isto no mundo, para que tenham a minha alegria completa em si mesmos."
+          "text": "Se eu esperar, a sepultura será a minha casa; nas trevas estenderei a minha cama."
         },
         {
           "verse": 14,
-          "text": "Dei-lhes a tua palavra, e o mundo os odiou, porque não são do mundo, assim como eu não sou do mundo."
+          "text": "À corrupção clamo: Tu és meu pai; e aos vermes: Vós sois minha mãe e minha irmã."
         },
         {
           "verse": 15,
-          "text": "Não peço que os tires do mundo, mas que os livres do mal."
+          "text": "Onde, pois, estaria agora a minha esperança? Sim, a minha esperança, quem a poderá ver?"
         },
         {
           "verse": 16,
-          "text": "Não são do mundo, como eu do mundo não sou."
-        },
-        {
-          "verse": 17,
-          "text": "Santifica-os na tua verdade; a tua palavra é a verdade."
-        },
-        {
-          "verse": 18,
-          "text": "Assim como tu me enviaste ao mundo, também eu os enviei ao mundo."
-        },
-        {
-          "verse": 19,
-          "text": "E por eles me santifico a mim mesmo, para que também eles sejam santificados na verdade."
-        },
-        {
-          "verse": 20,
-          "text": "E não rogo somente por estes, mas também por aqueles que pela sua palavra hão de crer em mim;"
-        },
-        {
-          "verse": 21,
-          "text": "Para que todos sejam um, como tu, ó Pai, o és em mim, e eu em ti; que também eles sejam um em nós, para que o mundo creia que tu me enviaste."
-        },
-        {
-          "verse": 22,
-          "text": "E eu dei-lhes a glória que a mim me deste, para que sejam um, como nós somos um."
-        },
-        {
-          "verse": 23,
-          "text": "Eu neles, e tu em mim, para que eles sejam perfeitos em unidade, e para que o mundo conheça que tu me enviaste a mim, e que os tens amado a eles como me tens amado a mim."
-        },
-        {
-          "verse": 24,
-          "text": "Pai, aqueles que me deste quero que, onde eu estiver, também eles estejam comigo, para que vejam a minha glória que me deste; porque tu me amaste antes da fundação do mundo."
-        },
-        {
-          "verse": 25,
-          "text": "Pai justo, o mundo não te conheceu; mas eu te conheci, e estes conheceram que tu me enviaste a mim."
-        },
-        {
-          "verse": 26,
-          "text": "E eu lhes fiz conhecer o teu nome, e lho farei conhecer mais, para que o amor com que me tens amado esteja neles, e eu neles esteja."
+          "text": "As barras da sepultura descerão quando juntamente no pó teremos descanso."
         }
       ]
     },
@@ -3056,163 +1720,87 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Tendo Jesus dito isto, saiu com os seus discípulos para além do ribeiro de Cedrom, onde havia um jardim, no qual ele entrou e seus discípulos."
+          "text": "Então respondeu Bildade, o suíta, e disse:"
         },
         {
           "verse": 2,
-          "text": "E Judas, que o traía, também conhecia aquele lugar, porque Jesus muitas vezes se ajuntava ali com os seus discípulos."
+          "text": "Até quando poreis fim às palavras? Considerai bem, e então falaremos."
         },
         {
           "verse": 3,
-          "text": "Tendo, pois, Judas recebido a coorte e oficiais dos principais sacerdotes e fariseus, veio para ali com lanternas, e tochas e armas."
+          "text": "Por que somos tratados como animais, e como imundos aos vossos olhos?"
         },
         {
           "verse": 4,
-          "text": "Sabendo, pois, Jesus todas as coisas que sobre ele haviam de vir, adiantou-se, e disse-lhes: A quem buscais?"
+          "text": "Oh tu, que despedaças a tua alma na tua ira, será a terra deixada por tua causa? Remover-se-ão as rochas do seu lugar?"
         },
         {
           "verse": 5,
-          "text": "Responderam-lhe: A Jesus Nazareno. Disse-lhes Jesus: Sou eu. E Judas, que o traía, estava com eles."
+          "text": "Na verdade, a luz dos ímpios se apagará, e a chama do seu fogo não resplandecerá."
         },
         {
           "verse": 6,
-          "text": "Quando, pois, lhes disse: Sou eu, recuaram, e caíram por terra."
+          "text": "A luz se escurecerá nas suas tendas, e a sua lâmpada sobre ele se apagará."
         },
         {
           "verse": 7,
-          "text": "Tornou-lhes, pois, a perguntar: A quem buscais? E eles disseram: A Jesus Nazareno."
+          "text": "Os seus passos firmes se estreitarão, e o seu próprio conselho o derrubará."
         },
         {
           "verse": 8,
-          "text": "Jesus respondeu: Já vos disse que sou eu; se, pois, me buscais a mim, deixai ir estes;"
+          "text": "Porque por seus próprios pés é lançado na rede, e andará nos fios enredados."
         },
         {
           "verse": 9,
-          "text": "Para que se cumprisse a palavra que tinha dito: Dos que me deste nenhum deles perdi."
+          "text": "O laço o apanhará pelo calcanhar, e a armadilha o prenderá."
         },
         {
           "verse": 10,
-          "text": "Então Simão Pedro, que tinha espada, desembainhou-a, e feriu o servo do sumo sacerdote, cortando-lhe a orelha direita. E o nome do servo era Malco."
+          "text": "Está escondida debaixo da terra uma corda, e uma armadilha na vereda."
         },
         {
           "verse": 11,
-          "text": "Mas Jesus disse a Pedro: Põe a tua espada na bainha; não beberei eu o cálice que o Pai me deu?"
+          "text": "Os assombros o espantarão de todos os lados, e o perseguirão a cada passo."
         },
         {
           "verse": 12,
-          "text": "Então a coorte, e o tribuno, e os servos dos judeus prenderam a Jesus e o amarraram."
+          "text": "Será faminto o seu vigor, e a destruição está pronta ao seu lado."
         },
         {
           "verse": 13,
-          "text": "E conduziram-no primeiramente a Anás, por ser sogro de Caifás, que era o sumo sacerdote daquele ano."
+          "text": "Serão devorados os membros do seu corpo; sim, o primogênito da morte devorará os seus membros."
         },
         {
           "verse": 14,
-          "text": "Ora, Caifás era quem tinha aconselhado aos judeus que convinha que um homem morresse pelo povo."
+          "text": "A sua confiança será arrancada da sua tenda, e isto o fará caminhar para o rei dos terrores."
         },
         {
           "verse": 15,
-          "text": "E Simão Pedro e outro discípulo seguiam a Jesus. E este discípulo era conhecido do sumo sacerdote, e entrou com Jesus na sala do sumo sacerdote."
+          "text": "Morará na sua mesma tenda, o que não lhe pertence; espalhar-se-á enxofre sobre a sua habitação."
         },
         {
           "verse": 16,
-          "text": "E Pedro estava da parte de fora, à porta. Saiu então o outro discípulo que era conhecido do sumo sacerdote, e falou à porteira, levando Pedro para dentro."
+          "text": "Por baixo se secarão as suas raízes e por cima serão cortados os seus ramos."
         },
         {
           "verse": 17,
-          "text": "Então a porteira disse a Pedro: Não és tu também dos discípulos deste homem? Disse ele: Não sou."
+          "text": "A sua memória perecerá da terra, e pelas praças não terá nome."
         },
         {
           "verse": 18,
-          "text": "Ora, estavam ali os servos e os servidores, que tinham feito brasas, e se aquentavam, porque fazia frio; e com eles estava Pedro, aquentando-se também."
+          "text": "Da luz o lançarão nas trevas, e afugentá-lo-ão do mundo."
         },
         {
           "verse": 19,
-          "text": "E o sumo sacerdote interrogou Jesus acerca dos seus discípulos e da sua doutrina."
+          "text": "Não terá filho nem neto entre o seu povo, e nem quem lhe suceda nas suas moradas."
         },
         {
           "verse": 20,
-          "text": "Jesus lhe respondeu: Eu falei abertamente ao mundo; eu sempre ensinei na sinagoga e no templo, onde os judeus sempre se ajuntam, e nada disse em oculto."
+          "text": "Do seu dia se espantarão os do ocidente, assim como se espantam os do oriente."
         },
         {
           "verse": 21,
-          "text": "Para que me perguntas a mim? Pergunta aos que ouviram o que é que lhes ensinei; eis que eles sabem o que eu lhes tenho dito."
-        },
-        {
-          "verse": 22,
-          "text": "E, tendo dito isto, um dos servidores que ali estavam, deu uma bofetada em Jesus, dizendo: Assim respondes ao sumo sacerdote?"
-        },
-        {
-          "verse": 23,
-          "text": "Respondeu-lhe Jesus: Se falei mal, dá testemunho do mal; e, se bem, por que me feres?"
-        },
-        {
-          "verse": 24,
-          "text": "E Anás mandou-o, amarrado, ao sumo sacerdote Caifás."
-        },
-        {
-          "verse": 25,
-          "text": "E Simão Pedro estava ali, e aquentava-se. Disseram-lhe, pois: Não és também tu um dos seus discípulos? Ele negou, e disse: Não sou."
-        },
-        {
-          "verse": 26,
-          "text": "E um dos servos do sumo sacerdote, parente daquele a quem Pedro cortara a orelha, disse: Não te vi eu no horto com ele?"
-        },
-        {
-          "verse": 27,
-          "text": "E Pedro negou outra vez, e logo o galo cantou."
-        },
-        {
-          "verse": 28,
-          "text": "Depois levaram Jesus da casa de Caifás para a audiência. E era pela manhã cedo. E não entraram na audiência, para não se contaminarem, mas poderem comer a páscoa."
-        },
-        {
-          "verse": 29,
-          "text": "Então Pilatos saiu fora e disse-lhes: Que acusação trazeis contra este homem?"
-        },
-        {
-          "verse": 30,
-          "text": "Responderam, e disseram-lhe: Se este não fosse malfeitor, não to entregaríamos."
-        },
-        {
-          "verse": 31,
-          "text": "Disse-lhes, pois, Pilatos: Levai-o vós, e julgai-o segundo a vossa lei. Disseram-lhe então os judeus: A nós não nos é lícito matar pessoa alguma."
-        },
-        {
-          "verse": 32,
-          "text": "(Para que se cumprisse a palavra que Jesus tinha dito, significando de que morte havia de morrer.)"
-        },
-        {
-          "verse": 33,
-          "text": "Tornou, pois, a entrar Pilatos na audiência, e chamou a Jesus, e disse-lhe: Tu és o Rei dos Judeus?"
-        },
-        {
-          "verse": 34,
-          "text": "Respondeu-lhe Jesus: Tu dizes isso de ti mesmo, ou disseram-to outros de mim?"
-        },
-        {
-          "verse": 35,
-          "text": "Pilatos respondeu: Porventura sou eu judeu? A tua nação e os principais sacerdotes entregaram-te a mim. Que fizeste?"
-        },
-        {
-          "verse": 36,
-          "text": "Respondeu Jesus: O meu reino não é deste mundo; se o meu reino fosse deste mundo, pelejariam os meus servos, para que eu não fosse entregue aos judeus; mas agora o meu reino não é daqui."
-        },
-        {
-          "verse": 37,
-          "text": "Disse-lhe, pois, Pilatos: Logo tu és rei? Jesus respondeu: Tu dizes que eu sou rei. Eu para isso nasci, e para isso vim ao mundo, a fim de dar testemunho da verdade. Todo aquele que é da verdade ouve a minha voz."
-        },
-        {
-          "verse": 38,
-          "text": "Disse-lhe Pilatos: Que é a verdade? E, dizendo isto, tornou a ir ter com os judeus, e disse-lhes: Não acho nele crime algum."
-        },
-        {
-          "verse": 39,
-          "text": "Mas vós tendes por costume que eu vos solte alguém pela páscoa. Quereis, pois, que vos solte o Rei dos Judeus?"
-        },
-        {
-          "verse": 40,
-          "text": "Então todos tornaram a clamar, dizendo: Este não, mas Barrabás. E Barrabás era um salteador."
+          "text": "Tais são, na verdade, as moradas do perverso, e este é o lugar do que não conhece a Deus."
         }
       ]
     },
@@ -3221,171 +1809,119 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Pilatos, pois, tomou então a Jesus, e o açoitou."
+          "text": "Respondeu, porém, Jó, dizendo:"
         },
         {
           "verse": 2,
-          "text": "E os soldados, tecendo uma coroa de espinhos, lha puseram sobre a cabeça, e lhe vestiram roupa de púrpura."
+          "text": "Até quando afligireis a minha alma, e me quebrantareis com palavras?"
         },
         {
           "verse": 3,
-          "text": "E diziam: Salve, Rei dos Judeus. E davam-lhe bofetadas."
+          "text": "Já dez vezes me vituperastes; não tendes vergonha de injuriar-me."
         },
         {
           "verse": 4,
-          "text": "Então Pilatos saiu outra vez fora, e disse-lhes: Eis aqui vo-lo trago fora, para que saibais que não acho nele crime algum."
+          "text": "Embora haja eu, na verdade, errado, comigo ficará o meu erro."
         },
         {
           "verse": 5,
-          "text": "Saiu, pois, Jesus fora, levando a coroa de espinhos e roupa de púrpura. E disse-lhes Pilatos: Eis aqui o homem."
+          "text": "Se deveras vos quereis engrandecer contra mim, e repreender-me pelo meu opróbrio,"
         },
         {
           "verse": 6,
-          "text": "Quando viram-no, pois, os principais sacerdotes e os servos, clamaram, dizendo: Crucifica-o, crucifica-o. Disse-lhes Pilatos: Tomai-o vós, e crucificai-o; porque eu nenhum crime acho nele."
+          "text": "Sabei agora que Deus é o que me transtornou, e com a sua rede me cercou."
         },
         {
           "verse": 7,
-          "text": "Responderam-lhe os judeus: Nós temos uma lei e, segundo a nossa lei, deve morrer, porque se fez Filho de Deus."
+          "text": "Eis que clamo: Violência! Porém não sou ouvido. Grito: Socorro! Porém não há justiça."
         },
         {
           "verse": 8,
-          "text": "E Pilatos, quando ouviu esta palavra, mais atemorizado ficou."
+          "text": "O meu caminho ele entrincheirou, e já não posso passar, e nas minhas veredas pôs trevas."
         },
         {
           "verse": 9,
-          "text": "E entrou outra vez na audiência, e disse a Jesus: De onde és tu? Mas Jesus não lhe deu resposta."
+          "text": "Da minha honra me despojou; e tirou-me a coroa da minha cabeça."
         },
         {
           "verse": 10,
-          "text": "Disse-lhe, pois, Pilatos: Não me falas a mim? Não sabes tu que tenho poder para te crucificar e tenho poder para te soltar?"
+          "text": "Quebrou-me de todos os lados, e eu me vou; e arrancou a minha esperança, como a uma árvore."
         },
         {
           "verse": 11,
-          "text": "Respondeu Jesus: Nenhum poder terias contra mim, se de cima não te fosse dado; mas aquele que me entregou a ti maior pecado tem."
+          "text": "E fez inflamar contra mim a sua ira, e me reputou para consigo, como a seus inimigos."
         },
         {
           "verse": 12,
-          "text": "Desde então Pilatos procurava soltá-lo; mas os judeus clamavam, dizendo: Se soltas este, não és amigo de César; qualquer que se faz rei é contra César."
+          "text": "Juntas vieram as suas tropas, e prepararam contra mim o seu caminho, e se acamparam ao redor da minha tenda."
         },
         {
           "verse": 13,
-          "text": "Ouvindo, pois, Pilatos este dito, levou Jesus para fora, e assentou-se no tribunal, no lugar chamado Litóstrotos, e em hebraico Gabatá."
+          "text": "Pôs longe de mim a meus irmãos, e os que me conhecem, como estranhos se apartaram de mim."
         },
         {
           "verse": 14,
-          "text": "E era a preparação da páscoa, e quase à hora sexta; e disse aos judeus: Eis aqui o vosso Rei."
+          "text": "Os meus parentes me deixaram, e os meus conhecidos se esqueceram de mim."
         },
         {
           "verse": 15,
-          "text": "Mas eles bradaram: Tira, tira, crucifica-o. Disse-lhes Pilatos: Hei de crucificar o vosso Rei? Responderam os principais sacerdotes: Não temos rei, senão César."
+          "text": "Os meus domésticos e as minhas servas me reputaram como um estranho, e vim a ser um estrangeiro aos seus olhos."
         },
         {
           "verse": 16,
-          "text": "Então, consequentemente entregou-lho, para que fosse crucificado. E tomaram a Jesus, e o levaram."
+          "text": "Chamei a meu criado, e ele não me respondeu; cheguei a suplicar-lhe com a minha própria boca."
         },
         {
           "verse": 17,
-          "text": "E, levando ele às costas a sua cruz, saiu para o lugar chamado Caveira, que em hebraico se chama Gólgota,"
+          "text": "O meu hálito se fez estranho à minha mulher; tanto que supliquei o interesse dos filhos do meu corpo."
         },
         {
           "verse": 18,
-          "text": "Onde o crucificaram, e com ele outros dois, um de cada lado, e Jesus no meio."
+          "text": "Até os pequeninos me desprezam, e, levantando-me eu, falam contra mim."
         },
         {
           "verse": 19,
-          "text": "E Pilatos escreveu também um título, e pô-lo em cima da cruz; e nele estava escrito: jesus nazareno, o rei dos judeus."
+          "text": "Todos os homens da minha confidência me abominam, e até os que eu amava se tornaram contra mim."
         },
         {
           "verse": 20,
-          "text": "E muitos dos judeus leram este título; porque o lugar onde Jesus estava crucificado era próximo da cidade; e estava escrito em hebraico, grego e latim."
+          "text": "Os meus ossos se apegaram à minha pele e à minha carne, e escapei só com a pele dos meus dentes."
         },
         {
           "verse": 21,
-          "text": "Diziam, pois, os principais sacerdotes dos judeus a Pilatos: Não escrevas, O Rei dos Judeus, mas que ele disse: Sou o Rei dos Judeus."
+          "text": "Compadecei-vos de mim, amigos meus, compadecei-vos de mim, porque a mão de Deus me tocou."
         },
         {
           "verse": 22,
-          "text": "Respondeu Pilatos: O que escrevi, escrevi."
+          "text": "Por que me perseguis assim como Deus, e da minha carne não vos fartais?"
         },
         {
           "verse": 23,
-          "text": "Tendo, pois, os soldados crucificado a Jesus, tomaram as suas vestes, e fizeram quatro partes, para cada soldado uma parte; e também a túnica. A túnica, porém, tecida toda de alto a baixo, não tinha costura."
+          "text": "Quem me dera agora, que as minhas palavras fossem escritas! Quem me dera, fossem gravadas num livro!"
         },
         {
           "verse": 24,
-          "text": "Disseram, pois, uns aos outros: Não a rasguemos, mas lancemos sortes sobre ela, para ver de quem será. Para que se cumprisse a Escritura que diz: Repartiram entre si as minhas vestes, e sobre a minha vestidura lançaram sortes. Os soldados, pois, fizeram estas coisas."
+          "text": "E que, com pena de ferro, e com chumbo, para sempre fossem esculpidas na rocha."
         },
         {
           "verse": 25,
-          "text": "E junto à cruz de Jesus estava sua mãe, e a irmã de sua mãe, Maria mulher de Clopas, e Maria Madalena."
+          "text": "Porque eu sei que o meu Redentor vive, e que por fim se levantará sobre a terra."
         },
         {
           "verse": 26,
-          "text": "Ora Jesus, vendo ali sua mãe, e que o discípulo a quem ele amava estava presente, disse a sua mãe: Mulher, eis aí o teu filho."
+          "text": "E depois de consumida a minha pele, contudo ainda em minha carne verei a Deus,"
         },
         {
           "verse": 27,
-          "text": "Depois disse ao discípulo: Eis aí tua mãe. E desde aquela hora o discípulo a recebeu em sua casa."
+          "text": "Vê-lo-ei, por mim mesmo, e os meus olhos, e não outros o contemplarão; e por isso as minhas entranhas se consomem no meu interior."
         },
         {
           "verse": 28,
-          "text": "Depois disso, sabendo Jesus que já todas as coisas estavam terminadas, para que a Escritura se cumprisse, disse: Tenho sede."
+          "text": "Na verdade, que devíeis dizer: Por que o perseguimos? Pois a raiz da acusação se acha em mim."
         },
         {
           "verse": 29,
-          "text": "Estava, pois, ali um vaso cheio de vinagre. E encheram de vinagre uma esponja, e, pondo-a num hissopo, lha chegaram à boca."
-        },
-        {
-          "verse": 30,
-          "text": "E, quando Jesus tomou o vinagre, disse: Está consumado. E, inclinando a cabeça, entregou o espírito."
-        },
-        {
-          "verse": 31,
-          "text": "Os judeus, pois, para que no sábado não ficassem os corpos na cruz, visto como era a preparação (pois era grande o dia de sábado), rogaram a Pilatos que se lhes quebrassem as pernas, e fossem tirados."
-        },
-        {
-          "verse": 32,
-          "text": "Foram, pois, os soldados, e, na verdade, quebraram as pernas ao primeiro, e ao outro que como ele fora crucificado;"
-        },
-        {
-          "verse": 33,
-          "text": "Mas, vindo a Jesus, e vendo-o já morto, não lhe quebraram as pernas."
-        },
-        {
-          "verse": 34,
-          "text": "Contudo um dos soldados lhe furou o lado com uma lança, e logo saiu sangue e água."
-        },
-        {
-          "verse": 35,
-          "text": "E aquele que o viu testificou, e o seu testemunho é verdadeiro; e sabe que é verdade o que diz, para que também vós o creiais."
-        },
-        {
-          "verse": 36,
-          "text": "Porque isto aconteceu para que se cumprisse a Escritura, que diz: Nenhum dos seus ossos será quebrado."
-        },
-        {
-          "verse": 37,
-          "text": "E novamente diz outra Escritura: Verão aquele que traspassaram."
-        },
-        {
-          "verse": 38,
-          "text": "Depois disto, José de Arimateia (o que era discípulo de Jesus, mas oculto, por medo dos judeus) rogou a Pilatos que lhe permitisse tirar o corpo de Jesus. E Pilatos lho permitiu. Então foi e tirou o corpo de Jesus."
-        },
-        {
-          "verse": 39,
-          "text": "E foi também Nicodemos (aquele que anteriormente se dirigira de noite a Jesus), levando quase cem arráteis de um composto de mirra e aloés."
-        },
-        {
-          "verse": 40,
-          "text": "Tomaram, pois, o corpo de Jesus e o envolveram em lençóis com as especiarias, como é costume dos judeus, na preparação para o sepulcro."
-        },
-        {
-          "verse": 41,
-          "text": "E havia um jardim naquele lugar onde fora crucificado, e no horto um sepulcro novo, em que ainda ninguém havia sido posto."
-        },
-        {
-          "verse": 42,
-          "text": "Ali, pois (por causa da preparação dos judeus, e por estar perto aquele sepulcro), puseram a Jesus."
+          "text": "Temei vós mesmos a espada; porque o furor traz os castigos da espada, para saberdes que há um juízo."
         }
       ]
     },
@@ -3394,127 +1930,119 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "E no primeiro dia da semana, Maria Madalena foi ao sepulcro de madrugada, sendo ainda escuro, e viu a pedra tirada do sepulcro."
+          "text": "Então respondeu Zofar, o naamatita, e disse:"
         },
         {
           "verse": 2,
-          "text": "Correu, pois, e foi a Simão Pedro, e ao outro discípulo, a quem Jesus amava, e disse-lhes: Levaram o Senhor do sepulcro, e não sabemos onde o puseram."
+          "text": "Visto que os meus pensamentos me fazem responder, eu me apresso."
         },
         {
           "verse": 3,
-          "text": "Então Pedro saiu com o outro discípulo, e foram ao sepulcro."
+          "text": "Eu ouvi a repreensão, que me envergonha, mas o espírito do meu entendimento responderá por mim."
         },
         {
           "verse": 4,
-          "text": "E os dois corriam juntos, mas o outro discípulo correu mais apressadamente do que Pedro, e chegou primeiro ao sepulcro."
+          "text": "Porventura não sabes tu que desde a antiguidade, desde que o homem foi posto sobre a terra,"
         },
         {
           "verse": 5,
-          "text": "E, abaixando-se, viu no chão os lençóis; todavia não entrou."
+          "text": "O júbilo dos ímpios é breve, e a alegria dos hipócritas momentânea?"
         },
         {
           "verse": 6,
-          "text": "Chegou, pois, Simão Pedro, que o seguia, e entrou no sepulcro, e viu no chão os lençóis,"
+          "text": "Ainda que a sua altivez suba até ao céu, e a sua cabeça chegue até às nuvens."
         },
         {
           "verse": 7,
-          "text": "E que o lenço, que tinha estado sobre a sua cabeça, não estava com os lençóis, mas enrolado num lugar à parte."
+          "text": "Contudo, como o seu próprio esterco, perecerá para sempre; e os que o viam dirão: Onde está?"
         },
         {
           "verse": 8,
-          "text": "Então entrou também o outro discípulo, que chegara primeiro ao sepulcro, e viu, e creu."
+          "text": "Como um sonho voará, e não será achado, e será afugentado como uma visão da noite."
         },
         {
           "verse": 9,
-          "text": "Porque ainda não sabiam a Escritura, que era necessário que ressuscitasse dentre os mortos."
+          "text": "O olho, que já o viu, jamais o verá, nem o seu lugar o verá mais."
         },
         {
           "verse": 10,
-          "text": "Tornaram, pois, os discípulos para casa."
+          "text": "Os seus filhos procurarão agradar aos pobres, e as suas mãos restituirão os seus bens."
         },
         {
           "verse": 11,
-          "text": "E Maria estava chorando fora, junto ao sepulcro. Estando ela, pois, chorando, abaixou-se para o sepulcro."
+          "text": "Os seus ossos estão cheios do vigor da sua mocidade, mas este se deitará com ele no pó."
         },
         {
           "verse": 12,
-          "text": "E viu dois anjos vestidos de branco, assentados onde jazera o corpo de Jesus, um à cabeceira e outro aos pés."
+          "text": "Ainda que o mal lhe seja doce na boca, e ele o esconda debaixo da sua língua,"
         },
         {
           "verse": 13,
-          "text": "E disseram-lhe eles: Mulher, por que choras? Ela lhes disse: Porque levaram o meu Senhor, e não sei onde o puseram."
+          "text": "E o guarde, e não o deixe, antes o retenha no seu paladar,"
         },
         {
           "verse": 14,
-          "text": "E, tendo dito isto, voltou-se para trás, e viu Jesus em pé, mas não sabia que era Jesus."
+          "text": "Contudo a sua comida se mudará nas suas entranhas; fel de áspides será interiormente."
         },
         {
           "verse": 15,
-          "text": "Disse-lhe Jesus: Mulher, por que choras? Quem buscas? Ela, cuidando que era o jardineiro, disse-lhe: Senhor, se tu o levaste, dize-me onde o puseste, e eu o levarei."
+          "text": "Engoliu riquezas, porém vomitá-las-á; do seu ventre Deus as lançará."
         },
         {
           "verse": 16,
-          "text": "Disse-lhe Jesus: Maria! Ela, voltando-se, disse-lhe: Raboni, que quer dizer: Mestre."
+          "text": "Veneno de áspides sorverá; língua de víbora o matará."
         },
         {
           "verse": 17,
-          "text": "Disse-lhe Jesus: Não me detenhas, porque ainda não subi para meu Pai, mas vai para meus irmãos, e dize-lhes que eu subo para meu Pai e vosso Pai, meu Deus e vosso Deus."
+          "text": "Não verá as correntes, os rios e os ribeiros de mel e manteiga."
         },
         {
           "verse": 18,
-          "text": "Maria Madalena foi e anunciou aos discípulos que vira o Senhor, e que ele lhe dissera isto."
+          "text": "Restituirá o seu trabalho, e não o engolirá; conforme ao poder de sua mudança, e não saltará de gozo."
         },
         {
           "verse": 19,
-          "text": "Chegada, pois, a tarde daquele dia, o primeiro da semana, e cerradas as portas onde os discípulos, com medo dos judeus, se tinham ajuntado, chegou Jesus, e pôs-se no meio, e disse-lhes: Paz seja convosco."
+          "text": "Porquanto oprimiu e desamparou os pobres, e roubou a casa que não edificou."
         },
         {
           "verse": 20,
-          "text": "E, dizendo isto, mostrou-lhes as suas mãos e o lado. De sorte que os discípulos se alegraram, vendo o Senhor."
+          "text": "Porquanto não sentiu sossego no seu ventre; nada salvará das coisas por ele desejadas."
         },
         {
           "verse": 21,
-          "text": "Disse-lhes, pois, Jesus outra vez: Paz seja convosco; assim como o Pai me enviou, também eu vos envio a vós."
+          "text": "Nada lhe sobejará do que coma; por isso as suas riquezas não durarão."
         },
         {
           "verse": 22,
-          "text": "E, havendo dito isto, assoprou sobre eles e disse-lhes: Recebei o Espírito Santo."
+          "text": "Sendo plena a sua abastança, estará angustiado; toda a força da miséria virá sobre ele."
         },
         {
           "verse": 23,
-          "text": "Àqueles a quem perdoardes os pecados lhes são perdoados; e àqueles a quem os retiverdes lhes são retidos."
+          "text": "Mesmo estando ele a encher a sua barriga, Deus mandará sobre ele o ardor da sua ira, e a fará chover sobre ele quando for comer."
         },
         {
           "verse": 24,
-          "text": "Ora, Tomé, um dos doze, chamado Dídimo, não estava com eles quando veio Jesus."
+          "text": "Ainda que fuja das armas de ferro, o arco de bronze o atravessará."
         },
         {
           "verse": 25,
-          "text": "Disseram-lhe, pois, os outros discípulos: Vimos o Senhor. Mas ele disse-lhes: Se eu não vir o sinal dos cravos em suas mãos, e não puser o meu dedo no lugar dos cravos, e não puser a minha mão no seu lado, de maneira nenhuma o crerei."
+          "text": "Desembainhará a espada que sairá do seu corpo, e resplandecendo virá do seu fel; e haverá sobre ele assombros."
         },
         {
           "verse": 26,
-          "text": "E oito dias depois estavam outra vez os seus discípulos dentro, e com eles Tomé. Chegou Jesus, estando as portas fechadas, e apresentou-se no meio, e disse: Paz seja convosco."
+          "text": "Toda a escuridão se ocultará nos seus esconderijos; um fogo não assoprado o consumirá, irá mal com o que ficar na sua tenda."
         },
         {
           "verse": 27,
-          "text": "Depois disse a Tomé: Põe aqui o teu dedo, e vê as minhas mãos; e chega a tua mão, e põe-na no meu lado; e não sejas incrédulo, mas crente."
+          "text": "Os céus manifestarão a sua iniquidade; e a terra se levantará contra ele."
         },
         {
           "verse": 28,
-          "text": "E Tomé respondeu, e disse-lhe: Senhor meu, e Deus meu!"
+          "text": "As riquezas de sua casa serão transportadas; no dia da sua ira todas se derramarão."
         },
         {
           "verse": 29,
-          "text": "Disse-lhe Jesus: Porque me viste, Tomé, creste; bem-aventurados os que não viram e creram."
-        },
-        {
-          "verse": 30,
-          "text": "Jesus, pois, operou também em presença de seus discípulos muitos outros sinais, que não estão escritos neste livro."
-        },
-        {
-          "verse": 31,
-          "text": "Estes, porém, foram escritos para que creiais que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais vida em seu nome."
+          "text": "Esta, da parte de Deus, é a porção do homem ímpio; esta é a herança que Deus lhe decretou."
         }
       ]
     },
@@ -3523,103 +2051,2444 @@ if (typeof window.bibleData === 'undefined') { window.bibleData = {}; } window.b
       "verses": [
         {
           "verse": 1,
-          "text": "Depois disto manifestou-se Jesus outra vez aos discípulos junto do mar de Tiberíades; e manifestou-se assim:"
+          "text": "Respondeu, porém, Jó, dizendo:"
         },
         {
           "verse": 2,
-          "text": "Estavam juntos Simão Pedro, e Tomé, chamado Dídimo, e Natanael, que era de Caná da Galileia, os filhos de Zebedeu, e outros dois dos seus discípulos."
+          "text": "Ouvi atentamente as minhas razões; e isto vos sirva de consolação."
         },
         {
           "verse": 3,
-          "text": "Disse-lhes Simão Pedro: Vou pescar. Dizem-lhe eles: Também nós vamos contigo. Foram, e subiram logo para o barco, e naquela noite nada apanharam."
+          "text": "Sofrei-me, e eu falarei; e havendo eu falado, zombai."
         },
         {
           "verse": 4,
-          "text": "E, sendo já manhã, Jesus se apresentou na praia, mas os discípulos não conheceram que era Jesus."
+          "text": "Porventura eu me queixo de algum homem? Porém, ainda que assim fosse, por que não se angustiaria o meu espírito?"
         },
         {
           "verse": 5,
-          "text": "Disse-lhes, pois, Jesus: Filhos, tendes alguma coisa de comer? Responderam-lhe: Não."
+          "text": "Olhai para mim, e pasmai; e ponde a mão sobre a boca."
         },
         {
           "verse": 6,
-          "text": "E ele lhes disse: Lançai a rede para o lado direito do barco, e achareis. Lançaram-na, pois, e já não a podiam tirar, pela multidão dos peixes."
+          "text": "Porque, quando me lembro disto me perturbo, e a minha carne é sobressaltada de horror."
         },
         {
           "verse": 7,
-          "text": "Então aquele discípulo, a quem Jesus amava, disse a Pedro: É o Senhor. E, quando Simão Pedro ouviu que era o Senhor, cingiu-se com a túnica (porque estava nu) e lançou-se ao mar."
+          "text": "Por que razão vivem os ímpios, envelhecem, e ainda se robustecem em poder?"
         },
         {
           "verse": 8,
-          "text": "E os outros discípulos foram com o barco (porque não estavam distantes da terra senão quase duzentos côvados), levando a rede cheia de peixes."
+          "text": "A sua descendência se estabelece com eles perante a sua face; e os seus renovos perante os seus olhos."
         },
         {
           "verse": 9,
-          "text": "Logo que desceram para terra, viram ali brasas, e um peixe posto em cima, e pão."
+          "text": "As suas casas têm paz, sem temor; e a vara de Deus não está sobre eles."
         },
         {
           "verse": 10,
-          "text": "Disse-lhes Jesus: Trazei dos peixes que agora apanhastes."
+          "text": "O seu touro gera, e não falha; pare a sua vaca, e não aborta."
         },
         {
           "verse": 11,
-          "text": "Simão Pedro subiu e puxou a rede para terra, cheia de cento e cinquenta e três grandes peixes e, sendo tantos, não se rompeu a rede."
+          "text": "Fazem sair as suas crianças, como a um rebanho, e seus filhos andam saltando."
         },
         {
           "verse": 12,
-          "text": "Disse-lhes Jesus: Vinde, comei. E nenhum dos discípulos ousava perguntar-lhe: Quem és tu? Sabendo que era o Senhor."
+          "text": "Levantam a voz, ao som do tamboril e da harpa, e alegram-se ao som do órgão."
         },
         {
           "verse": 13,
-          "text": "Chegou, pois, Jesus, e tomou o pão, e deu-lhes e, semelhantemente o peixe."
+          "text": "Na prosperidade gastam os seus dias, e num momento descem à sepultura."
         },
         {
           "verse": 14,
-          "text": "E já era a terceira vez que Jesus se manifestava aos seus discípulos, depois de ter ressuscitado dentre os mortos."
+          "text": "E, todavia, dizem a Deus: Retira-te de nós; porque não desejamos ter conhecimento dos teus caminhos."
         },
         {
           "verse": 15,
-          "text": "E, depois de terem jantado, disse Jesus a Simão Pedro: Simão, filho de Jonas, amas-me mais do que estes? E ele respondeu: Sim, Senhor, tu sabes que te amo. Disse-lhe: Apascenta os meus cordeiros."
+          "text": "Quem é o Todo-Poderoso, para que nós o sirvamos? E que nos aproveitará que lhe façamos orações?"
         },
         {
           "verse": 16,
-          "text": "Tornou a dizer-lhe segunda vez: Simão, filho de Jonas, amas-me? Disse-lhe: Sim, Senhor, tu sabes que te amo. Disse-lhe: Apascenta as minhas ovelhas."
+          "text": "Vede, porém, que a prosperidade não está nas mãos deles; esteja longe de mim o conselho dos ímpios!"
         },
         {
           "verse": 17,
-          "text": "Disse-lhe terceira vez: Simão, filho de Jonas, amas-me? Simão entristeceu-se por lhe ter dito terceira vez: Amas-me? E disse-lhe: Senhor, tu sabes tudo; tu sabes que eu te amo. Jesus disse-lhe: Apascenta as minhas ovelhas."
+          "text": "Quantas vezes sucede que se apaga a lâmpada dos ímpios, e lhes sobrevém a sua destruição? E Deus na sua ira lhes reparte dores!"
         },
         {
           "verse": 18,
-          "text": "Na verdade, na verdade te digo que, quando eras mais moço, te cingias a ti mesmo, e andavas por onde querias; mas, quando já fores velho, estenderás as tuas mãos, e outro te cingirá, e te levará para onde tu não queiras."
+          "text": "Porque são como a palha diante do vento, e como a pragana, que arrebata o redemoinho."
         },
         {
           "verse": 19,
-          "text": "E disse isto, significando com que morte havia ele de glorificar a Deus. E, dito isto, disse-lhe: Segue-me."
+          "text": "Deus guarda a sua violência para seus filhos, e dá-lhe o pago, para que o conheça."
         },
         {
           "verse": 20,
-          "text": "E Pedro, voltando-se, viu que o seguia aquele discípulo a quem Jesus amava, e que na ceia se recostara também sobre o seu peito, e que dissera: Senhor, quem é que te há de trair?"
+          "text": "Seus olhos verão a sua ruína, e ele beberá do furor do Todo-Poderoso."
         },
         {
           "verse": 21,
-          "text": "Vendo Pedro a este, disse a Jesus: Senhor, e deste que será?"
+          "text": "Por que, que prazer teria na sua casa, depois de morto, cortando-se-lhe o número dos seus meses?"
         },
         {
           "verse": 22,
-          "text": "Disse-lhe Jesus: Se eu quero que ele fique até que eu venha, que te importa a ti? Segue-me tu."
+          "text": "Porventura a Deus se ensinaria conhecimento, a ele que julga os excelsos?"
         },
         {
           "verse": 23,
-          "text": "Divulgou-se, pois, entre os irmãos este dito, que aquele discípulo não havia de morrer. Jesus, porém, não lhe disse que não morreria, mas: Se eu quero que ele fique até que eu venha, que te importa a ti?"
+          "text": "Um morre na força da sua plenitude, estando inteiramente sossegado e tranquilo."
         },
         {
           "verse": 24,
-          "text": "Este é o discípulo que testifica destas coisas e as escreveu; e sabemos que o seu testemunho é verdadeiro."
+          "text": "Com seus baldes cheios de leite, e a medula dos seus ossos umedecida."
         },
         {
           "verse": 25,
-          "text": "Há, porém, ainda muitas outras coisas que Jesus fez; e se cada uma das quais fosse escrita, cuido que nem ainda o mundo todo poderia conter os livros que se escrevessem. Amém."
+          "text": "E outro, ao contrário, morre na amargura do seu coração, não havendo provado do bem."
+        },
+        {
+          "verse": 26,
+          "text": "Juntamente jazem no pó, e os vermes os cobrem."
+        },
+        {
+          "verse": 27,
+          "text": "Eis que conheço bem os vossos pensamentos; e os maus intentos com que injustamente me fazeis violência."
+        },
+        {
+          "verse": 28,
+          "text": "Porque direis: Onde está a casa do príncipe, e onde a tenda em que moravam os ímpios?"
+        },
+        {
+          "verse": 29,
+          "text": "Porventura não perguntastes aos que passam pelo caminho, e não conheceis os seus sinais,"
+        },
+        {
+          "verse": 30,
+          "text": "Que o mau é preservado para o dia da destruição; e arrebatado no dia do furor?"
+        },
+        {
+          "verse": 31,
+          "text": "Quem acusará diante dele o seu caminho, e quem lhe dará o pago do que faz?"
+        },
+        {
+          "verse": 32,
+          "text": "Finalmente é levado à sepultura, e vigiam-lhe o túmulo."
+        },
+        {
+          "verse": 33,
+          "text": "Os torrões do vale lhe são doces, e o seguirão todos os homens; e adiante dele foram inumeráveis."
+        },
+        {
+          "verse": 34,
+          "text": "Como, pois, me consolais com vaidade? Pois nas vossas respostas ainda resta a transgressão."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então respondeu Elifaz, o temanita, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Porventura será o homem de algum proveito a Deus? Antes a si mesmo o prudente será proveitoso."
+        },
+        {
+          "verse": 3,
+          "text": "Ou tem o Todo-Poderoso prazer em que tu sejas justo, ou algum lucro em que tu faças perfeitos os teus caminhos?"
+        },
+        {
+          "verse": 4,
+          "text": "Ou te repreende, pelo temor que tem de ti, ou entra contigo em juízo?"
+        },
+        {
+          "verse": 5,
+          "text": "Porventura não é grande a tua malícia, e sem termo as tuas iniquidades?"
+        },
+        {
+          "verse": 6,
+          "text": "Porque sem causa penhoraste a teus irmãos, e aos nus despojaste as vestes."
+        },
+        {
+          "verse": 7,
+          "text": "Não deste ao cansado água a beber, e ao faminto retiveste o pão."
+        },
+        {
+          "verse": 8,
+          "text": "Mas para o poderoso era a terra, e o homem tido em respeito habitava nela."
+        },
+        {
+          "verse": 9,
+          "text": "As viúvas despediste vazias, e os braços dos órfãos foram quebrados."
+        },
+        {
+          "verse": 10,
+          "text": "Por isso é que estás cercado de laços, e te perturba um pavor repentino,"
+        },
+        {
+          "verse": 11,
+          "text": "Ou trevas em que nada vês, e a abundância de águas que te cobre."
+        },
+        {
+          "verse": 12,
+          "text": "Porventura Deus não está na altura dos céus? Olha para a altura das estrelas; quão elevadas estão."
+        },
+        {
+          "verse": 13,
+          "text": "Se dizes: Que sabe Deus? Porventura julgará ele através da escuridão?"
+        },
+        {
+          "verse": 14,
+          "text": "As nuvens são esconderijo para ele, para que não veja; e passeia pelo circuito dos céus."
+        },
+        {
+          "verse": 15,
+          "text": "Porventura queres guardar a vereda antiga, que pisaram os homens iníquos?"
+        },
+        {
+          "verse": 16,
+          "text": "Eles foram arrebatados antes do seu tempo; sobre o seu fundamento um dilúvio se derramou."
+        },
+        {
+          "verse": 17,
+          "text": "Diziam a Deus: Retira-te de nós. E: Que foi que o Todo-Poderoso nos fez?"
+        },
+        {
+          "verse": 18,
+          "text": "Contudo ele encheu de bens as suas casas; mas o conselho dos ímpios esteja longe de mim."
+        },
+        {
+          "verse": 19,
+          "text": "Os justos o veem, e se alegram, e o inocente escarnece deles."
+        },
+        {
+          "verse": 20,
+          "text": "Porquanto o nosso adversário não foi destruído, mas o fogo consumiu o que restou deles."
+        },
+        {
+          "verse": 21,
+          "text": "Apega-te, pois, a ele, e tem paz, e assim te sobrevirá o bem."
+        },
+        {
+          "verse": 22,
+          "text": "Aceita, peço-te, a lei da sua boca, e põe as suas palavras no teu coração."
+        },
+        {
+          "verse": 23,
+          "text": "Se te voltares ao Todo-Poderoso, serás edificado; se afastares a iniquidade da tua tenda,"
+        },
+        {
+          "verse": 24,
+          "text": "E deitares o teu tesouro no pó, e o ouro de Ofir nas pedras dos ribeiros,"
+        },
+        {
+          "verse": 25,
+          "text": "Então o Todo-Poderoso será o teu tesouro, e a tua prata acumulada."
+        },
+        {
+          "verse": 26,
+          "text": "Porque então te deleitarás no Todo-Poderoso, e levantarás o teu rosto para Deus."
+        },
+        {
+          "verse": 27,
+          "text": "Orarás a ele, e ele te ouvirá, e pagarás os teus votos."
+        },
+        {
+          "verse": 28,
+          "text": "Determinarás tu algum negócio, e ser-te-á firme, e a luz brilhará em teus caminhos."
+        },
+        {
+          "verse": 29,
+          "text": "Quando te abaterem, então tu dirás: Haja exaltação! E Deus salvará ao humilde."
+        },
+        {
+          "verse": 30,
+          "text": "E livrará até ao que não é inocente; porque será libertado pela pureza de tuas mãos."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Respondeu, porém, Jó, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Ainda hoje a minha queixa está em amargura; a minha mão pesa sobre meu gemido."
+        },
+        {
+          "verse": 3,
+          "text": "Ah, se eu soubesse onde o poderia achar! Então me chegaria ao seu tribunal."
+        },
+        {
+          "verse": 4,
+          "text": "Exporia ante ele a minha causa, e a minha boca encheria de argumentos."
+        },
+        {
+          "verse": 5,
+          "text": "Saberia as palavras com que ele me responderia, e entenderia o que me dissesse."
+        },
+        {
+          "verse": 6,
+          "text": "Porventura segundo a grandeza de seu poder contenderia comigo? Não: ele antes me atenderia."
+        },
+        {
+          "verse": 7,
+          "text": "Ali o reto pleitearia com ele, e eu me livraria para sempre do meu Juiz."
+        },
+        {
+          "verse": 8,
+          "text": "Eis que se me adianto, ali não está; se torno para trás, não o percebo."
+        },
+        {
+          "verse": 9,
+          "text": "Se opera à esquerda, não o vejo; se se encobre à direita, não o diviso."
+        },
+        {
+          "verse": 10,
+          "text": "Porém ele sabe o meu caminho; provando-me ele, sairei como o ouro."
+        },
+        {
+          "verse": 11,
+          "text": "Nas suas pisadas os meus pés se afirmaram; guardei o seu caminho, e não me desviei dele."
+        },
+        {
+          "verse": 12,
+          "text": "Do preceito de seus lábios nunca me apartei, e as palavras da sua boca guardei mais do que a minha porção."
+        },
+        {
+          "verse": 13,
+          "text": "Mas, se ele resolveu alguma coisa, quem então o desviará? O que a sua alma quiser, isso fará."
+        },
+        {
+          "verse": 14,
+          "text": "Porque cumprirá o que está ordenado a meu respeito, e muitas coisas como estas ainda tem consigo."
+        },
+        {
+          "verse": 15,
+          "text": "Por isso me perturbo perante ele, e quando isto considero, temo-me dele."
+        },
+        {
+          "verse": 16,
+          "text": "Porque Deus macerou o meu coração, e o Todo-Poderoso me perturbou."
+        },
+        {
+          "verse": 17,
+          "text": "Porquanto não fui desarraigado por causa das trevas, e nem encobriu o meu rosto com a escuridão."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Visto que do Todo-Poderoso não se encobriram os tempos, por que, os que o conhecem, não veem os seus dias?"
+        },
+        {
+          "verse": 2,
+          "text": "Até os limites removem; roubam os rebanhos, e os apascentam."
+        },
+        {
+          "verse": 3,
+          "text": "Do órfão levam o jumento; tomam em penhor o boi da viúva."
+        },
+        {
+          "verse": 4,
+          "text": "Desviam do caminho os necessitados; e os pobres da terra juntos se escondem."
+        },
+        {
+          "verse": 5,
+          "text": "Eis que, como jumentos monteses no deserto, saem à sua obra, madrugando para a presa; a campina dá mantimento a eles e aos seus filhos."
+        },
+        {
+          "verse": 6,
+          "text": "No campo segam o seu pasto, e vindimam a vinha do ímpio."
+        },
+        {
+          "verse": 7,
+          "text": "Ao nu fazem passar a noite sem roupa, não tendo ele coberta contra o frio."
+        },
+        {
+          "verse": 8,
+          "text": "Pelas chuvas das montanhas são molhados e, não tendo refúgio, abraçam-se com as rochas."
+        },
+        {
+          "verse": 9,
+          "text": "Ao orfãozinho arrancam dos peitos, e tomam o penhor do pobre."
+        },
+        {
+          "verse": 10,
+          "text": "Fazem com que os nus vão sem roupa e aos famintos tiram as espigas."
+        },
+        {
+          "verse": 11,
+          "text": "Dentro das suas paredes espremem o azeite; pisam os lagares, e ainda têm sede."
+        },
+        {
+          "verse": 12,
+          "text": "Desde as cidades gemem os homens, e a alma dos feridos exclama, e contudo Deus lho não imputa como loucura."
+        },
+        {
+          "verse": 13,
+          "text": "Eles estão entre os que se opõem à luz; não conhecem os seus caminhos, e não permanecem nas suas veredas."
+        },
+        {
+          "verse": 14,
+          "text": "De madrugada se levanta o homicida, mata o pobre e necessitado, e de noite é como o ladrão."
+        },
+        {
+          "verse": 15,
+          "text": "Assim como o olho do adúltero aguarda o crepúsculo, dizendo: Não me verá olho nenhum; e oculta o rosto,"
+        },
+        {
+          "verse": 16,
+          "text": "Nas trevas minam as casas, que de dia se marcaram; não conhecem a luz."
+        },
+        {
+          "verse": 17,
+          "text": "Porque a manhã para todos eles é como sombra de morte; pois, sendo conhecidos, sentem os pavores da sombra da morte."
+        },
+        {
+          "verse": 18,
+          "text": "É ligeiro sobre a superfície das águas; maldita é a sua parte sobre a terra; não volta pelo caminho das vinhas."
+        },
+        {
+          "verse": 19,
+          "text": "A secura e o calor desfazem as águas da neve; assim desfará a sepultura aos que pecaram."
+        },
+        {
+          "verse": 20,
+          "text": "A madre se esquecerá dele, os vermes o comerão gostosamente; nunca mais haverá lembrança dele; e a iniquidade se quebrará como uma árvore."
+        },
+        {
+          "verse": 21,
+          "text": "Aflige à estéril que não dá à luz, e à viúva não faz bem."
+        },
+        {
+          "verse": 22,
+          "text": "Até aos poderosos arrasta com a sua força; se ele se levanta, não há vida segura."
+        },
+        {
+          "verse": 23,
+          "text": "Se Deus lhes dá descanso, estribam-se nisso; seus olhos porém estão nos caminhos deles."
+        },
+        {
+          "verse": 24,
+          "text": "Por um pouco se exaltam, e logo desaparecem; são abatidos, encerrados como todos os demais; e cortados como as cabeças das espigas."
+        },
+        {
+          "verse": 25,
+          "text": "Se agora não é assim, quem me desmentirá e desfará as minhas razões?"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então respondeu Bildade, o suíta, e disse:"
+        },
+        {
+          "verse": 2,
+          "text": "Com ele estão domínio e temor; ele faz paz nas suas alturas."
+        },
+        {
+          "verse": 3,
+          "text": "Porventura têm número as suas tropas? E sobre quem não se levanta a sua luz?"
+        },
+        {
+          "verse": 4,
+          "text": "Como, pois, seria justo o homem para com Deus, e como seria puro aquele que nasce de mulher?"
+        },
+        {
+          "verse": 5,
+          "text": "Eis que até a lua não resplandece, e as estrelas não são puras aos seus olhos."
+        },
+        {
+          "verse": 6,
+          "text": "E quanto menos o homem, que é um verme, e o filho do homem, que é um vermezinho!"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Jó, porém, respondeu, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Como ajudaste aquele que não tinha força, e sustentaste o braço que não tinha vigor?"
+        },
+        {
+          "verse": 3,
+          "text": "Como aconselhaste aquele que não tinha sabedoria, e plenamente fizeste saber a causa, assim como era?"
+        },
+        {
+          "verse": 4,
+          "text": "A quem proferiste palavras, e de quem é o espírito que saiu de ti?"
+        },
+        {
+          "verse": 5,
+          "text": "Os mortos tremem debaixo das águas, com os seus moradores."
+        },
+        {
+          "verse": 6,
+          "text": "O inferno está nu perante ele, e não há coberta para a perdição."
+        },
+        {
+          "verse": 7,
+          "text": "O norte estende sobre o vazio; e suspende a terra sobre o nada."
+        },
+        {
+          "verse": 8,
+          "text": "Prende as águas nas suas nuvens, todavia a nuvem não se rasga debaixo delas."
+        },
+        {
+          "verse": 9,
+          "text": "Encobre a face do seu trono, e sobre ele estende a sua nuvem."
+        },
+        {
+          "verse": 10,
+          "text": "Marcou um limite sobre a superfície das águas em redor, até aos confins da luz e das trevas."
+        },
+        {
+          "verse": 11,
+          "text": "As colunas do céu tremem, e se espantam da sua ameaça."
+        },
+        {
+          "verse": 12,
+          "text": "Com a sua força fende o mar, e com o seu entendimento abate a soberba."
+        },
+        {
+          "verse": 13,
+          "text": "Pelo seu Espírito ornou os céus; a sua mão formou a serpente enroscadiça."
+        },
+        {
+          "verse": 14,
+          "text": "Eis que isto são apenas as orlas dos seus caminhos; e quão pouco é o que temos ouvido dele! Quem, pois, entenderia o trovão do seu poder?"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E prosseguindo Jó em seu discurso, disse:"
+        },
+        {
+          "verse": 2,
+          "text": "Vive Deus, que desviou a minha causa, e o Todo-Poderoso, que amargurou a minha alma."
+        },
+        {
+          "verse": 3,
+          "text": "Que, enquanto em mim houver alento, e o sopro de Deus nas minhas narinas,"
+        },
+        {
+          "verse": 4,
+          "text": "Não falarão os meus lábios iniquidade, nem a minha língua pronunciará engano."
+        },
+        {
+          "verse": 5,
+          "text": "Longe de mim que eu vos justifique; até que eu expire, nunca apartarei de mim a minha integridade."
+        },
+        {
+          "verse": 6,
+          "text": "À minha justiça me apegarei e não a largarei; não me reprovará o meu coração em toda a minha vida."
+        },
+        {
+          "verse": 7,
+          "text": "Seja como o ímpio o meu inimigo, e como o perverso o que se levantar contra mim."
+        },
+        {
+          "verse": 8,
+          "text": "Porque qual será a esperança do hipócrita, havendo sido avaro, quando Deus lhe arrancar a sua alma?"
+        },
+        {
+          "verse": 9,
+          "text": "Porventura Deus ouvirá o seu clamor, sobrevindo-lhe a tribulação?"
+        },
+        {
+          "verse": 10,
+          "text": "Deleitar-se-á no Todo-Poderoso, ou invocará a Deus em todo o tempo?"
+        },
+        {
+          "verse": 11,
+          "text": "Ensinar-vos-ei acerca da mão de Deus, e não vos encobrirei o que está com o Todo-Poderoso."
+        },
+        {
+          "verse": 12,
+          "text": "Eis que todos vós já o vistes; por que, pois, vos desvaneceis na vossa vaidade?"
+        },
+        {
+          "verse": 13,
+          "text": "Esta, pois, é a porção do homem ímpio da parte de Deus, e a herança, que os tiranos receberão do Todo-Poderoso."
+        },
+        {
+          "verse": 14,
+          "text": "Se os seus filhos se multiplicarem, será para a espada, e a sua prole não se fartará de pão."
+        },
+        {
+          "verse": 15,
+          "text": "Os que ficarem dele na morte serão enterrados, e as suas viúvas não chorarão."
+        },
+        {
+          "verse": 16,
+          "text": "Se amontoar prata como pó, e aparelhar roupas como lodo,"
+        },
+        {
+          "verse": 17,
+          "text": "Ele as aparelhará, porém o justo as vestirá, e o inocente repartirá a prata."
+        },
+        {
+          "verse": 18,
+          "text": "E edificará a sua casa como a traça, e como o guarda que faz a cabana."
+        },
+        {
+          "verse": 19,
+          "text": "Rico se deita, e não será recolhido; abre os seus olhos, e nada terá."
+        },
+        {
+          "verse": 20,
+          "text": "Pavores se apoderam dele como águas; de noite o arrebata a tempestade."
+        },
+        {
+          "verse": 21,
+          "text": "O vento oriental leva-o, e ele se vai, e varre-o com ímpeto do seu lugar."
+        },
+        {
+          "verse": 22,
+          "text": "E Deus lançará isto sobre ele, e não lhe poupará; irá fugindo da sua mão."
+        },
+        {
+          "verse": 23,
+          "text": "Cada um baterá palmas contra ele e assobiará tirando-o do seu lugar."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Na verdade, há veios de onde se extrai a prata, e lugar onde se refina o ouro."
+        },
+        {
+          "verse": 2,
+          "text": "O ferro tira-se da terra, e da pedra se funde o cobre."
+        },
+        {
+          "verse": 3,
+          "text": "Ele põe fim às trevas, e toda a extremidade ele esquadrinha, a pedra da escuridão e a da sombra da morte."
+        },
+        {
+          "verse": 4,
+          "text": "Abre um poço de mina longe dos homens, em lugares esquecidos do pé; ficando pendentes longe dos homens, oscilam de um lado para outro."
+        },
+        {
+          "verse": 5,
+          "text": "Da terra procede o pão, mas por baixo é revolvida como por fogo."
+        },
+        {
+          "verse": 6,
+          "text": "As suas pedras são o lugar da safira, e tem pó de ouro."
+        },
+        {
+          "verse": 7,
+          "text": "Essa vereda a ave de rapina a ignora, e não a viram os olhos da gralha."
+        },
+        {
+          "verse": 8,
+          "text": "Nunca a pisaram filhos de animais altivos, nem o feroz leão passou por ela."
+        },
+        {
+          "verse": 9,
+          "text": "Ele estende a sua mão contra o rochedo, e revolve os montes desde as suas raízes."
+        },
+        {
+          "verse": 10,
+          "text": "Dos rochedos faz sair rios, e o seu olho vê tudo o que há de precioso."
+        },
+        {
+          "verse": 11,
+          "text": "Os rios tapa, e nem uma gota sai deles, e tira à luz o que estava escondido."
+        },
+        {
+          "verse": 12,
+          "text": "Porém onde se achará a sabedoria, e onde está o lugar da inteligência?"
+        },
+        {
+          "verse": 13,
+          "text": "O homem não conhece o seu valor, e nem ela se acha na terra dos viventes."
+        },
+        {
+          "verse": 14,
+          "text": "O abismo diz: Não está em mim; e o mar diz: Ela não está comigo."
+        },
+        {
+          "verse": 15,
+          "text": "Não se dará por ela ouro fino, nem se pesará prata em troca dela."
+        },
+        {
+          "verse": 16,
+          "text": "Nem se pode comprar por ouro fino de Ofir, nem pelo precioso ônix, nem pela safira."
+        },
+        {
+          "verse": 17,
+          "text": "Com ela não se pode comparar o ouro nem o cristal; nem se trocará por joia de ouro fino."
+        },
+        {
+          "verse": 18,
+          "text": "Não se fará menção de coral nem de pérolas; porque o valor da sabedoria é melhor que o dos rubis."
+        },
+        {
+          "verse": 19,
+          "text": "Não se lhe igualará o topázio da Etiópia, nem se pode avaliar por ouro puro."
+        },
+        {
+          "verse": 20,
+          "text": "Donde, pois, vem a sabedoria, e onde está o lugar da inteligência?"
+        },
+        {
+          "verse": 21,
+          "text": "Pois está encoberta aos olhos de todo o vivente, e oculta às aves do céu."
+        },
+        {
+          "verse": 22,
+          "text": "A perdição e a morte dizem: Ouvimos com os nossos ouvidos a sua fama."
+        },
+        {
+          "verse": 23,
+          "text": "Deus entende o seu caminho, e ele sabe o seu lugar."
+        },
+        {
+          "verse": 24,
+          "text": "Porque ele vê as extremidades da terra; e vê tudo o que há debaixo dos céus."
+        },
+        {
+          "verse": 25,
+          "text": "Quando deu peso ao vento, e tomou a medida das águas;"
+        },
+        {
+          "verse": 26,
+          "text": "Quando prescreveu leis para a chuva e caminho para o relâmpago dos trovões;"
+        },
+        {
+          "verse": 27,
+          "text": "Então a viu e relatou; estabeleceu-a, e também a esquadrinhou."
+        },
+        {
+          "verse": 28,
+          "text": "E disse ao homem: Eis que o temor do Senhor é a sabedoria, e apartar-se do mal é a inteligência."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "E prosseguiu Jó no seu discurso, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Ah! Quem me dera ser como eu fui nos meses passados, como nos dias em que Deus me guardava!"
+        },
+        {
+          "verse": 3,
+          "text": "Quando fazia resplandecer a sua lâmpada sobre a minha cabeça e quando eu pela sua luz caminhava pelas trevas."
+        },
+        {
+          "verse": 4,
+          "text": "Como fui nos dias da minha mocidade, quando o segredo de Deus estava sobre a minha tenda;"
+        },
+        {
+          "verse": 5,
+          "text": "Quando o Todo-Poderoso ainda estava comigo, e os meus filhos em redor de mim."
+        },
+        {
+          "verse": 6,
+          "text": "Quando lavava os meus passos na manteiga, e da rocha me corriam ribeiros de azeite;"
+        },
+        {
+          "verse": 7,
+          "text": "Quando eu saía para a porta da cidade, e na rua fazia preparar a minha cadeira,"
+        },
+        {
+          "verse": 8,
+          "text": "Os moços me viam, e se escondiam, e até os idosos se levantavam e se punham em pé;"
+        },
+        {
+          "verse": 9,
+          "text": "Os príncipes continham as suas palavras, e punham a mão sobre a sua boca;"
+        },
+        {
+          "verse": 10,
+          "text": "A voz dos nobres se calava, e a sua língua apegava-se ao seu paladar."
+        },
+        {
+          "verse": 11,
+          "text": "Ouvindo-me algum ouvido, me tinha por bem-aventurado; vendo-me algum olho, dava testemunho de mim;"
+        },
+        {
+          "verse": 12,
+          "text": "Porque eu livrava o miserável, que clamava, como também o órfão que não tinha quem o socorresse."
+        },
+        {
+          "verse": 13,
+          "text": "A bênção do que ia perecendo vinha sobre mim, e eu fazia que rejubilasse o coração da viúva."
+        },
+        {
+          "verse": 14,
+          "text": "Vestia-me da justiça, e ela me servia de vestimenta; como manto e diadema era a minha justiça."
+        },
+        {
+          "verse": 15,
+          "text": "Eu me fazia de olhos para o cego, e de pés para o coxo."
+        },
+        {
+          "verse": 16,
+          "text": "Dos necessitados era pai, e as causas de que eu não tinha conhecimento inquiria com diligência."
+        },
+        {
+          "verse": 17,
+          "text": "E quebrava os queixos do perverso, e dos seus dentes tirava a presa."
+        },
+        {
+          "verse": 18,
+          "text": "E dizia: No meu ninho expirarei, e multiplicarei os meus dias como a areia."
+        },
+        {
+          "verse": 19,
+          "text": "A minha raiz se estendia junto às águas, e o orvalho permanecia sobre os meus ramos;"
+        },
+        {
+          "verse": 20,
+          "text": "A minha honra se renovava em mim, e o meu arco se reforçava na minha mão."
+        },
+        {
+          "verse": 21,
+          "text": "Ouviam-me e esperavam, e em silêncio atendiam ao meu conselho."
+        },
+        {
+          "verse": 22,
+          "text": "Havendo eu falado, não replicavam, e minhas razões destilavam sobre eles;"
+        },
+        {
+          "verse": 23,
+          "text": "Porque me esperavam, como à chuva; e abriam a sua boca, como à chuva tardia."
+        },
+        {
+          "verse": 24,
+          "text": "Se eu ria para eles, não o criam, e a luz do meu rosto não faziam abater;"
+        },
+        {
+          "verse": 25,
+          "text": "Eu escolhia o seu caminho, assentava-me como chefe, e habitava como rei entre as suas tropas; como aquele que consola os que pranteiam."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Agora, porém, se riem de mim os de menos idade do que eu, cujos pais eu teria desdenhado de pôr com os cães do meu rebanho."
+        },
+        {
+          "verse": 2,
+          "text": "De que também me serviria a força das mãos daqueles, cujo vigor se tinha esgotado?"
+        },
+        {
+          "verse": 3,
+          "text": "De míngua e fome se debilitaram; e recolhiam-se para os lugares secos, tenebrosos, assolados e desertos."
+        },
+        {
+          "verse": 4,
+          "text": "Apanhavam malvas junto aos arbustos, e o seu mantimento eram as raízes dos zimbros."
+        },
+        {
+          "verse": 5,
+          "text": "Do meio dos homens eram expulsos, e gritavam contra eles, como contra o ladrão;"
+        },
+        {
+          "verse": 6,
+          "text": "Para habitarem nos barrancos dos vales, e nas cavernas da terra e das rochas."
+        },
+        {
+          "verse": 7,
+          "text": "Bramavam entre os arbustos, e ajuntavam-se debaixo das urtigas."
+        },
+        {
+          "verse": 8,
+          "text": "Eram filhos de doidos, e filhos de gente sem nome, e da terra foram expulsos."
+        },
+        {
+          "verse": 9,
+          "text": "Agora, porém, sou a sua canção, e lhes sirvo de provérbio."
+        },
+        {
+          "verse": 10,
+          "text": "Abominam-me, e fogem para longe de mim, e no meu rosto não se privam de cuspir."
+        },
+        {
+          "verse": 11,
+          "text": "Porque Deus desatou a sua corda, e me oprimiu, por isso sacudiram de si o freio perante o meu rosto."
+        },
+        {
+          "verse": 12,
+          "text": "À direita se levantam os moços; empurram os meus pés, e preparam contra mim os seus caminhos de destruição."
+        },
+        {
+          "verse": 13,
+          "text": "Desbaratam-me o caminho; promovem a minha miséria; contra eles não há ajudador."
+        },
+        {
+          "verse": 14,
+          "text": "Vêm contra mim como por uma grande brecha, e revolvem-se entre a assolação."
+        },
+        {
+          "verse": 15,
+          "text": "Sobrevieram-me pavores; como vento perseguem a minha honra, e como nuvem passou a minha felicidade."
+        },
+        {
+          "verse": 16,
+          "text": "E agora derrama-se em mim a minha alma; os dias da aflição se apoderaram de mim."
+        },
+        {
+          "verse": 17,
+          "text": "De noite se me traspassam os meus ossos, e os meus nervos não descansam."
+        },
+        {
+          "verse": 18,
+          "text": "Pela grandeza do meu mal está desfigurada a minha veste, que, como a gola da minha túnica, me cinge."
+        },
+        {
+          "verse": 19,
+          "text": "Lançou-me na lama, e fiquei semelhante ao pó e à cinza."
+        },
+        {
+          "verse": 20,
+          "text": "Clamo a ti, porém, tu não me respondes; estou em pé, porém, para mim não atentas."
+        },
+        {
+          "verse": 21,
+          "text": "Tornaste-te cruel contra mim; com a força da tua mão resistes violentamente."
+        },
+        {
+          "verse": 22,
+          "text": "Levantas-me sobre o vento, fazes-me cavalgar sobre ele, e derretes-me o ser."
+        },
+        {
+          "verse": 23,
+          "text": "Porque eu sei que me levarás à morte e à casa do ajuntamento determinada a todos os viventes."
+        },
+        {
+          "verse": 24,
+          "text": "Porém não estenderá a mão para o túmulo, ainda que eles clamem na sua destruição."
+        },
+        {
+          "verse": 25,
+          "text": "Porventura não chorei sobre aquele que estava aflito, ou não se angustiou a minha alma pelo necessitado?"
+        },
+        {
+          "verse": 26,
+          "text": "Todavia aguardando eu o bem, então me veio o mal, esperando eu a luz, veio a escuridão."
+        },
+        {
+          "verse": 27,
+          "text": "As minhas entranhas fervem e não estão quietas; os dias da aflição me surpreendem."
+        },
+        {
+          "verse": 28,
+          "text": "Denegrido ando, porém não do sol; levantando-me na congregação, clamo por socorro."
+        },
+        {
+          "verse": 29,
+          "text": "Irmão me fiz dos chacais, e companheiro dos avestruzes."
+        },
+        {
+          "verse": 30,
+          "text": "Enegreceu-se a minha pele sobre mim, e os meus ossos estão queimados do calor."
+        },
+        {
+          "verse": 31,
+          "text": "A minha harpa se tornou em luto, e o meu órgão em voz dos que choram."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Fiz aliança com os meus olhos; como, pois, os fixaria numa virgem?"
+        },
+        {
+          "verse": 2,
+          "text": "Que porção teria eu do Deus lá de cima, ou que herança do Todo-Poderoso desde as alturas?"
+        },
+        {
+          "verse": 3,
+          "text": "Porventura não é a perdição para o perverso, o desastre para os que praticam iniquidade?"
+        },
+        {
+          "verse": 4,
+          "text": "Ou não vê ele os meus caminhos, e não conta todos os meus passos?"
+        },
+        {
+          "verse": 5,
+          "text": "Se andei com falsidade, e se o meu pé se apressou para o engano"
+        },
+        {
+          "verse": 6,
+          "text": "(Pese-me em balanças fiéis, e saberá Deus a minha sinceridade),"
+        },
+        {
+          "verse": 7,
+          "text": "Se os meus passos se desviaram do caminho, e se o meu coração segue os meus olhos, e se às minhas mãos se apegou qualquer coisa,"
+        },
+        {
+          "verse": 8,
+          "text": "Então semeie eu e outro coma, e seja a minha descendência arrancada até à raiz."
+        },
+        {
+          "verse": 9,
+          "text": "Se o meu coração se deixou seduzir por uma mulher, ou se eu armei traições à porta do meu próximo,"
+        },
+        {
+          "verse": 10,
+          "text": "Então moa minha mulher para outro, e outros se encurvem sobre ela,"
+        },
+        {
+          "verse": 11,
+          "text": "Porque é uma infâmia, e é delito pertencente aos juízes."
+        },
+        {
+          "verse": 12,
+          "text": "Porque é fogo que consome até à perdição, e desarraigaria toda a minha renda."
+        },
+        {
+          "verse": 13,
+          "text": "Se desprezei o direito do meu servo ou da minha serva, quando eles contendiam comigo;"
+        },
+        {
+          "verse": 14,
+          "text": "Então que faria eu quando Deus se levantasse? E, inquirindo a causa, que lhe responderia?"
+        },
+        {
+          "verse": 15,
+          "text": "Aquele que me formou no ventre não o fez também a ele? Ou não nos formou do mesmo modo na madre?"
+        },
+        {
+          "verse": 16,
+          "text": "Se retive o que os pobres desejavam, ou fiz desfalecer os olhos da viúva,"
+        },
+        {
+          "verse": 17,
+          "text": "Ou se, sozinho comi o meu bocado, e o órfão não comeu dele"
+        },
+        {
+          "verse": 18,
+          "text": "(Porque desde a minha mocidade cresceu comigo como com seu pai, e fui o guia da viúva desde o ventre de minha mãe),"
+        },
+        {
+          "verse": 19,
+          "text": "Se alguém vi perecer por falta de roupa, e ao necessitado por não ter coberta,"
+        },
+        {
+          "verse": 20,
+          "text": "Se os seus lombos não me abençoaram, se ele não se aquentava com as peles dos meus cordeiros,"
+        },
+        {
+          "verse": 21,
+          "text": "Se eu levantei a minha mão contra o órfão, porquanto na porta via a minha ajuda,"
+        },
+        {
+          "verse": 22,
+          "text": "Então caia do ombro a minha espádua, e separe-se o meu braço do osso."
+        },
+        {
+          "verse": 23,
+          "text": "Porque o castigo de Deus era para mim um assombro, e eu não podia suportar a sua grandeza."
+        },
+        {
+          "verse": 24,
+          "text": "Se no ouro pus a minha esperança, ou disse ao ouro fino: Tu és a minha confiança;"
+        },
+        {
+          "verse": 25,
+          "text": "Se me alegrei de que era muita a minha riqueza, e de que a minha mão tinha alcançado muito;"
+        },
+        {
+          "verse": 26,
+          "text": "Se olhei para o sol, quando resplandecia, ou para a lua, caminhando gloriosa,"
+        },
+        {
+          "verse": 27,
+          "text": "E o meu coração se deixou enganar em oculto, e a minha boca beijou a minha mão,"
+        },
+        {
+          "verse": 28,
+          "text": "Também isto seria delito à punição de juízes; pois assim negaria a Deus que está lá em cima."
+        },
+        {
+          "verse": 29,
+          "text": "Se me alegrei da desgraça do que me tem ódio, e se exultei quando o mal o atingiu"
+        },
+        {
+          "verse": 30,
+          "text": "(Também não deixei pecar a minha boca, desejando a sua morte com maldição);"
+        },
+        {
+          "verse": 31,
+          "text": "Se a gente da minha tenda não disse: Ah! Quem nos dará da sua carne? Nunca nos fartaríamos dela."
+        },
+        {
+          "verse": 32,
+          "text": "O estrangeiro não passava a noite na rua; as minhas portas abria ao viandante."
+        },
+        {
+          "verse": 33,
+          "text": "Se, como Adão, encobri as minhas transgressões, ocultando o meu delito no meu seio;"
+        },
+        {
+          "verse": 34,
+          "text": "Porque eu temia a grande multidão, e o desprezo das famílias me apavorava, e eu me calei, e não saí da porta;"
+        },
+        {
+          "verse": 35,
+          "text": "Ah! Quem me dera um que me ouvisse! Eis que o meu desejo é que o Todo-Poderoso me responda, e que o meu adversário escreva um livro."
+        },
+        {
+          "verse": 36,
+          "text": "Por certo que o levaria sobre o meu ombro, sobre mim o ataria por coroa."
+        },
+        {
+          "verse": 37,
+          "text": "O número dos meus passos lhe mostraria; como príncipe me chegaria a ele."
+        },
+        {
+          "verse": 38,
+          "text": "Se a minha terra clamar contra mim, e se os seus sulcos juntamente chorarem,"
+        },
+        {
+          "verse": 39,
+          "text": "Se comi os seus frutos sem dinheiro, e sufoquei a alma dos seus donos,"
+        },
+        {
+          "verse": 40,
+          "text": "Por trigo me produza cardos, e por cevada joio. Acabaram-se as palavras de Jó."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então aqueles três homens cessaram de responder a Jó; porque era justo aos seus próprios olhos."
+        },
+        {
+          "verse": 2,
+          "text": "E acendeu-se a ira de Eliú, filho de Baraquel, o buzita, da família de Rão; contra Jó se acendeu a sua ira, porque se justificava a si mesmo, mais do que a Deus."
+        },
+        {
+          "verse": 3,
+          "text": "Também a sua ira se acendeu contra os seus três amigos, porque, não achando que responder, todavia condenavam a Jó."
+        },
+        {
+          "verse": 4,
+          "text": "Eliú, porém, esperou para falar a Jó, porquanto tinham mais idade do que ele."
+        },
+        {
+          "verse": 5,
+          "text": "Vendo, pois, Eliú que já não havia resposta na boca daqueles três homens, a sua ira se acendeu."
+        },
+        {
+          "verse": 6,
+          "text": "E respondeu Eliú, filho de Baraquel, o buzita, dizendo: Eu sou de menos idade, e vós sois idosos; receei-me e temi de vos declarar a minha opinião."
+        },
+        {
+          "verse": 7,
+          "text": "Dizia eu: Falem os dias, e a multidão dos anos ensine a sabedoria."
+        },
+        {
+          "verse": 8,
+          "text": "Na verdade, há um espírito no homem, e a inspiração do Todo-Poderoso o faz entendido."
+        },
+        {
+          "verse": 9,
+          "text": "Os grandes não são os sábios, nem os velhos entendem o que é direito."
+        },
+        {
+          "verse": 10,
+          "text": "Assim digo: Dai-me ouvidos, e também eu declararei a minha opinião."
+        },
+        {
+          "verse": 11,
+          "text": "Eis que aguardei as vossas palavras, e dei ouvidos às vossas considerações, até que buscásseis razões."
+        },
+        {
+          "verse": 12,
+          "text": "Atentando, pois, para vós, eis que nenhum de vós há que possa convencer a Jó, nem que responda às suas razões;"
+        },
+        {
+          "verse": 13,
+          "text": "Para que não digais: Achamos a sabedoria; Deus o derrubou, e não homem algum."
+        },
+        {
+          "verse": 14,
+          "text": "Ora ele não dirigiu contra mim palavra alguma, nem lhe responderei com as vossas palavras."
+        },
+        {
+          "verse": 15,
+          "text": "Estão pasmados, não respondem mais, faltam-lhes as palavras."
+        },
+        {
+          "verse": 16,
+          "text": "Esperei, pois, mas não falam; porque já pararam, e não respondem mais."
+        },
+        {
+          "verse": 17,
+          "text": "Também eu responderei pela minha parte; também eu declararei a minha opinião."
+        },
+        {
+          "verse": 18,
+          "text": "Porque estou cheio de palavras; o meu espírito me constrange."
+        },
+        {
+          "verse": 19,
+          "text": "Eis que dentro de mim sou como o mosto, sem respiradouro, prestes a arrebentar, como odres novos."
+        },
+        {
+          "verse": 20,
+          "text": "Falarei, para que ache alívio; abrirei os meus lábios, e responderei."
+        },
+        {
+          "verse": 21,
+          "text": "Que não faça eu acepção de pessoas, nem use de palavras lisonjeiras com o homem!"
+        },
+        {
+          "verse": 22,
+          "text": "Porque não sei usar de lisonjas; em breve me levaria o meu Criador."
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Assim, na verdade, ó Jó, ouve as minhas razões, e dá ouvidos a todas as minhas palavras."
+        },
+        {
+          "verse": 2,
+          "text": "Eis que já abri a minha boca; já falou a minha língua debaixo do meu paladar."
+        },
+        {
+          "verse": 3,
+          "text": "As minhas razões provam a sinceridade do meu coração, e os meus lábios proferem o puro saber."
+        },
+        {
+          "verse": 4,
+          "text": "O Espírito de Deus me fez; e a inspiração do Todo-Poderoso me deu vida."
+        },
+        {
+          "verse": 5,
+          "text": "Se podes, responde-me, põe em ordem as tuas razões diante de mim, e apresenta-te."
+        },
+        {
+          "verse": 6,
+          "text": "Eis que vim de Deus, como tu; do barro também eu fui formado."
+        },
+        {
+          "verse": 7,
+          "text": "Eis que não te perturbará o meu terror, nem será pesada sobre ti a minha mão."
+        },
+        {
+          "verse": 8,
+          "text": "Na verdade tu falaste aos meus ouvidos; e eu ouvi a voz das tuas palavras. Dizias:"
+        },
+        {
+          "verse": 9,
+          "text": "Limpo estou, sem transgressão; puro sou, e não tenho iniquidade."
+        },
+        {
+          "verse": 10,
+          "text": "Eis que procura pretexto contra mim, e me considera como seu inimigo."
+        },
+        {
+          "verse": 11,
+          "text": "Põe no tronco os meus pés, e observa todas as minhas veredas."
+        },
+        {
+          "verse": 12,
+          "text": "Eis que nisso não tens razão; eu te respondo; porque maior é Deus do que o homem."
+        },
+        {
+          "verse": 13,
+          "text": "Por que razão contendes com ele, sendo que não responde acerca de todos os seus feitos?"
+        },
+        {
+          "verse": 14,
+          "text": "Antes Deus fala uma e duas vezes; porém ninguém atenta para isso."
+        },
+        {
+          "verse": 15,
+          "text": "Em sonho ou em visão noturna, quando cai sono profundo sobre os homens, e adormecem na cama."
+        },
+        {
+          "verse": 16,
+          "text": "Então o revela ao ouvido dos homens, e lhes sela a sua instrução,"
+        },
+        {
+          "verse": 17,
+          "text": "Para apartar o homem daquilo que faz, e esconder do homem a soberba."
+        },
+        {
+          "verse": 18,
+          "text": "Para desviar a sua alma da cova, e a sua vida de passar pela espada."
+        },
+        {
+          "verse": 19,
+          "text": "Também na sua cama é castigado com dores; e com incessante contenda nos seus ossos;"
+        },
+        {
+          "verse": 20,
+          "text": "De modo que a sua vida abomina até o pão, e a sua alma a comida apetitosa."
+        },
+        {
+          "verse": 21,
+          "text": "Desaparece a sua carne a olhos vistos, e os seus ossos, que não se viam, agora aparecem."
+        },
+        {
+          "verse": 22,
+          "text": "E a sua alma se vai chegando à cova, e a sua vida aos que trazem a morte."
+        },
+        {
+          "verse": 23,
+          "text": "Se com ele, pois, houver um mensageiro, um intérprete, um entre milhares, para declarar ao homem a sua retidão,"
+        },
+        {
+          "verse": 24,
+          "text": "Então terá misericórdia dele, e lhe dirá: Livra-o, para que não desça à cova; já achei resgate."
+        },
+        {
+          "verse": 25,
+          "text": "Sua carne se reverdecerá mais do que era na mocidade, e tornará aos dias da sua juventude."
+        },
+        {
+          "verse": 26,
+          "text": "Deveras orará a Deus, o qual se agradará dele, e verá a sua face com júbilo, e restituirá ao homem a sua justiça."
+        },
+        {
+          "verse": 27,
+          "text": "Olhará para os homens, e se algum disser: Pequei, e perverti o direito, o que de nada me aproveitou."
+        },
+        {
+          "verse": 28,
+          "text": "Porém Deus livrou a minha alma de ir para a cova, e a minha vida verá a luz."
+        },
+        {
+          "verse": 29,
+          "text": "Eis que tudo isto é obra de Deus, duas e três vezes para com o homem,"
+        },
+        {
+          "verse": 30,
+          "text": "Para desviar a sua alma da perdição, e o iluminar com a luz dos viventes."
+        },
+        {
+          "verse": 31,
+          "text": "Escuta, pois, ó Jó, ouve-me; cala-te, e eu falarei."
+        },
+        {
+          "verse": 32,
+          "text": "Se tens alguma coisa que dizer, responde-me; fala, porque desejo justificar-te."
+        },
+        {
+          "verse": 33,
+          "text": "Se não, escuta-me tu; cala-te, e ensinar-te-ei a sabedoria."
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Respondeu mais Eliú, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Ouvi, vós, sábios, as minhas razões; e vós, entendidos, inclinai os ouvidos para mim."
+        },
+        {
+          "verse": 3,
+          "text": "Porque o ouvido prova as palavras, como o paladar experimenta a comida."
+        },
+        {
+          "verse": 4,
+          "text": "O que é direito escolhamos para nós; e conheçamos entre nós o que é bom."
+        },
+        {
+          "verse": 5,
+          "text": "Porque Jó disse: Sou justo, e Deus tirou o meu direito."
+        },
+        {
+          "verse": 6,
+          "text": "Apesar do meu direito sou considerado mentiroso; a minha ferida é incurável, embora eu esteja sem transgressão."
+        },
+        {
+          "verse": 7,
+          "text": "Que homem há como Jó, que bebe a zombaria como água?"
+        },
+        {
+          "verse": 8,
+          "text": "E caminha em companhia dos que praticam a iniquidade, e anda com homens ímpios?"
+        },
+        {
+          "verse": 9,
+          "text": "Porque disse: De nada aproveita ao homem o comprazer-se em Deus."
+        },
+        {
+          "verse": 10,
+          "text": "Portanto vós, homens de entendimento, escutai-me: Longe de Deus esteja o praticar a maldade e do Todo-Poderoso o cometer a perversidade!"
+        },
+        {
+          "verse": 11,
+          "text": "Porque, segundo a obra do homem, ele lhe paga; e faz a cada um segundo o seu caminho."
+        },
+        {
+          "verse": 12,
+          "text": "Também, na verdade, Deus não procede impiamente; nem o Todo-Poderoso perverte o juízo."
+        },
+        {
+          "verse": 13,
+          "text": "Quem lhe entregou o governo da terra? E quem fez todo o mundo?"
+        },
+        {
+          "verse": 14,
+          "text": "Se ele pusesse o seu coração contra o homem, e recolhesse para si o seu espírito e o seu fôlego,"
+        },
+        {
+          "verse": 15,
+          "text": "Toda a carne juntamente expiraria, e o homem voltaria para o pó."
+        },
+        {
+          "verse": 16,
+          "text": "Se, pois, há em ti entendimento, ouve isto; inclina os ouvidos ao som da minha palavra."
+        },
+        {
+          "verse": 17,
+          "text": "Porventura o que odiasse o direito se firmaria? E tu condenarias aquele que é justo e poderoso?"
+        },
+        {
+          "verse": 18,
+          "text": "Ou dir-se-á a um rei: Oh! Vil? Ou aos príncipes: Oh! Ímpios?"
+        },
+        {
+          "verse": 19,
+          "text": "Quanto menos àquele, que não faz acepção das pessoas de príncipes, nem estima o rico mais do que o pobre; porque todos são obras de suas mãos."
+        },
+        {
+          "verse": 20,
+          "text": "Eles num momento morrem; e até à meia-noite os povos são perturbados, e passam, e os poderosos serão tomados não por mão humana."
+        },
+        {
+          "verse": 21,
+          "text": "Porque os seus olhos estão sobre os caminhos de cada um, e ele vê todos os seus passos."
+        },
+        {
+          "verse": 22,
+          "text": "Não há trevas nem sombra de morte, onde se escondam os que praticam a iniquidade."
+        },
+        {
+          "verse": 23,
+          "text": "Porque Deus não sobrecarrega o homem mais do que é justo, para o fazer ir a juízo diante dele."
+        },
+        {
+          "verse": 24,
+          "text": "Quebranta aos fortes, sem que se possa inquirir, e põe outros em seu lugar."
+        },
+        {
+          "verse": 25,
+          "text": "Ele conhece, pois, as suas obras; de noite os transtorna, e ficam moídos."
+        },
+        {
+          "verse": 26,
+          "text": "Ele os bate como ímpios que são, à vista dos espectadores;"
+        },
+        {
+          "verse": 27,
+          "text": "Porquanto se desviaram dele, e não compreenderam nenhum de seus caminhos,"
+        },
+        {
+          "verse": 28,
+          "text": "De sorte que o clamor do pobre subisse até ele, e que ouvisse o clamor dos aflitos."
+        },
+        {
+          "verse": 29,
+          "text": "Se ele aquietar, quem então inquietará? Se encobrir o rosto, quem então o poderá contemplar? Seja isto para com um povo, seja para com um homem só,"
+        },
+        {
+          "verse": 30,
+          "text": "Para que o homem hipócrita nunca mais reine, e não haja laços no povo."
+        },
+        {
+          "verse": 31,
+          "text": "Na verdade, quem a Deus disse: Suportei castigo, não ofenderei mais."
+        },
+        {
+          "verse": 32,
+          "text": "O que não vejo, ensina-me tu; se fiz alguma maldade, nunca mais a hei de fazer?"
+        },
+        {
+          "verse": 33,
+          "text": "Virá de ti como há de ser a recompensa, para que tu a rejeites? Faze tu, pois, e não eu, a escolha; fala logo o que sabes."
+        },
+        {
+          "verse": 34,
+          "text": "Os homens de entendimento dirão comigo, e o homem sábio que me ouvir:"
+        },
+        {
+          "verse": 35,
+          "text": "Jó falou sem conhecimento; e às suas palavras falta prudência."
+        },
+        {
+          "verse": 36,
+          "text": "Pai meu! Meu desejo é que Jó seja provado até ao fim, pelas suas respostas a homens malignos."
+        },
+        {
+          "verse": 37,
+          "text": "Porque ao seu pecado acrescenta a transgressão; entre nós bate palmas, e multiplica contra Deus as suas palavras."
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Respondeu mais Eliú, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Tens por direito dizeres: Maior é a minha justiça do que a de Deus?"
+        },
+        {
+          "verse": 3,
+          "text": "Porque disseste: De que te serviria? Que proveito tiraria mais do que do meu pecado?"
+        },
+        {
+          "verse": 4,
+          "text": "Eu te darei resposta, a ti e aos teus amigos contigo."
+        },
+        {
+          "verse": 5,
+          "text": "Atenta para os céus, e vê; e contempla as mais altas nuvens, que são mais altas do que tu."
+        },
+        {
+          "verse": 6,
+          "text": "Se pecares, que efetuarás contra ele? Se as tuas transgressões se multiplicarem, que lhe farás?"
+        },
+        {
+          "verse": 7,
+          "text": "Se fores justo, que lhe darás, ou que receberá ele da tua mão?"
+        },
+        {
+          "verse": 8,
+          "text": "A tua impiedade faria mal a outro tal como tu; e a tua justiça aproveitaria ao filho do homem."
+        },
+        {
+          "verse": 9,
+          "text": "Por causa das muitas opressões os homens clamam por causa do braço dos grandes."
+        },
+        {
+          "verse": 10,
+          "text": "Porém ninguém diz: Onde está Deus que me criou, que dá salmos durante a noite;"
+        },
+        {
+          "verse": 11,
+          "text": "Que nos ensina mais do que aos animais da terra e nos faz mais sábios do que as aves dos céus?"
+        },
+        {
+          "verse": 12,
+          "text": "Clamam, porém ele não responde, por causa da arrogância dos maus."
+        },
+        {
+          "verse": 13,
+          "text": "Certo é que Deus não ouvirá a vaidade, nem atentará para ela o Todo-Poderoso."
+        },
+        {
+          "verse": 14,
+          "text": "E quanto ao que disseste, que o não verás, juízo há perante ele; por isso espera nele."
+        },
+        {
+          "verse": 15,
+          "text": "Mas agora, porque a sua ira ainda não se exerce, nem grandemente considera a arrogância,"
+        },
+        {
+          "verse": 16,
+          "text": "Logo Jó em vão abre a sua boca, e sem conhecimento multiplica palavras."
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Prosseguiu ainda Eliú, e disse:"
+        },
+        {
+          "verse": 2,
+          "text": "Espera-me um pouco, e mostrar-te-ei que ainda há razões a favor de Deus."
+        },
+        {
+          "verse": 3,
+          "text": "De longe trarei o meu conhecimento; e ao meu Criador atribuirei a justiça."
+        },
+        {
+          "verse": 4,
+          "text": "Porque na verdade, as minhas palavras não serão falsas; contigo está um que tem perfeito conhecimento."
+        },
+        {
+          "verse": 5,
+          "text": "Eis que Deus é mui grande, contudo a ninguém despreza; grande é em força e sabedoria."
+        },
+        {
+          "verse": 6,
+          "text": "Ele não preserva a vida do ímpio, e faz justiça aos aflitos."
+        },
+        {
+          "verse": 7,
+          "text": "Do justo não tira os seus olhos; antes estão com os reis no trono; ali os assenta para sempre, e assim são exaltados."
+        },
+        {
+          "verse": 8,
+          "text": "E se estão presos em grilhões, amarrados com cordas de aflição,"
+        },
+        {
+          "verse": 9,
+          "text": "Então lhes faz saber a obra deles, e as suas transgressões, porquanto prevaleceram nelas."
+        },
+        {
+          "verse": 10,
+          "text": "Abre-lhes também os seus ouvidos, para sua disciplina, e ordena-lhes que se convertam da maldade."
+        },
+        {
+          "verse": 11,
+          "text": "Se o ouvirem, e o servirem, acabarão seus dias em bem, e os seus anos em delícias."
+        },
+        {
+          "verse": 12,
+          "text": "Porém se não o ouvirem, à espada serão passados, e expirarão sem conhecimento."
+        },
+        {
+          "verse": 13,
+          "text": "E os hipócritas de coração amontoam para si a ira; e amarrando-os ele, não clamam por socorro."
+        },
+        {
+          "verse": 14,
+          "text": "A sua alma morre na mocidade, e a sua vida perece entre os impuros."
+        },
+        {
+          "verse": 15,
+          "text": "Ao aflito livra da sua aflição, e na opressão se revela aos seus ouvidos."
+        },
+        {
+          "verse": 16,
+          "text": "Assim também te desviará da boca da angústia para um lugar espaçoso, em que não há aperto, e as iguarias da tua mesa serão cheias de gordura."
+        },
+        {
+          "verse": 17,
+          "text": "Mas tu estás cheio do juízo do ímpio; o juízo e a justiça te sustentam."
+        },
+        {
+          "verse": 18,
+          "text": "Porquanto há furor, guarda-te de que não sejas atingido pelo castigo violento, pois nem com resgate algum te livrarias dele."
+        },
+        {
+          "verse": 19,
+          "text": "Estimaria ele tanto tuas riquezas? Não, nem ouro, nem todas as forças do poder."
+        },
+        {
+          "verse": 20,
+          "text": "Não suspires pela noite, em que os povos sejam tomados do seu lugar."
+        },
+        {
+          "verse": 21,
+          "text": "Guarda-te, e não declines para a iniquidade; porquanto isso escolheste antes que a aflição."
+        },
+        {
+          "verse": 22,
+          "text": "Eis que Deus é excelso em seu poder; quem ensina como ele?"
+        },
+        {
+          "verse": 23,
+          "text": "Quem lhe prescreveu o seu caminho? Ou, quem lhe dirá: Tu cometeste maldade?"
+        },
+        {
+          "verse": 24,
+          "text": "Lembra-te de engrandecer a sua obra, que os homens contemplam."
+        },
+        {
+          "verse": 25,
+          "text": "Todos os homens a veem, e o homem a enxerga de longe."
+        },
+        {
+          "verse": 26,
+          "text": "Eis que Deus é grande, e nós não o compreendemos, e o número dos seus anos não se pode esquadrinhar."
+        },
+        {
+          "verse": 27,
+          "text": "Porque faz miúdas as gotas das águas que, do seu vapor, derramam a chuva,"
+        },
+        {
+          "verse": 28,
+          "text": "A qual as nuvens destilam e gotejam sobre o homem abundantemente."
+        },
+        {
+          "verse": 29,
+          "text": "Porventura pode alguém entender as extensões das nuvens, e os estalos da sua tenda?"
+        },
+        {
+          "verse": 30,
+          "text": "Eis que estende sobre elas a sua luz, e encobre as profundezas do mar."
+        },
+        {
+          "verse": 31,
+          "text": "Porque por estas coisas julga os povos e lhes dá mantimento em abundância."
+        },
+        {
+          "verse": 32,
+          "text": "Com as nuvens encobre a luz, e ordena não brilhar, interpondo a nuvem."
+        },
+        {
+          "verse": 33,
+          "text": "O que nos dá a entender o seu pensamento, como também ao gado, acerca do temporal que sobe."
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sobre isto também treme o meu coração, e salta do seu lugar."
+        },
+        {
+          "verse": 2,
+          "text": "Atentamente ouvi a indignação da sua voz, e o sonido que sai da sua boca."
+        },
+        {
+          "verse": 3,
+          "text": "Ele o envia por debaixo de todos os céus, e a sua luz até aos confins da terra."
+        },
+        {
+          "verse": 4,
+          "text": "Depois disto ruge uma voz; ele troveja com a sua voz majestosa; e ele não os detém quando a sua voz é ouvida."
+        },
+        {
+          "verse": 5,
+          "text": "Com a sua voz troveja Deus maravilhosamente; faz grandes coisas, que nós não podemos compreender."
+        },
+        {
+          "verse": 6,
+          "text": "Porque à neve diz: Cai sobre a terra; como também à garoa e à sua forte chuva."
+        },
+        {
+          "verse": 7,
+          "text": "Ele sela as mãos de todo o homem, para que conheçam todos os homens a sua obra."
+        },
+        {
+          "verse": 8,
+          "text": "E as feras entram nos seus esconderijos e ficam nas suas cavernas."
+        },
+        {
+          "verse": 9,
+          "text": "Da recâmara do sul sai o tufão, e do norte o frio."
+        },
+        {
+          "verse": 10,
+          "text": "Pelo sopro de Deus se dá a geada, e as largas águas se congelam."
+        },
+        {
+          "verse": 11,
+          "text": "Também de umidade carrega as grossas nuvens, e espalha as nuvens com a sua luz."
+        },
+        {
+          "verse": 12,
+          "text": "Então elas, segundo o seu prudente conselho, se espalham em redor, para que façam tudo quanto lhes ordena sobre a superfície do mundo na terra."
+        },
+        {
+          "verse": 13,
+          "text": "Seja que por vara, ou para a sua terra, ou por misericórdia as faz vir."
+        },
+        {
+          "verse": 14,
+          "text": "A isto, ó Jó, inclina os teus ouvidos; para, e considera as maravilhas de Deus."
+        },
+        {
+          "verse": 15,
+          "text": "Porventura sabes tu como Deus as opera, e faz resplandecer a luz da sua nuvem?"
+        },
+        {
+          "verse": 16,
+          "text": "Tens tu notícia do equilíbrio das grossas nuvens e das maravilhas daquele que é perfeito nos conhecimentos?"
+        },
+        {
+          "verse": 17,
+          "text": "Ou de como as tuas roupas aquecem, quando do sul há calma sobre a terra?"
+        },
+        {
+          "verse": 18,
+          "text": "Ou estendeste com ele os céus, que estão firmes como espelho fundido?"
+        },
+        {
+          "verse": 19,
+          "text": "Ensina-nos o que lhe diremos: porque nós nada poderemos pôr em boa ordem, por causa das trevas."
+        },
+        {
+          "verse": 20,
+          "text": "Contar-lhe-ia alguém o que tenho falado? Ou desejaria um homem que ele fosse devorado?"
+        },
+        {
+          "verse": 21,
+          "text": "E agora não se pode olhar para o sol, que resplandece nas nuvens, quando o vento, tendo passado, o deixa limpo."
+        },
+        {
+          "verse": 22,
+          "text": "O esplendor de ouro vem do norte; pois, em Deus há uma tremenda majestade."
+        },
+        {
+          "verse": 23,
+          "text": "Ao Todo-Poderoso não podemos alcançar; grande é em poder; porém a ninguém oprime em juízo e grandeza de justiça."
+        },
+        {
+          "verse": 24,
+          "text": "Por isso o temem os homens; ele não respeita os que se julgam sábios de coração."
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Depois disto o Senhor respondeu a Jó de um redemoinho, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Quem é este que escurece o conselho com palavras sem conhecimento?"
+        },
+        {
+          "verse": 3,
+          "text": "Agora cinge os teus lombos, como homem; e perguntar-te-ei, e tu me ensinarás."
+        },
+        {
+          "verse": 4,
+          "text": "Onde estavas tu, quando eu fundava a terra? Faze-mo saber, se tens inteligência."
+        },
+        {
+          "verse": 5,
+          "text": "Quem lhe pôs as medidas, se é que o sabes? Ou quem estendeu sobre ela o cordel?"
+        },
+        {
+          "verse": 6,
+          "text": "Sobre que estão fundadas as suas bases, ou quem assentou a sua pedra de esquina,"
+        },
+        {
+          "verse": 7,
+          "text": "Quando as estrelas da alva juntas alegremente cantavam, e todos os filhos de Deus jubilavam?"
+        },
+        {
+          "verse": 8,
+          "text": "Ou quem encerrou o mar com portas, quando este rompeu e saiu da madre;"
+        },
+        {
+          "verse": 9,
+          "text": "Quando eu pus as nuvens por sua vestidura, e a escuridão por faixa?"
+        },
+        {
+          "verse": 10,
+          "text": "Quando eu lhe tracei limites, e lhe pus portas e ferrolhos,"
+        },
+        {
+          "verse": 11,
+          "text": "E disse: Até aqui virás, e não mais adiante, e aqui se parará o orgulho das tuas ondas?"
+        },
+        {
+          "verse": 12,
+          "text": "Ou desde os teus dias deste ordem à madrugada, ou mostraste à alva o seu lugar;"
+        },
+        {
+          "verse": 13,
+          "text": "Para que pegasse nas extremidades da terra, e os ímpios fossem sacudidos dela;"
+        },
+        {
+          "verse": 14,
+          "text": "E se transformasse como o barro sob o selo, e se pusessem como vestidos;"
+        },
+        {
+          "verse": 15,
+          "text": "E dos ímpios se desvie a sua luz, e o braço altivo se quebrante;"
+        },
+        {
+          "verse": 16,
+          "text": "Ou entraste tu até às origens do mar, ou passeaste no mais profundo do abismo?"
+        },
+        {
+          "verse": 17,
+          "text": "Ou descobriram-se-te as portas da morte, ou viste as portas da sombra da morte?"
+        },
+        {
+          "verse": 18,
+          "text": "Ou com o teu entendimento chegaste às larguras da terra? Faze-mo saber, se sabes tudo isto."
+        },
+        {
+          "verse": 19,
+          "text": "Onde está o caminho onde mora a luz? E, quanto às trevas, onde está o seu lugar;"
+        },
+        {
+          "verse": 20,
+          "text": "Para que as tragas aos seus limites, e para que saibas as veredas da sua casa?"
+        },
+        {
+          "verse": 21,
+          "text": "Decerto tu o sabes, porque já então eras nascido, e por ser grande o número dos teus dias!"
+        },
+        {
+          "verse": 22,
+          "text": "Ou entraste tu até aos tesouros da neve, e viste os tesouros da saraiva,"
+        },
+        {
+          "verse": 23,
+          "text": "Que eu retenho até ao tempo da angústia, até ao dia da peleja e da guerra?"
+        },
+        {
+          "verse": 24,
+          "text": "Onde está o caminho em que se reparte a luz, e se espalha o vento oriental sobre a terra?"
+        },
+        {
+          "verse": 25,
+          "text": "Quem abriu para a inundação um leito, e um caminho para os relâmpagos dos trovões,"
+        },
+        {
+          "verse": 26,
+          "text": "Para chover sobre a terra, onde não há ninguém, e no deserto, em que não há homem;"
+        },
+        {
+          "verse": 27,
+          "text": "Para fartar a terra deserta e assolada, e para fazer crescer os renovos da erva?"
+        },
+        {
+          "verse": 28,
+          "text": "A chuva porventura tem pai? Ou quem gerou as gotas do orvalho?"
+        },
+        {
+          "verse": 29,
+          "text": "De que ventre procedeu o gelo? E quem gerou a geada do céu?"
+        },
+        {
+          "verse": 30,
+          "text": "Como debaixo de pedra as águas se endurecem, e a superfície do abismo se congela."
+        },
+        {
+          "verse": 31,
+          "text": "Ou poderás tu ajuntar as delícias do Sete-Estrelo ou soltar os cordéis do Órion?"
+        },
+        {
+          "verse": 32,
+          "text": "Ou produzir as constelações a seu tempo, e guiar a Ursa com seus filhos?"
+        },
+        {
+          "verse": 33,
+          "text": "Sabes tu as ordenanças dos céus, ou podes estabelecer o domínio deles sobre a terra?"
+        },
+        {
+          "verse": 34,
+          "text": "Ou podes levantar a tua voz até às nuvens, para que a abundância das águas te cubra?"
+        },
+        {
+          "verse": 35,
+          "text": "Ou mandarás aos raios para que saiam, e te digam: Eis-nos aqui?"
+        },
+        {
+          "verse": 36,
+          "text": "Quem pôs a sabedoria no íntimo, ou quem deu à mente o entendimento?"
+        },
+        {
+          "verse": 37,
+          "text": "Quem numerará as nuvens com sabedoria? Ou os odres dos céus, quem os esvaziará,"
+        },
+        {
+          "verse": 38,
+          "text": "Quando se funde o pó numa massa, e se apegam os torrões uns aos outros?"
+        },
+        {
+          "verse": 39,
+          "text": "Porventura caçarás tu presa para a leoa, ou saciarás a fome dos filhos dos leões,"
+        },
+        {
+          "verse": 40,
+          "text": "Quando se agacham nos covis, e estão à espreita nas covas?"
+        },
+        {
+          "verse": 41,
+          "text": "Quem prepara aos corvos o seu alimento, quando os seus filhotes gritam a Deus e andam vagueando, por não terem o que comer?"
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Sabes tu o tempo em que as cabras montesas têm filhos, ou observastes as cervas quando dão suas crias?"
+        },
+        {
+          "verse": 2,
+          "text": "Contarás os meses que cumprem, ou sabes o tempo do seu parto?"
+        },
+        {
+          "verse": 3,
+          "text": "Quando se encurvam, produzem seus filhos, e lançam de si as suas dores."
+        },
+        {
+          "verse": 4,
+          "text": "Seus filhos enrijam, crescem com o trigo; saem, e nunca mais tornam para elas."
+        },
+        {
+          "verse": 5,
+          "text": "Quem despediu livre o jumento montês, e quem soltou as prisões ao jumento bravo,"
+        },
+        {
+          "verse": 6,
+          "text": "Ao qual dei o ermo por casa, e a terra salgada por morada?"
+        },
+        {
+          "verse": 7,
+          "text": "Ri-se do ruído da cidade; não ouve os muitos gritos do condutor."
+        },
+        {
+          "verse": 8,
+          "text": "A região montanhosa é o seu pasto, e anda buscando tudo que está verde."
+        },
+        {
+          "verse": 9,
+          "text": "Ou, querer-te-á servir o boi selvagem? Ou ficará no teu curral?"
+        },
+        {
+          "verse": 10,
+          "text": "Ou com corda amarrarás, no arado, ao boi selvagem? Ou escavará ele os vales após ti?"
+        },
+        {
+          "verse": 11,
+          "text": "Ou confiarás nele, por ser grande a sua força, ou deixarás a seu cargo o teu trabalho?"
+        },
+        {
+          "verse": 12,
+          "text": "Ou fiarás dele que te torne o que semeaste e o recolha na tua eira?"
+        },
+        {
+          "verse": 13,
+          "text": "A avestruz bate alegremente as suas asas, porém, são benignas as suas asas e penas?"
+        },
+        {
+          "verse": 14,
+          "text": "Ela deixa os seus ovos na terra, e os aquenta no pó,"
+        },
+        {
+          "verse": 15,
+          "text": "E se esquece de que algum pé os pode pisar, ou que os animais do campo os podem calcar."
+        },
+        {
+          "verse": 16,
+          "text": "Endurece-se para com seus filhos, como se não fossem seus; em vão é seu trabalho, mas ela está sem temor,"
+        },
+        {
+          "verse": 17,
+          "text": "Porque Deus a privou de sabedoria, e não lhe deu entendimento."
+        },
+        {
+          "verse": 18,
+          "text": "A seu tempo se levanta ao alto; ri-se do cavalo, e do que vai montado nele."
+        },
+        {
+          "verse": 19,
+          "text": "Ou darás tu força ao cavalo, ou revestirás o seu pescoço com crinas?"
+        },
+        {
+          "verse": 20,
+          "text": "Ou espantá-lo-ás, como ao gafanhoto? Terrível é o fogoso respirar das suas ventas."
+        },
+        {
+          "verse": 21,
+          "text": "Escarva a terra, e folga na sua força, e sai ao encontro dos armados."
+        },
+        {
+          "verse": 22,
+          "text": "Ri-se do temor, e não se espanta, e não torna atrás por causa da espada."
+        },
+        {
+          "verse": 23,
+          "text": "Contra ele rangem a aljava, o ferro flamante da lança e do dardo."
+        },
+        {
+          "verse": 24,
+          "text": "Agitando-se e indignando-se, serve a terra, e não faz caso do som da trombeta."
+        },
+        {
+          "verse": 25,
+          "text": "Ao soar das trombetas diz: Eia! E cheira de longe a guerra, e o trovão dos capitães, e o alarido."
+        },
+        {
+          "verse": 26,
+          "text": "Ou voa o gavião pela tua inteligência, e estende as suas asas para o sul?"
+        },
+        {
+          "verse": 27,
+          "text": "Ou se remonta a águia ao teu mandado, e põe no alto o seu ninho?"
+        },
+        {
+          "verse": 28,
+          "text": "Nas penhas mora e habita; no cume das penhas, e nos lugares seguros."
+        },
+        {
+          "verse": 29,
+          "text": "Dali descobre a presa; seus olhos a avistam de longe."
+        },
+        {
+          "verse": 30,
+          "text": "E seus filhos chupam o sangue, e onde há mortos, ali está ela."
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Respondeu mais o Senhor a Jó, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Porventura o contender contra o Todo-Poderoso é sabedoria? Quem repreende assim a Deus, responda por isso."
+        },
+        {
+          "verse": 3,
+          "text": "Então Jó respondeu ao Senhor, dizendo:"
+        },
+        {
+          "verse": 4,
+          "text": "Eis que sou vil; que te responderia eu? A minha mão ponho à boca."
+        },
+        {
+          "verse": 5,
+          "text": "Uma vez tenho falado, e não replicarei; ou ainda duas vezes, porém não prosseguirei."
+        },
+        {
+          "verse": 6,
+          "text": "Então o Senhor respondeu a Jó de um redemoinho, dizendo:"
+        },
+        {
+          "verse": 7,
+          "text": "Cinge agora os teus lombos como homem; eu te perguntarei, e tu me explicarás."
+        },
+        {
+          "verse": 8,
+          "text": "Porventura também tornarás tu vão o meu juízo, ou tu me condenarás, para te justificares?"
+        },
+        {
+          "verse": 9,
+          "text": "Ou tens braço como Deus, ou podes trovejar com voz como ele o faz?"
+        },
+        {
+          "verse": 10,
+          "text": "Orna-te, pois, de excelência e alteza; e veste-te de majestade e de glória."
+        },
+        {
+          "verse": 11,
+          "text": "Derrama os furores da tua ira, e atenta para todo o soberbo, e abate-o."
+        },
+        {
+          "verse": 12,
+          "text": "Olha para todo o soberbo, e humilha-o, e atropela os ímpios no seu lugar."
+        },
+        {
+          "verse": 13,
+          "text": "Esconde-os juntamente no pó; ata-lhes os rostos em oculto."
+        },
+        {
+          "verse": 14,
+          "text": "Então também eu a ti confessarei que a tua mão direita te poderá salvar."
+        },
+        {
+          "verse": 15,
+          "text": "Contemplas agora o beemote, que eu fiz contigo, que come a erva como o boi."
+        },
+        {
+          "verse": 16,
+          "text": "Eis que a sua força está nos seus lombos, e o seu poder nos músculos do seu ventre."
+        },
+        {
+          "verse": 17,
+          "text": "Quando quer, move a sua cauda como cedro; os nervos das suas coxas estão entretecidos."
+        },
+        {
+          "verse": 18,
+          "text": "Os seus ossos são como tubos de bronze; a sua ossada é como barras de ferro."
+        },
+        {
+          "verse": 19,
+          "text": "Ele é obra-prima dos caminhos de Deus; o que o fez o proveu da sua espada."
+        },
+        {
+          "verse": 20,
+          "text": "Em verdade os montes lhe produzem pastos, onde todos os animais do campo folgam."
+        },
+        {
+          "verse": 21,
+          "text": "Deita-se debaixo das árvores sombrias, no esconderijo das canas e da lama."
+        },
+        {
+          "verse": 22,
+          "text": "As árvores sombrias o cobrem, com sua sombra; os salgueiros do ribeiro o cercam."
+        },
+        {
+          "verse": 23,
+          "text": "Eis que um rio transborda, e ele não se apressa, confiando ainda que o Jordão se levante até à sua boca."
+        },
+        {
+          "verse": 24,
+          "text": "Podê-lo-iam porventura caçar à vista de seus olhos, ou com laços lhe furar o nariz?"
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Poderás tirar com anzol o leviatã, ou ligarás a sua língua com uma corda?"
+        },
+        {
+          "verse": 2,
+          "text": "Podes pôr um anzol no seu nariz, ou com um gancho furar a sua queixada?"
+        },
+        {
+          "verse": 3,
+          "text": "Porventura multiplicará as súplicas para contigo, ou brandamente falará?"
+        },
+        {
+          "verse": 4,
+          "text": "Fará ele aliança contigo, ou o tomarás tu por servo para sempre?"
+        },
+        {
+          "verse": 5,
+          "text": "Brincarás com ele, como se fora um passarinho, ou o prenderás para tuas meninas?"
+        },
+        {
+          "verse": 6,
+          "text": "Os teus companheiros farão dele um banquete, ou o repartirão entre os negociantes?"
+        },
+        {
+          "verse": 7,
+          "text": "Encherás a sua pele de ganchos, ou a sua cabeça com arpões de pescadores?"
+        },
+        {
+          "verse": 8,
+          "text": "Põe a tua mão sobre ele, lembra-te da peleja, e nunca mais tal intentarás."
+        },
+        {
+          "verse": 9,
+          "text": "Eis que é vã a esperança de apanhá-lo; pois não será o homem derrubado só ao vê-lo?"
+        },
+        {
+          "verse": 10,
+          "text": "Ninguém há tão atrevido, que a despertá-lo se atreva; quem, pois, é aquele que ousa erguer-se diante de mim?"
+        },
+        {
+          "verse": 11,
+          "text": "Quem primeiro me deu, para que eu haja de retribuir-lhe? Pois o que está debaixo de todos os céus é meu."
+        },
+        {
+          "verse": 12,
+          "text": "Não me calarei a respeito dos seus membros, nem da sua grande força, nem a graça da sua compostura."
+        },
+        {
+          "verse": 13,
+          "text": "Quem descobrirá a face da sua roupa? Quem entrará na sua couraça dobrada?"
+        },
+        {
+          "verse": 14,
+          "text": "Quem abrirá as portas do seu rosto? Pois ao redor dos seus dentes está o terror."
+        },
+        {
+          "verse": 15,
+          "text": "As suas fortes escamas são o seu orgulho, cada uma fechada como com selo apertado."
+        },
+        {
+          "verse": 16,
+          "text": "Uma à outra se chega tão perto, que nem o ar passa por entre elas."
+        },
+        {
+          "verse": 17,
+          "text": "Umas às outras se ligam; tanto aderem entre si, que não se podem separar."
+        },
+        {
+          "verse": 18,
+          "text": "Cada um dos seus espirros faz resplandecer a luz, e os seus olhos são como as pálpebras da alva."
+        },
+        {
+          "verse": 19,
+          "text": "Da sua boca saem tochas; faíscas de fogo saltam dela."
+        },
+        {
+          "verse": 20,
+          "text": "Das suas narinas procede fumaça, como de uma panela fervente, ou de uma grande caldeira."
+        },
+        {
+          "verse": 21,
+          "text": "O seu hálito faz incender os carvões; e da sua boca sai chama."
+        },
+        {
+          "verse": 22,
+          "text": "No seu pescoço reside a força; diante dele até a tristeza salta de prazer."
+        },
+        {
+          "verse": 23,
+          "text": "Os músculos da sua carne estão pegados entre si; cada um está firme nele, e nenhum se move."
+        },
+        {
+          "verse": 24,
+          "text": "O seu coração é firme como uma pedra e firme como a mó de baixo."
+        },
+        {
+          "verse": 25,
+          "text": "Levantando-se ele, tremem os valentes; em razão dos seus abalos se purificam."
+        },
+        {
+          "verse": 26,
+          "text": "Se alguém lhe tocar com a espada, essa não poderá penetrar, nem lança, dardo ou flecha."
+        },
+        {
+          "verse": 27,
+          "text": "Ele considera o ferro como palha, e o cobre como pau podre."
+        },
+        {
+          "verse": 28,
+          "text": "A seta o não fará fugir; as pedras das fundas se lhe tornam em restolho."
+        },
+        {
+          "verse": 29,
+          "text": "As pedras atiradas são para ele como arestas, e ri-se do brandir da lança;"
+        },
+        {
+          "verse": 30,
+          "text": "Debaixo de si tem conchas pontiagudas; estende-se sobre coisas pontiagudas como na lama."
+        },
+        {
+          "verse": 31,
+          "text": "As profundezas faz ferver, como uma panela; torna o mar como uma vasilha de unguento."
+        },
+        {
+          "verse": 32,
+          "text": "Após si deixa uma vereda luminosa; parece o abismo tornado em brancura de cabelos."
+        },
+        {
+          "verse": 33,
+          "text": "Na terra não há coisa que se lhe possa comparar, pois foi feito para estar sem pavor."
+        },
+        {
+          "verse": 34,
+          "text": "Ele vê tudo que é alto; é rei sobre todos os filhos da soberba."
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Então respondeu Jó ao Senhor, dizendo:"
+        },
+        {
+          "verse": 2,
+          "text": "Bem sei eu que tudo podes, e que nenhum dos teus propósitos pode ser impedido."
+        },
+        {
+          "verse": 3,
+          "text": "Quem é este, que sem conhecimento encobre o conselho? Por isso relatei o que não entendia; coisas que para mim eram inescrutáveis, e que eu não entendia."
+        },
+        {
+          "verse": 4,
+          "text": "Escuta-me, pois, e eu falarei; eu te perguntarei, e tu me ensinarás."
+        },
+        {
+          "verse": 5,
+          "text": "Com o ouvir dos meus ouvidos ouvi, mas agora te veem os meus olhos."
+        },
+        {
+          "verse": 6,
+          "text": "Por isso me abomino e me arrependo no pó e na cinza."
+        },
+        {
+          "verse": 7,
+          "text": "Sucedeu que, acabando o Senhor de falar a Jó aquelas palavras, o Senhor disse a Elifaz, o temanita: A minha ira se acendeu contra ti, e contra os teus dois amigos, porque não falastes de mim o que era reto, como o meu servo Jó."
+        },
+        {
+          "verse": 8,
+          "text": "Tomai, pois, sete bezerros e sete carneiros, e ide ao meu servo Jó, e oferecei holocaustos por vós, e o meu servo Jó orará por vós; porque deveras a ele aceitarei, para que eu não vos trate conforme a vossa loucura; porque vós não falastes de mim o que era reto como o meu servo Jó."
+        },
+        {
+          "verse": 9,
+          "text": "Então foram Elifaz, o temanita, e Bildade, o suíta, e Zofar, o naamatita, e fizeram como o Senhor lhes dissera; e o Senhor aceitou a face de Jó."
+        },
+        {
+          "verse": 10,
+          "text": "E o Senhor virou o cativeiro de Jó, quando orava pelos seus amigos; e o Senhor acrescentou, em dobro, a tudo quanto Jó antes possuía."
+        },
+        {
+          "verse": 11,
+          "text": "Então vieram a ele todos os seus irmãos, e todas as suas irmãs, e todos quantos dantes o conheceram, e comeram com ele pão em sua casa, e se condoeram dele, e o consolaram acerca de todo o mal que o Senhor lhe havia enviado; e cada um deles lhe deu uma peça de dinheiro, e um pendente de ouro."
+        },
+        {
+          "verse": 12,
+          "text": "E assim abençoou o Senhor o último estado de Jó, mais do que o primeiro; pois teve catorze mil ovelhas, e seis mil camelos, e mil juntas de bois, e mil jumentas."
+        },
+        {
+          "verse": 13,
+          "text": "Também teve sete filhos e três filhas."
+        },
+        {
+          "verse": 14,
+          "text": "E chamou o nome da primeira Jemima, e o nome da segunda Quezia, e o nome da terceira Quéren-Hapuque."
+        },
+        {
+          "verse": 15,
+          "text": "E em toda a terra não se acharam mulheres tão formosas como as filhas de Jó; e seu pai lhes deu herança entre seus irmãos."
+        },
+        {
+          "verse": 16,
+          "text": "E depois disto viveu Jó cento e quarenta anos; e viu a seus filhos, e aos filhos de seus filhos, até à quarta geração."
+        },
+        {
+          "verse": 17,
+          "text": "Então morreu Jó, velho e farto de dias."
         }
       ]
     }

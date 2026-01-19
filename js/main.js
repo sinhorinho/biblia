@@ -2,9 +2,9 @@
 
 const CANONICAL_BOOK_ORDER = [
     "gn", "ex", "lv", "nm", "dt", "js", "jz", "rt", "1sm", "2sm", "1rs", "2rs", "1cr", "2cr",
-    "ed", "ne", "et", "jó", "sl", "pv", "ec", "ct", "is", "jr", "lm", "ez", "dn", "os",
+    "ed", "ne", "et", "jo", "sl", "pv", "ec", "ct", "is", "jr", "lm", "ez", "dn", "os",
     "jl", "am", "ob", "mq", "na", "hc", "sf", "ag", "zc", "ml",
-    "mt", "mc", "lc", "jn", "atos", "rm", "1co", "2co", "gl", "ef", "fp", "cl", "1ts", "2ts",
+    "mt", "mc", "lc", "joao", "atos", "rm", "1co", "2co", "gl", "ef", "fp", "cl", "1ts", "2ts",
     "1tm", "2tm", "tt", "fm", "hb", "tg", "1pe", "2pe", "1jo", "2jo", "3jo", "jd", "ap"
 ];
 
