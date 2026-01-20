@@ -1,155 +1,273 @@
-/* biblia/css/style.css */
+/* Global Variables & Themes */
+:root {
+    /* Paper Theme (Light - Default) */
+    --bg-color: #fdfbf7;
+    --text-color: #2d2d2d;
+    --text-secondary: #5f6368;
+    --accent-color: #c27803; /* Gold/Ochre */
+    --accent-hover: #a06302;
+    --header-bg: rgba(253, 251, 247, 0.85); /* Glassmorphism */
+    --card-bg: #ffffff;
+    --border-color: #e5e7eb;
+    --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+    
+    /* Typography */
+    --font-ui: 'Inter', sans-serif;
+    --font-reading: 'Libre Baskerville', serif;
+}
 
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
+[data-theme="dark"] {
+    /* Midnight Theme */
+    --bg-color: #111827; /* Gray 900 */
+    --text-color: #e5e7eb; /* Gray 200 */
+    --text-secondary: #9ca3af;
+    --accent-color: #fbbf24; /* Amber 400 */
+    --accent-hover: #f59e0b;
+    --header-bg: rgba(17, 24, 39, 0.85);
+    --card-bg: #1f2937; /* Gray 800 */
+    --border-color: #374151;
+}
+
+/* Base Styles */
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
 }
 
+body {
+    font-family: var(--font-ui);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Header & Navigation */
 header {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem 0;
-    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: var(--header-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.75rem 0;
+    transition: background-color 0.3s ease;
 }
 
-header h1 {
-    margin: 0;
-}
-
-nav {
-    margin-top: 1rem;
+.header-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--accent-color);
+}
+
+.logo h1 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-color);
+}
+
+.logo i {
+    font-size: 1.5rem;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
     gap: 1rem;
     flex-wrap: wrap;
+}
+
+.select-group {
+    display: flex;
+    gap: 0.5rem;
+}
+
+select {
+    appearance: none;
+    background-color: transparent;
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    padding: 0.4rem 2rem 0.4rem 0.8rem;
+    border-radius: 6px;
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+    cursor: pointer;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23999' stroke-width='2'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'%3F%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.5rem center;
+    background-size: 1rem;
+    transition: border-color 0.2s;
+}
+
+select:hover {
+    border-color: var(--accent-color);
+}
+
+select:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 2px rgba(194, 120, 3, 0.1);
+}
+
+/* Buttons */
+.actions {
+    display: flex;
     align-items: center;
+    gap: 0.75rem;
+    border-left: 1px solid var(--border-color);
+    padding-left: 1rem;
 }
 
-nav label {
-    font-weight: bold;
-}
-
-nav select {
-    padding: 0.5rem;
-    border-radius: 4px;
-    border: 1px solid #ccc;
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-secondary);
     font-size: 1rem;
+    padding: 0.4rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button:hover {
+    color: var(--accent-color);
+    background-color: rgba(0,0,0,0.05);
+}
+
+[data-theme="dark"] button:hover {
+    background-color: rgba(255,255,255,0.1);
 }
 
 .font-controls {
     display: flex;
-    gap: 0.5rem;
-    align-items: center;
+    gap: 0.25rem;
 }
 
-.font-controls button {
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    cursor: pointer;
-    background-color: #555;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    transition: background-color 0.3s;
-}
-
-.font-controls button:hover {
-    background-color: #777;
-}
-
+/* Main Content */
 main {
-    padding: 20px;
     max-width: 800px;
-    margin: 20px auto;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    min-height: 80vh;
 }
 
 main h2 {
-    color: #0056b3;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 10px;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 10px;
-    margin-top: 0;
-}
-
-/* Responsiveness */
-@media (max-width: 600px) {
-    nav {
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-
-    nav select,
-    .font-controls button {
-        width: 100%;
-        max-width: 300px;
-    }
-
-    main {
-        padding: 15px;
-        margin: 10px auto;
-    }
+    font-family: var(--font-ui);
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: var(--accent-color);
+    font-weight: 500;
 }
 
 main p {
-    margin-bottom: 1em;
+    font-family: var(--font-reading);
+    font-size: 1.125rem; /* 18px base */
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    max-width: 65ch; /* Optimal line length */
+    margin-left: auto;
+    margin-right: auto;
 }
 
-/* Basic styling for markdown converted elements */
-main ul,
-main ol {
-    margin-left: 20px;
-    margin-bottom: 1em;
+main p strong {
+    font-family: var(--font-ui);
+    font-weight: 600;
+    color: var(--accent-color);
+    font-size: 0.85em;
+    margin-right: 0.4em;
+    vertical-align: 1px;
 }
 
-main blockquote {
-    border-left: 4px solid #ccc;
-    padding-left: 10px;
-    color: #666;
-    font-style: italic;
-    margin-bottom: 1em;
+/* Empty State */
+.empty-state {
+    text-align: center;
+    padding: 4rem 1rem;
+    color: var(--text-secondary);
 }
 
-main pre {
-    background-color: #eee;
-    padding: 10px;
-    border-radius: 4px;
-    overflow-x: auto;
-    margin-bottom: 1em;
+.empty-state i {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    opacity: 0.5;
 }
 
-main code {
-    font-family: 'Courier New', Courier, monospace;
-    background-color: #eee;
-    padding: 2px 4px;
-    border-radius: 3px;
+/* Animations */
+.fade-in {
+    animation: fadeIn 0.4s ease-out;
 }
 
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Back to Top Button */
 #btn-top {
-    display: none;
-    /* Hidden by default */
     position: fixed;
-    bottom: 20px;
-    right: 30px;
-    z-index: 99;
-    font-size: 18px;
+    bottom: 2rem;
+    right: 2rem;
+    background-color: var(--accent-color);
+    color: #fff;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    box-shadow: var(--shadow-md);
+    display: none; /* JS toggles this */
+    align-items: center;
+    justify-content: center;
     border: none;
-    outline: none;
-    background-color: #555;
-    color: white;
-    cursor: pointer;
-    padding: 15px;
-    border-radius: 4px;
-    transition: background-color 0.3s;
+    z-index: 90;
 }
 
 #btn-top:hover {
-    background-color: #333;
+    background-color: var(--accent-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .header-container {
+        justify-content: center;
+        padding: 0.5rem 1rem;
+    }
+    
+    .actions {
+        border-left: none;
+        padding-left: 0;
+    }
+    
+    .controls {
+        width: 100%;
+        justify-content: space-between;
+    }
+    
+    .select-group {
+        flex: 1;
+    }
+    
+    select {
+        flex: 1;
+        width: 100%;
+    }
 }

@@ -1,35 +1,60 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-theme="light">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bíblia</title>
+    <title>Bíblia Sagrada</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap"
+        rel="stylesheet">
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
     <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
     <header>
-        <h1>A Bíblia</h1>
-        <nav>
-            <label for="book-select">Livro:</label>
-            <select id="book-select"></select>
-
-            <label for="chapter-select">Capítulo:</label>
-            <select id="chapter-select"></select>
-
-            <div class="font-controls">
-                <button id="btn-increase" aria-label="Aumentar fonte">+</button>
-                <button id="btn-decrease" aria-label="Diminuir fonte">-</button>
+        <div class="header-container">
+            <div class="logo">
+                <i class="fa-solid fa-book-bible"></i>
+                <h1>Bíblia</h1>
             </div>
-        </nav>
+
+            <nav class="controls">
+                <div class="select-group">
+                    <select id="book-select" aria-label="Selecionar Livro"></select>
+                    <select id="chapter-select" aria-label="Selecionar Capítulo"></select>
+                </div>
+
+                <div class="actions">
+                    <div class="font-controls">
+                        <button id="btn-decrease" aria-label="Diminuir fonte"><i class="fa-solid fa-minus"></i></button>
+                        <button id="btn-increase" aria-label="Aumentar fonte"><i class="fa-solid fa-plus"></i></button>
+                    </div>
+
+                    <button id="theme-toggle" aria-label="Alternar Tema">
+                        <i class="fa-solid fa-moon"></i>
+                    </button>
+                </div>
+            </nav>
+        </div>
     </header>
 
-    <main id="content">
-        <p>Selecione um livro e um capítulo para começar.</p>
+    <main id="content" class="fade-in">
+        <div class="empty-state">
+            <i class="fa-solid fa-book-open"></i>
+            <p>Selecione um livro para iniciar a leitura.</p>
+        </div>
     </main>
 
-    <button id="btn-top" title="Voltar ao topo">↑</button>
+    <button id="btn-top" title="Voltar ao topo"><i class="fa-solid fa-arrow-up"></i></button>
 
     <script src="js/content/1co.js"></script>
     <script src="js/content/1cr.js"></script>

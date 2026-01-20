@@ -38,6 +38,35 @@ window.addEventListener('load', () => {
 
         contentDiv.style.fontSize = `${currentFontSize}px`;
 
+        const themeToggleBtn = document.getElementById('theme-toggle');
+
+        // Initialize Theme
+        const storedTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', storedTheme);
+        updateThemeIcon(storedTheme);
+
+        if (themeToggleBtn) {
+            themeToggleBtn.addEventListener('click', () => {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+
+                document.documentElement.setAttribute('data-theme', newTheme);
+                localStorage.setItem('theme', newTheme);
+                updateThemeIcon(newTheme);
+            });
+        }
+
+        function updateThemeIcon(theme) {
+            const icon = themeToggleBtn.querySelector('i');
+            if (icon) {
+                if (theme === 'dark') {
+                    icon.className = 'fa-solid fa-sun';
+                } else {
+                    icon.className = 'fa-solid fa-moon';
+                }
+            }
+        }
+
         if (btnIncrease && btnDecrease) {
             btnIncrease.addEventListener('click', () => {
                 currentFontSize += 2;
