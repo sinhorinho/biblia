@@ -56,6 +56,9 @@ export async function showBookView(bookCode, chapterNum = 1) {
     await populateChapterSelect(bookCode);
     chapterSelect.value = chapterNum;
     await displayChapter();
+
+    // Update URL hash
+    window.location.hash = `${bookCode}/${chapterNum}`;
 }
 
 export function showIndexView() {
@@ -110,12 +113,25 @@ export async function displayChapter() {
                         });
                         chapterText.innerHTML = chapterHtml;
         
-                        localStorage.setItem('lastReadBook', selectedBookCode);
-                        localStorage.setItem('lastReadChapter', selectedChapterNum);
-                    } else {            chapterText.innerHTML = '<p>Capítulo não encontrado.</p>';
-            localStorage.removeItem('lastReadBook');
-            localStorage.removeItem('lastReadChapter');
-        }
+                                localStorage.setItem('lastReadBook', selectedBookCode);
+        
+                                localStorage.setItem('lastReadChapter', selectedChapterNum);
+        
+                                
+        
+                                // Update URL hash to reflect the new chapter
+        
+                                window.location.hash = `${selectedBookCode}/${selectedChapterNum}`;
+        
+                            } else {
+        
+                                chapterText.innerHTML = '<p>Capítulo não encontrado.</p>';
+        
+                                localStorage.removeItem('lastReadBook');
+        
+                                localStorage.removeItem('lastReadChapter');
+        
+                            }
     }
 }
 

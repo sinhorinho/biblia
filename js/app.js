@@ -23,13 +23,18 @@ async function initialize() {
         ui.populateBookIndex(books, ui.showBookView);
         ui.populateBookSelect(books);
 
-        const lastReadBookCode = localStorage.getItem('lastReadBook');
-        const lastReadChapterNum = localStorage.getItem('lastReadChapter');
-
-        if (lastReadBookCode && lastReadChapterNum) {
-            await ui.showBookView(lastReadBookCode, parseInt(lastReadChapterNum, 10));
+        const hashLocation = parseHash();
+        if (hashLocation) {
+            await ui.showBookView(hashLocation.bookCode, hashLocation.chapterNum);
         } else {
-            ui.showIndexView();
+            const lastReadBookCode = localStorage.getItem('lastReadBook');
+            const lastReadChapterNum = localStorage.getItem('lastReadChapter');
+
+            if (lastReadBookCode && lastReadChapterNum) {
+                await ui.showBookView(lastReadBookCode, parseInt(lastReadChapterNum, 10));
+            } else {
+                ui.showIndexView();
+            }
         }
 
     } catch (error) {
@@ -50,6 +55,33 @@ function setupEventListeners() {
     logoDiv.addEventListener('click', ui.showIndexView);
     searchForm.addEventListener('submit', handleSearch);
     searchResultsContainer.addEventListener('click', handleSearchResultClick);
+
+    window.addEventListener('hashchange', handleHashChange);
+}
+
+async function handleHashChange() {
+    const hashLocation = parseHash();
+    if (hashLocation) {
+        await ui.showBookView(hashLocation.bookCode, hashLocation.chapterNum);
+    } else {
+        // Optionally, if hash is cleared, revert to initial state or default view
+        ui.showIndexView();
+    }
+}
+
+function parseHash() {
+    const hash = window.location.hash.substring(1); // Remove the '#'
+    if (hash) {
+        const parts = hash.split('/');
+        if (parts.length === 2) {
+            const bookCode = parts[0];
+            const chapterNum = parseInt(parts[1], 10);
+            if (bookCode && !isNaN(chapterNum) && chapterNum > 0) {
+                return { bookCode, chapterNum };
+            }
+        }
+    }
+    return null;
 }
 
 async function handleBookChange() {
