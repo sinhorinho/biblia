@@ -45,6 +45,7 @@ export async function searchBible(searchText) {
                 chapter.forEach((verse, verseIndex) => {
                     if (verse.toLowerCase().includes(searchText.toLowerCase())) {
                         searchResults.push({
+                            bookCode: book.code,
                             bookName: book.name,
                             chapter: chapterIndex + 1,
                             verse: verseIndex + 1,

@@ -347,6 +347,18 @@ main p strong {
     padding-top: 1rem;
 }
 
+.search-result-item-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.highlight {
+    background-color: rgba(251, 191, 36, 0.3); /* Amber 400 with opacity */
+    transition: background-color 0.5s;
+}
+
+
 /* Search */
 .search-form {
     display: flex;

@@ -103,17 +103,16 @@ export async function displayChapter() {
         const chapterVerses = bookData.chapters[selectedChapterNum - 1];
         const bookName = allBooks.find(b => b.code === selectedBookCode)?.name || selectedBookCode;
 
-        if (chapterVerses) {
-            let chapterHtml = `<h2>${bookName} - Capítulo ${selectedChapterNum}</h2>`;
-            chapterVerses.forEach((verseText, index) => {
-                chapterHtml += `<p><strong>${index + 1}</strong> ${verseText}</p>`;
-            });
-            chapterText.innerHTML = chapterHtml;
-
-            localStorage.setItem('lastReadBook', selectedBookCode);
-            localStorage.setItem('lastReadChapter', selectedChapterNum);
-        } else {
-            chapterText.innerHTML = '<p>Capítulo não encontrado.</p>';
+                    if (chapterVerses) {
+                        let chapterHtml = `<h2>${bookName} - Capítulo ${selectedChapterNum}</h2>`;
+                        chapterVerses.forEach((verseText, index) => {
+                            chapterHtml += `<p data-verse="${index + 1}"><strong>${index + 1}</strong> ${verseText}</p>`;
+                        });
+                        chapterText.innerHTML = chapterHtml;
+        
+                        localStorage.setItem('lastReadBook', selectedBookCode);
+                        localStorage.setItem('lastReadChapter', selectedChapterNum);
+                    } else {            chapterText.innerHTML = '<p>Capítulo não encontrado.</p>';
             localStorage.removeItem('lastReadBook');
             localStorage.removeItem('lastReadChapter');
         }
@@ -202,10 +201,12 @@ export function displaySearchResults(results, searchText) {
             const highlightedText = result.text.replace(regex, '<mark>$1</mark>');
 
             html += `
-                <div class="search-result-item">
-                    <div class="meta">${result.bookName} ${result.chapter}:${result.verse}</div>
-                    <p>${highlightedText}</p>
-                </div>
+                <a href="#" class="search-result-item-link" data-book-code="${result.bookCode}" data-chapter="${result.chapter}" data-verse="${result.verse}">
+                    <div class="search-result-item">
+                        <div class="meta">${result.bookName} ${result.chapter}:${result.verse}</div>
+                        <p>${highlightedText}</p>
+                    </div>
+                </a>
             `;
         });
     }

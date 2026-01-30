@@ -43,11 +43,13 @@ function setupEventListeners() {
     const chapterSelect = document.getElementById('chapter-select');
     const logoDiv = document.querySelector('.logo');
     const searchForm = document.getElementById('search-form');
+    const searchResultsContainer = document.getElementById('search-results');
 
     bookSelect.addEventListener('change', handleBookChange);
     chapterSelect.addEventListener('change', ui.displayChapter);
     logoDiv.addEventListener('click', ui.showIndexView);
     searchForm.addEventListener('submit', handleSearch);
+    searchResultsContainer.addEventListener('click', handleSearchResultClick);
 }
 
 async function handleBookChange() {
@@ -70,4 +72,31 @@ async function handleSearch(event) {
 
     const results = await api.searchBible(searchText);
     ui.displaySearchResults(results, searchText);
+}
+
+async function handleSearchResultClick(event) {
+    event.preventDefault();
+    const link = event.target.closest('.search-result-item-link');
+    if (!link) {
+        return;
+    }
+
+    const bookCode = link.dataset.bookCode;
+    const chapter = parseInt(link.dataset.chapter, 10);
+    const verse = parseInt(link.dataset.verse, 10);
+
+    if (bookCode && chapter) {
+        await ui.showBookView(bookCode, chapter);
+
+        // Scroll to verse after a short delay to allow for rendering
+        setTimeout(() => {
+            const verseElement = document.querySelector(`#chapter-text p[data-verse="${verse}"]`);
+            if (verseElement) {
+                verseElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                // Optional: add a highlight class
+                verseElement.classList.add('highlight');
+                setTimeout(() => verseElement.classList.remove('highlight'), 2000);
+            }
+        }, 100);
+    }
 }
