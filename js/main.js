@@ -1,12 +1,16 @@
 // biblia/js/main.js
 
 window.addEventListener('load', () => {
+    const bookIndex = document.getElementById('book-index');
+    const bookContent = document.getElementById('book-content');
+    const chapterText = document.getElementById('chapter-text');
+    
     const bookSelect = document.getElementById('book-select');
     const chapterSelect = document.getElementById('chapter-select');
-    const contentDiv = document.getElementById('content');
+    const logoDiv = document.querySelector('.logo');
 
-    // Cache to store loaded book data
     const bibleDataCache = {};
+    let allBooks = [];
 
     async function initialize() {
         setupEventListeners();
@@ -19,23 +23,69 @@ window.addEventListener('load', () => {
             if (!response.ok) {
                 throw new Error('Failed to load books index.');
             }
-            const books = await response.json();
+            allBooks = await response.json();
             
-            populateBookSelect(books);
-
-            if (bookSelect.options.length > 0) {
-                await handleBookChange();
-            }
+            populateBookIndex(allBooks);
+            populateBookSelect(allBooks); 
+            showIndexView();
 
         } catch (error) {
             console.error("Initialization Error:", error);
-            contentDiv.innerHTML = '<p>Erro: Não foi possível carregar os dados da Bíblia. Verifique sua conexão ou tente novamente mais tarde.</p>';
+            bookIndex.innerHTML = '<p>Erro: Não foi possível carregar os dados da Bíblia. Verifique sua conexão ou tente novamente mais tarde.</p>';
         }
     }
-    
+
     function setupEventListeners() {
         bookSelect.addEventListener('change', handleBookChange);
         chapterSelect.addEventListener('change', displayChapter);
+        logoDiv.addEventListener('click', showIndexView);
+    }
+    
+    function populateBookIndex(books) {
+        const oldTestamentBooks = [];
+        const newTestamentBooks = [];
+        const oldTestamentCodes = ["gn", "ex", "lv", "nm", "dt", "js", "jz", "rt", "1sm", "2sm", "1rs", "2rs", "1cr", "2cr", "ed", "ne", "et", "jo", "sl", "pv", "ec", "ct", "is", "jr", "lm", "ez", "dn", "os", "jl", "am", "ob", "mq", "na", "hc", "sf", "ag", "zc", "ml"];
+
+        books.forEach(book => {
+            if (oldTestamentCodes.includes(book.code)) {
+                oldTestamentBooks.push(book);
+            } else {
+                newTestamentBooks.push(book);
+            }
+        });
+
+        const createBookList = (title, bookList) => {
+            let html = `<h2>${title}</h2><div class="book-grid">`;
+            bookList.forEach(book => {
+                html += `<a href="#" class="book-link" data-book-code="${book.code}">${book.name}</a>`;
+            });
+            html += `</div>`;
+            return html;
+        };
+
+        bookIndex.innerHTML = createBookList('Antigo Testamento', oldTestamentBooks);
+        bookIndex.innerHTML += createBookList('Novo Testamento', newTestamentBooks);
+        
+        document.querySelectorAll('.book-link').forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const bookCode = e.target.getAttribute('data-book-code');
+                showBookView(bookCode);
+            });
+        });
+    }
+
+    async function showBookView(bookCode) {
+        bookIndex.style.display = 'none';
+        bookContent.style.display = 'block';
+
+        bookSelect.value = bookCode;
+        await handleBookChange();
+    }
+
+    function showIndexView() {
+        bookContent.style.display = 'none';
+        bookIndex.style.display = 'block';
     }
 
     async function handleBookChange() {
@@ -59,7 +109,7 @@ window.addEventListener('load', () => {
             return bookData;
         } catch (error) {
             console.error("Error fetching book data:", error);
-            contentDiv.innerHTML = `<p>Erro ao carregar o livro ${bookCode}.</p>`;
+            chapterText.innerHTML = `<p>Erro ao carregar o livro ${bookCode}.</p>`;
             return null;
         }
     }
@@ -93,7 +143,7 @@ window.addEventListener('load', () => {
         const selectedChapterNum = parseInt(chapterSelect.value, 10);
 
         if (!selectedBookCode || isNaN(selectedChapterNum)) {
-            contentDiv.innerHTML = '<div class="empty-state"><i class="fa-solid fa-book-open"></i><p>Selecione um livro para iniciar a leitura.</p></div>';
+            chapterText.innerHTML = '<div class="empty-state"><i class="fa-solid fa-book-open"></i><p>Selecione um capítulo para ler.</p></div>';
             return;
         }
 
@@ -101,20 +151,19 @@ window.addEventListener('load', () => {
 
         if (bookData) {
             const chapterVerses = bookData.chapters[selectedChapterNum - 1];
+            const bookName = allBooks.find(b => b.code === selectedBookCode)?.name || selectedBookCode;
 
             if (chapterVerses) {
-                let chapterHtml = `<h2>${bookData.name} - Capítulo ${selectedChapterNum}</h2>`;
+                let chapterHtml = `<h2>${bookName} - Capítulo ${selectedChapterNum}</h2>`;
                 chapterVerses.forEach((verseText, index) => {
                     chapterHtml += `<p><strong>${index + 1}</strong> ${verseText}</p>`;
                 });
-                contentDiv.innerHTML = chapterHtml;
+                chapterText.innerHTML = chapterHtml;
             } else {
-                contentDiv.innerHTML = '<p>Capítulo não encontrado.</p>';
+                chapterText.innerHTML = '<p>Capítulo não encontrado.</p>';
             }
         }
     }
-
-    // --- UI Helper Functions ---
 
     function setupTheme() {
         const themeToggleBtn = document.getElementById('theme-toggle');
@@ -146,18 +195,18 @@ window.addEventListener('load', () => {
         const btnDecrease = document.getElementById('btn-decrease');
         let currentFontSize = 18;
 
-        contentDiv.style.fontSize = `${currentFontSize}px`;
+        chapterText.style.fontSize = `${currentFontSize}px`;
 
         if (btnIncrease && btnDecrease) {
             btnIncrease.addEventListener('click', () => {
                 currentFontSize += 2;
-                contentDiv.style.fontSize = `${currentFontSize}px`;
+                chapterText.style.fontSize = `${currentFontSize}px`;
             });
 
             btnDecrease.addEventListener('click', () => {
                 if (currentFontSize > 10) {
                     currentFontSize -= 2;
-                    contentDiv.style.fontSize = `${currentFontSize}px`;
+                    chapterText.style.fontSize = `${currentFontSize}px`;
                 }
             });
         }

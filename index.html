@@ -47,10 +47,21 @@
         </div>
     </header>
 
-    <main id="content" class="fade-in">
-        <div class="empty-state">
-            <i class="fa-solid fa-book-open"></i>
-            <p>Selecione um livro para iniciar a leitura.</p>
+    <main class="fade-in">
+        <div id="book-index">
+            <!-- Book lists will be populated by JavaScript -->
+        </div>
+
+        <div id="book-content" style="display: none;">
+            <div class="reader-header">
+                <div class="select-group">
+                    <select id="book-select" aria-label="Selecionar Livro"></select>
+                    <select id="chapter-select" aria-label="Selecionar Capítulo"></select>
+                </div>
+            </div>
+            <div id="chapter-text">
+                <!-- Chapter content will be populated by JavaScript -->
+            </div>
         </div>
     </main>
 
