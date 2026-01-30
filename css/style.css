@@ -318,6 +318,7 @@ main p strong {
     text-align: center;
     transition: all 0.2s ease;
     box-shadow: var(--shadow-sm);
+    cursor: pointer;
 }
 
 .book-link:hover {
