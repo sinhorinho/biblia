@@ -27,7 +27,15 @@ window.addEventListener('load', () => {
             
             populateBookIndex(allBooks);
             populateBookSelect(allBooks); 
-            showIndexView();
+
+            const lastReadBookCode = localStorage.getItem('lastReadBook');
+            const lastReadChapterNum = localStorage.getItem('lastReadChapter');
+
+            if (lastReadBookCode && lastReadChapterNum) {
+                await showBookView(lastReadBookCode, parseInt(lastReadChapterNum, 10));
+            } else {
+                showIndexView();
+            }
 
         } catch (error) {
             console.error("Initialization Error:", error);
@@ -70,18 +78,19 @@ window.addEventListener('load', () => {
             link.addEventListener('click', (e) => {
                 e.preventDefault();
                 const bookCode = e.target.getAttribute('data-book-code');
-                showBookView(bookCode);
+                showBookView(bookCode, 1); // Default to chapter 1 when clicking from index
             });
         });
     }
 
-    async function showBookView(bookCode) {
+    async function showBookView(bookCode, chapterNum = 1) {
         bookIndex.style.display = 'none';
         bookContent.style.display = 'block';
 
         bookSelect.value = bookCode;
-        await handleBookChange();
-    }
+        await populateChapterSelect(bookCode); // Populate chapters first
+        chapterSelect.value = chapterNum; // Then set the specific chapter
+        await displayChapter();
 
     function showIndexView() {
         bookContent.style.display = 'none';
@@ -159,8 +168,14 @@ window.addEventListener('load', () => {
                     chapterHtml += `<p><strong>${index + 1}</strong> ${verseText}</p>`;
                 });
                 chapterText.innerHTML = chapterHtml;
+
+                // Save last read location
+                localStorage.setItem('lastReadBook', selectedBookCode);
+                localStorage.setItem('lastReadChapter', selectedChapterNum);
             } else {
                 chapterText.innerHTML = '<p>Capítulo não encontrado.</p>';
+                localStorage.removeItem('lastReadBook');
+                localStorage.removeItem('lastReadChapter');
             }
         }
     }
