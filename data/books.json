@@ -1,0 +1,131 @@
+[
+  {"code": "gn", "name": "Gênesis"}
+,
+  {"code": "ex", "name": "Êxodo"}
+,
+  {"code": "lv", "name": "Levítico"}
+,
+  {"code": "nm", "name": "Números"}
+,
+  {"code": "dt", "name": "Deuteronômio"}
+,
+  {"code": "js", "name": "Josué"}
+,
+  {"code": "jz", "name": "Juízes"}
+,
+  {"code": "rt", "name": "Rute"}
+,
+  {"code": "1sm", "name": "1 Samuel"}
+,
+  {"code": "2sm", "name": "2 Samuel"}
+,
+  {"code": "1rs", "name": "1 Reis"}
+,
+  {"code": "2rs", "name": "2 Reis"}
+,
+  {"code": "1cr", "name": "1 Crônicas"}
+,
+  {"code": "2cr", "name": "2 Crônicas"}
+,
+  {"code": "ed", "name": "Esdras"}
+,
+  {"code": "ne", "name": "Neemias"}
+,
+  {"code": "et", "name": "Ester"}
+,
+  {"code": "jo", "name": "Jó"}
+,
+  {"code": "sl", "name": "Salmos"}
+,
+  {"code": "pv", "name": "Provérbios"}
+,
+  {"code": "ec", "name": "Eclesiastes"}
+,
+  {"code": "ct", "name": "Cânticos"}
+,
+  {"code": "is", "name": "Isaías"}
+,
+  {"code": "jr", "name": "Jeremias"}
+,
+  {"code": "lm", "name": "Lamentações"}
+,
+  {"code": "ez", "name": "Ezequiel"}
+,
+  {"code": "dn", "name": "Daniel"}
+,
+  {"code": "os", "name": "Oséias"}
+,
+  {"code": "jl", "name": "Joel"}
+,
+  {"code": "am", "name": "Amós"}
+,
+  {"code": "ob", "name": "Obadias"}
+,
+  {"code": "mq", "name": "Miquéias"}
+,
+  {"code": "na", "name": "Naum"}
+,
+  {"code": "hc", "name": "Habacuque"}
+,
+  {"code": "sf", "name": "Sofonias"}
+,
+  {"code": "ag", "name": "Ageu"}
+,
+  {"code": "zc", "name": "Zacarias"}
+,
+  {"code": "ml", "name": "Malaquias"}
+,
+  {"code": "mt", "name": "Mateus"}
+,
+  {"code": "mc", "name": "Marcos"}
+,
+  {"code": "lc", "name": "Lucas"}
+,
+  {"code": "joao", "name": "João"}
+,
+  {"code": "atos", "name": "Atos"}
+,
+  {"code": "rm", "name": "Romanos"}
+,
+  {"code": "1co", "name": "1 Coríntios"}
+,
+  {"code": "2co", "name": "2 Coríntios"}
+,
+  {"code": "gl", "name": "Gálatas"}
+,
+  {"code": "ef", "name": "Efésios"}
+,
+  {"code": "fp", "name": "Filipenses"}
+,
+  {"code": "cl", "name": "Colossenses"}
+,
+  {"code": "1ts", "name": "1 Tessalonicenses"}
+,
+  {"code": "2ts", "name": "2 Tessalonicenses"}
+,
+  {"code": "1tm", "name": "1 Timóteo"}
+,
+  {"code": "2tm", "name": "2 Timóteo"}
+,
+  {"code": "tt", "name": "Tito"}
+,
+  {"code": "fm", "name": "Filemom"}
+,
+  {"code": "hb", "name": "Hebreus"}
+,
+  {"code": "tg", "name": "Tiago"}
+,
+  {"code": "1pe", "name": "1 Pedro"}
+,
+  {"code": "2pe", "name": "2 Pedro"}
+,
+  {"code": "1jo", "name": "1 João"}
+,
+  {"code": "2jo", "name": "2 João"}
+,
+  {"code": "3jo", "name": "3 João"}
+,
+  {"code": "jd", "name": "Judas"}
+,
+  {"code": "ap", "name": "Apocalipse"}
+]
