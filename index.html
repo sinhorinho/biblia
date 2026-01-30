@@ -28,10 +28,10 @@
             </div>
 
             <nav class="controls">
-                <div class="select-group">
-                    <select id="book-select" aria-label="Selecionar Livro"></select>
-                    <select id="chapter-select" aria-label="Selecionar Capítulo"></select>
-                </div>
+                <form id="search-form" class="search-form">
+                    <input type="search" id="search-input" placeholder="Buscar na Bíblia..." aria-label="Buscar na Bíblia">
+                    <button type="submit" aria-label="Buscar"><i class="fa-solid fa-search"></i></button>
+                </form>
 
                 <div class="actions">
                     <div class="font-controls">
@@ -62,6 +62,10 @@
             <div id="chapter-text">
                 <!-- Chapter content will be populated by JavaScript -->
             </div>
+        </div>
+
+        <div id="search-results" style="display: none;">
+            <!-- Search results will be populated by JavaScript -->
         </div>
     </main>
 
