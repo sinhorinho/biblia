@@ -91,6 +91,7 @@ window.addEventListener('load', () => {
         await populateChapterSelect(bookCode); // Populate chapters first
         chapterSelect.value = chapterNum; // Then set the specific chapter
         await displayChapter();
+    }
 
     function showIndexView() {
         bookContent.style.display = 'none';
