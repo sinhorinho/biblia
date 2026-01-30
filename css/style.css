@@ -79,6 +79,7 @@ header {
     align-items: center;
     gap: 0.5rem;
     color: var(--accent-color);
+    cursor: pointer;
 }
 
 .logo h1 {
