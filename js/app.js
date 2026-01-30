@@ -3,6 +3,8 @@
 import * as api from './api.js';
 import * as ui from './ui.js';
 
+const searchInput = document.getElementById('search-input');
+
 document.addEventListener('DOMContentLoaded', initialize);
 
 async function initialize() {
@@ -41,7 +43,6 @@ function setupEventListeners() {
     const chapterSelect = document.getElementById('chapter-select');
     const logoDiv = document.querySelector('.logo');
     const searchForm = document.getElementById('search-form');
-    const searchInput = document.getElementById('search-input');
 
     bookSelect.addEventListener('change', handleBookChange);
     chapterSelect.addEventListener('change', ui.displayChapter);
