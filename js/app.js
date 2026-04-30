@@ -55,6 +55,7 @@ function setupEventListeners() {
     logoDiv.addEventListener('click', ui.showIndexView);
     searchForm.addEventListener('submit', handleSearch);
     searchResultsContainer.addEventListener('click', handleSearchResultClick);
+    ui.setupSearch((text) => performSearch(text));
 
     window.addEventListener('hashchange', handleHashChange);
 }
@@ -94,10 +95,10 @@ async function handleBookChange() {
 async function handleSearch(event) {
     event.preventDefault();
     const searchText = searchInput.value.trim();
-    if (!searchText) {
-        return;
-    }
+    if (searchText) await performSearch(searchText);
+}
 
+async function performSearch(searchText) {
     ui.showSearchResultsView();
     const resultsContainer = document.getElementById('search-results');
     resultsContainer.innerHTML = '<h2>Buscando...</h2>';
@@ -120,15 +121,13 @@ async function handleSearchResultClick(event) {
     if (bookCode && chapter) {
         await ui.showBookView(bookCode, chapter);
 
-        // Scroll to verse after a short delay to allow for rendering
-        setTimeout(() => {
+        requestAnimationFrame(() => {
             const verseElement = document.querySelector(`#chapter-text p[data-verse="${verse}"]`);
             if (verseElement) {
                 verseElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                // Optional: add a highlight class
                 verseElement.classList.add('highlight');
                 setTimeout(() => verseElement.classList.remove('highlight'), 2000);
             }
-        }, 100);
+        });
     }
 }

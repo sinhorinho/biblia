@@ -35,27 +35,29 @@ export async function getBookData(bookCode) {
 }
 
 export async function searchBible(searchText) {
-    const searchResults = [];
     const books = await getBooks();
+    const needle = searchText.toLowerCase();
 
-    for (const book of books) {
-        const bookData = await getBookData(book.code);
-        if (bookData && bookData.chapters) {
-            bookData.chapters.forEach((chapter, chapterIndex) => {
-                chapter.forEach((verse, verseIndex) => {
-                    if (verse.toLowerCase().includes(searchText.toLowerCase())) {
-                        searchResults.push({
-                            bookCode: book.code,
-                            bookName: book.name,
-                            chapter: chapterIndex + 1,
-                            verse: verseIndex + 1,
-                            text: verse
-                        });
-                    }
-                });
+    const allBookData = await Promise.all(books.map(book => getBookData(book.code)));
+
+    const searchResults = [];
+    books.forEach((book, bookIndex) => {
+        const bookData = allBookData[bookIndex];
+        if (!bookData?.chapters) return;
+        bookData.chapters.forEach((chapter, chapterIndex) => {
+            chapter.forEach((verse, verseIndex) => {
+                if (verse.toLowerCase().includes(needle)) {
+                    searchResults.push({
+                        bookCode: book.code,
+                        bookName: book.name,
+                        chapter: chapterIndex + 1,
+                        verse: verseIndex + 1,
+                        text: verse
+                    });
+                }
             });
-        }
-    }
+        });
+    });
 
     return searchResults;
 }
