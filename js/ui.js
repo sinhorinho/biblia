@@ -163,7 +163,7 @@ function updateThemeIcon(theme) {
 export function setupFontControls() {
     const btnIncrease = document.getElementById('btn-increase');
     const btnDecrease = document.getElementById('btn-decrease');
-    let currentFontSize = 18;
+    let currentFontSize = parseInt(localStorage.getItem('fontSize'), 10) || 18;
 
     chapterText.style.fontSize = `${currentFontSize}px`;
 
@@ -171,12 +171,14 @@ export function setupFontControls() {
         btnIncrease.addEventListener('click', () => {
             currentFontSize += 2;
             chapterText.style.fontSize = `${currentFontSize}px`;
+            localStorage.setItem('fontSize', currentFontSize);
         });
 
         btnDecrease.addEventListener('click', () => {
             if (currentFontSize > 10) {
                 currentFontSize -= 2;
                 chapterText.style.fontSize = `${currentFontSize}px`;
+                localStorage.setItem('fontSize', currentFontSize);
             }
         });
     }
@@ -185,18 +187,57 @@ export function setupFontControls() {
 export function setupScrollToTop() {
     const btnTop = document.getElementById('btn-top');
     if (btnTop) {
-        window.onscroll = () => {
-            if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
-                btnTop.style.display = "block";
-            } else {
-                btnTop.style.display = "none";
-            }
-        };
+        window.addEventListener('scroll', () => {
+            const scrolled = document.body.scrollTop > 200 || document.documentElement.scrollTop > 200;
+            btnTop.style.display = scrolled ? "block" : "none";
+        }, { passive: true });
         btnTop.addEventListener('click', () => {
             document.body.scrollTop = 0;
             document.documentElement.scrollTop = 0;
         });
     }
+}
+
+export function setupSearch(onSearch) {
+    const searchForm = document.getElementById('search-form');
+    const searchInput = document.getElementById('search-input');
+    const searchToggle = document.getElementById('search-toggle');
+
+    function openSearch() {
+        searchForm.classList.add('is-open');
+        requestAnimationFrame(() => searchInput.focus());
+        searchToggle.setAttribute('aria-label', 'Fechar busca');
+        searchToggle.querySelector('i').className = 'fa-solid fa-xmark';
+    }
+
+    function closeSearch() {
+        searchForm.classList.remove('is-open');
+        searchInput.value = '';
+        searchInput.blur();
+        searchToggle.setAttribute('aria-label', 'Abrir busca');
+        searchToggle.querySelector('i').className = 'fa-solid fa-magnifying-glass';
+    }
+
+    searchToggle.addEventListener('click', () => {
+        searchForm.classList.contains('is-open') ? closeSearch() : openSearch();
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') { closeSearch(); return; }
+        if (e.key === 'Enter') {
+            e.preventDefault();
+            const text = searchInput.value.trim();
+            if (text) onSearch(text);
+        }
+    });
+
+    document.addEventListener('keydown', (e) => {
+        const tag = document.activeElement.tagName;
+        if (e.key === '/' && tag !== 'INPUT' && tag !== 'TEXTAREA' && tag !== 'SELECT') {
+            e.preventDefault();
+            openSearch();
+        }
+    });
 }
 
 export function showSearchResultsView() {
