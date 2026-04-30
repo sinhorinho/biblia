@@ -61,10 +61,13 @@ export async function showBookView(bookCode, chapterNum = 1) {
     window.location.hash = `${bookCode}/${chapterNum}`;
 }
 
+const readingTitle = document.getElementById('reading-title');
+
 export function showIndexView() {
     bookContent.style.display = 'none';
     document.getElementById('search-results').style.display = 'none';
     bookIndex.style.display = 'block';
+    readingTitle.textContent = '';
 }
 
 export function populateBookSelect(books) {
@@ -112,26 +115,16 @@ export async function displayChapter() {
                             chapterHtml += `<p data-verse="${index + 1}"><strong>${index + 1}</strong> ${verseText}</p>`;
                         });
                         chapterText.innerHTML = chapterHtml;
-        
-                                localStorage.setItem('lastReadBook', selectedBookCode);
-        
-                                localStorage.setItem('lastReadChapter', selectedChapterNum);
-        
-                                
-        
-                                // Update URL hash to reflect the new chapter
-        
-                                window.location.hash = `${selectedBookCode}/${selectedChapterNum}`;
-        
-                            } else {
-        
-                                chapterText.innerHTML = '<p>Capítulo não encontrado.</p>';
-        
-                                localStorage.removeItem('lastReadBook');
-        
-                                localStorage.removeItem('lastReadChapter');
-        
-                            }
+                        readingTitle.textContent = `${bookName} · ${selectedChapterNum}`;
+                        localStorage.setItem('lastReadBook', selectedBookCode);
+                        localStorage.setItem('lastReadChapter', selectedChapterNum);
+                        window.location.hash = `${selectedBookCode}/${selectedChapterNum}`;
+                    } else {
+                        chapterText.innerHTML = '<p>Capítulo não encontrado.</p>';
+                        readingTitle.textContent = '';
+                        localStorage.removeItem('lastReadBook');
+                        localStorage.removeItem('lastReadChapter');
+                    }
     }
 }
 
@@ -186,10 +179,12 @@ export function setupFontControls() {
 
 export function setupScrollToTop() {
     const btnTop = document.getElementById('btn-top');
+    const header = document.querySelector('header');
     if (btnTop) {
         window.addEventListener('scroll', () => {
-            const scrolled = document.body.scrollTop > 200 || document.documentElement.scrollTop > 200;
-            btnTop.style.display = scrolled ? "block" : "none";
+            const scrollY = document.documentElement.scrollTop || document.body.scrollTop;
+            btnTop.style.display = scrollY > 200 ? "block" : "none";
+            header.classList.toggle('scrolled', scrollY > 50);
         }, { passive: true });
         btnTop.addEventListener('click', () => {
             document.body.scrollTop = 0;
@@ -244,6 +239,7 @@ export function showSearchResultsView() {
     bookIndex.style.display = 'none';
     bookContent.style.display = 'none';
     document.getElementById('search-results').style.display = 'block';
+    readingTitle.textContent = '';
 }
 
 export function displaySearchResults(results, searchText) {
