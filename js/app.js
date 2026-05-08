@@ -8,6 +8,16 @@ const searchInput = document.getElementById('search-input');
 document.addEventListener('DOMContentLoaded', initialize);
 
 async function initialize() {
+    // Registrar o Service Worker
+    if ('serviceWorker' in navigator) {
+        try {
+            const registration = await navigator.serviceWorker.register('/sw.js');
+            console.log('Service Worker registrado com sucesso:', registration);
+        } catch (err) {
+            console.error('Falha ao registrar o Service Worker:', err);
+        }
+    }
+
     setupEventListeners();
     ui.setupTheme();
     ui.setupFontControls();
