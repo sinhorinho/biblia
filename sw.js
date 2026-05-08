@@ -38,26 +38,46 @@ self.addEventListener('activate', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
-    event.respondWith(
-        caches.match(event.request)
-            .then((response) => {
-                // Cache-First para o App Shell
-                if (response && APP_SHELL_URLS.includes(event.request.url.replace(self.location.origin, ''))) {
-                    return response;
-                }
+    const { request } = event;
+    const url = new URL(request.url);
 
-                // Stale-While-Revalidate para o restante
-                return fetch(event.request)
-                    .then((networkResponse) => {
-                        if (networkResponse && networkResponse.status === 200) {
-                            const clonedResponse = networkResponse.clone();
-                            caches.open(CACHE_NAME).then((cache) => {
-                                cache.put(event.request, clonedResponse);
-                            });
-                        }
+    // Estratégia Stale-While-Revalidate para os dados da Bíblia (JSONs)
+    if (url.pathname.startsWith('/data/')) {
+        event.respondWith(
+            caches.open(CACHE_NAME).then((cache) => {
+                return cache.match(request).then((cachedResponse) => {
+                    const fetchPromise = fetch(request).then((networkResponse) => {
+                        cache.put(request, networkResponse.clone());
                         return networkResponse;
-                    })
-                    .catch(() => caches.match(event.request)); // Fallback to cache if network fails
+                    });
+
+                    // Retorna o cache se disponível, senão espera a rede
+                    return cachedResponse || fetchPromise;
+                });
             })
+        );
+        return; // Encerra aqui para esta estratégia
+    }
+
+    // Estratégia Cache-First para todos os outros assets (App Shell, fontes, etc.)
+    event.respondWith(
+        caches.match(request).then((cachedResponse) => {
+            return cachedResponse || fetch(request).then((networkResponse) => {
+                // Opcional: Cachear assets não encontrados no App Shell inicial
+                if (networkResponse && networkResponse.status === 200) {
+                    const clonedResponse = networkResponse.clone();
+                    caches.open(CACHE_NAME).then((cache) => {
+                        cache.put(request, clonedResponse);
+                    });
+                }
+                return networkResponse;
+            });
+        })
     );
+});
+
+self.addEventListener('message', (event) => {
+    if (event.data && event.data.action === 'skipWaiting') {
+        self.skipWaiting();
+    }
 });

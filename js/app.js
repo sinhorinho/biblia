@@ -8,17 +8,8 @@ const searchInput = document.getElementById('search-input');
 document.addEventListener('DOMContentLoaded', initialize);
 
 async function initialize() {
-    // Registrar o Service Worker
-    if ('serviceWorker' in navigator) {
-        try {
-            const registration = await navigator.serviceWorker.register('/sw.js');
-            console.log('Service Worker registrado com sucesso:', registration);
-        } catch (err) {
-            console.error('Falha ao registrar o Service Worker:', err);
-        }
-    }
-
     setupEventListeners();
+    registerServiceWorker(); // Movido para uma função dedicada
     ui.setupTheme();
     ui.setupFontControls();
     ui.setupScrollToTop();
@@ -141,3 +132,51 @@ async function handleSearchResultClick(event) {
         });
     }
 }
+
+async function registerServiceWorker() {
+    if ('serviceWorker' in navigator) {
+        try {
+            const registration = await navigator.serviceWorker.register('/sw.js');
+            console.log('Service Worker registrado com sucesso:', registration);
+
+            // Listener para detectar quando um novo SW está pronto
+            registration.addEventListener('updatefound', () => {
+                const newWorker = registration.installing;
+                newWorker.addEventListener('statechange', () => {
+                    if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                        // Novo SW está esperando para ativar. Mostra a notificação.
+                        showUpdateNotification(registration);
+                    }
+                });
+            });
+        } catch (err) {
+            console.error('Falha ao registrar o Service Worker:', err);
+        }
+    }
+}
+
+function showUpdateNotification(registration) {
+    const notification = document.createElement('div');
+    notification.id = 'sw-update-notification';
+    notification.innerHTML = `
+        <span>Uma nova versão está disponível.</span>
+        <button id="sw-update-button">Atualizar</button>
+    `;
+    document.body.appendChild(notification);
+
+    document.getElementById('sw-update-button').addEventListener('click', () => {
+        // Envia mensagem para o SW em espera para que ele ative
+        if (registration.waiting) {
+            registration.waiting.postMessage({ action: 'skipWaiting' });
+        }
+    });
+}
+
+// Listener para recarregar a página quando o novo SW assumir o controle
+let refreshing;
+navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (refreshing) return;
+    window.location.reload();
+    refreshing = true;
+});
+
