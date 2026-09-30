@@ -1,7 +1,8 @@
 {
   "name": "Bíblia PWA",
   "short_name": "Bíblia",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#333333",

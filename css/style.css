@@ -470,3 +470,42 @@ main p strong {
 [data-theme="dark"] .search-result-item mark {
     color: #111827;
 }
+
+#sw-update-notification {
+    position: fixed;
+    left: 50%;
+    bottom: 1.25rem;
+    transform: translateX(-50%);
+    z-index: 200;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    max-width: calc(100% - 2rem);
+    padding: 0.75rem 1rem;
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    border-radius: 0.75rem;
+    box-shadow: var(--shadow-md);
+    font-size: 0.9rem;
+}
+
+#sw-update-notification button {
+    flex-shrink: 0;
+    background-color: var(--accent-color);
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.4rem 0.85rem;
+    font-family: var(--font-ui);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#sw-update-notification button:hover {
+    background-color: var(--accent-hover);
+}
+
+[data-theme="dark"] #sw-update-notification button {
+    color: #111827;
+}

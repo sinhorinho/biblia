@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', initialize);
 
 async function initialize() {
     setupEventListeners();
-    registerServiceWorker(); // Movido para uma função dedicada
+    registerServiceWorker();
     ui.setupTheme();
     ui.setupFontControls();
     ui.setupScrollToTop();
@@ -134,49 +134,63 @@ async function handleSearchResultClick(event) {
 }
 
 async function registerServiceWorker() {
-    if ('serviceWorker' in navigator) {
-        try {
-            const registration = await navigator.serviceWorker.register('/sw.js');
-            console.log('Service Worker registrado com sucesso:', registration);
+    if (!('serviceWorker' in navigator)) {
+        return;
+    }
 
-            // Listener para detectar quando um novo SW está pronto
-            registration.addEventListener('updatefound', () => {
-                const newWorker = registration.installing;
-                newWorker.addEventListener('statechange', () => {
-                    if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                        // Novo SW está esperando para ativar. Mostra a notificação.
-                        showUpdateNotification(registration);
-                    }
-                });
-            });
-        } catch (err) {
-            console.error('Falha ao registrar o Service Worker:', err);
+    let refreshing = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+        if (refreshing) return;
+        refreshing = true;
+        window.location.reload();
+    });
+
+    try {
+        const registration = await navigator.serviceWorker.register(
+            new URL('../sw.js', import.meta.url),
+            { updateViaCache: 'none' }
+        );
+        console.log('Service Worker registrado com sucesso:', registration);
+
+        if (registration.waiting && navigator.serviceWorker.controller) {
+            showUpdateNotification(registration, registration.waiting);
         }
+
+        registration.addEventListener('updatefound', () => {
+            const newWorker = registration.installing;
+            if (!newWorker) {
+                return;
+            }
+            newWorker.addEventListener('statechange', () => {
+                if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                    showUpdateNotification(registration, newWorker);
+                }
+            });
+        });
+    } catch (err) {
+        console.error('Falha ao registrar o Service Worker:', err);
     }
 }
 
-function showUpdateNotification(registration) {
+function showUpdateNotification(registration, worker) {
+    if (document.getElementById('sw-update-notification')) {
+        return;
+    }
+
     const notification = document.createElement('div');
     notification.id = 'sw-update-notification';
+    notification.setAttribute('role', 'status');
     notification.innerHTML = `
         <span>Uma nova versão está disponível.</span>
-        <button id="sw-update-button">Atualizar</button>
+        <button type="button" id="sw-update-button">Atualizar</button>
     `;
     document.body.appendChild(notification);
 
     document.getElementById('sw-update-button').addEventListener('click', () => {
-        // Envia mensagem para o SW em espera para que ele ative
-        if (registration.waiting) {
-            registration.waiting.postMessage({ action: 'skipWaiting' });
+        const waitingWorker = registration.waiting || worker;
+        if (waitingWorker) {
+            waitingWorker.postMessage({ action: 'skipWaiting' });
         }
     });
 }
-
-// Listener para recarregar a página quando o novo SW assumir o controle
-let refreshing;
-navigator.serviceWorker.addEventListener('controllerchange', () => {
-    if (refreshing) return;
-    window.location.reload();
-    refreshing = true;
-});
 
